@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+
+]>
+<TEI id="ep.gs.0009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Story of the Vanishing Patient</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.gs.0009</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="m">The Shape of Fear and Other Ghostly Tales</title>
+<title level="a">Story of the Vanishing Patient</title>
+<pubPlace>New York</pubPlace>
+<publisher>Macmillan</publisher>
+<date value="1898">1898</date>
+<series>Short Story Index Reprint Series</series>
+<pubPlace>Freeport, NY</pubPlace>
+<publisher>Books for Libraries Press</publisher>
+<date value="1969">1969</date>
+<biblScope type="pages">103-111</biblScope>
+</bibl>
+
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+
+<revisionDesc>
+<change>
+<date>2009-02-26</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-11-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item></item>
+</change>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Converted from html</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="ep.gs.0009.01.jpg" n="103"/>
+
+<head>STORY OF THE VANISHING PATIENT</head>
+
+<p>THERE had always been strange stories about the house, but it
+
+was a sensible, comfortable sort of a neighborhood, and people took
+
+pains to say to one another that there was nothing in these tales&#8212;of
+
+course not! Absolutely nothing! How could there be? It was a
+
+matter of common remark, however, that considering the amount of
+
+money the Nethertons had spent on the place, it was curious they
+
+lived there so little. They were nearly always away,&#8212;up North in
+
+the summer and down South in the winter, and over to Paris or
+
+London now and then,&#8212;and when they did come home it was only
+
+to entertain a number of guests from the city. The place was either
+
+plunged in gloom or gayety. The 
+
+<pb id="ep.gs.0009.02.jpg" n="104"/>
+
+old gardener who kept house by himself in the cottage at the back of
+
+the yard had things much his own way by far the greater part of the
+
+time.</p>
+
+<p>Dr. Block and his wife lived next door to the Nethertons, and he
+
+and his wife, who were so absurd as to be very happy in each other's
+
+company, had the benefit of the beautiful yard. They walked there
+
+mornings when the leaves were silvered with dew; and evenings
+
+they sat beside the lily pond and listened for the whip-poor-will.  
+
+The doctor's wife moved her room over to that side of the house
+
+which commanded a view of the yard, and thus made the
+
+honeysuckles and laurel and clematis and all the masses of tossing
+
+greenery her own. Sitting there day after day with her sewing, she
+
+speculated about the mystery which hung impalpably yet
+
+undeniably over the house.</p>
+
+<p>It happened one night when she and her husband had gone to
+
+their room, and were congratulating themselves on the fact that he 
+
+<pb id="ep.gs.0009.03.jpg" n="105"/>
+
+had no very sick patients and was likely to enjoy a good night's rest,
+
+that a ring came at the door.</p>
+
+<p>"If it's any one wanting you to leave home," warned his wife,
+
+"you must tell them you are all worn out. You've been disturbed
+
+every night this week, and it's too much!"</p>
+
+<p>The young physician went downstairs. At the door stood a man
+
+whom he had never seen before.</p>
+
+<p>"My wife is lying very ill next door," said the stranger, "so ill
+
+that I fear she will not live till morning. Will you please come to her
+
+at once?"</p>
+
+<p>"Next door?" cried the physician.  "I didn't know the Nethertons
+
+were home!"</p>
+
+<p>"Please hasten," begged the man. "I must go back to her. Follow
+
+as quickly as you can."</p>
+
+<p>The doctor went back upstairs to complete his toilet.</p>
+
+<p>"How absurd," protested his wife when she heard the story.
+
+"There is no one at the 
+
+<pb id="ep.gs.0009.04.jpg" n="106"/>
+
+Nethertons'. I sit where I can see the front door, and no one can
+
+enter without my knowing it, and I have been sewing by the window
+
+all day. If there were any one in the house, the gardener would have
+
+the porch lantern lighted. It is some plot. Some one has designs on
+
+you. You must not go."</p>
+
+<p>But he went. As he left the room his wife placed a revolver in
+
+his pocket.</p>
+
+<p>The great porch of the mansion was dark, but the physician
+
+made out that the door was open, and he entered. A feeble light
+
+came from the bronze lamp at the turn of the stairs, and by it he
+
+found his way, his feet sinking noiselessly in the rich carpets. At the
+
+head of the stairs the man met him. The doctor thought himself a
+
+tall man, but the stranger topped him by half a head.  He motioned
+
+the physician to follow him, and the two went down the hall to the
+
+front room. The place was flushed with a rose-colored glow from
+
+several lamps. On a silken couch, in the midst of pillows, lay a
+
+woman dying with 
+
+<pb id="ep.gs.0009.05.jpg" n="107"/>
+
+consumption.  She was like a lily, white, shapely, graceful, with
+
+feeble yet charming movements. She looked at the doctor
+
+appealingly; then, seeing in his eyes the involuntary verdict that her
+
+hour was at hand, she turned toward her companion with a glance of
+
+anguish. Dr. Block asked a few questions.   The man answered
+
+them, the woman remaining silent. The physician administered
+
+something stimulating, and then wrote a prescription which he
+
+placed on the mantel-shelf.</p>
+
+<p>"The drug store is closed to-night," he said, "and I fear the
+
+druggist has gone home. You can have the prescription filled the
+
+first thing in the morning, and I will be over before breakfast."</p>
+
+<p>After that, there was no reason why he should not have gone
+
+home.   Yet, oddly enough, he preferred to stay. Nor was it
+
+professional anxiety that prompted this delay. He longed to watch
+
+those mysterious persons, who, almost oblivious of his presence, 
+
+<pb id="ep.gs.0009.06.jpg" n="108"/>
+
+were speaking their mortal farewells in their glances, which were
+
+impassioned and of unutterable sadness.</p>
+
+<p>He sat as if fascinated.  He watched the glitter of rings on the
+
+woman's long, white hands; he noted the waving of light hair about
+
+her temples; he observed the details of her gown of soft white silk
+
+which fell about her in voluminous folds. Now and then the man
+
+gave her of the stimulant which the doctor had provided; sometimes
+
+he bathed her face with water. Once he paced the floor for a
+
+moment till a motion of her hand quieted him.</p>
+
+<p>After a time, feeling that it would be more sensible and
+
+considerate of him to leave, the doctor made his way home.   His
+
+wife was awake, impatient to hear of his experiences. She listened
+
+to his tale in silence, and when he had finished she turned her face
+
+to the wall and made no comment.</p>
+
+<p>"You seem to be ill, my dear," he said. "You have a chill. You
+
+are shivering."</p>
+
+<pb id="ep.gs.0009.07.jpg" n="109"/>
+
+<p>"I have no chill," she replied sharply. "But I&#8212;well, you may
+
+leave the light burning."</p>
+
+<p>The next morning before breakfast the doctor crossed the dewy
+
+sward to the Netherton house.  The front door was locked, and no
+
+one answered to his repeated ringings. The old gardener chanced to
+
+be cutting the grass near at hand, and he came running up.</p>
+
+<p>"What you ringin' that door-bell for, doctor?" said he. "The
+
+folks ain't come home yet. There ain't nobody there."</p>
+
+<p>"Yes, there is, Jim. I was called here last night. A man came for
+
+me to attend his wife. They must both have fallen asleep that the
+
+bell is not answered. I wouldn't be surprised to find her dead, as a
+
+matter of fact. She was a desperately sick woman. Perhaps she is
+
+dead and something has happened to him. You have the key to the
+
+door, Jim. Let me in."</p>
+
+<p>But the old man was shaking in every limb, and refused to do as
+
+he was bid.</p>
+
+<pb id="ep.gs.0009.08.jpg" n="110"/>
+
+<p>"Don't you never go in there, doctor," whispered he, with
+
+chattering teeth. "Don't you go for to 'tend no one. You jus' come
+
+tell me when you sent for that way. No, I ain't goin' in, doctor,
+
+nohow. It ain't part of my duties to go in. That's been stipulated by
+
+Mr. Netherton. It's my business to look after the garden."</p>
+
+<p>Argument was useless. Dr. Block took the bunch of keys from
+
+the old man's pocket and himself unlocked the front door and
+
+entered. He mounted the steps and made his way to the upper room.
+
+There was no evidence of occupancy. The place was silent, and, so
+
+far as living creature went, vacant. The dust lay over everything.   It
+
+covered the delicate damask of the sofa where he had seen the dying
+
+woman. It rested on the pillows. The place smelled musty and evil,
+
+as if it had not been used for a long time. The lamps of the room
+
+held not a drop of oil.</p>
+
+<p>But on the mantel-shelf was the prescription which the doctor
+
+had written the night 
+
+<pb id="ep.gs.0009.09.jpg" n="111"/>
+
+before. He read it, folded it, and put it in
+
+his pocket.</p>
+
+<p>As he locked the outside door the old gardener came running to 
+
+him.</p>
+
+<p>"Don't you never go up there again, will you?" he pleaded, "not
+
+unless you see all the Nethertons home and I come for you myself.
+
+You won't, doctor?"</p>
+
+<p>"No," said the doctor.</p>
+
+<p>When he told his wife she kissed him, and said:</p>
+
+<p>"Next time when I tell you to stay at home, you must stay!"</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

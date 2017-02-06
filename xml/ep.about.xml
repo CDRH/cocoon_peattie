@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+]>
+
+<TEI id="ep.about">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">About the Project</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.about</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-04-27</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">About the Project</head>
+
+<p><title>Elia Peattie: An Uncommon Writer, An Uncommon Woman</title> is a digital archive based on the life and writings of Elia Peattie, an early Nebraska journalist, novelist, short story writer, poet and playwright. Included in the archive are many of Peattie's columns from the <title>Omaha World-Herald</title>, short stories with Western settings, ghost stories, short novels and other miscellaneous writings. Project Director Susanne George Bloomfield and Graduate Research Assistant Carrie Crockett have provided introductions for each section as well as illustrated commentaries about the individual works.</p>
+
+<p>Dr. Susanne George Bloomfield, Professor, Department of English, University of Nebraska at Kearney, received her BA and MA from UNK and her doctorate from the University of Nebraska-Lincoln in 1988. In addition to general studies courses in composition and literature, she teaches American literature, specializing in the late nineteenth century, Literature of the American West, and Native American Literature, and she also teaches pedagogy courses for English Education and Language Arts students.</p>
+
+<p>Dr. Bloomfield is the author of three biographies published by the University of Nebraska Press: <title>The Adventures of The Woman Homesteader: The Life and Letters of Elinore Pruitt Stewart</title> (1992), <title>Kate M. Cleary: A Literary Life with Selected Works</title> (1997), and <title>Impertinences: Selected Writings of Elia W. Peattie, a Journalist in the Gilded Age</title> (2005). In the fall of 2007, the University of Nebraska Press published <title>Adventures in the West: Stories for Young Readers</title>, co-edited with UNK English graduate student, Eric Melvin Reed.</p>
+
+<p>University of Nebraska at Kearney Graduate Assistant Carrie Crockett graduated from Brigham Young University in 1995 with a BA in Russian language and literature. She is currently working toward her MA in English at UNK with an emphasis on American fantasy literature between 1865 and 1900.</p>
+
+<p>This website was developed at the University of Nebraska's Center for Digital Research in the Humanities through a Digital Fellowship granted by the Plains Humanities Alliance.</p>
+
+
+</div1>
+
+<div1>
+<list>
+<head>Project Director</head>
+<item>Susanne George Bloomfield, Professor, Department of English, UNK</item>
+</list>
+
+<list>
+<head>Graduate Research Assistant</head>
+<item>Carrie Crockett, Department of English, UNK</item>
+</list>
+
+<list>
+<head>CDRH Faculty and Staff</head>
+<item>Katherine Walter, CDRH Co-Director</item>
+<item>Laura Weakly, Metadata Encoding Specialist</item>
+<item>Karin Dalziel, Digital Resources Designer</item>
+<item>Nic Swiercek, Graduate Research Assistant</item>
+</list>
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18931211">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Salvation Lasses at Home</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Salvation Lasses At Home</title>
+<title level="a" type="sub">Mrs. Peattie Writes of the Blue Frocked Sisterhood of the Lord</title>
+<title level="a" type="sub">Their Life in the Cadet School&#8211;Rules Governing Their Conduct and Actions&#8211;Room for the Banner</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1893-12-11">11 December 1893</date>
+<biblScope type="pages">5</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-14</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb corresp="ep.owh.18931211.jpg" n="p5"/>
+
+<div1>
+
+<head type="main">SALVATION LASSES AT HOME</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Mrs. Peattie Writes of the Blue<lb/>
+Frocked Sisterhood of<lb/>
+the Lord.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Their Life in the Cadet School&#8211;Rules <orig reg="Governing">Gov-</orig><lb/>
+erning Their Conduct and Actions&#8211;<lb/>
+Room for the Banner.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>Among the many commonplace sights of Omaha there is one sight which is never exactly commonplace. It is, indeed, almost heroic. It is the little band of men and women that in storm and sunshine, when the pavement is slippery with mud or hot with mid-summer sun, march the streets in the name of their Lord, and kneel among the secular surroundings, making a cathedral of the common street, and there make their plea with high heaven for the souls of those who so thoughtlessly pass them with smile or jest.</p>
+
+	<p>Without doubt, here in Omaha today, in the midst of the greed, that disguises itself as shrewdness, in the midst of the materialism that masks an industry, in the midst of the selfishness that governs almost all of us, the Salvation army remains an honest protest against our display, our selfism, and our pride of purchasable things. Time was when this band of men and women was much persecuted. People objected to having them march the streets. They did not think they had a right to sing. They could find no reason for their disinterestedness, and so they accused them of being immoral. A number of young attorneys who had not so many prejudices as the laymen&#8211;and particularly the churchly laymen&#8211;protested that a group of religious singers had as much right to make a noise on the street as a band playing for the benefit of the base ball park or the schuetzen verein. A number of them offered to argue the case for the Salvationists in the courts, after they had been withstrained from open air meetings as a public nuisance, and one of them did this, and the court decided that no law was broken and not right of any man injured by the singing of these worshipers upon our public streets. There are still some who seem to think that this music is blasphemous because it is not always in tune, and who consider that the matter of religion ought to be treated with more conservatism. But they can do no more than rail. The law protects the Salvationists. To most of the citizens of this town, however, the train of bonneted women and uniformed men, with their two flags, one of the army of the Lord, the other of the army of the republic, with their cymbals, cornets, drums, their sharp, metallic, nervous voices, their absolute indifference to public contumely, their superiority to physical discomfort, their unqualified sacrifice to an unpopular cause, has come to have in it something so familiar and pleasant that the smiles which used to be scornful have become indulgent, and if any misfortune were to overtake the Salvation army here there would be much sorrow.</p>
+
+	<p>The little band numbers about eighty souls at present. It is never very large, for the reason that many of the soldiers are migratory. They stay in one place but a short time. They are restless&#8211;they are rovers. However, the barracks on the corner of Davenport, near Seventeenth, is well filled nightly, and the crusade for souls goes on there with as much fervor as ever the crusade for the sepulcher of the Lord went on in the dim days of the eleventh century. To many an outsider this work may appear to be entirely haphazard.</p>
+
+	<p>But, on the contrary, it is well regulated. There is great system employed. The states of Missouri, Iowa, Nebraska, South and North Dakota, Colorado and Wyoming are under the charge of Major George French. The "war office" is in the New York Life building on the second floor, and here the books are kept, the reporters revised, the orders issued and all personal and general matters attended to. There are 1,500 Salvationists in this district under the command of Major French. This commander has manifold duties, and it goes without saying that to be successful he must be a man of much tact, firmness of character and unwavering belief in his cause.</p>
+
+	<p>It may surprise a good many to know that the Salvation army has a school in this city for women cadets. This has been in existence about three yars, and during this time has graduated a number of women who have gone out to active field work. At present it has seven students under the tuition of Ensign and his wife, an Irish woman of gentle birth and the same unqualified enthusiasm for her work that characterizes Mrs. Ballington Booth. Lieutenant Ruby, a young woman, is Mrs. Reid's assistant. The school for men cadets is in Iowa. An effort was made not long ago to have it stationed at South Omaha, but a desirable place could not be obtained. The school for girls here in Omaha is stationed next door to the barracks. The training school rules are of interest. At the head of the printed rules are these two bits of scripture reminder: "By love serve one another," and "He that is greatest among you shall be your servant."</p>
+
+	<p>These girls are awakened by bugle call. Roll call follows, then breakfast, then general work. After that a silent half hour, for introspection. Then bible reading and prayer, after that the study hours. At the close of the morning session is five minutes prayer for the Salvation Army, and then dinner. Then follows a little time for resting and dressing, and at 2 o'clock the cadets must be neatly dressed for the street, where, till 5 o'clock they sell the War Cry, from the proceeds of which the training school is supported, or they visit in the slums of the city, praying with those who permit it, talking to the children, or the women, and speaking words of encouragement and religion wherever they may. After supper there comes prayer for the field, then the meeting at the barracks, and then bed, with all lights out at 10:30. The rules to be observed in the household are as follows:</p>
+
+<div2>
+<list>
+	<item>1. Every cadet is expected to rise directly the bugle blows in the morning, except through sickness or especial leave of absence granted by the officer in <sic corr="command">commacd</sic>.</item>
+	<item>2. No cadet is allowed to leave the house without the sanction of the commanding officer.</item>
+	<item>3. Cadets having articles lying around will be looked upon as very careless and untidy.</item>
+	<item>4. Cadets are not allowed to go out to meals.</item>
+	<item>5. No person, whether officer or friend, is allowed to visit the garrison without a written permit from the major.</item>
+	<item>6. Officer visiting the garrison will be expected to conform to the rules, and by so doing be an example to every cadet.</item>
+	<item>7. Every cadet will be expected to treat every officer with due respect.</item>
+</list>
+
+	<p>Every cadet is responsible that his or her dress is kept in a neat and tidy condition, ready for inspection at any time. Every cadet is expected to wear full uniform, unless permission not to do so is granted by officer in charge. No cadet is allowed to write more than two letters a week, unless special permission is granted. All mail for cadets will be handed them by the garrison officer immediately after meals. Cadets appointed to visit corps must go there direct and back, not staying to talk to soldiers after meeting is closed. No cadet is supposed to enter the hall for meeting before the captain without special permission. As soon as <sic corr="meeting">meeling</sic> is closed cadets must leave hall to prevent the loitering of soldiers. No cadet must come out from meeting without permission. Cadets when meeting officers of superior rank should adopt the regular military salute instead of the handshake. Cadets raised donations must turn the same over to the commanding officer. Every cadet should consider the comfort and feeling of those around him, seeking first the glory of God and the happiness of the home.</p>
+</div2>
+
+	<p>As to the course of study, it comprises the reading of the volume of "Orders and Regulations for Field Officers," the book of "Doctrines and Disciplines," the study of singing and the playing of instruments, and arithmetic, in connection with making out field reports, besides the elements of a general education.</p>
+
+	<p>"The Orders and Regulations for Field Officers" were written by General Booth, with the assistance of other writers belonging to the army. This volume is a remarkable one. For while a large portion of it is given up to orthodox expositions of the bible, there is much besides in the way of directions concerning deportment and the duties of those who give up their life to the service of the Lord. Now and then there is something brilliant in the book&#8211;although it was not written for the purpose of producing any effect of that sort. There are directions concerning health, social relations, the expenditure of money, the manner of dressing, what to eat, how to treat strangers, how to deal with sinners, converts, "backsiders," different classes of people, directions concerning different kinds of meetings, instructions about speaking, singing and the playing of musical instruments. In short, everything that appertains to the life of the field officer is dealt with, and it must be said that if these directions were followed, life would have no imperfections in it.</p>
+
+	<p>The Salvation army has its own songs&#8211;dramatic, intense songs, peculiarly adapted to the sort of work undertaken by the Salvationists. Among these songs I search in vain for anything that can be called irreligious. Some of them are beautiful, some are commonplace, all are brisk and material. The Musical Salvationist is issued every month, thus providing the soldiers constantly with new songs. Some of these songs are extraordinary, as for example, "The Life story of a Salvationist," which comprises twelve songs, each one telling the story of a drunkard reformed by the street preaching and singing of the Salvationists, and intended to hold the interest of an idle crowd on the street. To sing such a song as this so that it will produce the effect intended, it is necessary to sing boldly and dramatically, and to have a perfect enunciation as well as some histrionic talent. The song closes by the death of the convert in a riot against the army. He dies in his battle, after the manner of heroes. Looking at the song from the point off view of the Salvationists, it is certainly a good one. The charges brought against the army that they sing coarse and ribald songs, or songs which treat religion with disrespect, is not sustained by anything written. And if such songs are sung, they are extemporized by ill-advised corps not under the immediate supervision of a high officer. When it is considered from what sources the army draws many of its recruits, such indiscretions are not to be wondered at. Another charge often brought against the army is that it uses a mutilated bible. The truth of the matter is that a pocket edition of excerpts from the bible has been prepared, appropriate for morning and evening reading, with little songs interpolated. It seems a very well designed plan, and makes much more satisfactory reading for brief readings than would the chronological reading of the bible.</p>
+
+	<p>A part of the work of the Salvation army, as almost everyone knows, is in the saloons, and here in Omaha the cadets spend every Saturday night in the saloons. They usually meet with kind treatment and are frequently invited to sing. Occasionally a drunkard is converted by this means, at least so say the officers of the army.</p>
+
+	<p>The income that supports the training school and pays the salaries of such officers as give up all their time to the army comes from voluntary subscriptions and from the sale of the War Cry, the organ of the army. This is published in four different offices in the United States. Three editions are published in the east, and one in San Francisco. The latter has a circulation of almost 14,000 on the coast. In Omaha the War Cry averages 700 a week. Fifty per cent of this goes to the support of the training school.</p>
+
+	<p>There is one fact concerning the Salvation army which has puzzled many, and which may need a little explanation. There has been throughout the east, and to some extent in the west, corps of these religious soldiers who denominated themselves "The Salvation Army of America." There is an off shoot of the Salvation Army proper. General Booth, several years ago when the army was formed in this country placed at the head of the American command a man by the name of Moore. Moore resented authority, and as the American colonies succeeded from English authority, so did he from the English Salvation army. But the sequel was <sic corr="disastrous">disasterous</sic>. Though he took with him almost all of the soldiers here, the funds the records, the paper, and every other possession, the army sank rapidly into disrepute. Moore himself became disreputable. The ranks have dwindled. But the ill-advised actions of Moore and of some of his followers have brought a good deal of undeserved reproach upon the members of the Salvation army. This may explain to some persons the puzzling fact of the occasional appearance of religious soldiers not members of the Salvation army proper.</p>
+
+	<p>It is a matter of honest congratulation that the prejudice existing against the army is daily growing less. Its work is peculiar. One of the fundamental principles is that the least creature is worth saving for the Lord. And the leaders of the army constantly inculcate through their books that some men find it as easy to steal as others do to speak a flippant word, and that these subtle, pre-natal forces must be taken into consideration, and that the backsliding of a converted thief ought not to turn the righteous against him any more than the backsliding of a lady who gives vent to ill-natured expressions. Temperament is taken into consideration. Rules of physiology are taken into account. Creed is helped out by nature, and science comes to assist religion. In fact, nothing but good and disinterested motives am I able to find from a perusal of the remarkable books of the Salvation army. And as it is always a pleasure to do anything which may serve "to decorate the temple of truth," so it is a pleasure to bear witness to this fact.</p>
+
+	<p>Surely there is room for all of us&#8211;of whatever faith of Protestantism or Catholicity. And there is room for the bright banners of the Salvation army and for the shouting of the voices of its soldiers and the bugle calls.</p>
+
+	<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

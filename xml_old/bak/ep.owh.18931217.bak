@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18931217 SYSTEM "ep.owh.18931217.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18931217">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Character in Furniture</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Character in Furniture</title>
+<title level="a" type="sub">Mrs. Peattie Tells How Human Nature Crops Out in House Arrangements</title>
+<title level="a" type="sub">A Woman Can Be Told by Her Carpet or Her Curtains&#8211;A Dissertation for Feminine Readers</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1893-12-17">17 December 1893</date>
+<biblScope type="pages">22</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2009-02-12</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription, Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18931217">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p22"/>
+
+<div1>
+
+<head type="main">CHARACTER IN FURNITURE</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">Mrs. Peattie Tells How Human<lb/>
+Nature Crops Out in House<lb/>
+Arrangements.</head> -->
+
+<head type="sub">Mrs. Peattie Tells How Human Nature Crops Out in House Arrangements.</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">A Woman Can Be Told by her Carpet or Her<lb/>
+Curtains&#8211;A Dissertation for <orig reg="Feminine">Femi-<lb/>
+nine</orig> Readers.</head> -->
+
+<head type="sub">A Woman Can Be Told by her Carpet or Her Curtains&#8212;A Dissertation for Feminine Readers.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>You can tell a woman by her carpet.</p>
+
+	<p>That is to say, when you enter a house and see yourself in the drawing room&#8212;the room in which a person is apt to place whatever she has most carefully selected, you will be able to determine with comparative accuracy whether she is a person of culture, artistic tastes, love of luxury, simple in taste, fond of color or a lover of form, gay or melancholy, inclined to letters or to society, and, when you develop your sense of discrimination, you can even tell whether she is vivacious or reticent.</p>
+
+	<p>There are skillful canvassers of books who can so well prepare themselves by a hasty investigation of the furniture of a room, as to greet with absolute propriety of speech the lady of the house, as she protestingly enters her invaded drawing room. And without doubt most of us women in making our "first calls" base our estimation of our new acquaintance to no little degree upon what we see about us, and which we recognize as the selection of the lady, and as an expression of her taste.</p>
+
+	<p>This rule must not be made too general. For there are circumstances which interfere with the perfect application of it. And some unhappy women are forced to live in rooms which are in no way an expression of themselves, and against which they constantly revolt. But all things being equal, you know a woman by her carpet, as I said to begin with. Therefore, the interior of rooms furnish a study only second in interest to that of humanity itself, and I permit myself the luxury this week of describing certain Omaha drawing rooms, knowing that many will recognize them, and those who do not may find some amusement in reading of them.</p>
+
+	<p>This, then, is the drawing room of elderly gentlewoman.</p>
+
+	<p>No matter from what province of the orient the rug comes which lies upon the polished floor. It has a border as intricate, as splendid as the cashmere shawl. The center is a royal blue, like a neither heaven. The furniture is of mahogany, old fashioned, with that air of repose that comes of age. Above the mantle hangs a circular mirror framed in gold. The prints on the wall are of the romantic type, before the truth seekers invented impressionism, or learned to obtrude the egoism of the artist above that of the subject. In the cabinet are some curious old trifles&#8212;a vase of wedgewood, a jar from Egypt, some Bohemian glass, trifles in Dresden, Indian curios and a statuette or two. Above the cabinet are some bronzes. The curtains at the window are of point d'espirt and of silk, with warm colors in them. On the table are a few books, a fan in red with which the mistress shades her face, a vase with the flower of the season, whatever it may be&#8212;violet, rose, chrysanthemum or holly. A little dish of bonbons, perhaps. The gentlewoman herself likes bonbons. She likes the flowers, the color of the rug, the china, the soft cushions of the sofa. She likes the red fan, which she holds up when the fire burns too brightly in the grate. Her hair is white, but her dimples still play. She talks about what is most amusing. She had had trouble, but she does not speak of it. She laughs like a girl. And she would rather make a joke than a sigh any day. She is vivacious, and she always has something new to tell you, or something to show you. Or she has discovered a new genius, in music, or literature, or art, and makes you think you are in Paris instead of Omaha by the way she talks of them and of the accession they will be to artistic circles. You always leave this drawing room with a feeling of gayety. There has been an informal elegance about it. You have been anxious to make yourself agreeable. And you have been entertained. This room is, perhaps, quainter in its way than almost any other room in Omaha. The lares seem to have been placed there so long ago. They are at once venerable and beautiful. They did not drift into their places; they were put there. It is not an accidental arrangement. It is deliberate, yet gradual; selected, yet unforced.</p>
+
+	<p>There is one room, however, which haunts me. It is the drawing room of a genius. Poor genius, which sees so many vicissitudes of fortune, of emotion, and of fame! The floor is bare. There is a rented piano in one corner&&#8212;sometimes there has not been bread, but there has always been a piano. The odd bay window has ragged Nottingham curtains at it, not necessarily clean. The shades hang rather dejectedly. Some of them have lost the sticks out. There are chairs in plenty, some of them not quite certain as to their support. There is an exquisite portrait of Angelica Kaufman, done by herself, hanging over the drawing table, one leg of which is gone, and is propped up by another article of furniture. There is an old-fashioned book case full of books as worn as a beggar's coat. The books are the classics, purchased in other days. The walls are dotted with sketches in pen and ink, in water color, or in charcoal, done by the genius. Among these original sketches is the face of a woman old in sin&#8212;hideous&#8212;and wreathed with roses. The genius is a Greek for contrasts such as these. There are cartoons showing her to be of the new faith, the follower of the People in the industrial struggle. A populist, she calls herself. In reality she is anything which most appeals to the emotions. A rosary hangs there, too&#8212;symbol of a faith still passionately loved, because it brings with it hours of spiritual ecstasy. This room is never prim&#8212;no more than is the genius herself. As in her mind fragments of great emotions&#8212;ambition, love, eloquence, hate, hope, mystery, fear, devotion, lust of life, arrogance, vanity, and vast, white dreams of beautiful power&#8212;lie scattered in hopeless confusion, so about the room she inhabits is a confusion of papers, books, pictures, gloves, scarfs, flowers, music&#8212;whatever has for a moment appealed to her passionate and capricious fancy. Now for prayer and now for coquetry, now for poem and now for song, now for picture, and now for conversation, more full of art than all her other accomplishments, this young woman, magnetic and peculiar, weaves the fabric of her life in warp and woof of startling contrast. Many sitting in that strange, poor room have found hours of richer intellectual piquancy than ever they found in a furnished and elegant parlor. They have left the room wrapped in an atmosphere of mental intoxication, which filled the spirit with mysterious dreams. Poor genius! Your room is thronged with angry fates. And they menace you.</p>
+
+	<p>But it is best to leave an atmosphere so disturbing and enter the drawing room of a beautiful lady. She is very young, and her face is as fair as those sculptured by Phideas, and carved to stand for youth. Her gowns are fair too, and all she has is dainty and delightful to the eye. The drawing room seems made of fairy fabrics. Nothing old here&#8212;nothing with a history. The pictured tapestry, the delicate brocades, the fine grained, polished woods, the laces, slight as frost work on the window panes, the pictures of flowers, of sweet faces, the white and gold of the finishings, the ferns and potted flowers, the cabinet, with its Dresden and English pottery, all as new, as delicate of tint, as soothing to the eye as a clear dawn in winter. Here the beautiful lady lives like another flower. As yet she has no more history than her furniture. She is as fresh as the pink brocade of her fauteuil. Her life has been decorated with roses as bright as those which decorate her Royal Worcester vase. No dirt dares come near this lovely room, any more than vileness dare come near the lovely mistress. The rest of the world may be full of wrangling and wrong, and all uncleanness. But here is beauty&#8212;young, fresh, spotless, beauty. And it seems as if even time could not make those colors dim.</p>
+
+	<p>The next picture will lack placidity. What it lacks in that quality it will make up for in familiarity. It is the drawing room of a common woman. There are a number of worn chairs in it which are occupied by grown people. There are some other chairs, very much scratched, where the little folks sit. The wall has pencil marks on it. There is a "wheel" in the front hall, and a rocking horse in the dining room just visible from the parlor, and a baby jumper between the two rooms in the door way. A doll lies on top the piano, and there are three pairs of small overshoes before the hat rack. A number of the books on the table appear to be devoted to the history of important, but dead persons like "Robinson Crusoe," "Jack the Giant Killer," "Little Lord Fauntleroy," Sinbad the Sailor" and "Little Women." The curtains are askew. A cat sleeps on the sofa. There are pieces of chalk, strings, leather sling shots, cogs of old clocks, doll dresses, marbles, architectural blocks, and tops, lying about in a careless but not artistic manner. Conversation is apt to be interrupted by cries of "Mamma!" Nobody seems to be particularly given up to the cultivation of elegance, the arts or the letters&#8212;excepting the inculcation of the English alphabet. Wagner and Goethe are not nearly so much spoken of as Santa Claus. Potted plants appear to have given place to other flowers&#8212;flowers of the human sort, who have soft red lips to be kissed, and feet which run all day with infinite pattering. There are spots on the carpet, and sometimes there is even a ring for marbles marked with chalk on the hall floor. The sofa is not so remarkable for its upholstering as for its springs, which are highly regarded by certain members of the family, who play they are riding on the ocean, and who bounce up and down on them. The pictures have to have men and women in them, or animals, in order that stories may be told about them. The grate is not a place to dream by, but one at which to warm cold toes. No repose about this room, certainly&#8212;no elegance&#8212;not even the display of good taste. The people in it have never traveled. They have not collected anything&#8212;except human souls. And these they cannot keep in a cabinet. They are, instead, in a way, trying in that room, to prepare them for a victory in the battle of life. Surely, a common room, not one in which the conversation is very fluent, the laughter very joyous, the songs very original, the happiness every-day diet.</p>
+
+	<p>The next drawing room I wish to speak of is that of an enthusiast. This enthusiast never did anything in the usual way. That would be stupid. She always begins at the wrong end of things&#8212;and the result appears to be charming. It isn't logical, but it's charming. For example, when she began her domestic settlement she was comforted by a number of facts that would have been startling to anybody else. For example, she had <sic corr="Baghdad">Bagdad</sic> portieres, but no cooking stove; curios from Constantinople, but no dining table; a taboret inlaid with pearl, suggestive of <sic corr="chibouks">cibouks</sic> or perfumed cigarettes, but not a bed on which to lay her head. There were rugs, reminders of harems, and hardly a chair to sit in; souvenirs of the Rhine, the Nile, of Sicily, of Rome and not a shade to the windows. It did not dismay the enthusiast in the least. She liked it. It gave her something to laugh about. Besides it added to the general entertainment of life&#8212;and the enthusiast likes life so well that all she ever worries over is that she cannot get enough of it. Well, little by little, common, every day things, like beds, stoves, chairs and tables, got in the house. There were simple articles, economically purchased. They were not paid much attention to, and are now lost sight of amid books, sketches, bits of Egyptian embroidery, bric-a-brac from ever so many places and mementoes of friends of many lands. As for the mistress, she fills the house with beautiful songs. She reads great books and lives them. She welcomes whoever asks admission to that room in the name of friendship. Neither color, creed, sex or condition can influence her. The tongue is almost as apt to be Italian, German or French, as it is to be English that is spoken there. And she who enters that enchanted atmosphere loses whatever reserve or conservatism, or small judgment she may have, and becomes as enthusiastic as the hostess. You may enter the room at odds with the world, disappointed, wounded in spirit, fearful of the future, distrustful of humanity and conscious of growing age. You leave it in love with life, sure of the brightness of the future, and certain that you are very young. This is the drawing room of the enthusiast.</p>
+
+	<p>These are a few of the drawing room of Omaha, all easily located by those who have the key.</p>
+
+<closer><signed rend="right">ELIA W. PEATTIE.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.rel.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Christian Science</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-14</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Christian Science</head>
+
+<figure entity="ep.owh.rel.0002.01.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>The religion commonly known as Christian Science sprang from the work of one woman, Mrs. Mary Baker Eddy, who created a Bible-based theology of "spiritual healing" in 1879. This new creed was a part of a larger movement which gained popularity during the last part of the nineteenth century and was directed toward attaining "the cure of disease by mental therapeutics."<ref target="n01" n="1">1</ref> In a larger context, however, the heightened interest in "mind-healing" during the Gilded and Progressive Eras is thought to have developed as an opposing reaction to clinical medicine of the day, which was perceived as overly corporeal, and also in resistance to scientific materialism, a concept associated with atheism.</p>
+
+	<p>The Church of Christ Science was first chartered in 1879. Its beginning was modest: its founder, Mrs. Mary Baker Eddy, and twenty-six followers constituted its entire membership that year. Eddy, who was born in 1821, had spent much of her childhood convalescing in bed with various illnesses. Although often absent from school, the child was of a naturally sensitive and literary temperament and read both the Bible and other books extensively, entertaining herself by writing prose and poetry. Her parents often summoned doctors to the bedside of their child; however, Eddy's illnesses lingered despite their best efforts. As a young woman, Eddy's health continued to suffer although her interest in writing blossomed, occasionally meriting publication in journals and newspapers under pseudonyms. When, at the age of forty-five, she suffered a debilitating fall on the ice, the Bible became Eddy's refuge. On one occasion, while reading Matthew 9:2 ("And behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; thy sins be forgiven thee"), Mary perceived that she herself had miraculously been cured. Her ailments had vanished. Although later she could not explain exactly what had happened as she read, Eddy felt certain that her healing had been linked to Christ's teachings. Out of this experience grew the seed of belief that would form the basic tenant of Christian Science: through prayer, each person could cure illness and disharmony.</p>
+
+<figure entity="ep.owh.rel.0002.02.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>In 1875, after prayer and study, Eddy produced a book entitled <hi rend="underline">Science and Health</hi> which defined her beliefs. In dong so she "marked out what she understood to be the "science" behind Jesus' healing method . . . his works were divinely natural, and repeatable."<ref target="n02" n="2">2</ref> In 1879 she formally founded her church and subsequently established the Massachusetts Metaphysical College for the education of her followers. There, three hundred dollars could buy twelve lessons in faith healing.</p>
+
+	<p>The reaction of other churches to the Christian Scientists was varied but generally skeptical. Most clergymen viewed Eddy's ideas as potentially dangerous to public health. Those ministers most tolerant of the new religion based their responses on the value of diversity of thought. However, concerns about the threat of Christian Science to public health persisted. In 1885 Reverend Luther Townsend of the Boston Theological Seminary made Eddy an offer that, he thought, would not unfairly criticize the movement, but reveal that perhaps its founder had taken her beliefs too far. He offered to pay one thousand dollars to any Christian Scientist who could reset a broken hip or ankle without the aid of manipulation. A Scientist who could restore the sight to a person born blind would receive two thousand. Eddy side-stepped her religion's practical ability to faith-heal, countering with her own proposal. If Reverend Townsend could cure a case of drug addiction in three days (as she had claimed to have done fifteen years earlier) that she herself would award him a three thousand dollar sum. This response, coupled with Eddy's assertion that she was "not involved in healing but in teaching," neither surprised nor impressed Townsend, who answered, "Is this Mrs. Eddy's only answer to the proposition made by us? For this is no answer. It is like the attempted answer of a fraud."<ref target="03" n="3">3</ref></p>
+
+	<p>Despite the lack of empirical evidence demonstrating Christian Science's "fruits," by the mid 1890s the religion claimed 8,724 followers who were not only localized in larger cities but were also spread throughout the Midwest. By the year 1900, Eddy's initial flock of twenty-six had leapt in membership to 48,930.<ref target="n04" n="4">4</ref> This rapid growth was partially due to the explosion in American publishing known as the "magazine revolution." Members of the middle and upper classes who read popular journalism could not avoid exposure to arguments both in favor of and against the novel movement. Christian Science members publicly proclaimed their testimonies of spiritual healing in print although members of the clergy wrote vigorously of its hazards. They were joined in their outcry by those from other professional realms, including the law, education, medicine, and psychology. Even William James, writing from Edinburgh, Scotland, in 1902, commented in his tongue-in-cheek fashion, "the mind-cure principles are beginning so to pervade the air such that one catches their spirit at second-hand . . . complaints of the weather are getting to be forbidden in many households; and more and more people are recognizing it to be bad form to speak of disagreeable sensations."<ref target="n05" n="5">5</ref></p>
+
+	<p>Peattie was not unconditionally supportive of the Christian Scientists, taking them on in an editorial titled, "Great Harm Is Inflicted: Christian Science as Practiced Results in Very Serious Things." While Peattie granted the religious sect the freedom to believe or do anything they wanted to, she declared that when the lives of innocent, dependent children are at risk, doing nothing was a moral crime and a stain upon the Christian Science faith. The year after Peattie wrote this editorial, Eddy built a large, new church in Boston and proclaimed the Bible to be the "Pastor" of her church. Lessons led by lay persons replaced sermons, and weekly testimonial meetings offered members chances to share their healing experiences. Eddy died in 1910, a millionaire, and by 1911, 1,190 churches and Christian Science societies had formed within the United States.</p>
+</div1>
+
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Cunningham, Raymond">Cunningham, Raymond</author>. <title level="a">"The Impact of Christian Science on the American Churches, 1880-1910."</title> <title level="j"><hi rend="italic">The American Historical Review</hi></title>, <date value="1967-04">April 1967</date>. <biblScope type="pages">885-905</biblScope>.</bibl>
+
+<bibl>"Christian Science Church." 5 October 2007  <www.tfccs.marybakereddy/index;jhtml;sessionid=PYQOQEORWMAZPKGL4L@SFEQ>.</bibl> <!-- broken link. Perhaps this is located somewhere at <www.tfccs.com/marybakereddy>? -->
+</div1>
+
+
+<div1>
+<head type="sub">Illustration</head>
+
+<bibl>"Eddy, Mary Baker." Online Photograph. Encyclop&#230;dia Britannica Online. 11 October 2007 <http://www.britannica.com/eb/art-75962>. [permission pending]</bibl>
+
+<bibl>"Christian Science Healing." <<xref url="http://members.shaw.ca/cygni/Christian-Science-Bible-Lessons/cc6c.html" rend="new">http://members.shaw.ca/cygni/Christian-Science-Bible-Lessons/cc6c.html</xref>>. [permission pending]</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> Cunningham, 885.</p>
+
+<p><note id="n02" n="2">2</note> "Christian Science Church."</p>
+
+<p><note id="n03" n="3">3</note> Cunningham, 889.</p>
+
+<p><note id="n04" n="4">4</note> Cunningham, 893.</p>
+
+<p><note id="n05" n="5">5</note> Cunningham, 894.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

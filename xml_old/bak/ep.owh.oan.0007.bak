@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.oan.0007.01 SYSTEM "ep.owh.oan.0007.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.oan.0007.02 SYSTEM "ep.owh.oan.0007.02.jpg" NDATA jpeg>
+<!ENTITY ep.owh.oan.0007.03 SYSTEM "ep.owh.oan.0007.03.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.oan.0007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Norfolk</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Norfolk: The Second Town in Nebraska Which Has A Sugar Beet Factory</head>
+
+<figure entity="ep.owh.oan.0007.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>The <title level="j">Omaha World-Herald</title> often sent Elia Peattie on location across the state. As an avid promoter of Nebraska communities, she enjoyed "booming" these new communities and their businesses, and she often encouraged or helped establish local Woman's Clubs on these outings. In 1893 Peattie investigated the innovative sugar beet industry taking root in Nebraska in the frontier communities of Grand Island and Norfolk.</p>
+
+	<p>Henry A. Koenig, an immigrant from Prussia who served with the First Nebraska in the Civil War, began experimenting with imported seeds, which soon proved successful in Hall County. The Oxnard brothers, after hearing of the high sucrose content and studying the soil and climate factors in Grand Island, decided to locate a factory there, the second in the United States. In 1890 Henry T. Oxnard, president of the Beet Sugar Company, began erecting the first building. The factory, powered by a steam engine imported from France, required fifty tons of coal and two million gallons of water daily and had the ability to refine over 350 tons of sugar beets every twenty-four hours.<ref target="n01" n="1">1</ref></p>
+
+	<p>First, Peattie Visited Grand Island, and on February 5, 1893, the <title level="j">Omaha World-Herald</title> published "Grand Island and Its Beets: The County Seat of Hall and What Beet Cultivation Has Done." In this article, she examined the industry from the farmer's point of view, cataloged the costs and production statistics, and introduced the Oxnard officials. She boasted, "All of these men have an amount of enthusiasm for their work, and a belief in it, that would be surprising anywhere else than America."<ref target="n02" n="2">2</ref></p>
+
+	<p>One week later, Peattie visited Norfolk, whose factory had been in production since 1891 but would cease in 1904. Impressively, Peattie captured all sides and issues of the sugar beet story in her two articles. In "Norfolk and Its Sugar," she described in detail the actual process of manufacturing sugar from sugar beets: "The transformation of a dirt-covered beet into many thousand white and glistening granules of sugar is an interesting and remarkable process&#8211;it is a thing of such fine ingenuity, such nice adjustments and such accurate tests. The sugar turned out by the Nebraska sugar beet factories ranks with the best granulated sugar made."</p>
+
+<figure entity="ep.owh.oan.0007.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>As orderly as the beets moving on the conveyor belts, Peattie continued a meticulous description of the process&#8211;adding facts, records, quotes, and human interest. Making sure to highlight all aspects of Norfolk in her report, she included stories about inmates at the asylum and complimentary descriptions of the town, its inhabitants, and the natural surroundings. Norfolk, she summarized, had a "grace and charm all its own."</p>
+
+	<p>Norfolk, first settled in 1865 by German speaking Lutherans, many of whom immigrated to America to escape the unrest in Germany caused by famine from the potato blight in the Rhine Valley and southern Germany (much like that in Ireland). In addition, peasants and laborers had no voice in their government, causing many to rise up against the king, only to be defeated and persecuted. As a result, many fled to America. Those who came to American preferred farming regions, so when they arrived in New York City and were met by salaried officials who were commissioned to direct them to Wisconsin, they headed west.</p>
+
+	<p>However, some of these German immigrants who first settled in Wisconsin became dissatisfied with its unproductive and expensive farm land, its density of trees, its damp and cold winters, and the church itself. Members of the St. Paul Evangelical Church met, and in 1865 they decided to send three men to scout homesteading possibilities in Nebraska. The men chose a site in the Elkhorn River valley, and the following May, forty-two families from Ixonia, about 125 people, started for Nebraska, on May 14 in wagons drawn by four oxen. The one-mile-long wagon train arrived at its destination on July 17 after becoming lost near West Point, Nebraska, and then having to spend four days building a bridge across Humboldt Creek.<ref target="n03" n="3">3</ref> Upon arrival, the colonists proceeded to claim quarters of land fronting the Elkhorn River, drawing lots to prevent bickering about who would had the best locations. Others from Wisconsin soon joined them. During the Black Hills gold rush from 1876 to 1878, the village served as a gateway for prospectors. In 1881 the village became incorporated as Norfolk, a misspelling of North Fork by postal authorities. Two major railroads, including the Union Pacific, served the town. By 1886 Norfolk had grown to a population of over 1,000, and in 1885 the state census counted townsfolk at 1,949. When Peattie visited Norfolk in 1893, the population would have been over three thousand.<ref target="n04" n="4">4</ref></p>
+
+<figure entity="ep.owh.oan.0007.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>One of the major points of interest for Peattie was the Norfolk State Hospital for the Insane. Because of Nebraska's increasing population, the "State Lunatic Asylum" in Lincoln was becoming overcrowded, so others needed to be established. The Nebraska legislature chose Norfolk as the next location and appropriated $75,000 in 1885 to build a state hospital for the insane within three miles of the city, provided Norfolk would donate 320 acres of "good land." They did, and the first building was complete on November 1886. The Asylum for the Chronic Insane at Hastings was established in 1889.</p>
+
+	<p>Care for patients at the Norfolk State Hospital for the Insane was primarily custodial, with inmates responsible for making the beds, sweeping the floors, and caring for their own clothing. Ward attendants supervised them twenty-two hours a day with room and board a part of their salary. They had to be single, and they were only allowed one-half day off a week. "There were four supervisors, two male and two female. There were no graduate nurses, no technicians, and no physicians other than the assistant superintendent. There was an official steward and bookkeeper, a farmer, a gardener, and an engineer and his assistant. Patients did most of the work on the farm and in the dairy."<ref target="n05" n="5">5</ref></p>
+
+	<p>In the nineteenth century, patients could be admitted for problems such as "domestic trouble, disappointment in love, financial trouble, hepatic dullness, heredity, masturbation, intemperance, overwork, over study, religious excitement, sun stroke,"<ref target="n06" n="6">6</ref> and menopause as well as for addictions to alcohol and drugs, especially morphine which was typically administered inappropriately by frontier doctors. Peattie's interpretation of the patients' degrees of insanity exemplifies the range of reason for commitment to the hospital. One young girl, Peattie notes, was simply in the asylum because of homesickness.</p>
+</div1>
+
+<div1 type="file references"><head type="sub">Read Peattie's Writings</head>
+<list>
+<item>
+<xref n="ep.owh.18930212">Norfolk and Its Sugar</xref>
+</item>
+</list>
+</div1>
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Andreas, A.T.">Andreas, A.T.</author> <title level="a">"Madison County."</title> <title level="m">History of the State of Nebraska</title>. <pubPlace>Chicago, IL</pubPlace>: <publisher>Western Historical Company</publisher>, <date value="1882">1882</date>. <date value="2007-10-09">9 October 2007</date> <xref url="http://www.kancoll.org/books/andreas_ne/madison/madison-p1.html" rend="new">http://www.kancoll.org/books/andreas_ne/madison/madison-p1.html</xref>.</bibl>
+
+<bibl><author n="Anderson, Esther S.">Anderson, Esther S.</author> <title level="m">The Sugar beet Industry of Nebraska</title>. Bulletin 9, 2nd Edition. <publisher>Conservation Department of the Conservation and Survey Division, University of Nebraska</publisher>. <pubPlace>Lincoln, NE</pubPlace>: <publisher>State of Nebraska</publisher>, <date value="1937-04">April 1937</date>.</bibl>
+
+<bibl><title level="a">"The Beet Sugar Factory and Refinery at Grand Island."</title> <title level="j">Beet Sugar Enterprise</title> <biblScope type="volume">1.1</biblScope> (<date value="1890-05">May 1890</date>): <biblScope type="pages">1</biblScope>.</bibl>
+
+<bibl><title level="a">"Hastings State Hospital."</title> <publisher>Adams County Historical Society</publisher>. <date value="2007-10-09">9 October 2007</date> <xref url="http://www.rootsweb.com/~asylums/hastings_nb/index.html" rend="new">http://www.rootsweb.com/~asylums/hastings_nb/index.html</xref>.</bibl>
+
+<bibl><author n="Hess, Harry E.">Hess, Harry E.</author> <title level="m">Methodism in Norfolk (Nebraska): A History</title>. <pubPlace>Norfolk, NE</pubPlace>: <publisher>Norfolk Daily Press</publisher>, ca <date value="1947">1947</date>.</bibl>
+
+<bibl><author n="Landgraf, Edward Albert">Landgraf, Edward Albert</author>. <title level="m">Early History of Norfolk, Nebraska, and Madison County</title>. Rpt. <pubPlace>Norfolk, NE</pubPlace>: <publisher>Norfolk Daily News</publisher> ca 1930.</bibl>
+
+<bibl><title level="a">"Norfolk&#8211;Madison County"</title> <title level="m">Virtual Nebraska</title>. <xref url="http://www.casde.unl.edu/history/counties/madison/norfolk/" rend="new">http://www.casde.unl.edu/history/counties/madison/norfolk/</xref>.</bibl>
+
+<bibl><title level="a">"Norfolk Hospital for the Insane."</title> <title level="m">Compendium of History Reminiscence and Biography of Western Nebraska</title>. <pubPlace>Chicago</pubPlace>: <publisher>Alden Publishing Company</publisher>, <date value="1909">1909</date>. <xref url="http://www.rootsweb.com/~neresour/OLLibrary/cofhar/chapter4.html" rend="new">http://www.rootsweb.com/~neresour/OLLibrary/cofhar/chapter4.html</xref>.</bibl>
+
+<bibl><author n="Renschler, Catherine">Renschler, Catherine</author>. <title level="a">"Hastings Regional Center."</title> <publisher>Adams Country Historical Society</publisher>. <xref url="http://www.adamshistory.org/index.php?option=com_content&amp;task=view&amp;id=35&amp;Itemid=420" rend="new">http://www.adamshistory.org/index.php?option=com_content&amp;task=view&amp;id=35&amp;Itemid=420</xref>.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Four Buildings of Norfolk Hospital for the Insane." Photo courtesy of Elkhorn Valley Museum and Research Center, Norfolk, Nebraska.</bibl>
+
+<bibl>"Sugar Beet Factory Interior."  Photo courtesy of Elkhorn Valley Museum and Research Center, Norfolk, Nebraska.</bibl>
+ 
+<bibl>"Norfolk, Nebraska, early 1900s." Photo courtesy of Elkhorn Valley Museum and Research Center, Norfolk, Nebraska.</bibl> 
+
+</div1>
+
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> "Beet Factory'; T. Anderson.</p>
+
+<p><note id="n02" n="2">2</note> This article appeared in the Omaha World-Herald (5 February 1893:13)and is reprinted and contextualized in Impertinences: Selected Writings of Elia Peattie, A Journalist in the Gilded Age by Susanne George Bloomfield (Lincoln: University of Nebraska Press: 2005)</p>
+
+<p><note id="n03" n="3">3</note> Landgraf, 3-5.</p>
+
+<p><note id="n04" n="4">4</note> In 1890 the U.S. Census showed Norfolk at 2,500, and in 1900 it had risen to 3,800 (Landgraf 29).</p>
+
+<p><note id="n05" n="5">5</note> Hastings State Hospital.</p>
+
+<p><note id="n06" n="6">6</note> Renschler.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

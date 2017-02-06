@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18930212">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Norfolk and Its Sugar</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Norfolk and Its Sugar</title>
+<title level="a" type="sub">The Second Town in Nebraska Which Has a Sugar Beet Factory</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1893-02-12">12 February 1893</date>
+<biblScope type="pages">5</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb corresp="ep.owh.18930212.jpg" n="p7"/>
+
+<div1>
+
+<head type="main">NORFOLK AND ITS SUGAR</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">The Second Town in Nebraska<lb/>
+Which Has a Beet Sugar<lb/>
+Factory.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">The Money There Is in Beets&#8211;A <orig reg="Wonderful">Won-</orig><lb/>
+derful Showing&#8211;Manufacturing Process<lb/>
+Described&#8211;The Town Itself.</head>
+
+	<p>There is something intensely interesting to me in a town the age of Norfolk. If the ancient town, which has seen innumerable generations, which has helped make history, which has seen wars, been reddened by tragedies, been the site of national events and the birth place of great men, has its charm in almost no lesser degree has the new town in Nebraska in which the men are still living who can say: "I have made it." They regard it with tender eyes. Their affection magnifies everything within the town limits to them. Just as the prattle of a man's first born seems to him to be the most astonishing eloquence to which he ever listened, so do the buildings, the improvements and the enterprises of a new town seem to those who have brought about these achievements, to be extraordinary.</p>
+
+	<p>This sentiment is something that is exceedingly healthy. It gives self-respect, pride of the right sort, strength of character, firmness and confidence to the men and women who live in such a community. They acquire a sort of honest aristocracy, and rightly count themselves among the "best people." And they are such. They are creators. They are a force. They have produced. And their production has been nothing perfunctory. It has been idealized. For it is not alone their dollars which has been invested. It is their brains, their sentiment, the utmost earnestness of their hearts. They have overcome difficulties. They have triumphed over their longing for an easier life. They have forced themselves, in spite of their wrestle with material affairs to attend also to intellectual ones. They have not made mere shelters for their children, and structures to accommodate their trade. But they have put libraries and drawing rooms, and the spirit that goes with these things into their homes, and the true energy and commercial courage that goes to the making of true merchants into their stores.</p>
+
+	<p>Over at the east of Norfolk stands a mill&#8211;a flour and feed mill&#8211;owned by a pleasant man who bears the euphonious name of Birchard Bridge. Twenty years ago a mill stood on the same site. And that was the beginning of Norfolk. During all that time the little river has turned a wheel there, and as it turned around about have gone up buildings, home, stores, churches, school houses&#8211;until now the town has 3,000 inhabitants and a local pride and social grace that seem incredible when one considers the age of the town; and which could not possibly have been acquired in so short a time anywhere else <sic corr="and">an</sic> the globe except here in the western part of our continent.</p>
+</div1>
+
+<div1>
+<head type="sub">A Beautiful Site</head>
+
+	<p>The prairie rolls a little around about Norfolk and thus the tedious monotony that so often oppresses one in Nebraska, is relieved. Trees have been planted by nearly every property owner. The streets are naturally good&#8211;better than the paving on many streets I wot of. There is a High school building of such good design and hygienic merit that it puts the Omaha school to shame, and it has a superintendent in Prof. Hornberger, who appears to be alive to the improved educational methods of the time. There are several other schools, and a demand for more. The business street has several new brick blocks of excellent appearance, and on the residence streets are many most attractive homes, some of which represent a large sum of money, and some of which do not. There is an excellent little daily and two weekly papers. And the town has a water supply, a sewerage system and electric lights.</p>
+
+	<p>Then there's the beet sugar factory. It stands about a mile from the town, and presents the tidiest appearance imaginable. It is about eighteen months since it was opened, and it has run with increasing success, and now has prospects for a still more successful year. Last summer the factory ran about sixty days and turned out 17,184 sacks of sugar, each sack containing 100 pounds. And there are now 12,000,000 pounds of syrup stored in tanks against next year's product. Fifty <sic corr="percent">pre cent</sic> more beets were worked the last year than the first one, and it is safe to say that the proportion of increase will be as great for the coming summer.</p>
+
+	<p>The company raised 1,000 acres of beets themselves last summer and will increase their acreage to about 1,500 for the coming summer; and from 800 to 1,000 work people will find employment in the fields and factory, which will give an idea of the magnitude of this young industry.</p>
+
+	<p>The personnel of the Norfolk factory is as follows: Henry F. Oxnard, president; James G. Oxnard, vice president; James G. Hamilton, secretary; Henry S. Adams, manager; Fr. Weitzer, superintendent of agriculture; M. Duelle, director, and Charles G. Steele, M. Williamson, J. H. Brown, F. L. Steele and B. K. Keepe heads of departments, business men and assistants.</p>
+
+	<p>As the Norfolk factory was built after the one at Grand Island, it has the benefits of any little improvements that might have been suggested by experience, but to the casual eye, the factories appear to be twins. The ground around Norfolk is adapted to beet raising to an extraordinary degree, and the farmers appear to be taking up with it with increasing enthusiasm. This year no orders are being solicited, yet applications for contracts are steadily coming in, and there is every prospect of a very brisk year.</p>
+
+	<p>The following shows something of the success of farmers who have had experience in beet raising during the last year.  It represents a good average, and is in no way exceptional:</p>
+
+<div2>
+<table type="" rows="14" cols="6">
+<row><head>NAME AND ADDRESS</head><head>Acres</head><head>Tons Per Acres</head><head>Amoung</head><head>Amount</head></row>
+<row><cell role="desc">G. Brummond, Norfolk</cell><cell role="data">3</cell><cell role="data">56.3</cell><cell role="data">18.7</cell><cell role="data">$241.08</cell><cell role="data">$80.36</cell></row>
+<row><cell role="desc">G.A. Lunde, Newman Grove</cell><cell role="data">2</cell><cell role="data">36.9</cell><cell role="data">18.4</cell><cell role="data">158.96</cell><cell role="data">79.48</cell></row>
+<row><cell role="desc">Jens Nelson, Humphrey</cell><cell role="data">3</cell><cell role="data">43.9</cell><cell role="data">14.3</cell><cell role="data">217.13</cell><cell role="data">73.37</cell></row>
+<row><cell role="desc">P. Kristenson, South Omaha</cell><cell role="data">1</cell><cell role="data">13.7</cell><cell role="data">13.7</cell><cell role="data">68.17</cell><cell role="data">68.17</cell></row>
+<row><cell role="desc">William Dommer, Norfolk</cell><cell role="data">5</cell><cell role="data">73.8</cell><cell role="data">14.7</cell><cell role="data">330.89</cell><cell role="data">66.88</cell></row>
+<row><cell role="desc">H. Wachter, Norfolk</cell><cell role="data">5</cell><cell role="data">71.5</cell><cell role="data">14.4</cell><cell role="data">321.74</cell><cell role="data">64.35</cell></row>
+<row><cell role="desc">F. Haase, Norfolk</cell><cell role="data">10</cell><cell role="data">146.0</cell><cell role="data">14.6</cell><cell role="data">637.73</cell><cell role="data">63.77</cell></row>
+<row><cell role="desc">L. Wachter, Norfolk</cell><cell role="data">3</cell><cell role="data">41.9</cell><cell role="data">13.9</cell><cell role="data">187.47</cell><cell role="data">62.49</cell></row>
+<row><cell role="desc">Fred Hans, Stanton</cell><cell role="data">3</cell><cell role="data">41.8</cell><cell role="data">13.5</cell><cell role="data">169.00</cell><cell role="data">56.33</cell></row>
+<row><cell role="desc">G. Scheer, Creighton</cell><cell role="data">2</cell><cell role="data">19.7</cell><cell role="data">9.9</cell><cell role="data">98.50</cell><cell role="data">49.25</cell></row>
+<row><cell role="desc">Berger Bros. &amp; Warnfeldt, Norfolk</cell><cell role="data">24</cell><cell role="data">307.1</cell><cell role="data">12.7</cell><cell role="data">1,391.24</cell><cell role="data">57.96</cell></row>
+<row><cell role="desc">W.R. Artman, West Point</cell><cell role="data">25</cell><cell role="data">280.7</cell><cell role="data">11.2</cell><cell role="data">1,224.04</cell><cell role="data">48.96</cell></row>
+<row><cell role="desc">L. Bourne, Norfolk</cell><cell role="data">20</cell><cell role="data">259.2</cell><cell role="data">12.9</cell><cell role="data">1,111.48</cell><cell role="data">55.57</cell></row>
+</table>
+</div2>
+
+	<p>The transformation of a dirt-covered beet into many thousand white and glistening granules of sugar is an interesting and remarkable process&#8211;it is a thing of such fine ingenuity, such nice adjustments and such accurate tests. The sugar turned out by the Nebraska sugar beet factories ranks with the best granulated sugar made. And it may be mentioned that the brown sugars made from the beet are not pleasant to the taste, being salty and heavy and having a sort of vegetable odor.</p>
+
+	<p>When the farmer drives up with his load of beets they are, of course, weighed before they are put in the storage sheds. When they are wanted they are dropped into a shallow channel, in which there is running water, and are thus conveyed to the factory and lifted ingeniously on an elevating wheel and dropped into a washer, where rotary paddles clean them and hustle them to one end, where a bucket elevator displays something very much akin to brains in picking them up and carrying them to the very top of the building.</p>
+</div1>
+
+<div1>
+<head type="sub">Transformation of the Beet</head>
+
+	<p>Here an automatic weigher, which is used by the French government and which serves all the purposes of a government inspector, since it refuses to open its mouth until it has received a certain amount in its gullet, then it makes registry of the fact and drops the beets out of the machine into a cutting machine, full of jagged knives, where the beets are converted into cossettes, or little slices, no bigger than an eighth of an inch thick. Down drop the little cossettes, then, into the diffuser.  Here hot water goes over them fourteen times. There are fourteen vats, by the way, and fourteen heaters. And the water runs from one to another, beginning at 190 degrees Fahrenheit and ending with water at its natural temperature as it comes out of the ground. It takes an hour and a half of this work to get this sweetness out of the beet&#8211;a literal case of sweetness long drawn out. There's one thing certain, there is very little saccharine substance left in the beet when the diffusers are through with it.</p>
+</div1>
+
+<div1>
+<head type="sub">Nothing Is Wasted</head>
+
+	<p>The pulp is not wasted, but is taken by a screw and put in presses which take the water out of it, and is then used for fodder. And this is counted very nutritive.</p>
+
+	<p>The juice meanwhile is sent to the mixers, and here it receives what is called "milk of lime." This is used to clarify the juice, which at this period is exceedingly thin and light. Then the juice is sent to a heater, leaving its precipitation of organic matter behind it, and is then put in the great carbonation tanks. In these the excess of lime is precipitated by carbonic acid gas, and where the foam is so great that it must occupy six times, as does the liquid itself. After having gone through the large carbonation tanks, a very small amount of lime is again inserted, and taken out in a series of small carbonation tanks. During all the process of carbonation, the juice is being heated by steam.  This, in the words of Mr. Brysselbout, "coagulates albuminous matter and perfects purification."</p>
+</div1>
+
+<div1>
+<head type="sub">A Wonderful Process</head>
+
+	<p>Next the mixture of juice and lime mud goes through the filter presses-wonderful presses clamped together by hydraulic pressure, and with an interior astonishingly complex and extensive. After this the syrup loses its Ethiopian hue, and becomes the color of a fine light beer. After the mechanical <sic corr="filtration">filteration</sic> has taken place, and all the sediment and heavy coloring matter is left behind on the clothes and screens of the presses, the juice is sent through a "quadruple effect," otherwise four boilers, which operate together, the exhaust steam of one going to another and a vacuum finally being created in the last one. Here the juice cooks until it is think, and again it goes through the process of <sic corr="filtration">filteration</sic>. This is subjected to its last boiling in a vacuum pan and here the "filmass" is formed&#8211;that is to say a part of the syrup crystallizes into sugar, while a part of it remains thick syrup. All this is dropped in a mixer and kept constantly in motion.</p>
+</div1>
+
+<div1>
+<head type="sub">Taking Off the Syrup</head>
+
+	<p>It is necessary, of course, to remove this syrup. So the filmass is taken in little wagons to a centrifugal machine, which keeps up a merry motion of 1,200 revolutions each minute, and which are lined inside with brass wire cloth and perforated brass sheets. The syrup is sent flying through these little holes. The sugar stays in the machine, where it is washed with steam and water.</p>
+
+	<p>Then clever screws and elevators whisk the sugar up to a granulator&#8211;which is a huge revolving cylinder with a steam-heated drum inside. At the end of this is a blower, which sends a draft through the cylinder to dry the sugar. At the other end is a screen which separates the different sized granules&#8211;in other words, the different grades of sugar.</p>
+
+	<p>The filmass meanwhile, like the souls in purgatory, is consigned to a place of waiting. And it must be boiled again before it can enter into the joy that awaits shining granulated sugar&#8211;that of being eaten.</p>
+
+	<p>Eighteen hours is all that it takes to make a beet into sugar&#8211;not much time considering the transformation.</p>
+</div1>
+
+<div1>
+<head type="sub">Out at the Hospital</head>
+
+	<p>The visitor to Norfolk usually finds his way out over a neat stretch of road to the insane asylum&#8211;or insane hospital&#8211;for it is not the intention to keep incurables there any more than can be helped. Ninety-five incurables were very recently sent from there to the asylum at Hastings at which melancholy abode are to be found only those incurably mad. Dr. Wilkinson is in charge at the Norfolk asylum at the present writing, having got there through many vicissitudes, as the readers of this paper will remember. He has under his charge at present about 125 patients, some of them almost well, others not hopeless, and still others laboring under chronic troubles and disarrangements, that leave little hope for recovery. It is the custom to hold a ball at the asylum every Thursday night and the town people have got into a pleasant way of going out in small parties and dancing there with the inmates; partly because the dancing hall is excellent and the music good, but still more for the purpose of lending an additional gaiety to the one somewhat pitiful little dissipation which these stricken wretches enjoy.</p>
+
+	<p>A few of the patients are not allowed to indulge in the weekly dances, but these are only those who become unduly excited by the exercises, or those whose malady is of a nature that they can not be trusted in a company of this sort. But by far the greater majority are there, dressed for the occasion, and feeling, there is no doubt, as much interest in the event as if they were in the possession of all their faculties. It must be said that the dancing is above the average, and I have seen many a social gathering that would not compare with this one for a really good exhibition of the terpsichorean art&#8211;which seems to be proof conclusive that it is not sense you need for dancing.</p>
+
+	<p>There was one little brown girl there, with rosy cheeks and a certain piquancy of expression, who seemed altogether too young and healthy and nice to be in a mad house.</p>
+
+	<p>"How did the child come here?" I asked Dr. Wilkinson.</p>
+
+	<p>"It's a case of homesickness," he said. "Her father brought her out here from Ohio. All her friends were there. And I suppose she was used to having hills and trees around her. She settled out here on the plains somewhere on the edge of a little town. And she fretted from home. Her father couldn't send her. And this is the result. She will probably never recover. It's a case of chronic melancholia. Some times she is violent. But more often she sits around as you see her now, saying nothing.'</p>
+
+	<p>But she danced, all the same, and was never without a partner, and appeared to make her feet go happily however sad was the road her weary mind was taking.</p>
+</div1>
+
+<div1>
+<head type="sub">A Wheel in His Hand</head>
+
+	<p>I had the pleasure of dancing with one gentleman "with a wheel in his head." He danced exceedingly well and we talked about everything that came along, just as if we had not been "peculiar." But suddenly he said in quite an insinuating voice, leaning over me a little, just after he had swung me to my place:</p>
+
+	<p>"Did you hear about my road?"</p>
+
+	<p>"No," I said. "What road?"</p>
+
+	<p>"The road I brought through from San Francisco. I've been stopping here <sic corr="awhile">a awhile</sic>&#8211;about four years, in fact. I like this high, dry climate. But next summer I think I'll push the road through as far as Sandusky."</p>
+
+	<p>He is always dealing in enormous sums of money, and being tolerably sane on all other subjects, has fooled many a visitor to the asylum. Last summer he bought a horse of a visitor, and the victim never suspected that he was not dealing with a perfectly sane attendant till he was ready to deliver his animal.</p>
+
+	<p>There was a motherly old woman there who came up to me and said with the friendliest manner possible:</p>
+
+	<p>"I suppose you think I stay here all the time, but I don't. I go home every night. I have to go to look after the children. Who would put them to bed, I should like to know, if I did not go home? Besides, I have to cook something for them to eat. You better believe they are glad to see me. Sometimes we go out walking together. Sometimes we talk. But I'm always back here by morning, and these stupids never know the difference."</p>
+
+	<p>Was that not a pitiful triumph of motherhood over decay and madness?</p>
+</div1>
+
+<div1>
+<head type="sub">A Pitiful Case</head>
+
+	<p>There was one young Norwegian there whose case seemed more exquisitely sad than all the others. He was an artist; how much of one I do not know. But he painted at night after work and saved his money to buy books on fine art, and studied them with intense concentration. And he dreamed his dreams, no doubt, of great renown and glory. And then suddenly, poor lad, found himself behind the bars of a mad house, with no very good prospect of leaving. Dr. Wilkinson thought at one time that it might help him to give him the paints and brushes for which he continually mourned, and he did so, but it only brought back the old dangerous excitement, and they had to be taken away. So now Olaf sits and gazes longingly at the reach of brown prairie, and dreams of other scenes, worth of the brush of a painter, and makes his pitiful moan at his frustrated life&#8211;which he is quite sane enough to realize.</p>
+
+	<p>Isn't that a group of tragedies? Yet, when one considers how much more fortunate is the lot of the insane now than it was a half century ago, one is incline to look at the brighter side of things. Once a mad man was chained and starved. Now he has a home something more than comfortable; trained nurses, the best of physicians, delicate treatment, order, cleanliness, brightness all around him. Music, amusement, everything that can tend to make his lot easy, are provided. Every returning faculty is aroused judiciously. No case is so bad that there does not seem to be a gleam of hope to the physicians and the endeavor to cure is never relaxed.</p>
+
+	<p>The manner in which cultivated men and women give their lives for the amelioration of these unfortunates, is distinctly a thing of this century. For example, Mrs. Wilkinson, the wife of the resident physician, makes her daily visits to the ward, chats with those who will talk with her, makes fancy work with them, interests them in various little amusements; and at the weekly balls plays the piano all evening&#8211;all for the pity of the wretched state of these poor wrecked ones. Would a sensitive gentlewoman of the eighteenth century have done this? I hardly think so.</p>
+
+	<p>This is something of a digression from the subject of Norfolk. But it is one that the people of Norfolk themselves might be guilty of, for their kindly sympathy reaches out even to the asylum. A cordial, hearty, <sic corr="restive">retive</sic> town is Norfolk, with a spirit in it that gives it a grace and charm all its own.</p>
+
+<closer><signed rend="right">E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

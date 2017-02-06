@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18941202 SYSTEM "ep.nov.foy.18941202.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18941202">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.foy.18941202</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-12-02">2 December 1894</date>
+<biblScope type="pages">18</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Serialized Novel, Part 6</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-18</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.nov.foy.18941202">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p18"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">CHAPTER VIII.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>The clothes he had worn were in tatters, and we had no choice but to put on the garments with which De Vega presented us. We felt very odd, we three, and looked at each other in rather a shame faced way.</p>
+
+	<p>"I never was proud of my legs," but I don't think I ever realized before how very much below par they were."</p>
+
+	<p>Bridges had recovered, that was evident. This speech, which I heard coming in advance of him, reassured me. It is true that he was terribly fallen off, and much fonder of sitting down than of standing. But he was not ill; his appetite was already normal and his love for excitement and novelty had returned. Mentally he was quite himself.</p>
+
+	<p>"Shadwin," he said when he saw me, "I did our hospitable friend an injustice. I wronged you. I don't say that I am prepared to believe all that our friend His-a-kit-a de la Vega says. I think he is a sort of religious fanatic, who does not differ very materially from some we have at home at present, who think that disease and death are the result of sin, and can easily be avoided. But I do think he is a royal fellow, and the way he nursed me last night will always be remembered, even by an ungrateful fellow like myself. I say, Shadwin, I wished I looked the way you do in that outfit. How do you suppose it comes that I have such legs, eh? It never worried me before as it does now."</p>
+
+	<p>It worried him so very much that he finally retired and made a change in his outfit. When he returned his appearance was certainly improved. He wore leggings of bright yellow deer skin, cut and slashed in a very dashing manner. Above these hung a garment of dark red cloth, belted with deer skin. The belt was a very handsome one, set round with peppies of dull blue. A hat braided of cedar root surmounted the dark locks of my friend. Altogether his appearance was far from bad.</p>
+
+	<p>Bryan came out leaning on 'Sin's shoulder. There were deep rings about his eyes, and his mouth had a drawn look. He held out his hand to me, and looked at me sadly from his sunken eyes.</p>
+
+	<p>"I ask you to forgive me, Shadwin," he said, "with the same confidence that you will grant my request that I would have if I made it of my brother. I did you an injustice, but I am not myself&#8212;I was not myself then." I started to take his hand, but something inexpressibly miserable in his face made me put my arms about his neck instead.</p>
+
+	<p>"Bryan," I said, "don't mind a little nonsense, will you&#8212;that is, don't get disgusted because I touch you. We are a long way from home, old man, and the outcome of all this is fearfully uncertain. It is a kind of comfort to touch you, don't you know?" He smiled wanly, and sank on the couch of skins. The servant came in with a drink for him, but he shook his head. "Nothing makes me feel better," he said. "I seem to be ill. I feel that I should not live long unless&#8212;" he broke off. We all knew how he wished to finish the sentence. De Vega smiled at him "You don't believe me yet?" he asked. Bryan shook his head, but he did it with a smile that bore its own apology. He looked handsome in spite of his pallor. Indeed, I may say that this but added to his beauty. His form was magnificent. His garments were of silk in their natural color, belted with a sash of crimson. About his legs were bands of deer skin, <sic corr="dyed">died</sic> purple, reaching up to the knee from a soft sort of a shoe. De Vega looked at him with beauty-loving eyes.</p>
+
+	<p>"You must wear this," he cried, and flung a chain with barbaric links of unpolished gold about his neck. Bryan blushed.</p>
+
+	<p>"I&#8212;I," he stammered, "that is, we Americans"&#8212;</p>
+
+	<p>"Oh, hush, man!' I protested. "Do in Rome as the Romans do. Besides, it makes you look like an Apollo."</p>
+
+	<p>"I have informed the council," said De Vega," that we will visit them within an hour. We will go out if you like to see the city."</p>
+
+	<p>There was a sort of swinging <sic corr="palanquin">palaquin</sic>, made of cedar root, like a great basket, hung from the shoulders of two servants, waiting for Bryan. 'Sin walked behind this as a sort of rear guard, and carried a gourd filled with distilled berry juice to provide against thirst. Bridges and I felt the oddness of our position when we actually got out under the sky amidst a strange and mysterious people, and realized that we were forever shut off from civilization.</p>
+
+	<p>"How long is it since we ceased to be common, humdrum men?" said he to me. "It seems ages ago. I suppose we only imagine we are new to this. Perhaps we have been walking these streets for ages. Perhaps we have always known of gardens like these, always smelt such perfumes, always slept on skins of wild animals."</p>
+
+	<p>It was difficult to see the dwellings as we walked along the street, for they were hidden behind masses of foliage and of flowering vines<sic corr="."></sic> But we saw the church where the people worshiped every morning. It was made of white wood rubbed with oil. The architecture was simple, but well adapted to its uses, and it had an airiness, in spite of the massive pillars and the rude roof. I think this sense of airiness was conveyed by the roof, which far overhung the walls, and which was surrounded by a cross of gold.</p>
+
+	<p>We went in for a moment and bowed ourselves before its altar, which, black with age, betrayed its Spanish workmanship. There were pictures of the saints done in dark purple and red strains, and not denoting any great degree of art. No seats broke the space that led up to the altar. It was the habit of the people to either stand or kneel. I think we all gave a prayer of thanksgiving for live. I am sure I did, for I thought my hardships had taken much of the buoyancy from me, yet I felt that happiness was in store, and that the great events of my life were about to unfold before me.</p>
+
+	<p>As we walked toward the state house. De Vega took occasion to tell me what I might expect.</p>
+
+	<p>"They will deal hardly with me," he said. "For I have done other things besides those you know of to vex them. But whatever happens, do not grieve for me."</p>
+
+	<p>"Grieve for you!" I cried. "I do not intend to grieve. I intend to defend you."</p>
+
+	<p>"Friend," he said, gently, laying a hand on my arm, "there are reasons that you know not of why an Indian must obey the voice of fate. It is difficult for me to explain, for not only do I think that you have no word in your language which conveys the same meaning, and almost, I may say, you have not the idea. There are things which are sacred to us&#8212;yet sacred is not what I mean. Though we speak in Spanish for the most part, you may notice that we use many Indian words. This strange idea we are obliged to convey in Indian. When we say that a thing is our fate, we know that we must not question or disobey. If we did, worse harm than death would come to us, and our kindred would suffer as well as we ourselves. Therefore, though I am a Christian as Padre Anton has taught me to be, I believe as the Indians do in some ways. I know a fate follows a man, which will be avenged in ways most terrible on him and his if a man tries to avoid or escape. If ever, while you are here, you see an Indian leave a friend to die, or seem to desert him in the hour of trouble, you may know that it is not because he does not love him, nor because he is a traitor, but because he knows that the hour of his fate has come, and that there is no escaping it."</p>
+
+	<p>The state house was a many-pillared building, covered with a dull gray stucco, and standing at the end of a long avenue of palms. The lofty walls within were boldly decorated. About the upper wall ran a frieze of corn in tassel, and of twisted koonti roots. Beneath were panels on which the bear, the deer, many fish, the rabbit, binds and fruit grew. And the end of the hall was a great raised dais, and on each side of this were two glowing pictures. One represented the shimmering green basin in which fell the waters of the Fountain of Youth, and above it stretched the mimic side of the mountain, with the sacred stream leaping from its side. The other picture I did not understand. I had never seen any such thing as it represented. It was a mammoth plant, with lithe leaves, lying on the ground, or swaying in midair. At the very apex of this graceful plant there seemed to be a sort of huge bud, such as grows at the top of the cabbage palm, only, as nearly as I could make out, this bud was empty. Above this plant soared two vultures, who seemed to shoot down angry glances at it, as if it were their foe. The rooms were nearly filled with men. These De Vega informed me, were the councilmen.</p>
+
+	<p>In the chair of state, on the platform, which was carpeted with beautiful skins, sat the Adelantado, or governor, Bernal Diaz. De Vega whispered his name as we approached him.</p>
+
+	<p>"He was one of the personal friends of Ponce de Leon," said he.</p>
+
+	<p>Imagine, if you can, the interest which we looked at this man, who had known the vicissitudes of over 300 years. His manner was imperious, and he leaned back in his massive chair with folded arms and a severe brow, waiting our approach with impressive dignity. He was wrapped in a garment not unlike the Roman toga, made of raw silk, dyed a deep purple. On his arms were wide bracelets of beaten gold and large pendants like amber, only more brilliant, depended from his ears, while from his neck, hanging by a fragile chain, were coins which bore the heads of their Christian majesties, Ferdinand and Isabella of Spain.</p>
+
+	<p>The face of Diaz recorded at least 45 obvious years, and marks of ancient dissipation, of a spirit reckless and adventurous, and of cruelty and arrogance were all delineated there. I cannot say that this face was altogether devoid of refinement, but it certainly confessed to that imperious ignorance of the age to which it belonged.</p>
+
+	<p>"Adelantado of Bimini," said De Vega, with a profound but self respectful salutation, "I am here at your orders."</p>
+
+	<p> I was impressed with the fact that De Vega had spoken without permission from the Adelantado. It was evident that the citizens of Bimini were not tyrant-ridden.</p>
+
+	<p>"Hisakitma de Vega," said Bernal Diaz, in the same bastard Spanish which my friend employed, "you have transgressed two laws of this realm. You have left its precincts without permission, and you have conducted strangers to it. By doing this you may have endangered the peace, and you have certainly betrayed the secret of Bimini, our commonwealth. Each of these offenses is punishable with death."</p>
+
+	<p>"Then," cried De Vega, with one of those fine gestures of his, "I cannot pay the penalty for both of my crimes. I can die but once."</p>
+
+	<p>The answer was reckless. De Vega was rushing on his doom with his eyes open. He was endeavoring to exasperate the Adelantado.</p>
+
+	<p>"A citizen," went on Diaz with angry pomposity, "owes his life to the state. He cannot endanger it without offending the state. That is one of the reasons why it is forbidden in Bimini to venture beyond the wholesome land. Another reason is that the secret of this blessed island may be betrayed to those who are unworthy to receive it, and to the vast hordes of men who live to the north, and who, it is said, would put a road of iron across our swamps and flood our land with selfish and terrible crowds who destroy everything they come across. But there is no reason why I should enlarge upon the enormity of your crime to you, Hisakitma de Vega, before this august council. If you have any plea, make it now."</p>
+
+	<p>"I left Bimini, which you refer to as so blessed a land," said De Vega with that commingled tone of simplicity and hauteur which he so often used, "because I was more wretched than the prisoner who is doomed to die at rise of sun. I left my kin, my mine of gold, my house and gardens, to wander in frightful wastes, filled with vines that strangle and mire that <sic corr="engulfs">engulphs</sic>, rather than remain in this spot where one is cursed with the fatal possession of life that cannot end"&#8212;but he was interrupted with wild cries.</p>
+
+	<p>"Treason! Treason!" shouted the councilmen, rising and surging toward us.</p>
+
+	<p>"Traitor! Traitor!" they continued to cry. "He has betrayed the secret. Away with him to the stomach that waits for such as he! The stomach has long been empty."</p>
+
+	<p>Bryan could no longer endure this. He raised his hand for the shouting crowd to listen. For a moment there was silence, but when they found they could not understand the tongue in which he spoke, they began shouting again. Then I leaped on the dais and begged for an audience, but Bryan had destroyed confidence in their ability to understand us. The Adelantado himself commanded silence at length, and the councilmen grouped themselves fiercely around us.</p>
+
+	<p>"A man," said the Adelantado, "has a right to his honorable trial, and the councilmen of this commonwealth must not be carried away by foolish passion. It is true that Hisakitma de Vega, who stands before us, has done what no other man in this community has been treacherous enough to do. He has not scrupled to arouse discontent among our young men, and to spread the philosophies of that notorious teacher of sophistry, the Lady Opaka. Being warned again and again by this council he has not mended his ways. Then, against the most imperative laws of the land, he left this country, went to the land of the American, as I hear it is called, and added to his misdemeanors the crime of bringing strangers into our land. These strangers are a menace to the public peace. Therefore their case must be given consideration. They must die the death or they must take the oath of allegiance, and by tomorrow morning bathe in the sacred fountain. Only by becoming citizens of Bimini can they be allowed to live. This, be it understood, is not done in malice or in anger, but as a protection to the citizens.'</p>
+
+	<p>De Vega was instructed to translate to us the tenor of this statement, and we were informed that the governor of Bimini awaited our answer. We consulted together for a few moments. I was for refusing, but Bryan, faint and suffering, urged that if health could be so easily obtained we should do wrong to forego it. Bridges and I were persuaded against our better judgment. We returned to the Adelantado the reply that we would comply with the conditions and become citizens of Bimial, and Bryan instructed him to add that we were in possession of many secrets which would be of benefit to the people, and that our knowledge was at the disposal of the governor. No sooner had this information and our acceptance of his invitation to become citizens of the country been conveyed to the governor, than he arose with great courtesy of manner and welcomed us in a haughty but very elaborate speech of welcome. The councilmen gathered about us, and with many protestations of their good will, and innumerable profound salutations, assured us that we were as one of them. Meanwhile the case of the unfortunate De Vega appeared to have been totally forgotten. I never saw anything more childish. These people were so fond of ceremonial of any sort that even their angriest passions could be subdued if an opportunity offered for demonstrating that remarkable politeness, which they had cultivated to a degree, which I, fresh from matter-of-fact America, had never dreamed of. De Vega, his arms folded, and his face wearing a mournful and half satirical smile, stood near, regarding us.</p>
+
+	<p>I left the company that was pressing around me, to draw nearer to him. Bryan was really doing the honors of the occasion better than I could. His ceremonious manner appeared to fill his new friends with great admiration. My movement, however, again attracted the attention of the governor to De Vega.</p>
+
+	<p>"Brothers," said he, resuming his chair of state, "the painful duty that we have before us must be neglected no longer. Hisakitma de Vega is a malcontent. He was circulated injurious and treasonable ideas. He should therefore be put where he will no longer poison the minds of our young men and maidens. That is my opinion. But I exercise no final authority in this. I leave the matter in the hands of the distinguished body of councilmen, who will place, as is our custom, the disks within the box on the dais. If there are more black disks than red ones, Hisakitma de Vega will know that his friends have thought it best for his country that he should die. If the red disks are greater in number than the black ones he will know that his friends rely upon a change of life in him, and believe that he will no more disseminate the theories of a woman false to the state and to all who know her."</p>
+
+	<p>There was an amount of anger in these words which the occasion did not justify. I saw a look of actual amusement flit over de Vega's face. Under it the Adelantado turned scarlet. The councilmen arose. They cast their little disks in a box that lay at the feet of the governor. A sort of official servitor took the box up to the table beside the governor's chair. Then with much ostentatious display of fairness these disks were counted. There was not one red one among them. De Vega was to die. Bryan turned sick, and had to be carried from the room. Bridges went with him. I remained, and regardless of the presence of these childish councilmen and their puerile governor, stretched out my hands to De Vega.</p>
+
+	<p>"It is very well," he said, "and it is even amusing. But you cannot know that. I assure you, brother, these men are paying me great compliment. They consider me important in more ways than one, or they would not be so anxious to get rid of me." Then he walked before the dais, and saluted profoundly.</p>
+
+	<p>"The usual three days, I suppose?" he inquired.</p>
+
+	<p>"Hisakitma de Vega is given three days in which to arrange his affairs before dying the death as is usual with traitors or men unfit to live. The hour of death will be the second hour after sunrise on the third day."</p>
+
+	<p>De Vega bowed again. Then he turned and walked from the chamber. In amazement, I saluted the governor, and followed my friend.</p>
+
+<p rend="center">(To be Continued.)</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18960212 SYSTEM "ep.owh.18960212.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18960212">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1896-12-12">12 December 1896</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription, Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18960212">
+<figDesc></figDesc>
+</figure>
+
+<pb corresp="ep.owh.18960212.jpg" n="p8"/>
+
+<div1>
+
+<head type="main">A WORD<lb/>
+WITH THE WOMEN.</head>
+
+<milestone unit="smallbar"/>
+
+<byline>(By Elia W. Peattie.)</byline>
+
+	<p>Cambridge university, England, has received a petition, signed by 2,200 university students, asking for the admission of women to the university. It may not be long before some of the universities of England hitherto open solely to men, will grant privileges and degrees, even as certain American colleges do. I am not, however, one of those who believe that every college and university should admit women, any more than I believe that every woman's college should admit men. I can sympathize with Yale in its desire to keep its doors closed to women. It seems but just and right that every state university should be open alike to men and women, making no distinction between citizens because of sex. But when an endowed college, or a self-supporting college, or one under the patronage and support of any organized body, is in question, it should be allowed to decide whether it is for men, or for women, or for men and women. Every man and every woman should have the right, if he or she so desires, to study among those of his or her own sex. There are many minds adapted to extreme studiousness, which would be irritated by the presence of those of the opposite sex. It is indeed a fact that many of the profoundest scholars the world has ever known have been averse to the prolonged company of any person of the opposite sex. These peculiar and somewhat abnormal minds should be protected by surroundings the most favorable to their development. For progress is helped continually by the efforts of individual genius. And genius, especially along scientific lines, is often attended by this intense reserve of nature&#8211;this aversion to all that is social, the fixed and inherent misogamy.</p>
+
+	<p>When the passion for study really come upon one, and to learn seems the most glorious thing in the world, it is a great privilege, while the mind is in the state of its greatest receptivity, to escape from all distracting association, and bend the whole power of concentration, will and <sic corr="absorption">absorbtion</sic>, upon one's books. This may be the case with a person of very gregarious habits, and with a deep love of the other sex. The knowledge thus acquired may be used, indeed, as one of the best decorations of a life of sociability and love. But men, surely, should be protected in their seclusion. They have a right to it. We demand too much of them when we ask them to let us invade every hall of letters, every club room, every organization. Women show the same tendency to share every occupation with men, and would today, if they thought the men would attend, let down the bar of every club room, if not open the door of every woman's school. It would, however, be a mistake. Before the opposite sex, almost unconsciously, there arises a sort of intellectual self-consciousness. One speaks more for effect than from conviction, when listened to by those whose admiration it may be possible to arouse. This is not a question of personal vanity, except insofar as it is an instinct of nature. Mr. Herbert Spencer would consider it quite a cold fact. Therefore let both men and women have their separate study halls for such as desire this exclusion, the state providing, meantime, equal privileges for all citizens, whether male or female.</p>
+
+<milestone unit="smallbar"/>
+
+	<p>Apropos of universities, the following is reprinted:</p>
+
+	<p>"The Women's league of the University of Michigan offers a one year scholarship (matriculation and tuition fees) in the University of Michigan to any graduate of an approved High school who will raise and send them, before October 1, 1896, the sum of $500 for the women's building fund.</p>
+
+	<p>"For twenty-five years women have enjoyed the privileges of this institution. Nearly 700 are now in attendance. Until the present year no especial arrangements have been made for them. The coming spring, however, a wing, to be known as the women's building, is to be added to the Waterman gymnasium for their use. This building will be under the care of the newly elected dean, Dr. Elvia S. Mosher, the first woman professor of the university.</p>
+
+	<p>"The women's building will contain a well-equipped gymnasium, with bath rooms and swimming tank; also, a suit of parlors, reading room, committee room, kitchen, assembly hall, etc., for social purposes&#8211;forming a central home for the women of the university. The plans are already completed and bids are being received for the contracts. Of the $50,000 needed $35,000 have been given by the regents, on condition that $15,000 be raised by the Women's league to complete the necessary fund. Of this amount $11,000 are yet to be secured to insure the realization of our hopes with the opening of the college year."</p>
+
+</div1>
+</body>
+</text>
+</TEI>

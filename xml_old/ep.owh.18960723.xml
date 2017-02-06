@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18960723 SYSTEM "ep.owh.18960723.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18960723">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18960723</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1896-07-23">23 July 1896</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-12</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription, Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<figure entity="ep.owh.18960723">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+
+<!-- <head type="main">A WORD<lb/>
+WITH THE WOMEN.</head> -->
+
+<head type="main">A WORD WITH THE WOMEN</head>
+
+<byline>(Elia W. Peattie.)</byline>
+
+	<p>The manager of one of the largest dental associations in New York is a woman, Dr. Josephine Maude Rankin by name. She has had nine years experience with the forceps. Before entering college she served as assistant in the office of various well known dentists, then took her college course, graduating with honors from the Philadelphia Dental college. She has practiced nowhere but in New York, where her business has so grown that she has ten men in her employ and occupies a whole building. One of the finest exhibits of dental work at the Atlanta exposition was sent by Miss Rankin, and received much praise from dentists all over the country. Miss Rankin says she has never received an application for work from any woman dentist. All of the 200 women dentists in the United States are in business for themselves. That Miss Rankin is exceedingly comely is one of those happy accidents for which even a successful dentist cannot but be grateful. She is very ambitious, and wishes to attain a brilliant position in the business world. She says that when she was a young girl she had an extreme fondness for music, and an ambition to win a reputation in musical directions, but concluded that she preferred to enter upon some path of life where she would not be jostled with competitors.</p>
+
+<milestone unit="smallbar"/>
+
+	<p>It takes a good deal of courage for a person with a voice to resist the temptation to become a professional musician. But the average singer does not pause to reflect that a voice is only a small part of singing. Voices, and of good range and quality, are not so uncommon. What is uncommon is the dramatic instinct, the presence, the magnetism, the intelligence, the fire, the vivacity&#8212;however you choose to designate it&#8212;which gives glory to a song, and breathes life into its dead words and notes. The spirit of song is something elemental, life fire. Without that spirit song is as cheerless as a beautifully carved fireplace in which the flames have never leaped. As it is given to but few to tremble with the love of poetry, as only a small part of created men can catch the full meaning of the tinted flower, as only a sacred company can discover the laws and utilities of nature that lie hidden in the magnet. In the lightning, in the vapor and in the rays of the sun, so only a very few can catch the secret of song, which is only part melody. It is magnetism more than anything else that makes a great singer&#8212;no matter what the teachers of music may say. It is magnetism that makes orators, actors, leaders, politicians. Not that any one knows exactly what magnetism means. But if any one ever does find out there ought to be a school for the inculcating of it.</p>
+
+<milestone unit="smallbar"/>
+
+	<p>One is rather timid about talking of magnetism and similar subjects nowadays, because there is so very much "tommyrot," as Mr. Van Bibber would say, chattered on this and similar subjects.</p>
+
+<milestone unit="smallbar"/>
+
+	<p>Two young girls, for example, were sitting on the verandah of the Chicago Beach hotel the other day. They thought they were transcendental&#8212;perhaps they had been attending the lectures of Mrs. Milward Adams&#8212;but they were merely fashionable.</p>
+
+	<p>"You know we are here for a week," said one of them, "because mamma sent away every one of her servants."</p>
+
+	<p>"Dear me! Why did she do that?"</p>
+
+	<p>"Well, the truth was, she couldn't endure their magnetism! It made the house too depressing. She said she must get some fresh magnetism in or she would stifle."</p>
+
+<milestone unit="smallbar"/>
+
+	<p>A group of girls of this class were talking out at Oconomowoe. They had got hold of the sublimated theory of the relations of light to spirit, and the idea that each spiritually developed person radiated a color from the body, could mundane eyes but grow fine enough to behold it. One girl, with a white duck skirt and a pink shirt waist, looked as esoteric as she could in such a garb, and said, glowering at her companion:</p>
+
+	<p>"Do you know, as I look at you I see beautiful purple! That is for power. Now I understand why you always make me do what you want. If you sit in the sun I can see a little prism all around you, with the purple predominating."</p>
+
+	<p>"Oh, but I see yellow when I look at you," murmured the other, caressing a yellow lotus some one had brought her from the end of the lake. "And yellow is much more wonderful than purple. It means spiritual development!"</p>
+
+	<p>Then they both glowered and waved their lotus blossoms.</p>
+
+	<p>Now isn't that horrible tommyrot? Yet it happened.</p>
+
+
+
+</div1>
+</body>
+</text>
+</TEI>

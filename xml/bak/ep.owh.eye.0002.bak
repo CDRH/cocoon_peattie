@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.eye.0002.01 SYSTEM "ep.owh.eye.0002.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.eye.0002.02 SYSTEM "ep.owh.eye.0002.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.eye.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Lynching</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project">
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Lynching</head>
+
+<figure entity="ep.owh.eye.0002.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>The issue affecting Peattie the most concerning prejudice against Blacks in America, and even Omaha, was the very real threat of lynching. On 30 April 1892, after a Black man had been lynched in Salina, Kansas, the African American community gathered to discuss forming an organization to protest such outrages. J.H. Kelley stated, "There is indeed a submission of our race to a denial of their rights. Even here in Omaha there is noticeable a deplorable apathy toward the wrongs which are being imposed upon our people. I believe in war for our rights and am perfectly frank in stating that I do not believe in the efficacy of a war of books and tracts and sermons . . . . We have tried toleration; we have tried moderation; we have tried everything to insure our protection but retaliation."<ref target="n01" n="1">1</ref></p>
+
+	<p>Alluding to a lynching in Paris, Texas, Dr. M.O. Ricketts described the 1891 lynching of George Smith in Omaha.<ref target="n02" n="2">2</ref> "Here in Omaha the mob not only beat and dragged Smith to a most painful death, but it needs must haul his lifeless body up over a trolley wire to gaze upon its fearful work of crime with exaltation." Such cruelty, he added, "occurs in Christian Omaha."  V.B. Walker then urged a more moderate approach: "We are not doing all that we ought to for our race here in Omaha. We must do something else than to meet about once a year and make radical speeches about blowing up buildings, wiping up the earth and more in that foolish and unnecessary strain. We must make a steady pull altogether, and keep it up right along, if we would secure the justice we have been denied." Reverend Mr. Parks concluded, "It is mob violence that we denounce whether it be of the white or the negro, and whatever the circumstances under which it be committed. Mob violence has the nature of a boomerang that it must return and crush all who resort to it." The meeting then passed a series of resolutions, which contained "such spirit of sorrow, of pain, of forceful appeal" that the walls of the church "caught up and breathed again in reverent echo."<ref target="n03" n="3">3</ref></p>
+
+	<p>Lynching posed a very real threat to Blacks in the nineteenth century with incidents rising after the establishment of the Ku Klux Klan in 1867. Although the practice of inflicting punishment on a person (hanging, stoning, burning at the stake, and shooting, for example) for crimes by unauthorized persons without a legal trial has a long history, the term lynching probably derives from the name of a Virginia farmer, Charles Lynch, who, along with his neighbors took the law into their own hands during the Civil War. Because of wartime conditions, taking criminals to trial in the one court in Williamsburg was impossible, so the men "came together to formulate more expedient ways of dealing with the criminal element" closer to home in Lynchburg.<ref target="n04" n="4">4</ref></p>
+
+	<p>Between 1889 and 1918, the <title level="j">Chicago Tribune</title> reported that 2,422 victims were murdered by mobs: 702 were white (691 men/11 women) and 2,522 were black (2472 men/50 women). By region, the largest number occurred in the South, 2,834; the North counted 219, and 76 lynchings took place in the West. Many more, obviously, were never recorded.<ref target="n05" n="5">5</ref></p>
+
+<figure entity="ep.owh.eye.0002.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>One of the most outspoken voices against lynching was Ida B. Wells, born a slave in 1862 and the daughter of a Mississippi carpenter. She began her crusade when still a young women for women's and civil rights. When she carried out an investigation in her small Memphis newspaper, <title level="j">Free Speech</title>, that uncovered the lynching of 728 black men and women over a short time frame, two-thirds of which were petty crimes such as drunkenness and shoplifting, a white mob broke into her print shop and destroyed her press. Fortunately, she was in Philadelphia at the time, or she, too, might have been a statistic.<ref target="n06" n="6">6</ref> Because of this, she was unable to return home, so she began working for the <title level="j">New York Age</title>, continuing her campaign against lynching that took her to Great Britain in 1893 and 1894 where she received a more enthusiastic welcome than at home. In America, Allie C. Willard, the sister-in-law of Frances Willard, suffragist and temperance reformer, had taken offense at Wells' overseas crusade, according to Peattie, especially  "the reproach leveled at her beloved sister-in-law, and by the natural irritation of having her country abused among foreigners."</p>
+
+	<p>Meanwhile, the June 1894 trial of Sam Payne, an African American porter accused of the murder of Maud Rubel, his confession, and the attempted, but thwarted, lynching by a South Omaha mob made local headlines.<ref target="n07" n="7">7</ref> The incident ended cooperatively when three hundred armed Blacks gathered at the courthouse, with scouts lying in the grass near the County Jail ready to signal them if the police were overpowered, and it appeared Payne might be lynched. When asked about the presence of the group, the police "replied they would not refuse the aid of any body of law-abiding citizens in subduing a mob."<ref target="n08" n="8">8</ref> This incident, along with the Wells-Willard feud, incited Peattie to write "Mrs. Peattie on Lynching," decrying the "Blot on the Name of Civilization." In her editorial, Elia Peattie attempted to sort the grain from the chaff, concluding with the declaration, "There is no use of trying to find the right in this war of races. There is no right. There is nothing but wrong. Espouse no side. Neither side is worthy of espousal. It is an episode of history that one contemplates with horrified eyes."</p>
+</div1>
+
+<div1 type="file references"><head type="sub">Read Peattie's Writings</head>
+<list>
+<item>
+<ref n="ep.owh.18940624">Mrs. Peattie on Lynching</ref>
+</item>
+</list>
+</div1>
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><title level="a">"Ida Wells."</title> <title level="m">Spartucus Educational</title>. October 2007. 9 October 2007 <ref n="http://www.spartacus.schoolnet.co.uk/FWWwells.htm" rend="new">http://www.spartacus.schoolnet.co.uk/FWWwells.htm</ref>.</bibl>
+
+<bibl><title level="a">"Negroes Are Determined."</title> <title level="j">Omaha World-Herald</title>. <date value="1894-02-21">21 February 1894</date>: <biblScope type="pages">5</biblScope>.</bibl>
+
+<bibl><author n="Nourse, D.H.">Nourse, D.H.</author> <title level="a">"A Noble Plea for Justice: The Recent Meeting of the Afro-Americans of Omaha Described."</title> <title level="j">Omaha World Herald</title>. <date value="1894-06-21">21 June 1894</date>: <biblScope type="pages">5</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. <title level="a">"The Law and the Lynchers."</title> <title level="j">Omaha World-Herald</title>. <date value="1891-10-18">18 October 1891</date>: <biblScope type="pages">13</biblScope>.</bibl>
+
+<bibl><author n="Rhodes, Henry A.">Rhodes, Henry A.</author> <title level="a">"Lynch Law"&#8212;An American Community Enigma."</title> <publisher>Yale New Haven Teachers Institute</publisher>. <date value="2007">2007</date>. 3 October 2007 <ref n="http://www.yale.edu/ynhti/curriculum/units/1989/1/89.01.09.x.html" rend="new">http://www.yale.edu/ynhti/curriculum/units/1989/1/89.01.09.x.html</ref>.</bibl>
+
+<bibl><author n="Tolnay, Stewart E.">Tolnay, Stewart E.</author> and <author n="Beck, E.M.">E.M. Beck</author>. <title level="m">A Festival of Violence: An Analysis of Southern Lynchings, 1882-1930</title>. <pubPlace>Urbana and Chicago</pubPlace>: <publisher>University of Illinois Press</publisher>, <date value="1992">1992</date>.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Ida B. Wells Barnett." <date value="1897">1897</date>. <publisher>Project Gutenburg</publisher>. (Public Domain.)</bibl>
+
+<bibl>"Proud Perpetrator Posing. American Lynching." <ref n="http://www.americanlynching.com/" rend="new">http://www.americanlynching.com/</ref>. Photo courtesy Gode Davis and <title level="m">American Lynching Documentary</title>. [Contact gode@americanlynching.com]</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> Nourse, 5.</p>
+
+<p><note id="n02" n="2">2</note> For more on this story, see "The Law and the Lynchers," Peattie's 18 October 1891 <title level="j">Omaha World Herald</title> editorial on the hanging of Ed Neal which triggered the lynching of George Coe, alias George Smith in <title level="m">Impertinences: Selected Writings of Elia Peattie</title>, A Journalist in the Gilded Age edited by Susanne George Bloomfield (Lincoln: University of Nebraska Press, 2005).</p>
+
+<p><note id="n03" n="3">3</note> Nourse, 5.</p>
+
+<p><note id="n04" n="4">4</note> Rhodes.</p>
+
+<p><note id="n05" n="5">5</note> Rhodes.</p>
+
+<p><note id="n06" n="6">6</note> "Ida Wells."</p>
+
+<p><note id="n07" n="7">7</note> See <title level="j">Omaha World-Herald</title> front page news stories from 6/1/1894-6/15/1894.</p>
+
+<p><note id="n08" n="8">8</note> "Negroes."</p>
+
+</div1>
+</body>
+</text>
+</TEI>

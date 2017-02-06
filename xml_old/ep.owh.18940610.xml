@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18940610 SYSTEM "ep.owh.18940610.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18940610">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Brave Missionaries</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18940610</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Brave Missionaries</title>
+<title level="a" type="sub">Examples of Danger Encountered by Congregational Missionaries</title>
+<title level="a" type="sub">The Life Stories of "Father" Dresser and "Mother" and "Father" Secomb Retold to a World-Herald Reporter</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-06-10">10 June 1894</date>
+<biblScope type="pages">4</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2007-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18940610">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p4"/>
+
+<div1>
+
+<head type="main">THE BRAVE MISSIONARIES</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">Examples of Privation and <orig reg="Danger">Dan-<lb/>
+ger</orig> Encountered by <orig reg="Congregational">Congre-<lb/>
+gational</orig> Missionaries"</head> -->
+
+<head type="sub">Examples of Privation and Danger Encountered by Congregational Missionaries</head>
+
+<milestone unit="smallbar"/>
+<!-- 
+<head type="sub">The Life Stories of "Father" Fresser and<lb/>
+"Mother" and "Father" Secomb Retold<lb/>
+to a World-Herald Reporter.</head> -->
+
+<head type="sub">The Life Stories of "Father" Fresser and "Mother" and "Father" Secomb Retold to a World-Herald Reporter.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>Among the men and women who this last week have thronged about the First Congregational church are a few whose venerable heads and seamed faces mark them as persons of wide experience. Something in their manner, at once simple and authoritative, show them to belong to that heroic class, the home missionaries.</p>
+
+	<p>For a home missionary is a person who voluntarily resigns the easy things of life. Though he may have been, and generally has been, delicately reared, yet he turns his back upon the comforts of civilization, upon those he loves and upon the association of people of his own sort, and goes to some frontier, where he wrestles with nature in its most primitive forms.</p>
+
+	<p>A certain form of fanaticism must actuate him. That is to say, he must believe himself a divinely selected instrument for the furtherance of God's word. He must never doubt this. In peril of life, in sickness, in hunger, in loneliness, amid harsh critics, he must never doubt. Though his wife sicken and die under the strain, though his children grow up in ignorance and in poverty, still must he never doubt. He must be one who sees visions in the night, who discovers in small things the confirmation of his belief that providence is personally protecting him, and who finds an answer to prayer in the events of each day's living and the wisdom of Gods in those things which run counter to his prayers.</p>
+
+	<p>"When I had been graduated from Dartmouth college and entered upon my studies at the Congregational seminary at New York," said Father Secomb, one of the patriots among the missionaries, "I said to myself, and I promised the Lord, that I would accept no easy work. I said I will not take a pastorate, with a salary attached, and live where I would be surrounded with ease. Whatever was hardest to do was the thing I burned to do for the Lord. India was the spot on which I fixed my prayers. But I was in debt, $5,000, for my education, and Dr. Anderson, with whom I talked, thought I had no right to go into a work which would make it impossible for me to pay my just debts. So the choice of being a home missionary was made for me, and I asked&#8212;I and my dear chum Richard Hall&#8212;to be sent into the west. We chose Minnesota as the field of our labors. So I was sent to St. Anthony's Falls, the spot where Minneapolis now stands, and Richard Hall was sent further on. That was in 1850. And there I established the first Congregational church in Minnesota."</p>
+
+	<p>Father Secomb, who is somewhat broken from his excessive labors, and who looks feeble in some respects, dropped his head for a moment to indulge in reminiscences. And deep reminiscences they might well be&#8212;of the sort that dig into the very heart of man, yes and into his soul.</p>
+
+	<p>Mother Secomb looked at him tenderly.</p>
+
+	<p>"I wasn't with papa then," she said softly. She always called him papa when she spoke, as she had got in the way of doing when the children were running around her knees. "He was married to his first wife then&#8212;Maria. She died there, probably because she did not have proper medical attention. I married papa in 1854, and came out to the Falls. What sort of a house did I find? Why, I found a very comfortable house. I had feared when I left Massachusetts that I should have to live in a log house. And I didn't like the idea of that, someway. But papa had a very neat little house waiting for me, and we labored there together. I have always tried to help papa as well as I could. I have been able to help him some with my music."</p>
+
+	<p>Father Secomb looked up.</p>
+
+	<p>"She has helped me in everything," he said simply.</p>
+
+	<p>"All the children were born up there at the Falls&#8212;five of them. We lived there sixteen years.</p>
+
+	<p>"Two years of that time I canvassed for Northfield college."</p>
+
+	<p>"It was while we were there that we were in the Indian massacre," said Mother Secomb. "We fled from the Indians all one night. Perhaps we should not have been murdered had we staid where we were. But whether we were in actual danger or not our apprehensions were none the less. That was in 1862, if I remember rightly. I think <sic corr="it">is</sic> was the Chippewas and the Sioux that had uprisen. They captured 300 women, and murdered as many men and children. And they burned the towns, and tortured those they killed. It was terrible&#8212;terrible! So all one night we fled, with the children."</p>
+
+	<p>"And the year after that," broke in Father Secomb, "came the dry time. It was so dry that one could walk on foot above the falls of St. Anthony. The cottonwoods withered and died beside the streams. And the year after that came the grasshoppers. They were so thick that as they settled on the trees and the whole tree seemed to be gray in color. And wherever they went they stripped every leaf and blade of grass. Those were three dreadful years for the people. First the massacre, then the drouth and then the grasshoppers."</p>
+
+	<p>Father Secomb preferred to talk about the wonderful mercies of God and the work he had been permitted to do, and the number of souls he had led to Christ, and he considered these perils of savage warfare and plague and drouth but incidents&#8212;as indeed they were. Mother Secomb placed the "Lord's work" above all things too, but she remembered, as women will remember, all the suffering, the toil, the child-bearing, the forgoing and the fear.</p>
+
+	<p>Perhaps in the exaltation of the heroism of the home missionary, the missionary's wife is too often forgotten. While he works, upborne by his trust in God, and undergoes fatigue and danger with a high sense of sacrifice, she is drudging at home, day after day; she is carrying her heavy household burdens without help, and enduring the pain of seeing her children grow up without those things she yearns to procure for them. It is not easy to be heroic when one does the family washing and scrubbing, the baking and sewing, the endless dish washing and the tending of little ones. Mother Secomb did not say this. There were no complaints on her tongue. She was smiling, and proud of all the victories won and the defeats forgotten. But when she said:</p>
+
+	<p>"I have always done my own work," the women she said it to knew the weariness of body and the depression of spirit that it must oftentimes have meant.</p>
+
+	<p>Well, they went to New Hampshire to rest for two years; that was about 1871. Both of them were worn out with their labors. In 1873 they came west by boat and stage to Green Island, Neb., just opposed Yankton, S.D. Green Island is on the great bottom lands of the Missouri. They were ferried across the river. They were not so comfortably housed here as they had been in Minnesota. But there was plenty of work to do. In fact, the message they came to bring was sorely needed. But Father Secomb started his stations; he got acquainted far and near; he became the confidant of the pioneers; he shared their hazardous lives; he buried their dead and married their lovers; and Mother Secomb, who had been instructor of music in Andover, brought the charm of her melody to attract and keep the friendship of the men and women around her. And sadly in need of a melody they must have been. Perhaps she, who brought this form of beauty into the wilderness, was to less needed than he who brought truth. Indeed, husband and wife brought different fo<unclear>r</unclear>ms of truth. They both transmitted it by different means.</p>
+
+	<p>But in 1881 came the floods&#8212;the terrible floods. The Dakota and the Missouri river arose and filled their mighty beds; and went further and came up to the habitations of man. They swept away these structures as if they had been straw. Many a home, with its inmates, went with the flood and was lost. The little church the Secombs had built went whirling away as merrily as if its office had been no more than that of the dance hall. The Secombs' home went too, and they, sitting on the roof of a little cot, with four of their children, bade each other good-bye and waited for the end. But the end did not come as they had expected. A strong young man named Brown loved one of the daughters of the missionary. And when a man is strong, young and in love, he can do a great deal. He saved the Secomb's in this case and got them safe across to Yankton.</p>
+
+	<p>And after that the missionaries settled at Springfield, S.D., seventy-five feet above the surly waters of the Missouri, where no flood could reach them. And here they have labored ever since. They found a church there of their own denomination. It was uncompleted when they came and its membership indifferent. Now the church is completed, its belfry built, a bell put inside, an organ is in the loft and the floor is nearly carpeted. The attendance is very good and about fifty are regular members. The Secombs' have also organized three stations outside of Springfield. These they visit periodically. The superintendence of such a large district as they have necessitates much physical exertion. Every Sunday Father Secomb rides from ten to twenty-five miles. Sometimes in the case of a funeral or a wedding he goes further. And as deaths and weddings take no count of weather these journeys must often be performed when the cold or heat would keep a man in his own home if he had the choice of his actions.</p>
+
+	<p>The venerable and delightful couple are charmed with Omaha. And the respect and attentions paid them cannot but be pleasant to those who have known so many hardships, so much neglect, and so much loneliness. They are both moved by an abiding sense of doing the work of their master. And while this idea must have comforted them and sustained them under all trials, yet their present outing, and the city life after their long living in the country, cannot but be a pleasant diversion.</p>
+
+	<p>"Daughter gave us the money to come here," said Mrs. Secomb, her eyes filling. "Daughter teaches school. And she put some bills in papa's hands and told him we must go to Omaha. And so we're here."</p>
+
+	<p>"Yes," said her husband, "daughter made us come."</p>
+
+	<p>Father Dresser, who is better known than any other missionary in Nebraska, is 82 years old and looks 62. He is a man of charming manners, of very wide experience, and of flowing and individual diction. He began his missionary work in Jamaica, in the West Indies. Like Mr. and Mrs. Secomb, he is a native of Massachusetts. He left New York penniless, save for the money to pay his passage, and arrived in Jamaica with nothing but his young and intense devotion to sustain him. This was in 1839. He set up his little hut and began his work among the negroes. Not only did he instruct them in religion, but in letters as well. And the negroes showed an eagerness to learn. They are a curious race, the West Indian negroes, with a pathos of their own and certain peculiarities which are not met with in the American negro. Here he stayed for two years. The negroes fed him "as the ravens fed Elijah."</p>
+
+	<p>"I never knew what it was to want for sufficient food," he said the other day, leaning back in the comfortable chair in one of the little committee rooms of the First Congregational church. "Every morning some of the people would appear with 'a little yam for massa's breakfast,' or 'a little bread for massa's breakfast'&#8212;it was always for breakfast. At the end of two years my arduous work and the climate had broken up my health. But I returned to the continent for the purpose of bringing home a friend who was dying, and who died on the way."</p>
+
+	<p>Father Dresser had various experiences in Ohio and Michigan, where he was given "charges" in the wildest part of that new country, and where he also traveled for the bible association. In 1851 he was sent as a delegate to the peace commission at London during the World's fair there. He returned to take up actively the anti slavery work, and at Nashville, Tenn., was accused of circulating abolitionist literature, was tried and found guilty, and sentenced to be stripped and to receive twenty lashes on the bare back, and to leave the state within twenty-four hours. The penalty was inflicted.</p>
+
+	<p>In 1852 Father Dresser took a "charge" at West Farmington, O., where he went to reunite a church that was divided because of the coming in of much excitement over spiritualism and spiritualistic demonstrations.</p>
+
+	<p>"I preached the word of God," he said simply, "and all things fell before it. I did not attack spiritualism openly, though I talked of the 'spirits that peep and mutter.' But I did some bold things. I will tell you of the one instance. In the midst of my preaching, a young man who was one of the leaders of the spiritualistic movement, was seized with the powers, and made an unseemly spectacle of himself, and also rendered it impossible for me to go on with the meeting. Pointing my finger at him, I said in the sternest voice I could command: 'It may sometimes occur that the emotions of the mind may be such that they cannot be controlled, and that the body may be the slave to them. But that young man there, who is making this disturbance, is under no stress of emotion that he cannot control. He is shamming. He is making a pretense, and in the house of God.' In a moment the young man was silent. That broke his powers. And in a little while the unhealthy excitement about spirit communication had died away. I staid there eight years. Then I went to Pentwater, Mich., up in the midst of the lumber regions. That was a wild country then. But the doors were opened wide for the reception of God's truth. And the word of God proposed wonderfully. But an article that I read moved me to start for Nebraska. I was told I was needed where I was, but I could not be content to stay. I felt impelled to come to Nebraska, and at last secured my commission. Butler county was the spot which I selected. And there I came in 1869, with my wife, my son and my daughter. In Omaha I was welcomed by Father Gaylord and Mrs. Sherill, and I am bound to say that the pictures they drew for my benefit of the Nebraska frontier were not encouraging. But I was bent upon reaching Butler county, and I traveled across the plains till I reached that point, and was ferried across the river in the midst of a rising of the river which had swept the ferry away, and which made it necessary for us to go across in small boats. No one thought life worth living over beyond the bluffs. It was held that the place was not sufficiently fertile to sustain life. So everyone was settled in the valley, and here I settled, too, finding twelve persons of as many denominations united for the purposes of Sunday worship, but having no leader. They agreed to take any whom Father Gaylord might send to them as from the Lord. I bore a line from Mr. Gaylord, and they received me with open arms, and from the first my work was blessed.</p>
+
+	<p>"One interesting circumstance that I must tell you concerns the Sunday school of Tabitha Vandercook. She had started a Sunday school, and was giving instruction, and I found her always one of my strongest assistants. She had two sisters and a brother, and they were all strong helps to me. They were Holland Dutch. And there were two other families of the same race in the valley, some of whom I had the happiness of leading to Christ."</p>
+
+	<p>Father Dresser told many stories of the conversions from sin to Godliness that he had witnessed among his people. For indeed these people have been his. Since 1839 he had watched over them. He has prayed at their altars and their tombs, preached for their soul's good and looked after their little ones. He knows the families as he knows his own, and has made it his work to prevent the going of any of them astray, so far as has lain in his power.</p>
+
+	<p>"The first winter we were out in Butler county," he said, "We lived in the board shack that a cowboy had built while he was proving up his claim. It was only clapboarded, and as the thermometer was frequently below zero, you can understand that we were often oppressed with the heat, especially as we had nothing but green cottonwood to burn, which had to be put in the oven and baked before it was in a condition to ignite. My first station was established at Pepperville, where Mr. Strong Pepper was postmaster. That is near Columbus. But I rode all over the country. A wild country it was. There were only two or three frame houses in the whole valley. People lived in sod houses or in dugouts. Whole families were raised in one room. The beds were something built across the end of the house and were twelve feet long. When I was asked to stay over night I would sleep at one end of the twelve-foot bed with my host, and the mistress of the house would sleep at the other end with her children. We had to do as we could in those days, not as we would. The roofs of those sod houses were far from being secure, and the rain would drench in through upon the beds. But I would spread out my large rubber poncha, fasten my umbrella above my head and then let it rain, as they do in Spain. One of the houses at which I was most hospitably entertained at that time, and where I always delighted to go, was that of J. C. Paxon. He lives here in Omaha now, and when I got off the train the other day at the Omaha station he was the first man to meet me and to throw his arms about my neck."</p>
+
+	<p>Father Dresser told quaint stories of the settling of his family in their shack and how they finally got their books over&#8212;which the missionaries seemed to think were the most essential articles of household furniture&#8212;and how these books were piled up all around the little shanty so that there was hardly room to move about, with the table, chairs, stove, bed and other such <sic corr="encumbrances">incumbrances</sic>.</p>
+
+	<p>After a time people began to come in "over the bluffs," where it was found that not only could the cattle graze, but where very good crops could also be raised. And with this development of the country Father Dresser's labors also increased. Although people came twenty-five miles to hear him, and though they endeavored to make his labors as light as possible, yet it was, and is, no uncommon thing for him to ride forty miles a day. He has been caught in blizzards, in terrible summer storms, he has been lost on the prairies, and known the utmost extremes of heat and cold and exhaustion which a man may endure without loss of health or life. But he still continues exceptionally hale and hearty, though he now has the spiritual supervision of Butler, Pope and Saunders counties. There are now established four churches in Butler county, one in Saunders and one in Pope. Father Dresser visits three stations each Sunday, thus seeing all of his parishoners&#8212;if such they may be termed&#8212;twice a month. During his western life he has traveled as financial agent for Franklin academy.</p>
+
+	<p>The affectionate regard in which he is held by his people is, so those who know, say, touching and beautiful. And it is pleasant to know that the people of Omaha have welcomed with reverence and enthusiasm this old servant in the "Lord's vineyard."</p>
+
+	<p>Setting aside religious consideration, he is a fine gentleman, brave, simple and consecrated to the cause for which he stands.</p>
+
+<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

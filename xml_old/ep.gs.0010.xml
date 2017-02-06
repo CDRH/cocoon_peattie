@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+
+]>
+<TEI id="ep.gs.0010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Piano Next Door</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.gs.0010</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="m">The Shape of Fear and Other Ghostly Tales</title>
+<title level="a">The Piano Next Door</title>
+<pubPlace>New York</pubPlace>
+<publisher>Macmillan</publisher>
+<date value="1898">1898</date>
+<series>Short Story Index Reprint Series</series>
+<pubPlace>Freeport, NY</pubPlace>
+<publisher>Books for Libraries Press</publisher>
+<date value="1969">1969</date>
+<biblScope type="pages">115-126</biblScope>
+</bibl>
+
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+
+<encodingDesc>
+<editorialDecl>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+
+<revisionDesc>
+<change>
+<date>2009-02-26</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-11-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item></item>
+</change>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Converted from html</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="ep.gs.0010.01.jpg" n="115"/>
+
+<head>THE PIANO NEXT DOOR</head>
+
+<p>BABETTE had gone away for the summer; the furniture was in
+
+its summer linens; the curtains were down, and Babette's husband,
+
+John Boyce, was alone in the house. It was the first year of his
+
+marriage, and he missed Babette. But then, as he often said to
+
+himself, he ought never to have married her. He did it from pure
+
+selfishness, and because he was determined to possess the most
+
+illusive, tantalizing, elegant, and utterly unmoral little creature that
+
+the sun shone upon. He wanted her because she reminded him of
+
+birds, and flowers, and summer winds, and other exquisite things
+
+created for the delectation of mankind. He neither expected nor
+
+desired her to think. He had half-frightened her into 
+
+<pb id="ep.gs.0010.02.jpg" n="116"/>
+
+marrying him, had taken her to a poor man's home, provided her
+
+with no society such as she had been accustomed to, and he had no
+
+reasonable cause of complaint when she answered the call of
+
+summer and flitted away, like a butterfly in the morning sunshine,
+
+to the place where the flowers grew.</p>
+
+<p>He wrote to her every evening, sitting in the stifling, ugly house,
+
+and poured out his soul as if it were a libation to a goddess. She
+
+sometimes answered by telegraph, sometimes by a perfumed note.
+
+He schooled himself not to feel hurt. Why should Babette write?
+
+Does a goldfinch indict epistles; or a humming-bird study
+
+composition; or a glancing, red-scaled fish in summer shallows
+
+consider the meaning of words?</p>
+
+<p>He knew at the beginning what Babette was&#8212;guessed her
+
+limitations&#8212;trembled when he buttoned her tiny glove&#8212;kissed her
+
+dainty slipper when he found it in the closet after she was gone&#8212;
+
+thrilled at the sound of her laugh, or the memory of it!  That was all. 
+
+<pb id="ep.gs.0010.03.jpg" n="117"/>
+
+A mere case of love.  He was in bonds. Babette was not.   Therefore
+
+he was in the city, working overhours to pay for Babette's pretty
+
+follies down at the seaside.  It was quite right and proper. He was a
+
+grub in the furrow; she a lark in the blue. Those had always been
+
+and always must be their relative positions.</p>
+
+<p>Having attained a mood of philosophic calm, in which he was
+
+prepared to spend his evenings alone&#8212;as became a grub&#8212;and to
+
+await with dignified patience the return of his wife, it was in the
+
+nature of an inconsistency that he should have walked the floor of
+
+the dull little drawing-room like a lion in cage. It did not seem in
+
+keeping with the position of superior serenity which he had
+
+assumed, that, reading Babette's notes, he should have raged with
+
+jealousy, or that, in the loneliness of his unkempt chamber, he
+
+should have stretched out arms of longing. Even if Babette had been
+
+present, she would only have smiled her gay little smile and co- 
+
+<pb id="ep.gs.0010.04.jpg" n="118"/>
+
+quetted with him. She could not understand. He had known, of
+
+course, from the first moment, that she could not understand! And
+
+so, why the ache, ache, ache of the heart! Or <hi rend="italic">was</hi> it the heart,
+
+or the brain, or the soul?</p>
+
+<p>Sometimes, when the evenings were so hot that he could not
+
+endure the close air of the house, he sat on the narrow, dusty front
+
+porch and looked about him at his neighbors. The street had once
+
+been smart and aspiring, but it had fallen into decay and dejection.
+
+Pale young men, with flurried-looking wives, seemed to Boyce to
+
+occupy most of the houses. Sometimes three or four couples would
+
+live in one house. Most of these appeared to be childless. The
+
+women made a pretence at fashionable dressing, and wore their hair
+
+elaborately in fashions which somehow suggested boarding-houses
+
+to Boyce, though he could not have told why. Every house in the
+
+block needed fresh paint. Lacking this renovation, the householders
+
+tried to make up for it by 
+
+<pb id="ep.gs.0010.05.jpg" n="119"/>
+
+a display of lace curtains which, at every window, swayed in the
+
+smoke-weighted breeze. Strips of carpeting were laid down the front
+
+steps of the houses where the communities of young couples lived,
+
+and here, evenings, the inmates of the houses gathered, committing
+
+mild extravagances such as the treating of each other to ginger ale,
+
+or beer, or ice-cream.</p>
+
+<p>Boyce watched these tawdry makeshifts at sociability with
+
+bitterness and loathing.   He wondered how he could have been such
+
+a fool as to bring his exquisite Babette to this neighborhood.   How
+
+could he expect that she would return to him? It was not reasonable.
+
+He ought to go down on his knees with gratitude that she even
+
+condescended to write him.</p>
+
+<p>Sitting one night till late,&#8212;so late that the fashionable young
+
+wives with their husbands had retired from the strips of stair
+
+carpeting,&#8212;and raging at the loneliness which ate at his heart like a
+
+cancer, he heard, softly creeping through the windows of the house
+
+adjoin- 
+
+<pb id="ep.gs.0010.06.jpg" n="120"/>
+
+ing his own, the sound of comfortable melody.</p>
+
+<p>It breathed upon his ear like a spirit of consolation, speaking of
+
+peace, of love which needs no reward save its own sweetness, of
+
+aspiration which looks forever beyond the thing of the hour to find
+
+attainment in that which is eternal. So insidiously did it whisper
+
+these things, so delicately did the simple and perfect melodies creep
+
+upon the spirit&#8212;that Boyce felt no resentment, but from the first
+
+listened as one who listens to learn, or as one who, fainting on the
+
+hot road, hears, far in the ferny deeps below, the gurgle of a
+
+spring.</p>
+
+<p>Then came harmonies more intricate: fair fabrics of woven
+
+sound, in the midst of which gleamed golden threads of joy; a
+
+tapestry of sound, multi-tinted, gallant with story and achievement,
+
+and beautiful things.   Boyce, sitting on his absurd piazza, with his
+
+knees jambed against the balustrade, and his chair back against the
+
+dun-colored wall of his house, seemed to be walking in the
+
+cathedral 
+
+<pb id="ep.gs.0010.07.jpg" n="121"/>
+
+of the redwood forest, with blue above him, a vast hymn in his ears,
+
+pungent perfume in his nostrils, and mighty shafts of trees lifting
+
+themselves to heaven, proud and erect as pure men before their
+
+Judge. He stood on a mountain at sunrise, and saw the marvels of
+
+the amethystine clouds below his feet, heard an eternal and white
+
+silence, such as broods among the everlasting snows, and saw an
+
+eagle winging for the sun.  He was in a city, and away from him,
+
+diverging like the spokes of a wheel, ran thronging streets, and to
+
+his sense came the beat, beat, beat of the city's heart. He saw the
+
+golden alchemy of a chosen race; saw greed transmitted to progress;
+
+saw that which had enslaved men, work at last to their liberation;
+
+heard the roar of mighty mills, and on the streets all the peoples of
+
+earth walking with common purposes, in fealty and understanding.
+
+And then, from the swelling of this concourse of great sounds, came
+
+a diminuendo, calm as philosophy, and from that, nothingness.</p>
+
+<pb id="ep.gs.0010.08.jpg" n="122"/>
+
+<p>Boyce sat still for a long time, listening to the echoes which this
+
+music had awakened in his soul. He retired, at length, content, but
+
+determined that upon the morrow he would watch&#8212;the day being
+
+Sunday&#8212;for the musician who had so moved and taught him.</p>
+
+<p>He arose early, therefore, and having prepared his own simple
+
+breakfast of fruit and coffee, took his station by the window to
+
+watch for the man. For he felt convinced that the exposition he had
+
+heard was that of a masculine mind. The long, hot hours of the
+
+morning went by, but the front door of the house next to his did not
+
+open.</p>
+
+<p>"These artists sleep late," he complained. Still he watched. He
+
+was too much afraid of losing him to go out for dinner. By three 
+
+in the afternoon he had grown impatient. He went to the house next
+
+door and rang the bell.   There was no response.   He thundered
+
+another appeal.  An old woman with a cloth about her head
+
+answered the door. 
+
+<pb id="ep.gs.0010.09.jpg" n="123"/>
+
+She was very deaf, and Boyce had difficulty in making himself
+
+understood.</p>
+
+<p>"The family is in the country," was all she would say. "The
+
+family will not be home till September."</p>
+
+<p>"But there is some one living here?" shouted Boyce.</p>
+
+<p>"<hi rend="italic">I</hi> live here," she said with dignity, putting back a wisp
+
+of dirty gray hair behind her ear. "It is my house. I sublet to the
+
+family."</p>
+
+<p>"What family?"</p>
+
+<p>But the old creature was not communicative.</p>
+
+<p>"The family that lives here," she said.</p>
+
+<p>"Then who plays the piano in this house?" roared Boyce. "Do
+
+you?"</p>
+
+<p>He thought a shade of pallor showed itself on her ash-colored
+
+cheeks. Yet she smiled a little at the idea of her playing.</p>
+
+<p>"There is no piano," she said, and she put an enigmatical
+
+emphasis to the words.</p>
+
+<p>"Nonsense," cried Boyce, indignantly. "I 
+
+<pb id="ep.gs.0010.10.jpg" n="124"/>
+
+heard a piano being played in this very house
+
+for hours last night!"</p>
+
+<p>"You may enter," said the old woman, with an accent more
+
+vicious than hospitable.</p>
+
+<p>Boyce almost burst into the drawing-room. It was a dusty and
+
+forbidding place, with ugly furniture and gaudy walls. No piano nor
+
+any other musical instrument stood in it. The intruder turned an
+
+angry and baffled face to the old woman, who was smiling with
+
+ill-concealed exultation.</p>
+
+<p>"I shall see the other rooms," he announced. The old woman did
+
+not appear to be surprised at his impertinence.</p>
+
+<p>"As you please," she said.</p>
+
+<p>So, with the hobbling creature, with her bandaged head, for a
+
+guide, he explored every room of the house, which being identical
+
+with his own, he could do without fear of leaving any apartment
+
+unentered. But no piano did he find!</p>
+
+<p>"Explain," roared Boyce at length, turning upon the leering old
+
+hag beside him. "Ex-
+
+<pb id="ep.gs.0010.11.jpg" n="125"/>
+
+plain! For surely I heard music more beautiful than I can tell."</p>
+
+<p>"I know nothing," she said. "But it is true I once had a lodger
+
+who rented the front room, and that he played upon the piano. I am
+
+poor at hearing, but he must have played well, for all the neighbors
+
+used to come in front of the house to listen, and sometimes they
+
+applauded him, and sometimes they were still.   I could tell by
+
+watching their hands. Sometimes little children came and danced.
+
+Other times young men and women came and listened. But the
+
+young man died. The neighbors were angry. They came to look at
+
+him and said he had starved to death.  It was no fault of mine. I sold
+
+his piano to pay his funeral expenses&#8212;and it took every cent to pay
+
+for them too, I'd have you know.   But since then, sometimes&#8212;still,
+
+it must be nonsense, for I never heard it&#8212;folks say that he plays the
+
+piano in my room. It has kept me out of the letting of it more than
+
+once. But 
+
+<pb id="ep.gs.0010.12.jpg" n="126"/>
+
+the family doesn't seem to mind&#8212;the family that lives here, you
+
+know. They will be back in September. Yes."</p>
+
+<p>Boyce left her nodding her thanks at what he had placed in her
+
+hand, and went home to write it all to Babette&#8212;Babette who would
+
+laugh so merrily when she read it!</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

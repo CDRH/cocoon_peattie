@@ -1,0 +1,242 @@
+/* CSS Document */
+
+/* Elia Peattie styling */
+
+/* All pages other then the index page */
+
+/* For font styling see font.css */
+
+body {
+	text-align: center
+}
+
+body {
+	font: 13px/1.231 arial,helvetica,clean,sans-serif;
+	*font-size: small;
+	*font: x-small;
+}
+
+table {
+	font-size: inherit;
+	font: 100%;
+}
+
+td {
+	padding: 0px 10px 10px 0px !important;
+
+
+}
+
+pre,code,kbd,samp,tt {
+	font-family: monospace;
+	*font-size: 108%;
+	line-height: 100%;
+}
+
+.note {
+	padding-bottom: 5px;
+}
+
+/* The Header image and photo */
+
+.top {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	width: 940px;
+	margin-bottom: -55px
+}
+
+.top p {
+	background: url(../images/jpgs/title2.jpg) no-repeat;
+	width: auto;
+	height: 151px;
+}
+
+.top img {
+	margin-top: -151px;
+	position: relative;
+	right: -800px
+}
+
+.top img.ie {
+	display: none
+}
+
+.top h1 {
+	display: none
+}
+
+/* Works links and shadow */
+
+.middle {
+	background: url(../images/jpgs/brown.jpg);
+}
+
+.middlecontainer {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	width: 960px;
+	padding: 13px 0 11px 10px;
+	font-size: .9em;
+}
+
+.middlecontainer div {
+	width: 900px;
+}
+
+.middlecontainer div h2 {
+	margin-right: 5px
+}
+
+.shadow {
+	background: url(../images/jpgs/dropshadow.jpg) repeat-x top
+}
+
+/* Main container. Includes contents of the page and links list.*/
+
+.bottom {
+	margin-left: auto;
+	margin-right: auto;
+	width: 937px;
+	text-align: left
+}
+
+/* List of links to the left */
+
+.left {
+	float: left;
+	width: 202px
+}
+
+.list {
+	background: url(../images/jpgs/list2.jpg) no-repeat;
+	padding: 20px 0 100px 30px;
+	margin-right: -10px
+}
+
+/* Main contents of the page */
+
+div.content {
+	margin: 0px 20px 50px 240px;
+	padding-top: 20px
+}
+
+div.content img.figure {
+	float: right;
+	margin: 10px 0 10px 10px;
+	clear: right;
+	border: solid 10px #fff;
+}
+
+/* For starwagon images */
+
+div.content div.starwagon_image {
+	border: solid 2px #aaa;
+	float: none;
+	text-align: center;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+
+div.content div.starwagon_image img {
+	background-color: red;
+	float: none;
+}
+
+a.link img {
+	margin: 40px 0 0 35px
+}
+
+/* Footer and links */
+
+.footer {
+	text-align: left;
+	margin-top: 70px;
+	padding-bottom: 200px;
+	background-color: #92d1b8;
+}
+
+.links {
+	text-align: left;
+}
+
+.links {
+	background: url(../images/jpgs/brown.jpg);
+	padding: 15px 0 0 20px;
+	width: 169px;
+	height: 89px
+}
+
+.links ul {
+	margin-top: 10px
+}
+
+.footerbox {
+	width: 907px;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.footerimg {
+	background: url(../images/jpgs/footer.jpg) repeat-x
+}
+
+.footerimg img {
+	float: right;
+	margin: -60px 20px 0 0
+}
+
+/* List Styling */
+
+.lists h3 {
+	margin: 0 0 5px 0
+}
+
+.lists h5 {
+	margin-left: 15px
+}
+
+.lists ul {
+	margin: 5px 0 0 30px
+}
+
+.lists li {
+	margin-bottom: 10px
+}
+
+/*Sections subnav - links to link pages*/
+
+.navigation {
+	margin: 20px 0 20px 0;
+}
+
+/*Novel Section*/
+
+.novel {
+	border-top-color: #8CAF97;
+	border-right-color: #8CAF97;
+	border-bottom-color: #8CAF97;
+	border-left-color: #8CAF97;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 3px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	padding: 0px 15px 5px 15px;
+	margin-bottom: 10px;
+}
+
+/*Strong*/
+
+strong {
+	font-weight: 900;
+}
+
+li li {
+	margin: 3px;
+}

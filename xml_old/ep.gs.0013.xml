@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+
+]>
+<TEI id="ep.gs.0013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Grammatical Ghost</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.gs.0013</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="m">The Shape of Fear and Other Ghostly Tales</title>
+<title level="a">A Grammatical Ghost</title>
+<pubPlace>New York</pubPlace>
+<publisher>Macmillan</publisher>
+<date value="1898">1898</date>
+<series>Short Story Index Reprint Series</series>
+<pubPlace>Freeport, NY</pubPlace>
+<publisher>Books for Libraries Press</publisher>
+<date value="1969">1969</date>
+<biblScope type="pages">161-175</biblScope>
+</bibl>
+
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+
+<encodingDesc>
+<editorialDecl>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Book</term>
+</keywords>
+</textClass></profileDesc>
+
+
+
+<revisionDesc>
+<change>
+<date>2009-03-03</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-11-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item></item>
+</change>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Converted from html</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="ep.gs.0013.01.jpg" n="161"/>
+
+<head>A GRAMMATICAL GHOST</head>
+
+<p>THERE was only one possible objection to the drawing-room,
+
+and that was the occasional presence of Miss Carew; and only one
+
+possible objection to Miss Carew. And that was, that she was
+
+dead.</p>
+
+<p>She had been dead twenty years, as a matter of fact and record,
+
+and to the last of her life sacredly preserved the treasures and
+
+traditions of her family, a family bound up&#8212;as it is quite
+
+unnecessary to explain to any one in good society&#8212;with all that is
+
+most venerable and heroic in the history of the Republic. Miss
+
+Carew never relaxed the proverbial hospitality of her house, even
+
+when she remained its sole representative.   She continued to
+
+preside at her table with dignity and state, 
+
+<pb id="ep.gs.0013.02.jpg" n="162"/>
+
+and to set an example of excessive modesty and gentle decorum to a
+
+generation of restless young women.</p>
+
+<p>It is not likely that having lived a life of such irreproachable
+
+gentility as this, Miss Carew would have the bad taste to die in any
+
+way not pleasant to mention in fastidious society. She could be
+
+trusted to the last, not to outrage those friends who quoted her as an
+
+exemplar of propriety. She died very unobtrusively of an affection
+
+of the heart, one June morning, while trimming her rose trellis, and
+
+her lavender-colored print was not even rumpled when she fell, nor
+
+were more than the tips of her little bronze slippers visible.</p>
+
+<p>"Isn't it dreadful," said the Philadelphians, "that the property
+
+should go to a very, very distant cousin in Iowa or somewhere else
+
+on the frontier, about whom nobody knows anything at all?"</p>
+
+<p>The Carew treasures were packed in boxes and sent away into
+
+the Iowa wilderness; the Carew traditions were preserved by the
+
+<orig reg="Historical">His- 
+
+<pb id="ep.gs.0013.03.jpg" n="163"/>
+
+torical</orig> Society; the Carew property, standing in one of the most
+
+umbrageous and aristocratic suburbs of Philadelphia, was rented to
+
+all manner of folk&#8212;anybody who had money enough to pay the
+
+rental&#8212;and society entered its doors no more.</p>
+
+<p>But at last, after twenty years, and when all save the oldest
+
+Philadelphians had forgotten Miss Lydia Carew, the very, very
+
+distant cousin appeared. He was quite in the prime of life, and so
+
+agreeable and unassuming that nothing could be urged against him
+
+save his patronymic, which, being Boggs, did not commend itself to
+
+the euphemists. With him were two maiden sisters, ladies of
+
+excellent taste and manners, who restored the Carew china to its
+
+ancient cabinets, and replaced the Carew pictures upon the walls,
+
+with additions not out of keeping with the elegance of these
+
+heirlooms.  Society, with a magnanimity almost dramatic,
+
+overlooked the name of Boggs&#8212;and called.</p>
+
+<p>All was well. At least, to an outsider all 
+
+<pb id="ep.gs.0013.04.jpg" n="164"/>
+
+seemed to be well. But, in truth, there was a certain distress in the
+
+old mansion, and in the hearts of the well-behaved Misses Boggs. It
+
+came about most unexpectedly. The sisters had been sitting upstairs,
+
+looking out at the beautiful grounds of the old place, and marvelling
+
+at the violets, which lifted their heads from every possible cranny
+
+about the house, and talking over the cordiality which they had been
+
+receiving by those upon whom they had no claim, and they were
+
+filled with amiable satisfaction. Life looked attractive. They had
+
+often been grateful to Miss Lydia Carew for leaving their brother
+
+her fortune. Now they felt even more grateful to her. She had left
+
+them a Social Position&#8212;one, which even after twenty years of
+
+desuetude, was fit for use.</p>
+
+<p>They descended the stairs together, with arms clasped about
+
+each other's waists, and as they did so presented a placid and
+
+pleasing sight. They entered their drawing-room with the intention
+
+of brewing a cup of tea, and 
+
+<pb id="ep.gs.0013.05.jpg" n="165"/>
+
+drinking it in calm sociability in the twilight. But as they entered the
+
+room they became aware of the presence of a lady, who was already
+
+seated at their tea-table, regarding their old Wedgwood with the air
+
+of a connoisseur.</p>
+
+<p>There were a number of peculiarities about this intruder. To
+
+begin with, she was hatless, quite as if she were a habitu&#233; of
+
+the house, and was costumed in a prim lilac-colored lawn of the
+
+style of two decades past. But a greater peculiarity was the
+
+resemblance this lady bore to a faded daguerrotype. If looked at one
+
+way, she was perfectly discernible; if looked at another, she went
+
+out in a sort of blur.  Notwithstanding this comparative invisibility,
+
+she exhaled a delicate perfume of sweet lavender, very pleasing to
+
+the nostrils of the Misses Boggs, who stood looking at her in gentle
+
+and unprotesting surprise.</p>
+
+<p>"I beg your pardon," began Miss Prudence, the younger of the
+
+Misses Boggs, "but&#8212;"</p> 
+
+<pb id="ep.gs.0013.06.jpg" n="166"/>
+
+<p>But at this moment the Daguerrotype became a blur, and Miss
+
+Prudence found herself addressing space.   The Misses Boggs were
+
+irritated. They had never encountered any mysteries in Iowa. They
+
+began an impatient search behind doors and porti&#232;res, and
+
+even under sofas, though it was quite absurd to suppose that a lady
+
+recognizing the merits of the Carew Wedgwood would so far
+
+forget herself as to crawl under a sofa.</p>
+
+<p>When they had given up all hope of discovering the intruder,
+
+they saw her standing at the far end of the drawing-room critically
+
+examining a water-color marine. The elder Miss Boggs started
+
+toward her with stern decision, but the little Daguerrotype turned
+
+with a shadowy smile, became a blur and an imperceptibility.</p>
+
+<p>Miss Boggs looked at Miss Prudence Boggs.</p>
+
+<p>"If there were ghosts," she said, "this would be one."</p>
+
+<p>"If there were ghosts," said Miss Prudence 
+
+<pb id="ep.gs.0013.07.jpg" n="167"/>
+
+Boggs, "this would be the ghost of Lydia Carew."</p>
+
+<p>The twilight was settling into blackness, and Miss Boggs
+
+nervously lit the gas while Miss Prudence ran for other tea-cups,
+
+preferring, for reasons <sic corr="superfluous">surperfluous</sic> to mention, not to drink out of
+
+the Carew china that evening.</p>
+
+<p>The next day, on taking up her embroidery frame, Miss Boggs
+
+found a number of old-fashioned cross-stitches added to her
+
+Kensington.  Prudence, she knew, would never have degraded
+
+herself by taking a cross-stitch, and the parlor-maid was above
+
+taking such a liberty. Miss Boggs mentioned the incident that night
+
+at a dinner given by an ancient friend of the Carews.</p>
+
+<p>"Oh, that's the work of Lydia Carew, without a doubt!" cried the
+
+hostess. "She visits every new family that moves to the house, but
+
+she never remains more than a week or two with any one."</p>
+
+<p>"It must be that she disapproves of them," suggested Miss
+
+Boggs.</p>
+
+<pb id="ep.gs.0013.08.jpg" n="168"/>
+
+<p>"I think that's it," said the hostess. "She doesn't like their china,
+
+or their fiction."</p>
+
+<p>"I hope she'll disapprove of us," added Miss Prudence.</p>
+
+<p>The hostess belonged to a very old Philadelphian family, and
+
+she shook her head.</p>
+
+<p>"I should say it was a compliment for even the ghost of Miss
+
+Lydia Carew to approve of one," she said severely.</p>
+
+<p>The next morning, when the sisters entered their drawing-room
+
+there were numerous evidences of an occupant during their absence.
+
+The sofa pillows had been rearranged so that the effect of their
+
+grouping was less bizarre than that favored by the Western women;
+
+a horrid little Buddhist idol with its eyes fixed on its abdomen, had
+
+been chastely hidden behind a Dresden shepherdess, as unfit for the
+
+scrutiny of polite eyes; and on the table where Miss Prudence did
+
+work in water colors, after the fashion of the impressionists, lay a
+
+prim and impossible composition representing a moss-rose and a
+
+number of heartsease, col-
+
+<pb id="ep.gs.0013.09.jpg" n="169"/>
+
+ored with that caution which modest spinster artists instinctively
+
+exercise.</p>
+
+<p>"Oh, there's no doubt it's the work of Miss Lydia Carew," said
+
+Miss Prudence, contemptuously. "There's no mistaking the drawing
+
+of that rigid little rose. Don't you remember those wreaths and
+
+bouquets framed, among the pictures we got when the Carew
+
+pictures were sent to us? I gave some of them to an orphan asylum
+
+and burned up the rest."</p>
+
+<p>"Hush!" cried Miss Boggs, involuntarily. "If she heard you, it
+
+would hurt her feelings terribly.   Of course, I mean&#8212;" and she
+
+blushed.   "It might hurt her feelings&#8212;but how perfectly ridiculous! 
+
+It's impossible!"</p>
+
+<p>Miss Prudence held up the sketch of the moss-rose.</p>
+
+<p>"<hi rend="italic">That</hi> may be impossible in an artistic sense, but it is a
+
+palpable thing."</p>
+
+<p>"Bosh!" cried Miss Boggs.</p>
+
+<p>"But," protested Miss Prudence, "how do you explain it?"</p>
+
+<pb id="ep.gs.0013.10.jpg" n="170"/>
+
+<p>"I don't," said Miss Boggs, and left the room.</p>
+
+<p>That evening the sisters made a point of being in the
+
+drawing-room before the dusk came on, and of lighting the gas at
+
+the first hint of twilight. They didn't believe in Miss Lydia Carew&#8212;
+
+but still they meant to be beforehand with her. They talked with
+
+unwonted vivacity and in a louder tone than was their custom. But
+
+as they drank their tea even their utmost verbosity could not make
+
+them oblivious to the fact that the perfume of sweet lavender was
+
+stealing insidiously through the room. They tacitly refused to
+
+recognize this odor and all that it indicated, when suddenly, with a
+
+sharp crash, one of the old Carew tea-cups fell from the tea-table to
+
+the floor and was broken. The disaster was followed by what
+
+sounded like a sigh of pain and dismay.</p>
+
+<p>"I didn't suppose Miss Lydia Carew would ever be as awkward
+
+as that," cried the younger Miss Boggs, petulantly.</p>
+
+<pb id="ep.gs.0013.11.jpg" n="171"/>
+
+<p>"Prudence," said her sister with a stern accent, "please try not to
+
+be a fool.  You brushed the cup off with the sleeve of your
+
+dress."</p>
+
+<p>"Your theory wouldn't be so bad," said Miss Prudence, half
+
+laughing and half crying, "if there were any sleeves to my dress, but,
+
+as you see, there aren't," and then Miss Prudence had something as
+
+near hysterics as a healthy young woman from the West can
+
+have.</p>
+
+<p>"I wouldn't think such a perfect lady as Lydia Carew," she
+
+ejaculated between her sobs, "would make herself so disagreeable!
+
+You may talk about good-breeding all you please, but I call such
+
+intrusion exceedingly bad taste. I have a horrible idea that she likes
+
+us and means to stay with us. She left those other people because
+
+she did not approve of their habits or their grammar. It would be
+
+just our luck to please her."</p>
+
+<p>"Well, I like your egotism," said Miss Boggs.</p>
+
+<p>However, the view Miss Prudence took of 
+
+<pb id="ep.gs.0013.12.jpg" n="172"/>
+
+the case appeared to be the right one. Time went by and Miss Lydia
+
+Carew still remained. When the ladies entered their drawing-room
+
+they would see the little lady-like Daguerrotype revolving itself into
+
+a blur before one of the family portraits. Or they noticed that the
+
+yellow sofa cushion, toward which she appeared to feel a peculiar
+
+antipathy, had been dropped behind the sofa upon the floor; or that
+
+one of Jane Austen's novels, which none of the family <sic corr="ever">every</sic> read,
+
+had been removed from the book shelves and left open upon the
+
+table.</p>
+
+<p>"I cannot become reconciled to it," complained Miss Boggs to
+
+Miss Prudence. "I wish we had remained in Iowa where we belong.
+
+Of course I don't believe in the thing! No sensible person would.
+
+But still I cannot become reconciled."</p>
+
+<p>But their liberation was to come, and in a most unexpected
+
+manner.</p>
+
+<p>A relative by marriage visited them from 
+
+<pb id="ep.gs.0013.13.jpg" n="173"/>
+
+the West. He was a friendly man and had much to say, so he talked
+
+all through dinner, and afterward followed the ladies to the
+
+drawing-room to finish his gossip. The gas in the room was turned
+
+very low, and as they entered Miss Prudence caught sight of Miss
+
+Carew, in company attire, sitting in upright propriety in a
+
+stiff-backed chair at the extremity of the apartment.</p>
+
+<p>Miss Prudence had a sudden idea.</p>
+
+<p>"We will not turn up the gas," she said, with an emphasis
+
+intended to convey private information to her sister. "It will be more
+
+agreeable to sit here and talk in this soft light."</p>
+
+<p>Neither her brother nor the man from the West made any
+
+objection. Miss <sic corr="Boggs">Bogg</sic> and Miss Prudence, clasping each other's
+
+hands, divided their attention between their corporeal and their
+
+incorporeal guests. Miss Boggs was confident that her sister had an
+
+idea, and was willing to await its development. As the guest 
+
+<pb id="ep.gs.0013.14.jpg" n="174"/>
+
+from Iowa spoke, Miss Carew bent a politely attentive ear to what
+
+he said.</p>
+
+<p>"Ever since Richards took sick that time," he said briskly, "it
+
+seemed like he shed all responsibility."  (The Misses Boggs saw the
+
+Daguerrotype put up her shadowy head with a movement of doubt
+
+and apprehension.) "The fact of the matter was, Richards didn't
+
+seem to scarcely get on the way he might have been expected to."
+
+(At this conscienceless split to the infinitive and misplacing of the
+
+preposition, Miss Carew arose trembling perceptibly.) "I saw it
+
+wasn't no use for him to count on a quick recovery&#8212;"</p>
+
+<p>The Misses Boggs lost the rest of the sentence, for at the
+
+utterance of the double negative Miss Lydia Carew had flashed out,
+
+not in a blur, but with mortal haste, as when life goes out at a pistol
+
+shot!</p>
+
+<p>The man from the West wondered why Miss Prudence should
+
+have cried at so pathetic a part of his story:</p>
+
+<pb id="ep.gs.0013.15.jpg" n="175"/>
+
+<p>"Thank Goodness!"</p>
+
+<p>And their brother was amazed to see Miss Boggs kiss Miss
+
+Prudence with passion and energy.</p>
+
+<p>It was the end. Miss Carew returned no more.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

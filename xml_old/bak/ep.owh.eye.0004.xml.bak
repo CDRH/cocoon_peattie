@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.eye.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Kelly's Army</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Kelly's Army</head>
+
+	<p>When the Depression of 1893 devastated America, the Great Plains and the South were especially overwhelmed because of an accompanying drought and agricultural recession that had begun in the late 1880s. This rural discontent triggered the organization of a third political party, the Populists, in Kansas in June of 1890. The Populists gained control of legislatures in Nebraska and Kansas, edging out the Republicans, and continued gaining support throughout the South, Midwest, and West.</p>
+
+	<p>Omaha became the hub for Populist activity, and on July 4, 1892, the Populists met in Omaha to organize a national party. Author Hamlin Garland was the Peattie's house guest, and it was at this convention that he read his famous story, "Under the Lion's Paw," which set forth his ideas on the Single Tax. Elia Peattie also used her pen to support the party with her story, "Jim Lancy's Waterloo," previously published in <hi rend="underline">Cosmopolitan</hi> magazine. The Populists printed a million copies and used it as "propaganda." The Peatties were also staunch supporters of Omaha's William Jennings Bryan, an editor for the <hi rend="underline">Omaha World-Herald</hi> and an 1896 Democratic presidential candidate who worked closely with Nebraska Populists. <hi rend="underline">The American Peasant: A Timely Allegory</hi> by Thomas Tibbles and Another (Peattie is anonymous), written in 1892, was one of the first published works about Bryan. He appreciated her support, and called her "the first Bryan Man."</p>
+
+<figure entity="ep.owh.eye.0004.01.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>After businessman Jacob Coxey organized a march of unemployed men from Massillon, Ohio, to the nation's capital to petition the government for a federally-funded public works program, other regions joined. In California, Charles T. Kelly's army, over two thousand strong, formed in San Francisco and headed east through Ogden, Utah, and then Denver, Colorado. In the small towns and cities along the way, thousands of people welcomed the army, donating food and money and waving at the men crammed into and on top of the train. In North Platte, Colonel William F. Cody donated three of his cattle, and in Kearney, as in other towns across the nation, new recruits boarded the train.</p>
+
+	<p>When General Kelly's Industrial Army rode the rails into Omaha, Peattie felt much compassion for the plight of these American laborers. With her Populist background, it is not surprising that Peattie supported them. Her editorial, "Are They Anarchists?" published on April 22, 1894, called their pilgrimage a nineteenth century Crusade and lauded their high expectations and devoted leader. After the army crossed the Missouri River, the free railroad rides ended, and the men were stranded in Council Bluffs, giving the people of Omaha more than a passing glance at the destitute men who symbolized the plight of so many other Americans.</p>
+
+	<p>Included in Kelly's army was a young tramp named Jack London, who joined the men near Omaha and later wrote about the journey in "The Road." He described what happened in Omaha and Council Bluffs: "A 'stiff' is a tramp. It was once my fortune to travel a few weeks with a 'push' that numbered two thousand. This was known as 'Kelly's Army.' Across the wild and woolly West, clear from California, General Kelly and his heroes had captured trains; but they fell down when they crossed the Missouri and went up against the effete East. The East hadn't the slightest intention of giving free transportation to two thousand hoboes. Kelly's Army lay helplessly for some time at Council Bluffs. . . . In the meantime, while we lay by the dead tracks, the good people of Omaha and Council Bluffs were bestirring themselves. Preparations were making to form a mob, capture a train in Council Bluffs, run it down to us, and make us a present of it. The railroad officials coppered that play, too."</p>
+
+	<p>When the one thousand men finally made it to Des Moines, they were greeted with hospitality, but when the army appeared ready to settle down, the community banded together to provide lumber to construct 150 flatboats to help them on their way. Each man was issued a small American flag at the launching.</p>
+
+	<p>When Coxey's army of six hundred men finally converged on Washington D.C., police arrested him and two aides for carrying a banner and trespassing on the capitol lawn, beat his sympathizers, and detained the marchers in camps. Coxey was sentenced to twenty days in jail and not allowed to present his case to assist the unemployed workers to Congress; however, allies in Congress later read his speech into the Congressional Record.</p>
+
+	<p>Kelly's army, as well as others, continued to arrive at the capitol, but only in small groups; Kelly's followers now numbered only three hundred. The various armies from around the nation numbered over twelve hundred men, but by the end of July, provisions were depleted and several of the army members were arrested for begging for food in the residential districts. Finally, Colorado Representative Lafe Pence arranged for transportation to return Kelly's men as far west as his state the first part of August. By August 15 all of the "industrials" had been dispersed from the city.</p>
+
+	<p>Although Kelly's army accomplished "nothing" at that time, as Peattie had feared, her prediction of a reincarnation came true: "Over and over, questions arise in new forms." Ironically, Coxey's proposals, considered radical at the time, formed the basis for Franklin D. Roosevelt's New Deal program during the Depression of the 1930s.</p>
+</div1>
+
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Goldfield, David">Goldfield, David</author> et al. <title level="m"><hi rend="underline">The American Journey: A History of the United States Vol. II</hi></title>. <pubPlace>Upper Saddle River, NJ</pubPlace>: <publisher>Prentice Hall</publisher>, <date value="1998">1998</date>.</bibl>
+
+<bibl><author n="Hamaker, Gene E.">Hamaker, Gene E.</author> <title level="a">"The Commonweal Comes to Kearney, 1894."</title> <title level="j">Buffalo Tales</title> 2.5 (<date value="1979-05">May 1979</date>).</bibl>
+
+<bibl><title level="a">"Hospitality and Development Shape Des Moines."</title> <hi rend="underline">Des Moines: History</hi>. 17 September 2007 <<xref url="http://www.city-data.com/us-cities/The-Midwest/Des-Moines-History.html" rend="new">http://www.city-data.com/us-cities/The-Midwest/Des-Moines-History.html</xref>>.</bibl>
+
+<bibl><title level="a">"Jack London: The Road."</title> <hi rend="underline">The Jack London Online Collection</hi>. <publisher>Berkeley Digital Library SunSITE. UC Berkeley</publisher>. <date value="2001">2001</date>. 27 June 2001. <http://sunsite.berkeley.edu/ London/Writings>.</bibl>
+
+<bibl><author n="McMurry, Donald L.">McMurry, Donald L.</author> <title level="m">Coxey's Army: A Study of the Industrial Army Movement of 1894</title>. <pubPlace>Seattle</pubPlace>: <publisher>University of Washington Press</publisher>, <date value="1968">1968</date>.</bibl>
+
+<bibl><author n="Peattie, Elia W.">Peattie, Elia W.</author> <hi rend="underline">Star Wagon</hi>. Unpublished manuscript.</bibl>
+
+<bibl><author n="Schwantes, Carlos A.">Schwantes, Carlos A.</author> <title level="m">Coxey's Army: An American Odyssey</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1985">1985</date>.</bibl>
+
+</div1>
+
+
+<div1>
+<head type="sub">Illustration</head>
+
+<bibl>The Original "Coxey Army." Library of Congress. Illustration by <author n="Rogers, W.A.">W.A. Rogers</author> in <title level="j">Harper's Weekly</title>, <date value="1894-05-12">1894 May 12</date>, p. <biblScope type="pages">433</biblScope>. [Digital ID: cph 3b42871]</bibl>
+
+</div1>
+</body>
+</text>
+</TEI>

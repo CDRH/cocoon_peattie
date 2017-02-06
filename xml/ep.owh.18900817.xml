@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18900817 SYSTEM "ep.owh.18900817.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18900817">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">They Were from Missouri</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18900817</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">They Were from Missouri</title>
+<title level="a" type="sub">A Section of That State's Population Discovered at Spirit Lake</title>
+<title level="a" type="sub">The Summer Resort Benefactor and His Functions&#8212;He Will Have a Special Crown When He Dies&#8212;The Omaha Crowd</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1890-08-17">17 August 1890</date>
+<biblScope type="pages">9</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-23</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2007-11-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18900817">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p9"/>
+
+<div1>
+
+<head type="main">THEY WERE FROM MISSOURI</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">A Section of That State's <orig reg="Population">Popu-<lb/>
+lation</orig> Discovered at<lb/>
+Spirit Lake.</head> -->
+
+<head type="sub">A Section of That State's Population Discovered at Spirit Lake.</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">One Summer Resort Benefactor and His<lb/>
+Functions&#8211;He Will Have a Special Crown<lb/>
+When He Dies&#8211;The Omaha Crowd.</head> -->
+
+<head type="sub">One Summer Resort Benefactor and His Functions&#8212;He Will Have a Special Crown 
+When He Dies&#8212;The Omaha Crowd.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>H<hi rend="smallcaps">OTEL</hi> O<hi rend="smallcaps">RLEANS</hi>, S<hi rend="smallcaps">PIRIT</hi> L<hi rend="smallcaps">AKE</hi>, Ia., Aug. 15.&#8212;[Special Correspondence.]&#8212;Crandall's, immediately across the lake from the Hotel Orleans, has the reputation of being a popular place of resort, and your correspondent therefore went over for the purpose of finding what city-worn mortals sought its shades and beaches.</p>
+
+	<p>The beach was there all right enough, and so were a dozen brown babies, who were paying a slight tribute to custom in the way of clothes, but who could not be said to be outdoing the law in that regard. These blessed innocents appeared to be in process of reincarnation. They were rapidly evolving into ducks. Drowning appeared to be a physical impossibility. They had scooped up the mud and formed a miniature harbor, and in this they were floating tiny boats, while one of them simulated a waterspout by filling an enormous watering pot and pouring it upon the unfortunate fleet. Incidentally several quarts of the dirty <sic corr="fluid">fliud</sic> went on the tow head of a boy with bow legs, but this discomfited neither the babe who poured the mud nor the babe who received it.</p>
+
+<!-- <figure>
+<figDesc>NOT AT ALL SLOW.</figDesc>
+</figure> -->
+
+	<p>As even very fastidious folks relax at summer resorts, your correspondent thought nothing of this. Besides, babes will be babes. So she went on, still expecting to find neighbors and friends in the midst of those oaken groves.</p>
+
+	<p>The hotel building with its several annexes is situated some way up the beach, and with the entirely innocent desire to accumulate facts or some apology for them, a door was tried. But a resentful hand held it fast on the <gap reason="torn"/>de. For a minute I was seized with a <gap reason="torn"/>that I had intruded into the privacy <gap reason="torn"/> dressing romm. But no, the <gap reason="torn"/> was merely the dining room. The force with which the door was held fast demonstrated the fact that the folk at Crandall's know how to protect their commissary stores&#8212;which is one of the first requisites of a successful campaign.</p>
+
+	<p>Just then a girl who was making pink paper flowers appeared on the scene. There was something in her freckles, in her good nature, in her homely prettiness that presented an idea, or a type, of a place, but the solution evaded me, as such things will. But I knew that girl was just as typical as a wild girl from Australia, only I couldn't remember where she belonged. When she was asked where the office was she went to show the way&#8212;and there was something in that act that belonged to the type. Her smile was saucy, though she probably didn't know it, and her freckles had a cheerful way of gleaming out, like stars from a little sky&#8212;and it all belonged to that type, whatever it was.</p>
+
+	<p>In the office there was profound quiet&#8212;quiet as if a funeral were in process.</p>
+
+	<p>But there was no funeral. There was only a game of poker.</p>
+
+	<p>Four men, with their trousers tucked in their boots, sat solemnly around a deal table. They had their hats on, their beards were long, and their eyes were the color of buttermilk.</p>
+
+	<p>The reporter paused. She felt a bit timid. Something in the air seemed&#8212;well, it seemed different. It wasn't exactly sulphurous, but it was certainly different.</p>
+
+	<p>"I beg your pardon," I said, "but would you be kind enough to tell me, if it isn't any trouble at all, and won't interrupt your game, whether or not there are any Omaha people staying with you?"</p>
+
+	<p>There was a silence. It might even be designated, as it frequently is in tales of the plains, "an ugly silence." Three of the men in turn looked at each other. Then they all looked at the fourth. After a deliberation which was certainly impressive, one of them said:</p>
+
+	<p>"There ain't."</p>
+
+	<p>Nothing but devotion to duty made me remain. But there is nothing like dying at your post.</p>
+
+	<p>"Perhaps then," I went on, "there may be some one here from Council Bluffs?"</p>
+
+	<p>Again three of the men looked at the fourth. This fourth man had longer whiskers than the rest, and his boots came up higher. Possibly that was why the other three deferred to him. Again he said with that sepulchral accent:</p>
+
+	<p>"There hain't."</p>
+
+	<p>"Ah!" said I, with a sort of English accent that I always take to when I am frightened&#8212;perhaps because I feel that my oppressors will hear in fancy the roar of the British lion behind me&#8212;"I should be awfully glad to know whether or not you are camping out? Do you 'ave tents?"</p>
+
+	<p>Three men looked at the fourth. The fourth put his hand into his boot top! Was it a flea&#8212;or a bowie knife? I got hold of the door know and waited. The silence deepened for two seconds. Then the fourth man said:</p>
+
+	<p>"None ain't got no tents."</p>
+
+	<p>The hand was withdrawn from the boot top without any accompaniment, so I ventured one more question.</p>
+
+	<p>I can't tell what made me adopt the peculiar phraseology that I did. I never said anything like that before. It was just some occult action of the brain. It <gap reason="torn"/>spontaneous trib<gap reason="torn"/> to the fitness <gap reason="torn"/> jocularly, "where do yousall come from?"</p>
+
+	<p>The four dropped their cards. They turned around on me with four wide Ozark smiles, something like the one worn by the girl with the pink paper flowers, and they answered in chorus:</p>
+
+	<p>"Why, wesall come from Missouri. Where'r yousall from?"</p>
+
+	<p>I took lemonade, of course, for I don't drink anything stronger.</p>
+
+<!-- <figure>
+<figDesc>OBSERVED BY ALL.</figDesc>
+</figure> -->
+
+	<p>And I ought to have known from the first where those brown babies and that nice little freckled girl and the top boots and the whiskers belonged!</p>
+
+	<p>But then life is a dream and a forgetting, isn't it?</p>
+
+	<p>"The young ladies at the Hotel Orleans occasionally complain that there is a lack of young men. These young ladies have not had much experience at eastern resorts, or they would consider themselves very fortunate by contrast. The truth of the matter is Spirit Lake and the Orleans is very well supplied with young men.</p>
+
+<p>And some of them are very nice young men.</p>
+
+	<p>In the middle of the week there is sometimes a dearth of masculinity, and then the gentle little Englishman from Lemars has to do more than his share of chair-bringing and shoe-tying and arm-offering. But he does it with an angelic patience. This very pleasant gentleman of leisure has evidently thought. He is a philosopher disguised in a tennis suit. He has said to himself:</p>
+
+	<p>"There are dozens of eminent statesmen: there are a surfeit of successful bankers and lawyers and physicians; there are almost too many preachers, and writers are at a discount; there has even been a Stanley, and two Stanley's would be a horrid bore, therefore I will fill another niche. I will be the Benefactor of the summer resort girl. There is no place where one can do benefacting on a larger scale than in the midst of the summer resort girls. I am, therefore, going to fill a long felt want. And I can do it gracefully. I may even say, without egotism, that I can do it artistically. Therefore I will rise in the early morning and a suit of blue and white flannel, and I will take in six young women in tennis skirts and blouses to breakfast. Then I will bowl with four other young ladies. Then I will drive and lunch with two others. Then I will play tennis with another, and I will take three more out for a sail. After that I will put on a dress suit and buy some roses for the military young lad<gap reason="torn"/> easily dance with twelve dear girls in the course of the evening, and say some pleasant things to them on the piazzas. Then I will accompany two or three to the doors of their rooms, and say something about partings being such sweet sorrow&#8212;of course, it will be necessary to get up a new speech now and then. And I will thus become a Benefactor, with a capital B. And while history may not record my actions of sacrifice nor poets sing them, I shall be cherished in the grateful memory of many and many a maid, and in heaven I shall have my own particular little crown and it will be quite different from the rest. It will be unique, in fact. And all the angels will nudge each other and say: 'Who is that fellow? His crown seems something new.'</p>
+
+	<p>" 'Ah,' the other angel will reply, 'I think that is rather neat. It is the very latest thing. It is for the Summer Resort Benefactor.'</p>
+
+	<p>"Now that," says the amiable Englishman from Lemars, "is not a contemptible mission!"</p>
+
+	<p>And it isn't.</p>
+
+	<p>Mr. Joseph Barker of Omaha is the Nestor of the crowd, and he has a diffuse paternal air which rests like a benediction on the house. Everyone feels it. Everyone is grateful for it. Mr. Barker is fond of bathing. He is not one of those wicked old gentlemen who sit on a bench in the sun and bring glasses with them to watch the pretty girls in the surf. He is one of the good old gentlemen who go in the surf. And once in, he ceases to be Nestor and becomes Neptune. As no change of initial is necessary on his handkerchiefs, the transmigration involves no expense. The only real flippancy that Mr. Barker is guilty of is to sing "I'm her Jo," to a number of ladies whose names are withheld for previous reasons.</p>
+
+	<p>Mrs. Guy Baron and Mrs. Coleman chartered the steamer the day before their return to Omaha and invited their friends <sic corr="to">so</sic> take a ride around the lake. Several boxes of tempting confections and bowls of lemonade were a not insignificant part of the exploit. Mr. Arthur Guiou likes to give little sailing parties. Mrs. Branch, Mrs. Swobe, Mrs. McKenna, Mrs. Barkalow, Mrs. McGord, Mrs. Thurston, Mrs. Redick and a number of other are particularly devoted to cards. Mrs. Nye and pretty Mrs. Dundy continue to haunt the bowling alley, and to do execution there.</p>
+
+	<p>The Misses Mills of Des Moines are among the daintiest girls there. Their faces and their costumes are charming. The younger one wears a costume of dull green China silk, which has huge puffs of white foaming out here and there, and glimpses of gold, that makes her look like a fairy princess. Miss Orchard wears her gowns with a clinging effect that suggests Mary Anderson and the improved underwear. The effect is a little statuesque at times&#8212;and none the less beautiful for that. Miss Fairleigh of St. Joseph is a beautiful girl, with hair like a sea nymph's. The Omaha girls hold their own in point of beauty perhaps, but they certainly do not exceed in attractiveness the girls from Iowa and Missouri.</p>
+
+	<p>The latest arrivals here in whom Omaha and Council Bluffs folks will be interested are: Hon. John M. Thurston, John C. Cowin, Mrs. Cowin, Miss Edna Cowin, Mr. W. B. C<gap reason="covered"/> W. H. McCord, Mr. F. T. H<gap reason="covered"/> Mr. L. R. Pratt, Mr. C. S. Sau<gap reason="covered"/> W. F. Wyman, M. C. A. Ho<gap reason="torn"/> and Mr. K. C. Barton. M<gap reason="torn"/> W. Melpie of Omaha has run <gap reason="torn"/> Carter Lake where she is spending a part of the summer. Miss McCord of Omaha, is here with her friend Miss Steele, who will be remembered as the guest of Miss Yates last winter.</p>
+
+	<p>On the nineteenth of the month the grand commandery of the Knights Templar of the state of Iowa, will assemble at Templar park, Spirit Lake. This is the twenty-seventh annual conclave of the state. Cyrus W. Eaton of Cedar Rapids, James A. Guest of Burlington, W. F. Fidlar of Davenport, W. F. Cleveland of Harlan, James M. Ferris of Floyd, Frank D. Boyer of Oskaloosa, George B. Owen of Marion, Rufus P. Smith of Monticello, John B. Parish of Des Moines, Alf Wingate of Des Moines, Edward S. Patterson of Hampton, William H. Hall of Osceola, Andrew F. Armstrong of Audubon, and Theodore Schreiner of Mount Pleasant are the officers who constitute the grand <sic corr="commandery">commandary</sic> of the state, and all of these will probably be present. The programme is an interesting one. The parades are promised to be something brilliant and the grounds are exceedingly inviting. On the 21st of August a ball will be given at the Orleans hotel by Mr. Leland, the proprietor of the hotel, who is himself a sir knight. To this the friends and the ladies of the sir knights are invited. There are to be special railroad rates.</p>
+
+	<p>The interstate commercial association of the Missouri valley will hold its first annual meeting Thursday, August 13, at the Hotel Orleans. A banquet will be spread for them on the evening of that day, which is to be quite the most elaborate thing the Orleans has yet had.</p>
+
+<!-- <figure>
+<figDesc>THE BATHING ROBE.</figDesc>
+</figure> -->
+
+	<p>The Sixth regiment of the Iowa state militia will go into encampment for a week or ten days, beginning August 16, not far from this point. The Second regiment of United States troops will accompany them for the purpose of giving them instructions.</p>
+
+<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+</div1>
+
+
+</body>
+</text>
+</TEI>

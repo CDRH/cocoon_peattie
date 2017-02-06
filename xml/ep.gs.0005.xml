@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+]>
+<TEI id="ep.gs.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The House that Was Not</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.gs.0005</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="m">The Shape of Fear and Other Ghostly Tales</title>
+<title level="a">The House that Was Not</title>
+<pubPlace>New York</pubPlace>
+<publisher>Macmillan</publisher>
+<date value="1898">1898</date>
+<series>Short Story Index Reprint Series</series>
+<pubPlace>Freeport, NY</pubPlace>
+<publisher>Books for Libraries Press</publisher>
+<date value="1969">1969</date>
+<biblScope type="pages">55-63</biblScope>
+</bibl>
+
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+
+<revisionDesc>
+<change>
+<date>2009-02-26</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-11-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item></item>
+</change>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Converted from html</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="ep.gs.0005.01.jpg" n="55"/>
+
+<head>THE HOUSE THAT WAS NOT</head>
+
+<p>BART FLEMING took his bride out to his ranch on the plains
+
+when she was but seventeen years old, and the two set up
+
+housekeeping in three hundred and twenty acres of corn and rye.
+
+Off toward the west there was an unbroken sea of tossing corn at
+
+that time of the year when the bride came out, and as her sewing
+
+window was on the side of the house which faced the sunset, she
+
+passed a good part of each day looking into that great rustling mass,
+
+breathing in its succulent odors and listening to its sibilant melody.  
+
+It was her picture gallery, her opera, her spectacle, and, being
+
+sensible,&#8212;or perhaps, being merely happy,&#8212;she made the most of
+
+it.</p>
+
+<p>When harvesting time came and the corn 
+
+<pb id="ep.gs.0005.02.jpg" n="56"/>
+
+was cut, she had much entertainment in discovering what lay
+
+beyond. The town was east, and it chanced that she had never
+
+ridden west.   So, when the rolling hills of this newly beholden land
+
+lifted themselves for her contemplation, and the harvest sun, all in
+
+an angry and sanguinary glow sank in the veiled horizon, and at
+
+noon a scarf of golden vapor wavered up and down along the earth
+
+line, it was as if a new world had been made for her. Sometimes, at
+
+the coming of a storm, a whip-lash of purple cloud, full of electric
+
+agility, snapped along the western horizon.</p>
+
+<p>"Oh, you'll see a lot of queer things on these here plains," her
+
+husband said when she spoke to him of these phenomena.  "I guess
+
+what you see is the wind."</p>
+
+<p>"The wind!" cried Flora. "You can't see the wind, Bart."</p>
+
+<p>"Now look here, Flora," returned Bart, with benevolent
+
+emphasis, "you're a smart one, but you don't know all I know about
+
+this here country. I've lived here three mortal years, 
+
+<pb id="ep.gs.0005.03.jpg" n="57"/>
+
+waitin' for you to git up out of your mother's arms and come out to
+
+keep me company, and I know what there is to know.  Some things
+
+out here is queer&#8212;so queer folks wouldn't believe 'em unless they
+
+saw. An' some's so pig-headed they don't believe their own eyes. As
+
+for th' wind, if you lay down flat and squint toward th' west, you can
+
+see it blowin' along near th' ground, like a big ribbon; an' sometimes
+
+it's th' color of air, an' sometimes it's silver an' gold, an' sometimes,
+
+when a storm is comin', it's purple."</p>
+
+<p>"If you got so tired looking at the wind, why didn't you marry
+
+some other girl, Bart, instead of waiting for me?"</p>
+
+<p>Flora was more interested in the first part of Bart's speech than
+
+in the last.</p>
+
+<p>"Oh, come on!" protested Bart, and he picked her up in his arms
+
+and jumped her toward the ceiling of the low shack as if she were a
+
+little girl&#8212;but then, to be sure, she wasn't much more.</p>
+
+<p>Of all the things Flora saw when the corn 
+
+<pb id="ep.gs.0005.04.jpg" n="58"/>
+
+was cut down, nothing interested her so much as a low cottage,
+
+something like her own, which lay away in the distance.  She could
+
+not guess how far it might be, because distances are deceiving out
+
+there, where the altitude is high and the air is as clear as one of
+
+those mystic balls of glass in which the sallow mystics of India see
+
+the moving shadows of the future.</p>
+
+<p>She had not known there were neighbors so near, and she
+
+wondered for several days about them before she ventured to say
+
+anything to Bart on the subject.  Indeed, for some reason which she
+
+did not attempt to explain to herself, she felt shy about broaching
+
+the matter. Perhaps Bart did not want her to know the people.  The
+
+thought came to her, as naughty thoughts will come, even to the
+
+best of persons, that some handsome young men might be "baching"
+
+it out there by themselves, and Bart didn't wish her to make their
+
+acquaintance. Bart had flattered her so much that she had actually
+
+begun to 
+
+<pb id="ep.gs.0005.05.jpg" n="59"/>
+
+think herself beautiful, though as a matter of fact she was only a
+
+nice little girl with a lot of reddish-brown hair, and a bright pair of
+
+reddish-brown eyes in a white face.</p>
+
+<p>"Bart," she ventured one evening, as the sun, at its fiercest,
+
+rushed toward the great black hollow of the west, "who lives over
+
+there in that shack?"</p>
+
+<p>She turned away from the window where she had been looking
+
+at the incarnadined disk, and she thought she saw Bart turn pale.
+
+But then, her eyes were so blurred with the glory she had been
+
+gazing at, that she might easily have been mistaken.</p>
+
+<p>"I say, Bart, why don't you speak?   If there's any one around to
+
+associate with, I should think you'd let me have the benefit of their
+
+company. It isn't as funny as you think, staying here alone days and
+
+days."</p>
+
+<p>"You ain't gettin' homesick, be you, sweetheart?" cried Bart,
+
+putting his arms around her. "You ain't gettin' tired of my society,
+
+be yeh?"</p>
+
+<pb id="ep.gs.0005.06.jpg" n="60"/>
+
+<p>It took some time to answer this question in a satisfactory
+
+manner, but at length Flora was able to return to her original
+
+topic.</p>
+
+<p>"But the shack, Bart! Who lives there, anyway?"</p>
+
+<p>"I'm not acquainted with 'em," said Bart, sharply. "Ain't them
+
+biscuits done, Flora?"</p>
+
+<p>Then, of course, she grew obstinate.</p>
+
+<p>"Those biscuits will never be done, Bart, till I know about that
+
+house, and why you never spoke of it, and why nobody ever comes
+
+down the road from there. Some one lives there I know, for in the
+
+mornings and at night I see the smoke coming out of the
+
+chimney."</p>
+
+<p>"Do you now?" cried Bart, opening his eyes and looking at her
+
+with unfeigned interest.  "Well, do you know, sometimes I've
+
+fancied I seen that too?"</p>
+
+<p>"Well, why not," cried Flora, in half anger. "Why shouldn't
+
+you?"</p>
+
+<p>"See here, Flora, take them biscuits out an' listen to me. There
+
+ain't no house there. Hello! I didn't know you'd go for to drop the 
+
+<pb id="ep.gs.0005.07.jpg" n="61"/>
+
+biscuits.   Wait, I'll help you pick 'em up. By cracky, they're hot,
+
+ain't they? What you puttin' a towel over 'em for? Well, you set
+
+down here on my knee, so. Now you look over at that there house.
+
+You see it, don't yeh? Well, it ain't there! No! I saw it the first week
+
+I was out here. I was jus' half dyin', thinkin' of you an' wonderin'
+
+why you didn't write. That was the time you was mad at me. So I
+
+rode over there one day&#8212;lookin' up company, so t' speak&#8212;and
+
+there wa'n't no house there. I spent all one Sunday lookin' for it.
+
+Then I spoke to Jim Geary about it. He laughed an' got a little white
+
+about th' gills, an' he said he guessed I'd have to look a good while
+
+before I found it. He said that there shack was an ole joke."</p>
+
+<p>"Why&#8212;what&#8212;"</p>
+
+<p>"Well, this here is th' story he tol' me. He said a man an' his wife
+
+come out here t' live an' put up that there little place.  An' she was
+
+young, you know, an' kind o' skeery, and she got lonesome. It
+
+worked on her an' 
+
+<pb id="ep.gs.0005.08.jpg" n="62"/>
+
+worked on her, an' one day she up an' killed the baby an' her
+
+husband an' herself.  Th' folks found 'em and buried 'em right there
+
+on their own ground. Well, about two weeks after that, th' house
+
+was burned down. Don't know how.   Tramps, maybe.   Anyhow, it
+
+burned. At least, I guess it burned!"</p>
+
+<p>"You guess it burned!"</p>
+
+<p>"Well, it ain't there, you know."</p>
+
+<p>"But if it burned the ashes are there."</p>
+
+<p>"All right, girlie, they're there then. Now let's have tea."</p>
+
+<p>This they proceeded to do, and were happy and cheerful all
+
+evening, but that didn't keep Flora from rising at the first flush of
+
+dawn and stealing out of the house. She looked away over west as
+
+she went to the barn and there, dark and firm against the horizon,
+
+stood the little house against the pellucid sky of morning.   She got
+
+on Ginger's back&#8212;Ginger being her own yellow broncho&#8212;and set
+
+off at a hard pace for the house. It didn't appear to come any nearer,
+
+but the objects which had 
+
+<pb id="ep.gs.0005.09.jpg" n="63"/>
+
+seemed to be beside it came closer into view, and Flora pressed on,
+
+with her mind steeled for anything. But as she approached the
+
+poplar windbreak which stood to the north of the house, the little
+
+shack waned like a shadow before her. It faded and dimmed before
+
+her eyes.</p>
+
+<p>She slapped Ginger's flanks and kept him going, and she at last
+
+got him up to the spot. But there was nothing there. The bunch grass
+
+grew tall and rank and in the midst of it lay a baby's shoe. Flora
+
+thought of picking it up, but something cold in her veins withheld
+
+her. Then she grew angry, and set Ginger's head toward the place
+
+and tried to drive him over it. But the yellow broncho gave one
+
+snort of fear, gathered himself in a bunch, and then, all tense,
+
+leaping muscles, made for home as only a broncho can.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

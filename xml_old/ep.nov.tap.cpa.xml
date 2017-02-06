@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.tap.cpa.01 SYSTEM "ep.nov.tap.cpa.01.jpg" NDATA jpeg>
+<!ENTITY ep.nov.tap.cpa.02 SYSTEM "ep.nov.tap.cpa.02.jpg" NDATA jpeg>
+<!ENTITY ep.nov.tap.cpa.03 SYSTEM "ep.nov.tap.cpa.03.jpg" NDATA jpeg>
+<!ENTITY ep.nov.tap.cpa.04 SYSTEM "ep.nov.tap.cpa.04.jpg" NDATA jpeg>
+<!ENTITY ep.nov.tap.cpa.05 SYSTEM "ep.nov.tap.cpa.05.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.tap.cpa">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Classical and Political Allusions in The American Peasant</title>
+<title type="sub"></title>
+<author n="Crockett, Carrie">Crockett, Carrie</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.tap.cpa</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-11-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<div2>
+<head type="main">Classical and Political Allusions in The American Peasant</head>
+
+	<p>On July 4th, 1892, a unique political convention, unprecedented in form and objective, was held in Omaha, Nebraska.  The prodigious date, July 4th, was deliberately chosen to coincide with the 116th anniversary of the adoption of the Declaration of Independence. By one estimate, more than twenty thousand attended the political convention; one who was there noted that the crowd's cheering "rose like a tornado" and "raged without cessation for thirty-four minutes" while "men embraced and kissed their neighbors, locked arms, and marched about. . ." A large sign hung to one side of the podium proclaiming, "We do not ask for sympathy or pity. We ask for justice."<ref target="n01" n="1">1</ref></p>
+
+	<p>The speech powerful enough to elicit such emotion was the platform of the People's Party of the United States, otherwise known as the Populists.  It had been written by a Minnesotan farmer turned author named Ignatius Donnelly, whose words seemed to encapsulate the frustration and repression of agrarian America.  He read: "From the same prolific womb of governmental injustice we breed the two great classes-tramps and millionaires. We meet in the midst of a nation brought to the verge of moral, political, and material ruin.  The fruits of the toil of millions are boldly stolen to build up colossal fortunes for a few . . . and those possessors, in turn, despise the Republic and endanger liberty."<ref target="n02" n="2">2</ref></p>
+
+	<p>Elia Peattie, a resident of Omaha, would have seen the crowds and heard Donnelley's words, words that future historians would call "the Bible and common prayer book of millions."<ref target="n03" n="3">3</ref> Peattie was no politician, but her pen itself may have been mightier than any political career she could have led. "The West was hard-pressed at the time," she recorded in her memoirs. "Railroads and Eastern investors were milking the hard-working and inexperienced West and causing bitter hardship."<ref target="n04" n="4">4</ref> Trading the constraints of her editorials in <title level="j">The Omaha World-Herald</title> for a different form of literary activism, Peattie teamed with Thomas Henry Tibbles, a respected advocate of Indian rights who was also sympathetic to the Populists, and the two penned a utopist tale titled, <title level="m">The American Peasant: A Timely Allegory</title>.</p>
+
+	<p>Because the balance of capitalists' freedoms and collective agrarian wellbeing formed the basis of the clash between the People's Party and Eastern business-government alliances, Peattie and Tibbles presented Western Americans with this document to encourage them to think deeply about crucial economic issues of the day and then investigate the delicate equation between individual economic freedom versus collective economic good.</p>
+
+<figure entity="ep.nov.tap.cpa.02"></figure>
+
+	<p>The authors raise the curtain of their allegory on a developing Western city, Seattle, which "rises like an amphitheater." The tale begins in the first person, suggestive of the possibility that the reader is there as well, taking in the look of the coastline and standing witness to the events that will follow. Such a sight, we read, is enough to "prick a man to action." The actual call to action takes the form of a cylinder that a passerby has found on the beach and hands to the reader. It contains a scroll of writing, and this found document comprises the remainder of Tibbles' and Peattie's story. "If this falls into the hands of some man of my own country let me beg him to read it earnestly and carefully."<ref target="n05" n="5">5</ref> Thus begins the tale of Mr. Paul Hyde, native of Wisconsin and protagonist of <title level="m">The American Peasant</title> whose vessel sinks in northern seas somewhere near the Arctic. Miraculously, he is rescued from a beach while yet unconscious and awakens in a previously unimagined land. "Utopias from [the early modern period] are reached after difficult journeys, generally by sea, involving shipwrecks and storms.  When they are found, utopian countries are strange and unknown; entering a utopia always involves a process of discovery," writes Chloe Houston in "No Place and New Worlds."<ref target="n06" n="6">6</ref></p>
+
+	<p>Hyde re-enters life from a state of lowered consciousness, sleep, as if symbolizing birth into a higher level of understanding.  Like another populist hero, Dorothy of Kansas, who would awaken just eight years later in her wind-tossed house, Hyde wakes up to a new kind of society. His manuscript reveals the self-awareness of change: "The dawn of my consciousness broke slowly, and I seemed to be coming back to life through long grey corridors of half reason. But I knew it was life. At last my eyes opened."<ref target="n07" n="07">7</ref></p>
+
+	<p>A curtain beside Hyde's bed parts and two figures approach.  People like these, however, Hyde has never met before.  He writes that their beauty is "godlike," their countenances noble and serene; before this moment, "[he] had never known what true beauty in man or woman was."  The beings' attire is also unusual:  it is that of the ancient world, consisting of flowing, white robes secured by girdles of bronze medallions. They speak Latin, which Hyde luckily can remember from his school days. One of these statuesque figures says to him, "I welcome you back to life, and I hope you comprehend the words I speak."<ref target="n08" n="8">8</ref> Hyde learns that they are the descendants of classical Roman civilization, the survivors of the lost city of Pompeii, destroyed by the volcano on Mount Vesuvius in 79 A.D. "A few escaped in a wonderful way," they explain. "There were some Phoenician ships in the harbor&#8211;three of them&#8211;and to these fled a company, taking with them such of their possessions as they could."<ref target="n09" n="9">9</ref></p>
+
+<figure entity="ep.nov.tap.cpa.01"></figure>
+
+	<p>Peattie and Tibbles have actually placed their American everyman, Hyde, in a figurative amphitheater suggestive of the classical Greco-Roman polis; from this vantage point he will watch the unfolding story of these beings' utopian society.  In keeping with the character of allegory, each person Hyde meets is more than a figure in the plot but is the living embodiment of a virtue fundamental to both ancient civilization and to 19th-century America. Tibbles and Peattie have seemingly breathed life into Roman statues of the graces, such as one might find in a museum of antiquity, and have populated their utopia with them. For example, Hyde's guide is a woman called Lesbia, whose name signifies literally <hi rend="italic">lover of women</hi>. Within Sorosis women are highly valued and are called "the apex of creation," in contrast to the lesser rank they held in America during the Victorian Age. Lesbia's half-brother's name, Lycurgus, carries the meaning of equality and lawmaking, for in ancient Sparta, General Lycurgus had spent several years traveling in order to observe the constitutions and governments of other states.<ref target="n10" n="10">10</ref> He subsequently enacted sweeping political reforms in Sparta, including the establishment of two kings in order to discourage corruption, and the vesting of the populace with legislative rights. Lesbia's other brother, Julius, alludes to "the spirit of American invention." Like Jules Verne, the writer of the age who explored the possibility of air travel, Julius of Sorosis is inventive and also builds a flying machine from which Hyde and Lesbia view their world at the novel's end.</p>
+
+<figure entity="ep.nov.tap.cpa.04"></figure>
+
+	<p>Even Sorosis' minor characters represent civic concepts. Octavia, the sister of the first Roman emperor, was beloved for her virtue; within Sorosis Octavia is the living embodiment of such. Sallust was the Roman historian who helped the populace evade the Senate's "strangle-hold," and he plays a similar role in the allegory. The word Sorosis itself can be defined, fittingly, as the "fruit formed by the merging of many flowers."<ref target="n11" n="11">11</ref></p>
+
+<figure entity="ep.nov.tap.cpa.03"></figure>
+
+	<p>Sorosis' settlement follows the pattern of America's own colonization. Both groups of settlers sail across seas in search of new lands; both are also anxious to preserve their religious beliefs. The Sorosans brought with them a scroll of the teachings of Christ and based their laws on them. Their legislation was then "read to the assemblies till all hearing them said they held more of wisdom than wisdom of which they had ever heard."<ref target="n12" n="12">12</ref></p>
+
+	<p>Both the American and Sorosan colonists also pen laws regarding the equality of man. The Constitution's self-evident truths regarding men's equality mirror the Sorosan one, which states, "One is not greater than another, except as he does great things."<ref target="n13" n="13">13</ref> Accordingly, a king governs neither country, but laws set the bounds of order. "What is good for one is good for all," Lesbia explains, and in another allusion to the Roman world, "[we] wanted no more walled cities."</p>
+
+	<p>Another utopian convention employed by Peattie and Tibbles explores conflicts that wage one value against another, such as economic individualism versus the economic good of the collective. Sorosis has committed itself to meeting the needs of "others" at the expense of individual economic enterprise. "We wished to be an aggregation of citizens working for a common end . . . one man may not harm another without harming himself," Lesbia says.</p>
+
+	<p>With no clear route back to Seattle, and having fallen in love with the Lesbia, his guide, Hyde decides to become a citizen of Sorosis. Suddenly, however, Sorosis falls into a bloody civil war over the issue of slavery.<ref target="n14" n="14">14</ref> Relatives battle each another under the banners "Freedom" and "Liberty," casualties are staggering, and the economy devastated. These events, paralleling those of the American Civil War, lay the groundwork for further authorial comparisons to follow. Hyde fights in the Sorosan Civil War but returns home to find the face of the country changed, the economy ruined, and the currency useless. Soon, despite their careful planning and frugality, his and Lesbia's farm fails.  Hyde writes, "But after a war it is always difficult to find home. The towns seemed changed. There was a gloom upon them."<ref target="n15" n="15">15</ref></p>
+
+	<p>Of course, the Civil War changed "everything" about America, too, according to Walt Whitman, and this included agriculture. Crop prices fell every year until 1885, when wheat reached its lowest price in forty years.<ref target="n16" n="16">16</ref> Cotton, once $1.45 per bushel, garnered only forty-nine cents in the early 1890s.  Corn fell from seventy-five cents to twenty-eight cents a bushel between 1869 and 1889.<ref target="n17" n="17">17</ref> Farmers, living under numbing loads of debt thanks to the crop lien system, could ill afford to pay the railroads' high transport costs. More often they were simply edged out of transportation contracts by larger, corporate shippers. One Nebraska farm editor wrote, "We have three crops&#8211;corn, freight rates, and interest. The farmers farm the land and the businessmen farm the farmers."<ref target="n18" n="18">18</ref></p>
+
+	<p>American utopists, Peattie and Tibbles included, usually underscored the importance of work itself in their political scenarios.<ref target="n19" n="19">19</ref> They tacitly understood the Puritan work ethic to be an important cornerstone of society, "somehow connected with a moral purpose," and illustrated that balance should exist between labor and capital. Well executed work should result in equal units of monetary return.  One utopist character explains, "There is poetry in well-directed labor and a feeling of independence in the knowledge that one is earning one's way in the world without the help of one's ancestors."<ref target="n20" n="20">20</ref> Conversely, unbalancing the relationship between labor and its product would undermine society.</p>
+
+	<p>Peattie and Tibbles explore this concept and continue to liken Sorosis to the United States by bequeathing it with a subversive economic element, a character named John Sherwood, also a survivor of Hyde's shipwreck. Sherwood is the embodiment of greed. He does not belong in Sorosis and challenges the pantheon of virtues that its citizens seek to uphold.  For the populist reader of the 1890s, Sherwood would have represented the corrupt United States bankers and railroaders who pillaged the farmers of the West, unchecked by government. Using the Sorosan Civil War as a lever for financial speculation, Sherwood capitalizes on the good faith of the Sorosans and becomes a millionaire. His guilt is clearly reflected in the text. "When we own the debt [of this war], we own the country, we can take everything the people make above the cost of living, in the way of interest. If we can make the debt big enough, and the interest high enough, and control the amount of money issued, the earth is ours&#8212;the people will themselves be slaves."<ref target="n21" n="21">21</ref> Sherwood's philosophy of law and economics does not align with the ideal of a collective good, nor is it part of the balance of work and financial recompense.</p>
+
+	<p>Peattie and Tibbles emphasize how such greed and corruption affect the islanders. "There were more tramps," Hyde's manuscript reads, "and there was also a new class among the capitalists. They were called billionaires. The whole country was, comparatively speaking, owned by a few persons."<ref target="n22" n="22">22</ref> Similarly, Peattie and Tibbles dedicate their book to the "American millionaires, to whom I have given the proceeds of many years of toil on a Nebraska farm."<ref target="n23" n="23">23</ref> Charles Rooney argues that utopists "directed their attacks against public officials who compromised their democratic principles for the sake of personal gain."<ref target="n24" n="24">24</ref> In the United States, corruption between business and government paved the way for Populism's rise that, in the words of one historian, was "the biggest democratic movement to ever flower on American soil."<ref target="n25" n="25">25</ref></p>
+
+
+
+	<p>In an effort to counteract their desperate poverty, Hyde and Lesbia begin to attend meetings of the "Farmers' League" to discuss economic matter previously unconsidered, such as "the effect of the volume of money on prices."<ref target="n26" n="26">26</ref> These educational lectures both mirror the building phase of the People's Party and introduce one of Peattie's central goals, which is, in like manner, to ask people to think deeply about their circumstances and then act.   One of the lecturing Sorosans exhorts his countrymen, "Oh, think! Think!  That is what I want you to do!  You ought to have done some thinking a long time ago. If you had thought enough you would not have been so defrauded as you have been.  If you had done the right kind of thinking, you would have perceived that, though slavery has been abolished by constitutional amendment, the people have permitted themselves to be made slaves."<ref target="n27" n="27">27</ref> Ultimately, the Sorosans do think and then act, overcoming the greed of their corrupt government by coining their own money and introducing it into the money supply.  In Peattie's and Tibbles' utopia, the innovation and solidarity of the populace, combined with true virtue, triumphs over a corrupted economic system, restoring and balance to the labor-capital equation.</p>
+
+	<p>When Peattie and Tibbles wrote <title level="m">The American Peasant</title> in 1892, they could not have foreseen what would happen thereafter, could not have predicted the swamp of Eastern politics that would overcome the movement and render even William Jennings Bryan's cross of gold speech memorable but politically inert. Though its ranks would swell to 1,800,000, populism was not destined to achieve its ends according to the People's Party's timeframe.</p>
+
+	<p>In the concluding paragraph of the allegory, Hyde suggests that his history of Sorosis might be a warning for future readers. Though they were committed to supporting the populists, it is possible Peattie and Tibbles envisioned yet wider audiences for their volume.  Perhaps they believed it would prove useful beyond the 1890s and be read in political landscapes and eras that they could guess at during the time of its writing.  As they watched the story of the West being written from their vantage point at the <title level="j">Omaha World-Herald</title>, it is probable that Peattie and Tibbles understood that&#8212;regardless of the epoch&#8212;the challenges that would confront their expanding nation would be best met by citizens possessing conditions of character personified by the virtuous characters of their own allegory.  Thinking citizens who built on such a base would have the best chance, if not the only chance, of balancing the equation of economic personal freedom and the collective benefit of the whole.</p>
+</div2>
+</div1>
+
+
+
+<div1>
+<head type="sub">Works Cited</head>
+
+<bibl>Goodwyn, Lawrence. <title level="m">Democratic Promise: The Populist Moment in America</title>. Oxford University Press: New York, 1976.</bibl>
+
+<bibl>&#8212;&#8212;&#8212;. <title level="m">The Populist Moment</title>. New York: Oxford University Press, 1978.</bibl>
+
+<bibl>Heffer, Richard. <title level="m">A Documentary History of the United States</title>. New York: Penguin, 1976.</bibl>
+
+<bibl>Houston, Chloe. "No Place and New Worlds: The Early Modern Utopia and the Concept of the Global Community." <title level="j">Spaces of Utopia: An Electronic Journal</title>, no. 1, Spring 2006, ISSN 1646-4729.</bibl>
+
+<bibl>Lycurgus. Discovery Communications, LLC. <xref url="http://history.howstuffworks.com/ancient-greece/lycurgus.htm" rend="new">http://history.howstuffworks.com/ancient-greece/lycurgus.htm</xref>.</bibl>
+
+<bibl>Peffer, William. "The Farmer's Side," In Norman Pollack, ed., <title level="m">The Populist Mind</title>. New York: Bobs-Merrill, 1967.</bibl>
+
+<bibl>Populist Convention. Nebraska State Historical Society. <xref url="http://www.nebraskahistory.org/publish/publicat/timeline/populist-convention-reunion.htm" rend="new">http://www.nebraskahistory.org/publish/publicat/timeline/populist-convention-reunion.htm</xref>.</bibl>
+
+<bibl>Peattie, Elia. <title level="m">Star Wagon</title>. Unpublished Manuscript. 1928. Edited and Annotated by Joan Stevenson Falcone.</bibl>
+
+<bibl>Rooney, Charles J. <title level="m">Dreams and Visions: A Study of American Utopias, 1865-1917</title>. Westport: Greenwood Press, 1985.</bibl>
+
+<bibl>"Sorosis." <title level="m">Webster's Revised Unabridged Dictionary</title>. MICRA, Inc. 15 Oct. 2008. Dictionary.com <xref url="http://dictionary.reference.com/browse/sorosis" rend="new">http://dictionary.reference.com/browse/sorosis</xref>.</bibl>
+
+<bibl>Tibbles, Thomas Henry, and "another," Peattie, Elia. <title level="m">The American Peasant: A Timely Allegory</title>. Chicago: Vincent and Schulte, 1892.</bibl>
+
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+<bibl>"General Lycurgus." (Public Domain.)</bibl>
+<bibl>"The Colosseum." Giovanni Battista Piranesi. 1757. (Public Domain.)</bibl>
+<bibl>"Mark Antony and Octavia." (Public Domain.)</bibl>
+<bibl>"Jules Verne." (Public Domain.)</bibl>
+
+</div1>
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Goodwyn, <title level="m">Democratic</title> 271.</p>
+
+<p><note id="n02" n="2">2</note> Heffer 236.</p>
+
+<p><note id="n03" n="3">3</note> "Populist Convention."</p>
+
+<p><note id="n04" n="4">4</note> Peattie "Star Wagon" 127.</p>
+
+<p><note id="n05" n="5">5</note> Tibbles 9.</p>
+
+<p><note id="n06" n="6">6</note> Houston 1.</p>
+
+<p><note id="n07" n="7">7</note> Houston 13.</p>
+
+<p><note id="n08" n="8">8</note> Tibbles 14.</p>
+
+<p><note id="n09" n="9">9</note> Tibbles 18.</p>
+
+<p><note id="n10" n="10">10</note> "Lycurgus: History: Stuff."</p>
+
+<p><note id="n11" n="11">11</note> "Sorosis."</p>
+
+<p><note id="n12" n="12">12</note> Tibbles 20.</p>
+
+<p><note id="n13" n="13">13</note> Tibbles 19.</p>
+
+<p><note id="n14" n="14">14</note> Tibbles 30-31.</p>
+
+<p><note id="n15" n="15">15</note> Tibbles 16.</p>
+
+<p><note id="n16" n="16">16</note> Peffer 75.</p>
+
+<p><note id="n17" n="17">17</note> Heffer 230.</p>
+
+<p><note id="n18" n="18">18</note> Heffer 236.</p>
+
+<p><note id="n19" n="19">19</note> Rooney 150.</p>
+
+<p><note id="n20" n="20">20</note> Rooney 149.</p>
+
+<p><note id="n21" n="21">21</note> Tibbles 33.</p>
+
+<p><note id="n22" n="22">22</note> Tibbles 113.</p>
+
+<p><note id="n23" n="23">23</note> Tibbles foreword.</p>
+
+<p><note id="n24" n="24">24</note> Rooney 61.</p>
+
+<p><note id="n25" n="25">25</note> Goodwyn, <title level="m">Moment</title> vii</p>
+
+<p><note id="n26" n="26">26</note> Tibbles 58.</p>
+
+<p><note id="n27" n="27">27</note> Tibbles 62.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

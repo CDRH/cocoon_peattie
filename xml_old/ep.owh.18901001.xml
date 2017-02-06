@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+]>
+
+<TEI id="ep.owh.18901001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Needed Reform</title>
+<title type="sub">Farmers' Wives Should Have More Amusement</title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18901001</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Needed Reform</title>
+<title level="a" type="sub">Farmers' Wives Should Have More Amusement</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<biblScope type="volume">26</biblScope>
+<biblScope type="number">1</biblScope>
+<date value="1890-11-30">Wed. Oct. 1, 1890</date>
+<biblScope type="pages">unknown</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-09-04</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="unknown"/>
+
+<div1>
+
+<head type="main">A Needed Reform</head>
+<head type="sub">Farmers' Wives Should Have More Amusement</head>
+
+	<p>"Farming is not what it used to be," is a remark which the farmer often complacently makes. "It's hard enough now, but it used to be a great deal harder in the old days before we had machinery."</p>
+
+	<p>The farmer's wife thinks&#8212;well, she doesn't say exactly what she thinks.</p>
+
+	<p>She knows that she doesn't have as pleasant a time as she did before the machinery came. In those days, it is true, her husband had to work harder, or at least she has been educated to believe that such is the case. But occasionally she says to herself that since he works as hard as possible now, perhaps it is a question whether he could have worked any harder in the old time. As regards the pleasant time, however, it is certain that she used to see more of her neighbors before machinery came in. Men used to help each other in those old days, and the harvesting and barn raising, if they involved a good deal of the work, also entailed a good deal of fun. The women used to work together too, in those days, and help each other out. They got very tired, perhaps, but their fatigue was seasoned with a bit of enjoyment, and no one gets quite so tired when she is enjoying herself, as she does in the midst of monotony.</p>
+
+	<p>Year by year the opportunities for amusement appear to be growing fewer and fewer for the farmer's wife. She has no harvesting feasts, the farms are complete in themselves and sufficient to themselves, and there is no call for the neighbors to come in; the quilting bee is a superfluity when a "comfortable" can be bought for less than the quilt would cost. In short, save for an infrequent excursion to the nearest village, the farmer's wife sees no one except the members of her own family; she has no diversion; she has no excitement.</p>
+
+	<p>Perhaps this is not quite so hard on the farmer's wife as it is on the farmer's daughter. For the farmer's wife at least has the comfort of her husband's society, while the daughter must of necessity desire something more than home society.</p>
+
+	<p>It has to a large extent with the women themselves to remedy this. Women have remedied a great many things by setting out to do it, and some of these things seemed to present insurmountable obstacles at the outset. The farmer's wife should mildly&#8212;very mildly, but very firmly&#8212;announce her right to live.  She should preach a new doctrine. She should say:</p>
+
+	<p>"You want me to work. You expect me to bear my half of this burden of farm attendance. Very well, I will&#8212;for a consideration. Kindly give me leave to live. That is to consideration. Let me see something of the people I like. Let me have the horses now and then, and go where I please. Let me ask the people over to tea once in a while. Let me start a literary society for the winter evenings.Then I will be able to do a great deal more work than I do now. At present, though, I cannot quite tell why, my heart is heavy. I don't seem to care very much whether I get the work done by night or not, because I know tomorrow will be just like today, and day after tomorrow precisely repetition of tomorrow. I want to see some men and women. I want to laugh. I am tired of always working and not laughing. I feel as if I would drop a great load of my heart and take a terrible band from around my head if I could only be allowed to be nonsensical awhile. This being sensible all the time and always thinking about duty is what drives women mad. You can go down to the state asylum at Lincoln and see for yourself if this isn't true."</p>
+
+	<p>At first the good farmer may think this is sedition, but a little reflection will show that it is not. The farmer has few superstitions which even his devoted wife will not deny. One of them is too much consideration for his horses. The pleasure of a wife is of a great deal more importance than the fatigue of a horse. Horses were made to get tired. Of course reason must be exercised. A horse not to be made so tired that it cannot work the next day. But a little extra exertion will not hurt a good animal, and it may keep a wife's spirit from breaking. Mark these words, for they are true. A sprit may be saved from utter discouragement, by a judicious driving of the team in the right direction. Farmers, if you know what is good for your future, you will take your wives and your sons and daughters out. You will amuse them. The tariff and the railroads may not be to your liking, but you won't mend anything by sitting around, wrapped in a mantle of gloom. Get out where you can laugh. Even the tariff will appear to improve if you laugh enough.</p>
+<closer><signed>Elia W. Peattie</signed></closer>
+
+
+</div1>
+</body>
+</text>
+</TEI>

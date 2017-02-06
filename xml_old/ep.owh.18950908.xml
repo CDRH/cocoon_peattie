@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18950908 SYSTEM "ep.owh.18950908.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18950908">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18950908</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1895-09-08">8 September 1895</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-12</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription, Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18950908">
+<figDesc></figDesc>
+</figure>
+
+<div1>
+
+<pb n="p8"/>
+
+<!--  <head type="main">A WORD<lb/>
+WITH THE WOMEN.</head> -->
+
+<head type="main">A WORD WITH THE WOMEN.</head>
+
+	<p>It is a curious thing that the laws of the District of Columbia, the seat of our national government, should be behind the laws of the all other states, territories and districts, in justice, at least, where they affect the rights of woman. True, the law is administered with some show of justice, because the judiciary are in advance of the laws which they administer, and they use their ingenuity to temper their severity and mitigate their absurdity&#8212;for absurd they certainly are.</p>
+
+	<p>At the recent meeting of the Federation of Women's clubs at Washington, Mrs. Ellen Spencer Munsey read a paper on "The Legal Status of Woman in the District of Columbia," and said among other things:</p>
+
+	<p>"In the District of Columbia a married woman has no property rights separate from her husband. Every man is entitled to his wife's services and her wages are his. No matter whether she is a lawyer or a doctor or belongs to any other profession, a government <sic corr="employee">employe</sic>, a merchant or a washerwoman, her earnings belong to her husband, and are liable for his debts. The marriage promise, 'with all my worldly goods I endow thee,' means nothing on the man's part until the bride becomes a widow, and then she has the dower right in his property provided she has not already joined him in encumbering real estate, a married woman in this district having no right of dower in an equity of redemption.</p>
+
+	<p>"In this district the child born in wedlock is not the property of the mother. The father is the natural guardian, and if he dies before the child is 14 and can choose a natural guardian for itself, he can name its guardian without regard to the mother. And this is the case even with an unborn child, and the mother may be forced to give it into the care of a stranger. Every man, woman and child of this district has cause to devoutly thank God that the district judiciary is composed of honest, upright men, who recognize the law of nature between mother and child as the law of God and refuse, whenever they can, to regard the man-made laws which are a relic of the dark ages.</p>
+
+	<p>"In this district, aside from having no property in her children or the earning of her own hands and brains, a woman has not even the right to her own body. If she is run over by a cable car she cannot sue for damages unless she is joined in the suit by her husband. If the husband feels that he has been aggrieved and injured by the loss of his wife's services, he may bring a separate action, the loss being his, not hers."</p>
+
+	<p>Americans are often heard to deprecate the state legislature, complaining that in their rapid shuffling of law they destroy all stability, and that the judiciary hardly accustom themselves to one condition before they are obliged to learn a new set of laws, disregarding all precedents. This complaint has some justice in it. But the legislatures are, on the whole, made up of men who, while they may know little about the great science of law, are very eager for the development of the community they represent, and are alive of abstract justice. Under their skillful impetuosity law has developed in mercy, justice and equity. In the District of Columbia, where laws must be altered, amended or enacted by congress, bill after bill asking for more equal rights for men and women citizens has died in the session, and the District of Columbia, which should be one of the most progressive and enlightened spots in the country, is hampered with these obsolete laws, are a mere travesty upon civilization and upon the equal rights guaranteed in the constitution of the United States to the people of this country.</p>
+
+	<p>The women of the district feel that they have been entirely justified in uniting to secure better laws, and have prepared the following:</p>
+
+	<p>The District Federation of Women's clubs represents 2,500 women, and we are pledged to exert our united forces in procuring laws that will give women in this district the same property rights as men. Our platform is this:</p>
+
+	<p>All the property that a woman has at the time of her marriage or that shall come to her during her marriage, except from her husband, shall be her sole and separate estate, not subject to her husband and not subject to his debts.</p>
+
+	<p>A married woman should be able to sell and convey her property and to enter into any contract respecting it in all points as may a married man in respect to his property.</p>
+
+	<p>A woman while married should sue and be sued in the same manner as though she were married.</p>
+
+	<p>A married woman should be able to carry on any trade, business or profession on the same legal footing as her husband, and the earnings of such business should be her sole and separate property to be used by her and invested in her name.</p>
+
+	<p>The homestead should belong to the widow and children jointly.</p>
+
+	<p>One-half the property of the husband should go to the wife at his decease and the same proportion to the husband at her decease, and neither should have power to devise away more than one-half their property without the consent of the other.</p>
+
+	<p>Estates of dower and by courtesy should be abolished.</p>
+
+	<p>In dealing with her husband she should be able to act as though the marriage relations between them did not exist. She should be able to loan him money and take real estate security from him, and she should be able to buy of him in good faith and he of her.</p>
+
+	<p>The rights and responsibilities of the parents, in the absence of misconduct in regard to their children, should be equal and the mother be as fully entitled to the custody and control of the child as the father. In the case of the father's death the mother should have as full control of the children as does the father in case of the mother's death.</p>
+
+	<p>Such laws as these which obtain in the district would not be tolerated in any community where there was more commercial enterprise for the reason that no woman wishing to engage in any sort of business would think of going to a place where she could not secure credit in her own name, or where she would be denied right to her own property and earnings, yet be held responsible for the debts of <gap reason="torn"/></p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

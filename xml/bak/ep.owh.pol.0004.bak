@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.pol.0004.01 SYSTEM "ep.owh.pol.0004.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.pol.0004.02 SYSTEM "ep.owh.pol.0004.02.jpg" NDATA jpeg>
+<!ENTITY ep.owh.pol.0004.03 SYSTEM "ep.owh.pol.0004.03.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.pol.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Removal of Queen Liliuokalani</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">The Removal of Queen Liliuokalani</head>
+
+<figure entity="ep.owh.pol.0004.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>The potential for trade via Pacific Ocean routes had interested the United States ever since the 1780s. Americans had traversed it as fishermen, whalers, traders, navigators, and also missionaries, who established congregations and promulgated Christianity wherever they settled.<ref target="n01" n="1">1</ref> The Hawaiian Kingdom had graciously accommodated this influx of foreign settlers, all of whom planted the islands with the seeds of mainland culture in the forms of schools, churches, businesses, and farms.</p>
+
+	<p>American farmers were particularly intrigued by the seemingly effortless production of sugar in Hawaii and sought to purchase lands for plantation. To their advantage, in 1875 the United States established an important economic tie with Hawaii in allowing its sugar to be sold within the States duty free. This trade policy was a boon to sugar producers and also served to economically bind Hawaii to the States. In return, in 1877 the Hawaiian Kingdom, the islands' ruling monarchy, granted the United States the exclusive right to use Pearl Harbor.</p>
+
+	<p>In 1890, however, American tariff laws were again changed, this time in favor of domestic sugar suppliers. At that time, farmers of American descent owned two-thirds of the land of the Hawaiian Islands. Attempting to regain lost markets, the planters sought to sidestep American trade policy by lobbying for the annexation of Hawaii to the country.</p>
+
+<figure entity="ep.owh.pol.0004.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>Compounding their frustration, in 1891 Queen Liliuokalani, who saw herself as a protector of the region's culture and politics, ascended the Hawaiian throne. Born in Honolulu to the high chief Kapaakea and his wife the chiefess Keohokalole, Liliuokalani was the third of  ten children; her brother, Kalakaua, was the King. In January, 1891, after her brother's death, Liliuokalani ascended the throne. The new Queen resented the encroachment of American culture and religion, and she also disliked their capitalistic interest in her Kingdom's natural resources and politics. Hoping to preserve the ancient culture of her islands, the Queen renounced the "Bayonet Constitution" of 1887, which had been put in place by the American colonists. The document limited both the power of the monarch and also the political power of native Hawaiians. In renouncing this set of bylaws, she limited the involvement of foreigners in island politics while preserving her own position as sovereign ruler with all accompanying legislative powers.<ref target="n02" n="2">2</ref></p>
+
+<figure entity="ep.owh.pol.0004.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>This turn of events enraged American agriculturalists, whose economic positions would inevitably falter under monarchial leadership. The American minister to Hawaii, John Stevens, devised a bloodless coup, which was carried out by one hundred fifty marines stationed on the USS Boston in nearby Pearl Harbor. Queen Liliuokalani was removed from her governing seat, and two weeks later Stevens announced Hawaii a United States protectorate.<ref target="n03" n="3">3</ref> He recommended to Congress that the islands be annexed as a territory, stating, "The Hawaiian pear is now fully ripe, and this is the golden hour for the United States to pluck it."<ref target="n04" n="4">4</ref> Although this suggestion was rejected on multiple occasions by the Senate and then by President Cleveland, in 1898 Hawaii was annexed as a United States territory. Sixty years later in 1959, it became the country's fiftieth state.</p>
+
+	<p>Peattie did not condone Queen Liliuokalani's removal from office and wrote several editorials on the subject. To make matters worse, one year after the Queen was dethroned, the United States military stormed her place of residence and found a small number of weapons in the garden. Although Liliuokalani claimed that she had not had any knowledge of the tiny cache, she was fined and imprisoned by American authorities. In 1895 Peattie penned with more than a little indignation, "Five years in prison! Five thousand dollars fine! That is the price one woman is sentenced to pay&#8211;for what? For being suspected of trying to regain what is right by her own . . . when a thing of that sort is done to an innocent woman, other women are inclined to ask why."<ref target="n05" n="5">5</ref></p>
+
+	<p>The manner in which the Queen's residence was searched by the military also offended Peattie. In the <title level="j">World-Herald</title> she quoted a Hawaiian periodical, <title level="j">The Advertiser</title>, that had run a description of the raid: "Her home was searched for ammunition and arms, and a small among of both were found in her cellar. There were also some bombs made of coconuts and other things, and which "wore a very wicked look," so the local paper states."<ref target="n06" n="6">6</ref></p>
+
+	<p>Peattie likened the United States' imperialistic actions in Hawaii to the "hypocritical and arrogant attitude" the country had taken when claiming the lands of the American Indians. The government's attitude to the Indians had not precluded them from "defrauding them, lying to them, confining them within bounds as if they were cattle, forbidding them to sell their possessions except to us . . . disregarding their tribal government . . . "<ref target="n07" n="7">7</ref> Queen Liliuokalani's predicament also paralleled the New Woman's struggle for equal rights. "The provisional government has seemed to some persons a far more treasonable thing than poor Liliukalani's struggle for her rights could possibly do."<ref target="n08" n="8">8</ref> From confinement, Queen Liliuokalani had written a letter to the public, describing the "rightness" of her actions, which had all been formulated and carried out in accordance with the consent of her advisory cabinet. Peattie was obviously moved by the royal woman's epistle, for she quoted it in full in her column.</p>
+
+	<p>Almost one hundred years after Peattie's editorials ran in November 1993, President Bill Clinton would sign United States Public Law 103-105, acknowledging the 100th year anniversary of the overthrow of the Hawaiian Monarchy of Hawaii and Queen Liliuokalani. The bill would also apologize for the United States' hasty overthrow of the Hawaiian Kingdom.<ref target="n09" n="9">9</ref></p>
+</div1>
+
+
+
+<div1 type="file references"><head type="sub">Read Peattie's Writings</head>
+<list>
+<!-- <item>
+<xref n="ep.owh.18950226">A Word With the Women</xref>
+</item> -->
+<item>
+<xref n="ep.owh.18950310">Arraigns the Missionaries</xref>
+</item>
+</list>
+</div1>
+
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><title level="a">"Hawaii Travel Newsletter."</title> <xref url="www.hawaiitravelnewsletter.com/hi/annexation.htm" rend="new">www.hawaiitravelnewsletter.com/hi/annexation.htm</xref>.</bibl>
+
+<bibl><author n="Johnson, Paul">Johnson, Paul</author>. <title level="m">A History of the American People</title>. <pubPlace>New York</pubPlace>: <publisher>Harper Perennial</publisher>, <date value="1999">1999</date>.</bibl>
+
+<bibl><author n="Moss, George Donelson">Moss, George Donelson</author>. <title level="m">The Rise of Modern America: A History of the American People, 1890-1945</title>. <pubPlace>Upper Saddle River, NJ</pubPlace>: <publisher>Prentice Hall</publisher>, <date value="1995">1995</date>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. <title level="a">"A Word With the Women."</title> <title level="j">Omaha World-Herald</title>. <date value="1895-02-26">2/26/95</date>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;&#8212;&#8212;</author>, <title level="a">"Arraigns the Missionaries."</title> <title level="j">Omaha World-Herald</title>. <date value="1895-03-09">3/9/95</date>: <biblScope type="pages">13</biblScope>.</bibl>
+
+<bibl><title level="a">"Queen Lydia Liliuokalani."</title> <xref url="http://www.uic.edu/depts/owa/history/liliuokalani.html" rend="new">http://www.uic.edu/depts/owa/history/liliuokalani.html</xref>.</bibl>
+</div1>
+
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Queen Liluokalani." <xref url="the.honoluluadvertiser.com/150/sesq1liliuokalani" rend="new">the.honoluluadvertiser.com/150/sesq1liliuokalani</xref>. Courtesy Hawaii State Archives.</bibl>
+
+<bibl>"Annexation of Hawaii." <xref url="www.hawaiitravelnewsletter.com/hi/annexation.htm" rend="new">www.hawaiitravelnewsletter.com/hi/annexation.htm</xref>. Courtesy Hawaii State Archives.</bibl>
+
+<bibl>"Map of Mail routes of Hawaii, 1890." <xref url="www.hawaiianstamps.com/interroutes.html" rend="new">www.hawaiianstamps.com/interroutes.html</xref>. Courtesy Hawaii State Archives.</bibl>
+
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Johnson, 609.</p>
+
+<p><note id="n02" n="2">2</note> Moss, 28.</p>
+
+<p><note id="n03" n="3">3</note> Moss, 28.</p>
+
+<p><note id="n04" n="4">4</note> Moss, 28.</p>
+
+<p><note id="n05" n="5">5</note> Peattie, "Arraigns," 13.</p>
+
+<p><note id="n06" n="6">6</note> Peattie, "Arraigns," 13.</p>
+
+<p><note id="n07" n="7">7</note> Peattie, "Arraigns," 13.</p>
+
+<p><note id="n08" n="8">8</note> Peattie, "Word," 6.</p>
+
+<p><note id="n09" n="9">9</note> "Hawaii Travel."</p>
+
+
+
+</div1>
+</body>
+</text>
+</TEI>

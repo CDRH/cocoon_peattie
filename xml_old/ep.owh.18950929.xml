@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18950929 SYSTEM "ep.owh.18950929.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18950929">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Ghost Story</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18950929</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Ghost Story</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1895-09-29">29 September 1895</date>
+<biblScope type="pages">17</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-11-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18950929">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+
+<div1>
+
+<head type="main">A GHOST STORY.</head>
+
+	<p>Some friends of mine moved in a house the other day. Nothing strange about that. My friends often moved. They had moved from Vienna to Berlin, from Berlin to Paris, from Paris back to Munich, and from Munich to&#8211;Chicago. You see, there may never any telling what my friends would do. They were Germans by birth, and a merry crowd. All of them were musicians. The dead father had been a famous orchestral leader in the Austrian court. The mother, who is still living, and is a fine, arrogant and very handsome Bohemian, has had her triumphs and been hand in hand with the famous personages of the stage of the last generation. If I were to tell you the name of the eldest daughter every one would know it. She is a woman with an international reputation, and she has won her laurels by honest work with a magnificent contralto voice. Her sister is hardly less famous than herself, but her service to the musical world is with the violin. Then there are two sons, musicians both, and a friend, who has always been with the family, and who would not dare desert them. He is a man of business. He invests the money these people of genius make. His skill and their gifts enable them all to live royally. Their entertainments are already famous in the literary and musical set of Chicago. Their punches have never been excelled in that city, and any Sunday evening at their soirees, you may hear six tongues spoken fluently, and pick artistic quarrels with people from the most divergent parts of the globe. The house is one which rings with gayety. They are materialistic, hearty, wholesome people, with tremendous appetites, and an insatiable love of leisure. Aside from their musical ability they are the most unimaginative persons you could imagine.</p>
+
+	<p>So, when they came to move, they were naturally not in the least dismayed when the neighbors told them the house was haunted.</p>
+
+	<p>"What should we care about ghosts," said the great singer to me when I ventured to call on my last visit to Chicago. "We made up our minds no ghost walking could disturb us. Ghosts!" and she puffed out her great chest in expression of her incredulity. "Why, we said, bah! The boys simply laughed. Mother passed it by without comment. She disdained remarked. We got the house cheap. Well, that suited us. There was a music room, a dancing room&#8211;it was just what we wanted. Besides, the boys could play billiards on the top floor,. It was quite ideal. The neighbors told us a man had been killed in the front room on the third story. The baron, my husband and myself slept there. We were not worried. You see? Well, the first night we were there we went to bed <sic corr="earlier">earier</sic> than usual&#8211;say, midnight. At 2 o'clock I was awakened by hearing someone walking about the floor of my room. I awakened the baron. He called out. There was no answer. The steps made hurriedly for the door and descended the stairs. We concluded it must have been one of the boys. In the morning we asked. No one had left his room, but mother remarked that she also heard the steps. We were interested. But it passed. We never thought of the ghost&#8211;never even thought of it. The next night the baron awakened me. 'I hear those footsteps again,' said he. Sure enough, there they were. Again we called out. Again the steps hurried from the room and down the stairs. The boys, who slept on the story below, heard them, also. They called up to us to know if anything was wrong. We said no. Mother got out in the corridor and touched the bottom, which turned on all the gas. There was no one to be seen, but the steps went on, hurrying down the stairs. Then we remembered the ghost. The boys guffawed with laughter. Mother looked dignified and indignant. She had no patience with the idea of a ghost. We simply laughed about it. It made a good story to tell at our next gathering. Everyone thought it quite diverting. We used to wake up in the night and hear those steps and say, "There's our ghost again. What a persistent fellow he is" and then turn over and go to sleep again. All would have been very well if we had not noticed after a time that mother was getting thin, and that she seemed to be ageing very fast. We called a physician to see her. He said she was prostrated from lack of sleep. She had not told us that she was losing sleep. But when we came to question her she broke down utterly, and confessed that she could not sleep for those steps&#8211;the steps of the ghost of the murderer who hurried down from the room where he had done his awful bleed. She is terribly proud, is mother. It went hard with her to confess all that. Well, then, the matter seemed to be getting serious. We talked of moving. 'I will never leave this house,' said mother, 'while I live. I have never quailed before the living. I will not quail before the dead.' Well, we all obey mother. Anyone would obey mother. We could say no more. Her words are always final. But we determined to meet that ghost and have it out with him. The baron and the boys and myself talked it all over. I don't say that we might not have delayed if it had not been that when next the steps sounded on our floor mother gave way utterly and screamed like a maniac. Then we all began to lose our nerve. The baron&#8211;I am sorry to confess it&#8211;hid his head under the bed clothes and shivered. But I leaped out of bed and called to the boys. 'Come, come,' I said, 'it must be now, it must be tonight.' I felt terribly elated&#8211;like a man who goes up a fort to meet the enemy's guns. The steps had got down to the second story by this time, and the boys came out of their rooms. I joined them, and the three of us followed those steps. The ghost appeared to be making a stand. The steps were not hurried as usual. They were slow. As we expressed our determination to drive him from the house the steps became obstinate, slow and heavy. I walked on after them, angrily. 'Go, go,' I cried. 'Go, you wicked and murderous spirit, which will not show yourself. Walk your evil way out of this house forever. Go, go.' You wouldn't have known the boys. They were as white as the dead themselves&#8211;those great hulking fellows. We went on down the second flight of steps, though <sic corr="the">the the</sic> dining room, through the kitchen, the cellar door opened before our eyes without mortal hand to touch it, and we went still on down the cellar steps, down to the coal bin. There was a heavy fall, a frightful wind seemed to fill the whole place, and I stood there, shrieking to that evil spirit to go where he belonged, to rest in his grave, and never, never to cross our threshold again. I felt as if the power had been given me to drive him forth. I felt as strong as Samson, only the power seemed of the spirit and not of the body. I&#8211;who have never known there was a spirit. Suddenly, the thing seemed gone beyond the hearing of my imprecations. Then weakness came to me, and unconsciousness. They carried me up to my room. I was ill for a week. But the steps never came back. The ghost was exiled. He was conquered. We are free from him now, and mother has recovered. No one would think it&#8211;to look at us, eh? No one would think we could be haunted. But that's a true story! I wish it weren't. I have been so sure about some things since that happened as I was before."</p>
+
+	<p>That's how my friend told it to me&#8211;and she's a truthful woman, even her enemies say.</p>
+
+<closer>
+<signed rend="right">E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed>
+</closer>
+
+
+</div1>
+</body>
+</text>
+</TEI>

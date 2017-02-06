@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18921225 SYSTEM "ep.owh.18921225.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18921225">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Talk With Annie Besant</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18921225</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Talk With Annie Besant</title>
+<title level="a" type="sub">The Remarkable Woman Discusses Weirdly Her Strange Faith and Philosophy</title>
+<title level="a" type="sub">Theosophy Alone the Cure for the Ills of the World&#8211;Her Mahatma&#8211;Things She Would Not Tell</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1892-12-25">25 December 1892</date>
+<biblScope type="pages">7</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2007-11-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18921225">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p7"/>
+
+<div1>
+
+<head type="main">A Talk With Annie Besant</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">The Remarkable Woman <orig reg="Discusses">Dis-<lb/>
+cusses</orig> Weirdly Her Strange<lb/>
+Faith and Philosophy.</head> -->
+
+<head type="sub">The Remarkable Woman Discusses Weirdly Her Strange Faith and Philosophy.</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">Theosophy Alone the Cure for the<lb/>
+Ills of the World&#8212;Her Mahatma&#8212;Things She<lb/>
+Would Not Tell.</head> -->
+
+<head type="sub">Theosophy Alone the Cure for the Ills of the World&#8212;Her Mahatma&#8212;Things She Would Not Tell.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>Annie Besant is a women who has the eyes of a seer, the accent of an English gentlewoman and the gown of a woman who is indifferent to her personal appearance.</p>
+
+	<p>Her voice, which is electrical upon the platform, is exquisitely soft in conversation. Her smile is sweet; her manners gentle, calm, a little cold and very much more suggestive of the instructive exclusions of a British woman than of the broad brotherhood of the Theosophical believers. She wore a little black frock, much too short for grace, and with a badly fitting "body" as she would term it. At her throat was a brooch of silver, very curious in design; and on one hand a heavy clasp ring, which bore a signet. Nothing about her suggested the love of beauty. Nothing, indeed, seemed very spiritual except her luminous green eyes, which were like pools in which soft shadows lay.</p>
+
+	<p>"What do you wish to say to me?" she asked with simple directness.</p>
+
+	<p>One likes to reach an interview by gentle stages, and not be sent flying into it like a rat into a dog kennel. But I summoned a stupid question.</p>
+
+	<p>"I am very anxious to know," I said, "What you think of the progress of theosophy in America."</p>
+
+	<p>"I think well of it," Mrs. Besant replied, "It is making progress. The society here in Omaha is small it is true. But I find some very encouraging signs. I confess I was rather surprised at the smallness of my audience. I thought more would come from curiosity. But I must say that if my audiences were small, they were very attentive."</p>
+
+	<p>"Your career has always been very interesting to women. Especially they have been interested in your work among the poor. Will you not tell something of your experiments in co-operation?"</p>
+
+	<p>"I have had nothing whatever to do with co-operation in London. The experiments in co-operation have not been altogether satisfactory. The co-operative societies have degenerated into more companies. The stockholders have bought up the shares and now employ others to work for them. The spirit has gone out of the work."</p>
+
+	<p>"In what direction did your work lie then?"</p>
+
+	<p>"In organizing women. In assisting them to form trades unions."</p>
+
+	<p>"What do you think will be the alleviation of the present discouraging position of labor? What will give work to the army of unemployed that throng every country, and who are today demanding work in London?"</p>
+
+	<p>"I think our present system of employment must be altered and we must dispense with the intermediaries. The government must take up the conduct of all large operations. A society of us in London have succeeded to a large extent in getting employers to deal directly with the workmen, instead of through the medium of a contractor. For it is obvious that while contractors are subjected to such fierce competition as they now are, they must reduce everything to the lowest in order to keep within their estimates. We will have higher wages when the contractor is dispensed with."</p>
+
+	<p>"That may be true, Madam. But will there be employment for more men? We have a theory out here that there is not money enough in circulation to pay for labor. The tasks need to be done, and men are begging to be allowed to do them. It is a question of life and death with them and yet they cannot be employed because there is not money with which to pay them."</p>
+
+	<p>Mrs. Besant did not reply for a moment. Then she said:</p>
+
+	<p>"I am not interested in monetary questions. They seem to be superficial. What I desire is something that will better the condition of man, give him more leisure; more chance for the exercise of the mind."</p>
+
+	<p>"Are you not interested in the monetary conference at Brussels?"</p>
+
+	<p>"Not in the least."</p>
+
+	<p>"Why not?"</p>
+
+	<p>"Well, partly because a person cannot be interested in everything. Partly because, as I said before, monetary questions are only superficial."</p>
+
+	<p>"It is strange, Madam, that you should say so. It is not so much the cheap labor as the dear dollar that is enslaving workingmen, not only here, but all over the world."</p>
+
+	<p>"It seems to me a mere question of barter and exchange, which affects only bankers and speculators. I think, myself, that such exchanges ought to be made in produce."</p>
+
+	<p>"Are you aware that there is a great movement of the people in America which thinks as you do, and which wishes to use wheat and other produce as exchange and security?"</p>
+
+	<p>"I was not aware of it," Mrs. Besant said. "I am not interested in the question. I do not consider it vital."</p>
+
+	<p>"What, then, do you consider vital?"</p>
+
+	<p>"The things which I teach. It strikes at the root of things."</p>
+
+	<p>"But you can hardly hope to wait till all men have adopted theosophy to remedy the evils of our present system of civilization?"</p>
+
+	<p>"Why not? Your contrivances are in vain. You keep on from year to year, and from century to century. And out of every reform grows some abuse. We must have something that strikes at the root of the question."</p>
+
+	<p>"If the question is not too personal let me ask if you are an Adept?"</p>
+
+	<p>"I am not. I lay claim to nothing of the kind. I am a student."</p>
+
+	<p>"How long have you been studying this philosophy?"</p>
+
+	<p>"I have belonged to the society for four years. But previous to that I had studied everything that led up to it. I could not, however, determine the significance of all, until I read the books of Mme. Blavatsky. Then I joined the society at once. It seemed to explain what nothing else explained. It corresponded with my own discoveries. Then by induction I tested nature and fact. It stood the test. I proved the proposition. It made consistencies out of what had previously been inconsistencies."</p>
+
+	<p>"You refer particularly to the theory of incarnation, do you not?"</p>
+
+	<p>"I do. I refer to the fact of incarnation. I cannot offer it as a proof to anyone else, because I have no means of convincing them of what I say, but it is a fact that the mind can be so trained that little by little it can gather up what it has lost, and the events of a past existence will recur to the mind as the events of childhood will, after severe thought."</p>
+
+	<p>"Do you know of any persons who have been able to recall the events of a past incarnation?"</p>
+
+	<p>"I know a number of such."</p>
+
+	<p>"You yourself&#8212;have you been able to recollect any past existence of yours?"</p>
+
+	<p>"I have."</p>
+
+	<p>"You are convinced of it?"</p>
+
+	<p>Mrs. Besant turned her luminous eyes on me.</p>
+
+	<p>"I know it," she said quietly. "It is not a question of belief, people may tell me I lie, or that I am mistaken. But what difference would that make to me?"</p>
+
+	<p>Surely none, I thought to myself. For it is evident that if ever a women had the courage to be in the minority, that woman is Anne Besant. Aloud I said:</p>
+
+	<p>"Are you willing to tell what that past life was?"</p>
+
+	<p>The question was too personal to suit Mrs. Besant's English temperament. A coldness as thick as a London fog fell between us.</p>
+
+	<p>"I would not be willing to talk about it," she said very positively. "It would be a waste of time."</p>
+
+	<p>"Has the recollection been of any use? Has it helped you in your development?"</p>
+
+	<p>"It has given me knowledge, and knowledge is of use. It is also a great help to know that you are working with friends whom you have worked with in another life. It gives you a feeling of confidence and happiness, just as it does to work with your father or mother or anyone dear to you in this life."</p>
+
+	<p>"Are you conscious of now being associated with any friends with whom you worked in other incarnations?"</p>
+
+	<p>"I have a few such."</p>
+
+	<p>"You say you are studying. Is it under the direction of a Mahatma?"</p>
+
+	<p>"It is."</p>
+
+	<p>"I am going to ask you not to be offended if I ask you something. A great many&#8212;indeed, I may say almost everyone&#8212;is in doubt about the Mahatmas. We have a vague idea that they are floating around somewhere in the Himalayas in a snow storm, dressed in linen. I would count it a great favor if you would really tell me without any mysticism what good they are and where you keep them."</p>
+
+	<p>Mrs. Besant looked at me severely from those hypnotic green eyes.</p>
+
+	<p>"I do not keep them anywhere," she said, "and I must really refuse to talk any more on the subject if you continue in that tone."</p>
+
+	<p>It was evident that Mrs. Besant did not have a sense of humor&#8212;or at least that she did not care for any American phase of it.</p>
+
+	<p>"Very well," I said submissively. "I'm sorry you won't tell me. I have honestly wanted to be clear in my mind about Mahatmas," as, indeed, I had.</p>
+
+	<p>Mrs. Besant relented slightly.</p>
+
+	<p>"Well," she said after a pause in which she had looked at me in some displeasure, "I will try to tell you. A Mahatma or Master is a man who has gone through many incarnations until perfect knowledge, power and adeptship has been reached. He has gone from growth to growth. When perfect knowledge and culture has been reached the adept may make a choice. He may enter into his rest, or he may return to help other creatures on their upper way. Of course a Mahatma has not necessarily attained the utmost perfection and power. It is given to many of them to instruct the younger students. You may compare this life to a school, in which the pupil goes from lesson to lesson, first being put under a teacher adapted to primary instruction, and then at last under the greatest of teachers."</p>
+
+	<p>"And these Mahatmas, where are they?"</p>
+
+	<p>"They are everywhere, in all countries, working among men."</p>
+
+	<p>"Are you acquainted with any of them?"</p>
+
+	<p>"I am acquainted with the one under whose authority I am."</p>
+
+	<p>"Did anyone ever see a Mahatma to know him as such?"</p>
+
+	<p>What I really wanted to ask her was to tell me whether or not she had ever seen her Mahatma. But as a direct question about any concrete and explicit subject seemed to be offensive to my distinguished companion I refrained.</p>
+
+	<p>"Mme. Blavatsky saw her master," she said. "He went to see her in London. He was an Indian and his home was in Thibet."</p>
+
+	<p>"Of what value is the distribution of these Mahatmas among the occidental civilizations going to be?"</p>
+
+	<p>"It is going to be an influence acting against the materialism, the greed, the <sic corr="glutony">glut tony</sic>, the drunkenness and the sensuality of the west."</p>
+
+	<p>It was evident that Mrs. Besant referred to everything this side of the Euphrates as "the west."</p>
+
+	<p>"You think then that our morality is low compared with that of the East Indians."</p>
+
+	<p>"Undoubtedly we have more sins of the body, more greed, viciousness and coarseness. Psychic sins the Indians undoubtedly have, but not such sins of the body."</p>
+
+	<p>"Is it not inconsistent, Madam, that in a country which has had such illimitable soul development, and that stands for the brotherhood of man, that woman should be in a condition more abject than she is in any other civilized country in the world?"</p>
+
+	<p>"Among the Buddhists the condition of women is as high as it is anywhere. In former days women all over India were held in esteem as high as they are in England today. But India is a decaying race."</p>
+
+	<p>"Not numerically?"</p>
+
+	<p>"No. In a psychic sense."</p>
+
+	<p>"Where are the high spirits going? They cannot die. Are they seeking Nirvana, and are there no more to take their places?"</p>
+
+	<p>"They are going out into other countries. They are reaching the occidental world. They are sent wherever they are needed, and will always be found where new lands are being peopled."</p>
+
+	<p>"Will they not sometime make a circuit of the world, and accomplish the redemption of all counties?"</p>
+
+	<p>"Perhaps so. But you must remember that the world is forever changing. Once there was a peopled continent where the Atlantic now rolls. All of that civilization has vanished. Now we have the new continents to people&#8212;America, Africa. After that will come other continents&#8212;a new continent will be found whenever a people need it."</p>
+
+	<p>With these largely prophetic words the interview ended&#8212;an interview which showed Mrs. Besant's powers and limitations, which hinted of her knowledge and showed her prejudices.</p>
+
+	<p>A remarkable woman truly, concentrated, intense, with "the inward turning eye."</p>
+
+	<p>Personally, of course, I thought her rather arrogant mentally, and wondered at the nature of certain replies. I could not bring myself to think that she has satisfactorily explained the anomaly of woman's position in a country so developed in the culture of the soul; nor could I forget that it was materialistic England which placed an edict upon the burning of women as soulless chattels upon the funeral pyres of their husbands. Neither was I satisfied with her indifference to the monetary question, when she has been so long identified with a movement to better the condition of the wage laborer. It seemed to me as if the woman whom Mr. Stead has called the most intellectual woman in Europe should have been appraised of the co-relation of currency and labor.</p>
+
+	<p>It may be <sic corr="presumptuous">presumptious</sic> of me to say that I think Mrs. Besant depends as much upon her magnetism as upon her mission or her knowledge for her success. But, indeed, that is my opinion. This passionate and inquiring woman has a genius for public speaking, and she has used this with feminine devotion and masculine force in all of the many causes which she has espoused.</p>
+
+	<p>She is influential.</p>
+
+	<p>But, though she does not realize it, she is not entirely fair, for though she said things which were uncomplimentary to newspapers, and which I bore in silence, she was displeased exceedingly when I asked her a question about theosophy, of which she did not approve.</p>
+
+	<p>Yet one can find a mission in newspaper work as well as in theosophy, and a more direct, if less subtle one.</p>
+
+<closer rend="right"><signed><abbr expan="Elia W. Peattie">E. W. P.</abbr></signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

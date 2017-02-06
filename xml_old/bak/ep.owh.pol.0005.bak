@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+
+]>
+<TEI id="ep.owh.pol.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">William Jennings Bryan and The Cross of Gold</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">William Jennings Bryan and The Cross of Gold</head>
+
+<figure entity="ep.owh.pol.0005.01.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>William Jennings Bryan was one of the truly memorable figures of American politics around the turn of the twentieth century. He received the Democratic nomination for the presidency three times during a fifteen-year period, the first time when he was only thirty-six years old. Although he never attained the presidency, he served the country as Secretary of State in Woodrow Wilson's cabinet from 1913 to 1917. Throughout his career, Bryan was known for his sincere interest in the wellbeing of the common man; one of his nicknames was, in fact," The Great Commoner."<ref target="n01" n="1">1</ref> Elia Peattie, who knew Bryan personally from her interaction with him at The <hi rend="underline">Omaha World-Herald</hi>, was one of his "earliest and staunchest supporters"<ref target="n02" n="2">2</ref> and once wrote that he was "one of the most magnetic orators this country has ever produced, though it has been rich in orators."<ref target="n03" n="3">3</ref> Bryan himself had given her a volume of the poetry of William Cullen Bryant in appreciation for her friendship and support. He had inscribed the flyleaf, "To my friend Elia W. Peattie, the first Bryan man, with the warm regards of William Jennings Bryan."<ref target="n04" n="4">4</ref></p>
+
+	<p>Bryan was born in 1860 in Salem, Illinois.  His mother, Marianne, and father, Silas, raised their children to be diligent and religious. The family prayed together three times a day and also studied the Bible.
+<ref target="n05" n="5">5</ref> Bryan was educated at home by his mother until the age of fifteen when he entered boarding school. His father was a well-known lawyer who represented his district for eight years in the State Senate.<ref target="n06" n="6">6</ref> One of Bryan's first triumphs in public speaking occurred when, at the age of twelve, he delivered a campaign speech for his father during a run for Congress. Because of his remarkable talents of verbal delivery he was given the nickname, "The Boy Orator of the Platte."<ref target="n07" n="7">7</ref></p>
+
+<figure entity="ep.owh.pol.0005.02.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>Although not a native Nebraskan, Bryan devoted himself wholeheartedly to issues relating to the wellbeing of the plains farmer. He served for two terms as senator to Nebraska and was one of the first politicians to travel to the small towns he represented and mingle with his constituents. Bryan sometimes gave speeches from the backs of train cars, a practice uncommon to the era as most politicians had others deliver their speeches on their behalves.<ref target="n08" n="8">8</ref></p>
+
+	<p>Bryan also worked as the editor of the <hi rend="underline">Omaha World-Herald</hi> until 1896, when he attended the Democratic National Convention and received that party's nomination for the Presidency. He was thirty-six, the youngest nominee in U.S. history. To be precise, he was nominated that year by two other parties as well: the Populist Party and the Silver Republican Party. But regardless of party lines, Bryan's actions while in office clearly evidenced that his main goal lay in protecting the interests of his constituents, agriculturalists, and other members of the rural working class.</p>
+
+<figure entity="ep.owh.pol.0005.03.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>American farming, an element of the economy obviously crucial to supporting the rapidly growing country, began to flail during the early 1880s. Although post-Civil War advertising circulars and government reports had long encouraged citizens to "head out West" and take advantage of the 1862 Homestead Act, the availability of land proved no panacea for the country's agricultural growing pains. In the words of historian Henry Nash Smith, "On the contrary, the three decades following [the Homestead Act's] passage were marked by the most bitter and widespread labor trouble that had yet been seen in the United States."<ref target="n09" n="9">9</ref> Indeed, between 1870 and 1900 the conflict between labor and capital emerged as a broadly polarizing conflict in American politics.</p>
+
+	<p>Homesteaders usually had to borrow money from the banks in order to make their farms and ranches initially profitable. As Boston University historian Dr. Howard Zinn succinctly described the plight of agriculturalists of those decades:
+
+<div2>
+<text type="extract">
+<body>
+	<p>Farmers had to borrow, hoping that the price of their harvests would stay high, so they could pay the bank for the loan, the railroad for the transportation, the grain merchant for handling the grain, the storage elevator for storing it. But they found the prices for their produce going down, and the prices of transportation and loans going up, because the individual farmer could not control the price of his train, while the monopolist railroad and the monopolist banker could charge what they liked.<ref target="n10" n="10">10</ref></p>
+</body>
+</text>
+</div2>
+
+Rainfall, which began to decline in the early 1880s, also seriously blighted production well into the 1890s, amplifying farmer's anxiety over their debt. "By 1890, twenty-five percent of all farms were rented by tenants, and the number kept rising. Many did not even have money to rent and became farm laborers. . . . it was a fate that awaited every farmer who couldn't pay his debts."<ref target="n11" n="11">11</ref></p>
+
+	<p>As their spokesperson, Bryan found himself squarely in the middle of economic questions relating to the wellbeing of the farmer. One of them was "bimetallism." In 1873 Congress had illegalized silver as a unit of currency, advocating an exclusive "gold standard."  Western farmers and miners would refer to this act as the "Crime of 1873," as it devalued their property while concurrently making it increasingly difficult for them to repay their growing debts.<ref target="n12" n="12">12</ref> Although in 1892 Bryan admitted that he knew little about "free silver," he stated, "the people of Nebraska are for free silver and I am for free silver."<ref target="n13" n="13">13</ref> After studying the issues, the thirty-six year old politician composed a speech in defense of the farmers&#8211;and in favor of a dual gold and silver standard&#8211;that would be immortalized in the American political canon. On July 9, 1896, at the Democratic National Convention in Chicago, Bryan delivered his "Cross of Gold" speech, which historian Richard Hofstadter has referred to as "the most effective speech in the history of American party politics."<ref target="n14" n="14">14</ref></p>
+
+<figure entity="ep.owh.pol.0005.04.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>In his address, Bryan argued that the dollar should be backed by "more plentiful silver rather than gold." Referring to exploitive "big business" of the East, he stated, "If they dare to come out in the open field and defend the gold standard as a good thing, we shall fight them to the uttermost, having behind us the producing masses of the nation and the world. Having behind us the commercial interests and the laboring interests and all the toiling masses we shall answer their demands for a gold standard by saying to them, you shall not press down upon the brow of labor this crown of throngs. You shall not crucify mankind upon a cross of gold."<ref target="n15" n="15">15</ref></p>
+
+	<p>The words of Bryan's speech, combined with his powerful method of delivery, so impressed those at the Convention that he was named the Democratic nominee. One who had attended the convention wrote, "We who watched saw a man march relatively unknown to the platform, and march down again the leader of a national party. When he sat down . . . the convention went wild."<ref target="n16" n="16">16</ref> Applause thundered through the center after he concluded and lasted for thirty minutes without pause.  Just a few days after his speech, Peattie made the following comments about the art of oratory in her column:</p>
+
+<div2>
+<text type="extract">
+<body>
+	<p>No nation responds more quickly to eloquence that the American. Oratory is our one great art. The greatest of painters, sculptors, writers, and makers of music we have not. We have the greatest of orators. Oratory is indigenous to our soil . . . and when it is used, as it was by Mr. Bryan, to complete a historic debate, it wins instant fame for him who has had the genius to recognize the opportunity and rise to it. To be among the greatest orators of a country is almost as fine, if not quite, as to be its ruler."<ref target="n17" n="17">17</ref></p>
+</body>
+</text>
+</div2>
+
+	<p>Although Bryan never became president and Populism would eventually disappear within "a sea of Democratic politics," he remained a spokesman for agricultural labor as he advocated brotherhood and pacifism.  His words, lauded by Peattie in an editorial she wrote just days after the Convention, are still quoted and remembered today.</p>
+</div1>
+
+
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="ep.owh.18960212">A Word With the Women</xptr>
+</item>
+</list>
+</div1>
+
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Bloomfield, Susanne George">Bloomfield, Susanne George</author>. <title level="m"><hi rend="underline">Impertinences: Selected Writings of Elia Peattie, a Journalist of the Gilded Age</hi></title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2005">2005</date>.</bibl>
+
+<bibl><author n="Goodwyn, Lawrence">Goodwyn, Lawrence</author>. <title level="m"><hi rend="underline">The Populist Moment: A Short History of the Agrarian Revolt in America</hi></title>. <pubPlace>Oxford</pubPlace>: <publisher>Oxford University Press</publisher>, <date value="1978">1978</date>.</bibl>
+
+<bibl><author n="Goodwyn, Lawrence">Hofstadter, Richard</author>. <title level="a">"The Crime of 1873, the Cross of Gold Speech."</title> Website accessed: 2 February 2008. 
+	<http://www.michaeloud.com/FXM/MH/Crime/crossof.htm>.</bibl>
+
+<bibl><author n="Goodwyn, Lawrence">Lindenmeyer, Kriste</author>. <title level="a">"100 Years Ago Today: Cross of Gold."</title> Website accessed: 9 July 1996.
+	<http://www.tntech.edu/history/crossgold.html>.</bibl>
+
+<bibl><author n="Linder, Doug">Linder, Doug</author>. <title level="a">"William Jennings Bryan,"</title> (1860-1925). Website accessed: 3 February 2008.
+	<http://www.law.umkc.edu/faculty/projects/ftrials/scopes/bryanw.htm>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. <title level="a">"A Word with the Women."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. <date value="1896-07-12">12 July 1896</date>. <title level="a">"Williams Jennings Bryan: 1896."</title> Website accessed: 2 February 2008. <http://projects.vassar.edu/1896/bryan.html>.</bibl>
+
+<bibl><author n="Zinn, Howard">Zinn, Howard</author>. <title level="m"><hi rend="underline">A People's History of the United States</hi></title>. <pubPlace>New York</pubPlace>: <publisher>Harper Collins</publisher>, <date value="1999">1999</date>.</bibl>
+</div1>
+
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>William Jennings Bryan in his office:
+Early Office Museums: Historical Office Interior Photographs 1895-1889. <www.earlyofficemuseum.com/photo_gallery_1890s....>.</bibl>
+<!-- (permission needed) -->
+
+<bibl>William Jennings Bryan at the Democratic National Convention.
+American Rhetoric:  Online Speech Bank. <www.americanrhetoric.com/speeches/williamjenn...>.</bibl>
+<!-- (permission needed) -->
+
+<bibl>William Jennings Bryan: Campaign button, 1896.
+Historical, Political Campaign Memorabelia. <<xref url="ronwade.freeservers.com/templateWJBryan.html" rend="new">ronwade.freeservers.com/templateWJBryan.html</xref>>.</bibl>
+<!-- (permission needed) -->
+
+<bibl>William Jennings Bryan: speaking from a train car.  
+View Image Beta.
+<www.viewimages.com/Search.aspx?mid=1805493..>.</bibl>
+<!-- (permission needed) -->
+
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Linder.</p>
+
+<p><note id="n02" n="2">2</note> Bloomfield, 192.</p>
+
+<p><note id="n03" n="3">3</note> Bloomfield, 12.</p>
+
+<p><note id="n04" n="4">4</note> Bloomfield, 12.</p>
+
+<p><note id="n05" n="5">5</note> "William Jennings Bryan: 1896."</p>
+
+<p><note id="n06" n="6">6</note> "William Jennings Bryan: 1896."</p>
+
+<p><note id="n07" n="7">7</note> "William Jennings Bryan: 1896."</p>
+
+<p><note id="n08" n="8">8</note> Zinn, 282.</p>
+
+<p><note id="n09" n="9">9</note> Zinn, 283.</p>
+
+<p><note id="n10" n="10">10</note> Zinn, 283.</p>
+
+<p><note id="n11" n="11">11</note> Zinn, 284.</p>
+
+<p><note id="n12" n="12">12</note> "William Jenning Bryan: 1860-1925."</p>
+
+<p><note id="n13" n="13">13</note> Goodwyn, 217.</p>
+
+<p><note id="n14" n="14">14</note> "The Crime of 1873."</p>
+
+<p><note id="n15" n="15">15</note> Lindenmeyer.</p>
+
+<p><note id="n16" n="16">16</note> Hofstadter.</p>
+
+<p><note id="n17" n="17">17</note> Peattie.</p>
+
+
+
+</div1>
+</body>
+</text>
+</TEI>

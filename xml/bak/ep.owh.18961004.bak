@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18961004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Lessons from the Past</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Lessons from the Past</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1896-10-04">4 October 1896</date>
+<biblScope type="pages">18</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcribed and encoded</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb corresp="ep.owh.18961004.jpg" n="p18"/>
+
+<div1>
+
+<head type="main">LESSONS FROM<lb/>
+THE PAST</head>
+
+	<p>Why did the Open Door fail?</p>
+
+	<p>Not or lack of consecrated devotion on the part of the woman who organized it, and who always stood at its head, nor yet for lack of sympathy. Emphatically it did not fail because of a dearth of desirable results.</p>
+
+	<p>Not at all.</p>
+
+	<p>It failed because it did not have an organization back of it.</p>
+
+	<p>It failed because Mrs. G. W. Clark alone was earnest in her efforts to sustain it&#8211;because she alone was willing to give her life for it. The interest of others was spasmodic, impulsive, ephemeral and sentimental. Sometimes they helped, but oftener they forgot.</p>
+
+	<p>Now a rescue home is to be started in this city by the Salvation army, and the Salvation army is not sentimental, nor ephemeral nor spasmodic, nor impulsive. It does not grow tired of its work. It does not often fail. Its plans are definite as arithmetic, and its work is practical to the last degree.</p>
+
+	<p>True, there is no little difference between the work done by the Open Door and that aspired to by the Salvation army in its Rescue Home. The Open Door sheltered betrayed women in their hour of suffering, endeavored to win them to Christianity, procured work for them upon dismissal, and in many cases procured homes for the little children born there.</p>
+
+	<p>The Rescue Home will work among fallen women. It will strive to win to repentance and restore to self respect the vicious women of the city. Its services to maternity will be incidental.</p>
+
+	<p>Commander Booth-Tucker launched the plan at the meeting he held at the First Methodist church, and Major and Mrs. Stillwell have remained to carry the scheme into execution.</p>
+
+	<p>"There is no finality about this work," Commander Booth-Tucker said. "We look on it as a stop gap. It is a device&#8211;we attach no more importance to it. It gives us an opportunity to get hold of the girls, to offer them friendship, and to put them in the way of doing something honest and decent. Then they must be sustained spiritually. Their salvation, their reformation, their return to a pure life is the finality, and trough each one we can send out a stream of influence which will flow into the very midst of the pollution of the city."</p>
+
+	<p>The work to be undertaken by the Salvation army is more comparable to that of the house of the Good Shepherd at South Omaha. But there is a difference. The House of the Good Shepherd gives welcome to all who knock in the name of need or despair. The rescue work of the Salvation army will be aggressive and carried into the very brothels themselves. In other words, the plan of the army is always attack.</p>
+
+	<p>The workers of this particular branch of reformation will be known here as they are elsewhere as "The League of Love." Consul Mrs. Booth Tucker has prepared a book setting forth the plans of the army for this work, which contains more good sense than any book ever written on the subject. Only those who have had experience with reform work can understand how direct, practical and sensible the directions given in this book are. The results of the work are a matter of record. Out of the 3,000 who pass annually through the homes provided in various parts of the world by the Salvation army, 85 per cent return to the paths of virtue "and in numerous instances are truly converted to God," as Consul Booth-Tucker's book quaintly puts it.</p>
+
+	<p>Either married or single women may belong to the League of Love, but women under 21 years of age are not usually accepted for work requiring so much judgment and tact. The workers are formed into brigades, and while they are expected to continue their work in the army in attending the meetings, their particular labor is in connection with the League. They must live near enough to the home to share in its responsibilities. They are under a commissioned officer. Briefly stated, the duties of Leaguers is dealing with the fallen on the streets, the visitation of dives, brothels and drinking saloons; the visitation of hospitals, infirmaries and prisons; the dealing with hopeful cases; the raising of funds for the maintenance of the home; the collecting of gifts in food, fuel, clothing," etc. the obtaining of situations for satisfactory cases and the co-operating in the arranging and conducting of meetings.</p>
+
+	<p>The directions for all this sort of work are very explicit. Suggestions are made as to each details&#8211;for example, and that men go about seeking whom they may devour. They see on every hand the signs of man's depravity and women's helplessness. They relate long stories to illustrate their view, and actually seem at times to feel a certain melancholy elation in discovering an additional proof of man's depravity. In short, the reformer is always in danger of becoming a crank.</p>
+
+	<p>One of the best ways to avoid this sorry result is, undoubtedly, that suggested by Mrs. Booth-Tucker. In dealing with a sinner let the sin be treated in an abstract way. Relieve, if necessary, any specific necessities of the sinner, but after that let her keep her sad tale to herself; let her repentance be her confession; and let the dead past bury its dead. In this way the transgressor will be taught a wholesome reserve, will be prevented from asking capital out of her sufferings and the reformer will be preserved from the danger of becoming morbid or basely curious.</p>
+
+	<p>The home of the Salvationists for unfortunate women will be exploited by Mrs. Stillwell. It may not become a palpable fact for several weeks. Money is needed and furniture is needed. The public will be asked to donate both, and the public will accede to the request, for people have come to have confidence in the Salvation army. They know it has the system which will bring success, and it realizes that the vows taken are such that a disinterested concentration upon good works must exist about the members.</p>
+
+	<p>Omaha has been the grave of many benevolences. May this one live long and prosper!</p>
+
+<closer><signed rend="right">E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+
+</div1>
+</body>
+</text>
+</TEI>

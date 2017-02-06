@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18950603 SYSTEM "ep.owh.18950603.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18950603">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18950603</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1895-06-03">3 June 1895</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-12</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-05-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription, Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18950603">
+<figDesc></figDesc>
+</figure>
+
+<div1>
+
+<pb n="p8"/>
+
+<!-- <head type="main">A WORD<lb/>
+WITH THE WOMEN.</head> -->
+
+<head type="main">A WORD WITH THE WOMEN</head>
+
+<byline>(Elia W. Peattie.)</byline>
+
+	<p>In the Chicago Tribune of last Sunday there were three beautiful Nebraska sketches written by a Nebraska woman, Mrs. Kate McPhelim Cleary. Since the readers of this column must grow very weary of the same pen, by way of happy variety one of Mrs. Cleary's sketches is printed below:</p>
+
+<div2>
+<head type="sub">A RACE HORSE TO THE PLOW.</head>
+<milestone unit="smallbar"/>
+
+<head type="sub">"Thou Art Mated with a Clown."</head>
+
+	<p>The old man's grim face was full of amazement when his son finished speaking. It was not often that the boy talked out, not often, indeed, that he exchanged an avoidable word with his father. The latter was gaunt, leathern-skinned, hook-nosed, a tuft of yellowish gray whiskers on his chin, and a crafty sparkle in his narrow eyes.</p>
+
+	<p>"So," he said, in a voice of irritation, "you're a-<orig reg="going">goin'</orig> to <orig reg="get">git</orig> married! I notice <orig reg="you">ye</orig> didn't ask if <orig reg="you">ye</orig> <orig reg="can">kin</orig>."</p>
+
+	<p>The young man, his brown, clean-shaven, straight-featured face set with reserve and resolution, looked at the elder.</p>
+
+	<p>"I am of age&#8212;and I have talked it over with mother."</p>
+
+	<p>"<orig reg="Your">Yer</orig> mother!"</p>
+
+	<p>The contempt in the tone stung him who heard.</p>
+
+	<p>"Yes," very quietly. "Have you anything to say?"</p>
+
+	<p>"Not <orig reg="unless">'less</orig> I give you a bit of advice," the old man replied, with a chuckle. "See here, now. Don't let her <orig reg="get">git</orig> <orig reg="any">enny</orig> nonsense in her head in the beginning.' Squelch it then <orig reg="and">an'</orig> <orig reg="there">thar</orig>, <orig reg="and">an'</orig> <orig reg="you'll">ye'll</orig> have peace in <orig reg="your">yer</orig> life, <orig reg="and">an'</orig> prosper like I've done. It's Alty Greaves <orig reg="you're">ye're</orig> <orig reg="wanting">wantin'</orig>&#8212;a girl that has been to <orig reg="boarding">boardin'</orig> school and <orig reg="has">hes</orig> got a <orig reg="piano">pianny</orig>, <orig reg="and">an'</orig> <orig reg="been">ben</orig> set up by her folks, as it were. <orig reg="You'll">Ye'll</orig> have to <orig reg="get">git</orig> the whip hand of her at first&#8212;that's what I done with <orig reg="your">yer</orig> mother."</p>
+
+	<p>There was silence in the room. It was a disagreeable silence, and a decidedly unpleasant room. The "best room" to be sure, but not on that account less&#8212;perhaps more&#8212;repellant and ugly. The floor was covered with yellow and red oil cloth, the walls were "alabastined" an underdone pink, the heater stood in its accustomed place, although the August dust was sifting in at the loose casement, the shelf over the organ held some framed photographs and hymn books, wooden chairs were ranged rigidly against the wall; a picture on the wall, framed in silver gilt, represented a horse belonging to the master of the house, a horse that had once won third money at a country fair, another picture represented adamantine fruit, the original fervent tones of which had been reduced to a mellow monotone by years. Looking through the small window on the north one's gaze collided with a huge red barn, through that on the east one looked on a barren tract of sunbaked earth.</p>
+
+	<p>"<orig reg="Your">Yer</orig> mother had lots of queer notions when she come here," continued the old man. "Her folks were well off. She'd been brought up in a city and <orig reg="educated">eddicated</orig>. One thing, she'd a <orig reg="hankering">hankerin'</orig> <orig reg="for">fer</orig> pretty clothes. Not that she wanted silk and velvet like Hawkin's wife, <orig reg="and">an'</orig> their farm ain't but a quarter section, but she'd be <orig reg="for">fer</orig> <orig reg="having">havin'</orig> white stuff at her neck of a <orig reg="morning">mornin'</orig>, <orig reg="and">an'</orig> <orig reg="putting">puttin'</orig> on another <orig reg="gown">gownd</orig> by the time it come <orig reg="evening">evenin'</orig>, <orig reg="and">an'</orig> <orig reg="such">sech</orig> <orig reg="ridiculous">ridicklous</orig> notions. Then she wanted to take a magazine. What'd we want a magazine <orig reg="for">fer</orig>? I was <orig reg="taking">a-takin'</orig> the Gilead Register&#8212;the paper of the place I come from&#8212;the Farmer's Friend, <orig reg="and">an'</orig> the Police Enterprise, so I didn't see no need <orig reg="for">fer</orig> a magazine. That was one of the first differences. Then she wanted to have her ma come <orig reg="and">an'</orig> stay a spell the winter you were born. But, law, I says, <orig reg="they is">they's</orig> old Sally Tankles, who'll be glad to come for a dollar <orig reg="and">an'</orig> a half a week. What's the use of <orig reg="being">bein'</orig> at the expense of <orig reg="having">havin'</orig> <orig reg="your">yer</orig> ma, <orig reg="for">fer</orig> I expect she'd look to you to pay her way out. Her ma took bad not long after. They <orig reg="telegraphed">telegrapht</orig> <orig reg="your">yer</orig> ma&#8212;<orig reg="such">sech</orig> waste! She wanted to go. But I joked her out of it. Never said a word to rile her, but <orig reg="just">jest</orig> 'lowed as how she couldn't hold death back, and folks had to go when their creator called <orig reg="them">'em</orig>, <orig reg="and">an'</orig> she'd better remember her ma like she'd seen her last. Her ma died. Yet mother didn't <orig reg="get">git</orig> over that for a long spell&#8212;seems sometimes like she never got over it plum, <orig reg="you">ye</orig> know. But she ain't made much fuss. She knows a man's got to run his own house <orig reg="and">an'</orig> his own folks. Once she got an idea she wanted a carpet in the best room, but I told her <orig reg="as">ez</orig> how oilcloth <orig reg="would">'ud</orig> wash. She'd not have had the alabastine <orig reg="if">ef</orig> I hadn't vowed I thought it <orig reg="kind of">kinder,</orig> cheerful. Them pictures, too! I made her swallow the <orig reg="fact">fac'</orig> they was good enough for me! That settled it."</p>
+
+	<p>His voice, coarse in self-adulation, jarred harshly on the harsh silence.</p>
+
+	<p>"<orig reg="Another">'Nother</orig> time," he went on retrospectively, "she set her heart on <orig reg="getting">gettin'</orig> a <orig reg="piano">pianny</orig>. She'd been in foreign parts with her folks when she was a girl <orig reg="and">an'</orig> had studied music. But I set my foot down on that. She might <orig reg="get">git</orig> a organ, I told her, if she could manage to make the price of it out'n her butter <orig reg="and">an'</orig> egg money. That wouldn't cost <orig reg="such">sech</orig> a heap. We did <orig reg="get">git</orig> one&#8212;but she ain't never <orig reg="touched">teched</orig> it. One thing she did <orig reg="get">git</orig> <orig reg="to">ter</orig> have her way in&#8212;that was <orig reg="educating">eddicatin'</orig> you. I didn't hold out <orig reg="you're">agin</orig> that after we'd had <orig reg="more than">more'n</orig> a couple <orig reg="of talks">o'talks</orig>. <orig reg="Educating">Eddicatin'</orig>, I say, don't hurt a man, but a woman ain't got no use <orig reg="for">fer</orig> it. All <orig reg="hers">her'n</orig> never done <orig reg="your">yer</orig> mother no good. <orig reg="It was">'Twas</orig> only after she quit <orig reg="talking">talkin'</orig> of <orig reg="reading">readin'</orig> <orig reg="and">an'</orig> <orig reg="going">goin'</orig> back east some time <orig reg="and">an'</orig> <orig reg="having">havin'</orig> a flower <orig reg="garden">garding</orig> <orig reg="and">an'</orig> <orig reg="such">sech</orig> fool talk <orig reg="as">ez</orig> that, I begun to feel right comfortable. You want to break in Alty well at the first. We <orig reg="get">git</orig> along right pleasant now&#8212;don't we, mother?"</p>
+
+	<p>A woman who had been beautiful, a woman with a twitching, nervous face, sunken, glittering eyes, and tremulous, toil-worn hands, rose stiffly from her chair at the window&#8212;the window that looked out on the stretch of arid earth. She laughed a bitter, fleeting laugh.</p>
+
+	<p>"I haven't gone mad," she said, though I feared I would. I haven't died&#8212;though I hoped I might. Yes, I've been broken in. I hope you're proud of it. As for my son's wife"&#8212;</p>
+
+	<p>The boy met her glance flashingly. "Never fear, mother!" that look said. She left the room. Her husband gazed uneasily after her. "Mother," he remarked, "seems a bit upset. But she ain't got <orig reg="nothing">nothin'</orig> to complain on. She's <orig reg="always">allus</orig> had shelter <orig reg="and">an'</orig> enough to eat."</p>
+
+	<p>"Your cattle have had that."</p>
+
+	<p>"See here! You be <orig reg="going">goin'</orig> to take my advice about Alty, ain't you? You be <orig reg="going">goin'</orig> to treat her foolish notions like I done mother's?"</p>
+
+	<p>The young man clenched his hands hard. Words of fierce indignation sprang to his lips, but trembled there unuttered. He turned abruptly and went out. He found his mother in the kitchen. She looked up at him timidly. He bent and kissed her with passionate reverence. Her answering smile was almost one of happiness.</p>
+</div2>
+
+</div1>
+</body>
+</text>
+</TEI>

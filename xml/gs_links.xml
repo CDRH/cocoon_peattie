@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+
+]>
+
+<TEI id="gs_links">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Ghost Stories</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>gs_links</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-04-01</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+<head>Ghost Stories</head>
+
+<div2>
+<head>The Shape of Fear</head>
+<list>		
+<item><xref n="ep.gs.0001.html">The Shape of Fear</xref></item>
+<item><xref n="ep.gs.0002.html">On the Northern Ice</xref></item>
+<item><xref n="ep.gs.0003.html">Their Dear Little Ghost</xref></item>
+<item><xref n="ep.gs.0004.html">A Spectral Collie</xref></item>
+<item><xref n="ep.gs.0005.html">The House That Was Not</xref></item>
+<item><xref n="ep.gs.0006.html">The Story of an Obstinate Corpse</xref></item>
+<item><xref n="ep.gs.0007.html">A Child of the Rain</xref></item>
+<item><xref n="ep.gs.0008.html">The Room of the Evil Thought</xref></item>
+<item><xref n="ep.gs.0009.html">The Story of the Vanishing Patient</xref></item>
+<item><xref n="ep.gs.0010.html">The Piano Next Door</xref></item>
+<item><xref n="ep.gs.0011.html">An Astral Onion</xref></item>
+<item><xref n="ep.gs.0012.html">From the Loom of the Dead</xref></item>
+<item><xref n="ep.gs.0013.html">A Grammatical Ghost</xref></item>
+</list>
+</div2>
+
+<div2>
+<head>Other Stories</head>
+<list>			
+<item><xref n="ep.ss.0015.html">The Crime of Micah Rood</xref></item>
+<item><xref n="ep.owh.18960515.html">A Word with the Women [Ghost child on Omaha street car]</xref></item>
+<item><xref n="ep.ss.0036.html">The Great Delusion</xref></item>
+</list>
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

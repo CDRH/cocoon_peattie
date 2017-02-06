@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18940415 SYSTEM "ep.owh.18940415.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18940415">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Scholars and Christians</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Scholars and Christians</title>
+<title level="a" type="sub">They Are Made at Doane College Out on the Prairies</title>
+<title level="a" type="sub">Tab Kept on the Stars, the Winds, the Sun, and Current and Obsolete Events</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-04-15">15 April 1894</date>
+<biblScope type="pages">10</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18940415">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p10"/>
+
+<div1>
+
+<head type="main">SCHOLARS AND CHRISTIANS</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">They Are Made At Doane <orig reg="College">Col-</orig><lb/>
+lege Out on the<lb/>
+Prairies.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Tab Kept on the Stars, the Winds, the Sun,<lb/>
+and Current and Obsolete<lb/>
+Events.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>There are hills round about Crete; and on the highest of them stands Doane college. The college has been there since 1872 and was the outcome of the school that Thomas Doane started there for his children and his neighbor's children.</p>
+
+	<p>Thomas Doane, as it is unnecessary to explain, is the civil engineer who built the Burlington &amp; Missouri railway in Nebraska, and who, previous to that, had won a wide reputation in many brilliant works of engineering, among which was the Hoosac tunnel. He became enamored with the western prairies, light air, their bountiful sunshine, and their malaria-dispelling breezes. So he built himself a beautiful home out beyond Crete, and brought his children out where they could ride their ponies over the prairies and outgrow a natural delicacy of constitution. The college has been a gradual growth&#8211;is still, in fact, in process of growth. But it is old enough to have permitted the men who were with it from the beginning, such as President Perry and Prof. Fairchild, and who were very young men indeed at its <sic corr="incipiency">insipiency</sic>, to have reached middle age in its service.</p>
+
+	<p>Early in its history the college came into possession of 600 acres of land. Ninety acres of this was set apart for a college campus. This campus was a field of cornstalks when it was dedicated to its present purpose; but "leaves of grass" and saplings have done their work and the campus is now green and beautiful. To be sure, a tree is young at the age at which a man is old and so the trees which line the walks, and make up the groves, are still far from their development. But they are already beautiful, and in full foliage must give an appreciable amount of shade. It is not much to say that the campus promises in the not far distant future to be one of the most beautiful in the west, if not in the country. Fifty thousand forest trees have been planted on the campus, along the <unclear></unclear>, and by the drives over the large area of land belonging to the college. All of the land, except that set aside for the campus, is for sale, and fifty acres of it have been laid out on the park plan, with winding drives bordered by trees. Nineteen acres of this land have already been sold to persons who wished to settle near <unclear></unclear> college. These homes are pretty, <unclear></unclear> of the Queen Anne variety, in <unclear></unclear> contrast to the ugly and <unclear></unclear> structure, with which the preoccupied Nebraskan too frequently desecrates the beautiful prairies. Farm land is also leased by the college association, and there are, it is said, facilities for irrigation.</p>
+
+	<p>Crete has a way of thinking of and referring to itself as a "college town," which is a little surprising at first, to a stranger, who has not thought of Crete that way; but which comes to seem quite natural and correct when one perceives how all intellectual and social interests center in the college and revolve about it.</p>
+
+	<p>In fact, the professors and their households make a charming colony, quite distinct and peculiar, and, though they are <unclear></unclear> to their neighbors by ties of many <unclear></unclear> they are nevertheless a little clique <unclear></unclear> themselves. They are many of them <unclear></unclear> England people, and a number of <unclear></unclear> are relatives or friends of Mr. Thomas Doane, whose name the college bears. The president of the college, the Rev. David B. Perry, is his son-in-law.</p>
+
+	<p>Following is the faculty:</p>
+
+	<p>Rev. David B. Perry, A.M. (Yale), President Perry professor of mental and moral <unclear></unclear>.</p>
+
+	<p><unclear></unclear> B. Fairchild, A.B. (Berea), professor <unclear></unclear> mathematics.</p>
+
+	<p>Goodwin D. Swezey, A.M. (Beloit), professor of biological sciences and geology.</p>
+
+	<p>John S. Brown, A.M. (Bates), principal of academy and professor of ancient languages.</p>
+
+	<p>Howard F. Doane, A.B. (Harvard), Boswell professor of Greek and instructor in mathematics.</p>
+
+	<p>Margaret E. Thompson, S.B. (Doane), principal of ladies' department and instructor in mathematics.</p>
+
+	<p>William E. Jillson, A.M. (Brown), professor of Latin and modern languages.</p>
+
+	<p>Henry H. Hosford, A.M. (Adelbert), professor of astronomy and physics.</p>
+
+	<p>Orpha E. Leavitt, A.B. (Doane), instructor in history and English literature.</p>
+
+	<p>H. Bert King, musical director.</p>
+
+	<p>Lizzie E. Boehue, instructor in typewriting and stenography.</p>
+
+	<p>Fayette T. Owen, instructor in English.</p>
+
+	<p>Mrs. A. R. Rieth, instructor in music.</p>
+
+	<p>There are three women in the faculty, which is a fairly good proportion, though not as large as it might be, considering that it is a co-educational institution.</p>
+
+	<p>The particular reason for being which Doane college has, is that it is Christian. It is even denominational, being the school of the Congregationalists, and receiving its support from the church. But it does not make so much of its denominational leanings, as of the fact that it is Christian, and the plan put forth for supports, is that it stands opposed to the secular instruction received at state institutions, and that the whole weight of its influence is thrown against materialism, and is in the direction of spirituality.</p>
+
+	<p>There is an academy or preparatory course in connection with the college; and there are two courses of instruction in the college, the classical and scientific, each of which is of four years' duration. The classical course includes Greek, German, geometry, algebra, Livy, chemistry, botany and <unclear></unclear>, Old Testament, history, trigonometry, Horace, Tacitus, economics, literature, rhetoric, physics, French, history of art, Latin, psychology, ethics, evidences of Christianity and Hebrew. Each year's course also includes the writing of theme to be narrative or descriptive, oratorical or argumentative, historical or critical, reflective or philosophical; and the required reading of the Marble Faun, Hypatia, <unclear></unclear>; orations of Webster and Phillips, Sumner and Pitt, Burke and Gladstone; the reading of Macbeth and Othello, Richard III, and Henry VIII, Paradise Lost, Emerson's Essays, Bacon's essays and Bayard Taylor's translations of <unclear></unclear>.</p>
+
+	<p>The scientific course is similar in many <unclear></unclear>, with geometry, theoretical and practical astronomy, physics and analytics substituted for what may be termed the literary branches.</p>
+
+	<p>The place which Christianity holds in the curriculum, as one of the recognized studies, is indicated in the ramifications of the course prescribed for the philosophical department. Under the head of philosophy are included psychology, ethics and evidences of Christianity, with the following divisions and specific lines of study:</p>
+
+	<p>First&#8211;Psychology. Relation to other sciences. Phenomena and nature of the soul as connected with the human body. Phenomena classified as intellect, sensibility, and will; interdependence. Analysis or intellectual faculties. Nature and origin of intuitions. One term.</p>
+
+	<p>Second&#8211;Ethics. Search for the fundamental principles of the moral nature.  System of rules to control human conduct. One term.</p>
+
+	<p>Third&#8211;Evidences of Christianity. Prophecy, gospels, epistles, historical Christianity.  Miracles, unique personality of Jesus, the resurrection. Christ the light and the life of the world. One term.</p>
+
+	<p>Text-books: "[Hopkins] Outline Study of Man." "Ladd's Physiology Psychology." "Porter's Human Intellect," "Porter's Elements of Moral Science."  Robinson's Principles and Practice of Morality." "Mair's Studies in Christian Evidences."  "Fisher's Evidences of Christianity."</p>
+
+	<p>Also in the Greek course one hour a week is given to the reading of the new testament in Greek, and exercises are held at chapel evening and morning. The results of this work make themselves easily apparent, and all but three of the last class graduated were professing Christians.</p>
+
+	<p>However, it would be doing an injustice to the college to insinuate that the other branches were neglected to provide for the inculcation of the Christian faith. Such is not the case. Nor is the study of science in any way restricted. On the contrary, one of the strongest departments of the college is that of biology and geology, under Goodwin D. Swezy, a man of the most adventurous and concentrated mind, whose devotion to his particular lines of study would not permit him at any time to shut his eyes to the truth, or what he believed to be the truth, no matter where it might lead him.</p>
+
+	<p>The museum growing under his oversight is far from contemptible, and the collections of Nebraska flora, which have been made in a systematic and scholarly way, are the work either of Prof. Swezy or his students.</p>
+
+	<p>That Prof. Swezy has shown something akin to genius in his original work there seems to be no doubt among those who know him best. And he is to be congratulated for being situated in a spot so peaceful and so conducive to the studies in which a naturalist delights.</p>
+
+	<P>Of necessity, the college is a boarding school, with dormitories for the girls in Gaylord hall, and dormitories for the boys in Merrill hall. Presiding over Gaylord hall is a well poised, and most amiable young lady, Miss Mary [can't read], whose duty is to provide for the girl students in sickness and in health, until vacation do them part. Her simplicity and natural grace of manner, certainly qualify her well for her duties, and are in beautiful contrast to the affections of the proverbial matron of boarding schools.</p>
+
+	<p>There is no place in Nebraska better adapted to the living of a refined, wholesome and studious life than Doane college. The quiet of those green hills is beautiful. The social atmosphere is such as scholars love, and the paraphernalia for study is very good indeed.</p>
+
+	<p>For example, there is an observatory equipped with a stellar clock, a historic transit glass, which was used in taking the observations for the construction of the Hoosac tunnel, and a telescope with an 8-inch glass, besides a chronometer and a clever contrivance of an electrical sort for dropping a time ball at Merrill hall at the exact instant of noon, and ringing a circuit of bells in the various halls and rooms. One of the interests of the college are the meteorological observations, for which there is an equipment of self-registering instruments. The velocity and direction of the wind is recorded hour in and hour out, so is the sunshine, and the humidity. In fact, the observatory is the <sic corr="meteorological">meterological</sic> office of the state board of agriculture.</p>
+
+	<p>The physical apparatus is said to be very good, especially in the way of electricity. There is to be a new library building very soon, which will cost $10,000. Moreover, the $10,000 has already been collected, and includes thousands of small subscriptions, and a few large ones, as, for example, $1,000 from Taft of Massachusetts, and $5,000 from the estate of William H. Whitin, also of Massachusetts.</p>
+
+	<p>The library contains 6,000 volumes <sic corr="and">and and</sic> 3,000 pamphlets, but candor compels me to say that too large a proportion of these obsolete theological works have the appearance of having been donated by clergymen with too much mental vivacity to keep them in their own libraries. However, the best English literature is well represented, and it is safe to say that there is a great deal more of it there than any student will ever find time to read. The librarian is Prof. Jillson.</p>
+
+	<p>The college has its company of cadets, and is about to receive an officer from the United States army, the state being entitled to two training officers, and the Nebraska university requiring but one of these.</p>
+
+	<p>The college has its societies, three in number, and its own little institutions, in various ways. The girls have their share of privileges, and if the boys have their ball field, the girls have their grove. The uniform of the cadets is offset by the cap and gown worn by the girls of the graduating class. Both sexes are interested in tennis, and have carried the record in state contests, both in singles and doubles, for the last two years.</p>
+
+	<p>There are at present about 2,000 pupils, and it must be said that they obtain their instruction and the living for the least expenditure of money possible. The board costs but $2 a week, and tuition is $10 a season. The college derives its support from the interest on its endowment, from the sale of its land, the interest on the mortgages it holds, and the contributions obtained from outside sources. The greater part of the income comes by contributions.</p>
+
+	<p>The standing of a college is gauged more or less by its trustees, and the names of the gentlemen who hold this position toward Doane college are, therefore, printed. They are as follows:</p>
+
+	<p>C. H. Abernethy, esq., Fairmont; George P. Chessman, esq., York; Hon. James W. Dawes, secretary, Crete; R. E. Gaylord, esq., Omaha; Rev. Lewis Gregory, chairman, Lincoln; James T. Hanson, esq., Fremont; A.S. Raymond, esq., Lincoln; Hon. A. G. Scott, Kearney; George D. Stevens, esq., Crete; Rev. W. P. Bennett, Crete; S. H. Burnham. Esq., Lincoln; Rev. J. T. Duryea,  D.D., Omaha; John Henderson, esq., Beatrice; M.J. Manville, esq., Crete; Rev. George W. Mitchell, Franklin; Rev. J.D. Steward, Aurora; John L. Tidball, esq., Crete; A. P. <unclear></unclear>, esq., Omaha; S. L. Andrews, esq., Crete; Thomas Doane, esq., Charlestwon, Mass.; Rev. H. A. French, Lincoln, Rev. George Hindley, Weeping Water; Rev. D. J. Jones, Lincoln; President D. P. Perry, Crete; Rev. Willard Scott, Chicago, Ill.; Charles C. Smith, esq., Exeter; Rev. A. R. Thain, D. D., Omaha.</p>
+
+	<p>The various committees contain the names of many well-known gentlemen.</p>
+
+	<p>Around this college has gathered an atmosphere of refinement, friendship, Christianity and simple, natural happiness. The place is not commonplace. On the contrary, it has certain idyllic characteristics which appeal to the imagination.</p>
+
+	<p>It is a quiet and intellectual spot in the midst of the rushing and striving west, and it fills its place in our young and aspiring civilization out here beyond the Missouri.</p>
+
+<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE.</hi></signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

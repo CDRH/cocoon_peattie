@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.oan.0006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Council Bluffs, Iowa</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Council Bluffs, Iowa</head>
+
+	<p>Because of its advantageous site on the eastern banks of the Missouri River, Council Bluffs, Iowa, has been called the Gateway of the American West, and the area has an illustrious history. Here in 1804, the Lewis and Clark Expedition met with the Missouri and Otoe tribes, prompting Captain Clark to call the area Council Bluffs. However, almost a century earlier, French and Spanish explorers and traders had already camped here on their way west.</p>
+
+<figure entity="ep.owh.oan.0006.01.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>Later in the mid 1800s, more than thirty thousand Mormons passed through Iowa on their way to the Great Salt Lake Valley, and many of them remained, sometimes only temporarily, to create more than eighty Iowa communities. When they reached the Missouri River, they decided to make a more permanent camp to await the assemblage of their people. Brigham Young named the camp Kanesville after Mormon sympathizer Thomas Kane, and it became the chief outfitting center for the Mormon march to Utah. Here, too, the Mormon Church elected Young as their president.<ref target="n01" n="1">1</ref></p>
+
+	<p>When the California Gold Rush of 1849 sent thousands of gold seekers through the town, businesses flourished.<ref target="n02" n="2">2</ref> In 1853 the town was incorporated as Council Bluffs although many of the Mormons had migrated west the preceding year, and the Nebraska and Iowa Ferry Company began transporting people, materials, and even rail cars across the Missouri to Omaha.</p>
+
+	<p>The town's future appeared even brighter in 1856 when Congress gave Iowa four land grants for the building of four railroads between the Mississippi and Missouri rivers, awarding them alternating sections of land for six miles on either side of each of the proposed railroads.<ref target="n03" n="3">3</ref> Abraham Lincoln visited Council Bluffs in 1859 and, later as president, chose it at the eastern terminus of the transcontinental railroad that would link the East with the West. He appointed Grenville Dodge, Council Bluffs resident, as its chief construction engineer. By 1869 the transcontinental railroad stretched from coast to coast, but the Union Pacific Railroad did not complete their first bridge across the Missouri River completing the link until three years later. Council Bluffs soon became a major railroad center, much to the chagrin of its neighbor across the water.</p>
+
+	<p>Although Council Bluffs boasted a richer history than its Nebraska neighbor, an economic rivalry flourished between the two cities. Peattie mentions the Mormon heritage of the Iowa sister city, but her overall image of quaint houses and stately trees is in contrast to the hustle and bustle of the great metropolis Omaha would, in her eyes, soon become. Council Bluffs might be a picturesque burg one would choose for retirement, but in her typical booster fashion, she alludes that it would never a thriving city like Omaha where culture and wealth might be acquired.</p>
+</div1>
+
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><title level="a"><hi rend="underline">Book of the Bluffs and Southwest Iowa</hi></title>. <title level="j"><hi rend="underline">The Daily Nonpareil</hi></title> (July 1997) 8 October 2007 <<xref url="http://www.rootsweb.com/~iapottaw/cnclblfs.htm" rend="new">http://www.rootsweb.com/~iapottaw/cnclblfs.htm</xref>>.</bibl>
+
+<bibl><author n="Cole, Cyrenus">Cole, Cyrenus</author>. <title level="m"><hi rend="underline">Iowa Through the Years</hi></title>. <pubPlace>Iowa City</pubPlace>: <publisher>State Historical Society of Iowa</publisher>, <date value="1940">1940</date>.</bibl>
+
+<bibl><title level="a">"History of Council Bluffs."</title> <publisher>Historical Society of Pottawattamie County, Iowa</publisher>. 8 October 2007 <<xref url="http://www.geocities.com/Heartland/Plains/5660/cbhist.htm" rend="new">http://www.geocities.com/Heartland/Plains/5660/cbhist.htm</xref>>.</bibl>
+
+<bibl><author n="Merry, Carl A.">Merry, Carl A.</author> <title level="m"><hi rend="underline">The Historic Period</hi></title>. <date value="1996">1996</date>. <publisher>Office of the State Archeologist at the University of Iowa</publisher>. 8 October 2007 <<xref url="http://www.uiowa.edu/~osa/learn/historic/hisper.htm" rend="new">http://www.uiowa.edu/~osa/learn/historic/hisper.htm</xref>>.</bibl>
+
+<bibl><title level="a">"The Railroad History of Council Bluffs."</title> <publisher>Pottawattamie County, Iowa Genealogical & Historical Resource</publisher>. 8 October 2007 <<xref url="http://www.geocities.com/Heartland/Plains/5660/rrhist.htm" rend="new">http://www.geocities.com/Heartland/Plains/5660/rrhist.htm</xref>>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustration</head>
+
+<bibl>"Council Bluffs Ferry & group of Cottonwood trees." Courtesy Special Collections, Harold B. Lee Library, Brigham Young University, Provo, UT 84602.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> "Book of the Bluffs."</p>
+
+<p><note id="n02" n="2">2</note> "History of Council Bluffs."</p>
+
+<p><note id="n03" n="3">3</note> Cole, 246.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

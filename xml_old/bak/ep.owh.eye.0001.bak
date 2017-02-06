@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.eye.0001.01 SYSTEM "ep.owh.eye.0001.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.eye.0001.02 SYSTEM "ep.owh.eye.0001.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.eye.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Eyewitness to History</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project">
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-26</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Eyewitness to History</head>
+
+	<p>When Elia Peattie stepped off the train in Omaha, Nebraska, in 1888, she brought with her more than her husband, their two children, Elia's sister, Robert's mother, their trunks, and all of their worldly possessions; she also carried along a bundle of cultural baggage. Like most newcomers to the West, Peattie accepted and even promoted the prevailing myths and attitudes of the times.</p>
+
+	<p>Following Frederick Jackson Turner's frontier theory, Peattie, as well as most newcomers, believed that the West was the source of American democracy and that it set people free from the past, offering them a new life with a new identity in a new environment. For the first time in their marriage, both of the Peatties would be holding prestigious jobs in the blossoming new western city of Omaha&#8211;Robert as Managing Editor of what would soon be the merged <title level="j">Omaha World-Herald</title> and Elia as editorial writer and columnist with guaranteed bylines. Robert and Elia became the New American Adam and Eve in the Garden of the West.</p>
+
+<figure entity="ep.owh.eye.0001.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>Perhaps the most persistent offshoot of this belief in new beginnings was that the West provided limitless possibilities for social mobility and economic opportunity through the initiative of the individual. The Horatio Alger myth that "pluck, luck, and moral rectitude would advance one's station in life" promoted the idea of "rags to riches" and the "self-made man" and became one of the guiding forces in the westward migration. More important, the myth rejected unrestrained industrialization, capitalism, and even materialism, and warned about excess.<ref target="n01" n="1">1</ref></p>
+
+	<p>Robert and Elia personified the Algerian hero. Arriving in Omaha nearly penniless and virtually unknown, through their hard work they quickly became community leaders whose voices made a difference in social, cultural, and political arenas in the city. They purchased a spacious Victorian home on the southern outskirts of the city, and they reveled in their new economic security. However, they were careful to distance themselves from the elite upper class, taking pride in coming from humble beginnings, in being self-made, and in their status as middle class.</p>
+
+	<p>Peattie's sojourn in Omaha occurred at a pivotal time in American history. The struggles and sacrifices to end slavery in the South and unify and heal the nation changed how Americans thought about themselves. The rise of the Gilded Age, fueled by industrialism and territorial expansion, triggered opportunism and exploitation, not only of resources but also of people. Quickly a new class of staggeringly wealthy industrialists and businessmen arose&#8211;the robber barons&#8211;concentrating wealth and power in the hands of a corrupt few.</p>
+
+	<p>Meanwhile, Nebraska, especially Omaha, witnessed tremendous growth in wealth and power. According to government statistics, Nebraska's population stood at 452,402 at the beginning of the 1880s, and by the end of the decade it had increased to 1,058,910, a gain of 136%.<ref target="n02" n="2">2</ref> Omaha itself boasted of 30,518 people in 1880, and by 1885 the population had reached nearly 60,000.<ref target="n03" n="3">3</ref> The Union Pacific Railroad Headquarters, huge stockyards and packing plants, and large manufacturing companies, like the Omaha and Grant Smelting and Refining Works, attracted many people to the booming city. Money was there to be made by everyone in Omaha, or so it appeared.</p>
+
+<figure entity="ep.owh.eye.0001.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>However, the close of the frontier in 1890 (according to Turner) began the transition into the Progressive Era, and new scientific thought, new attitudes toward women's place in society, and increased educational opportunities spurred interest in reform: political, social, and economic. The Progressives, a diverse group, surfaced from the American middle class that "shared a highly moralistic and optimistic outlook and a determination that they, the stable mortar of American society, would not stand passively by while the newly emerging capitalists of industry and commerce ground them down into a propertyless 'proletariat.'"<ref target="n04" n="4">4</ref> This post frontier reformation shifted more political power into the hands of the people on every level of government in the hopes of regulating giant corporations and corrupt government officials.</p>
+
+	<p>In Peattie's writings about the headline news of the day, she echoed the concerns of the Progressive population. Like them, she wanted to combine the best of the old ways with the new scientific thought "to produce a pragmatic, productive, and less exploitive society."<ref target="n05" n="5">5</ref></p>
+</div1>
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Chudacoff, Howard P.">Chudacoff, Howard P.</author> <title level="m">Mobile Americans: Residential and Social Mobility in Omaha, 1880-1920</title>. <pubPlace>New York</pubPlace>: <publisher>Oxford University Press</publisher>, <date value="1972">1972</date>.</bibl>
+
+<bibl><author n="Etulain, Richard W.">Etulain, Richard W.</author> <title level="m">Re-Imagining the Modern American West: A Century of History and Art</title>. <pubPlace>Tucson</pubPlace>: <publisher>University of Arizona Press</publisher>, <date value="1996">1996</date>.</bibl>
+
+<bibl><author n="Larsen, Lawrence H.">Larsen, Lawrence H.</author> and <author n="Cottrell, Barbara J.">Barbara J. Cottrell</author>. <title level="m">The Gate City: A History of Omaha</title>. Enlarged Edition. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1997">1997</date>.</bibl>
+
+<bibl><author n="Limprecht, Hollis J.A.">Limprecht, Hollis J.A.</author> <title level="m">A Century of Service, 1885-1985: The World-Herald Story</title>. <pubPlace>Omaha</pubPlace>: <publisher>Omaha World-Herald Company</publisher>, <date value="1985">1985</date>.</bibl>
+
+<bibl><author n="Malone, Michael P.">Malone, Michael P.</author> and <author n="Etulain, Richard W.">Richard W. Etulain</author>. <title level="m">The American West: A Twentieth Century History</title>. <pubPlace>Lincoln, NE</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1989">1989</date>.</bibl>
+
+<bibl><author n="Nackenoff, Carol">Nackenoff, Carol</author>. <title level="a">"The Horatio Alger Myth."</title> <title level="m">Myth America: A Historical Anthology</title>. <biblScope type="volume">Vol.II</biblScope>. Eds. <editor n="Gerster, Patrick">Patrick Gerster</editor> and <editor n="Cords, Nicholas">Nicholas Cords</editor>. <pubPlace>St. James, NY</pubPlace>: <publisher>Brandywine Press</publisher>, <date value="1997">1997</date>. <biblScope type="pages">72-76</biblScope>. Reprinted from <title level="m">The Fictional Republic: Horatio Alger and American Political Discourse</title> by <author n="Nackenoff, Carol">Carol Nackenoff</author> (<pubPlace>New York</pubPlace>: <publisher>Oxford University Press</publisher>, <date value="1994">1994</date>).</bibl>
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl><title level="a">"Strive and Succeed."</title> <title level="m">Horatio Alger Resources</title>.  <xref url="http://www.washburn.edu/sobu/broach/algerres.html" rend="new">http://www.washburn.edu/sobu/broach/algerres.html</xref>. With Permission.</bibl>
+
+<bibl><title level="a">"The People to Plutocracy."</title> <publisher>Missouri State History Dept</publisher>.  <xref url="http://history.missouristate.edu/wrmiller/Populism/2scartoon/scartoon02.htm" rend="new">http://history.missouristate.edu/wrmiller/Populism/2scartoon/scartoon02.htm</xref>. With Permission.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Nackenoff, 72-74.</p>
+
+<p><note id="n02" n="2">2</note> Larsen and Cottrell, 71.</p>
+
+<p><note id="n03" n="3">3</note> Limprecht, 4; Chudacoff, 14.</p>
+
+<p><note id="n04" n="4">4</note> Maloine and Etulain, 53.</p>
+
+<p><note id="n05" n="5">5</note> Etulain, 20.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

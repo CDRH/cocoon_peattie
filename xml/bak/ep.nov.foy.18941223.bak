@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18941223 SYSTEM "ep.nov.foy.18941223.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18941223">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-12-23">23 December 1894</date>
+<biblScope type="pages">18</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb corresp="ep.nov.foy.18941223.jpg" n="p18"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By. Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">CHAPTER XI.</head>
+
+	<p>The following morning at rise of sun the people waited without our lodge. I was awakened by their chanting that same wild and changeful song which we had heard that eventful morning we came into the valley. Hastily I put on a long white robe which had been left for me, and joined De Vega, who was waiting without.</p>
+
+	<p>It was the occasion of our baptism. Bryan, Bridges and myself were to be made citizens of Bimini, and presented with the gift of eternal life. Even Bridges was exultant, and Bryan from the first had been mad with impatience for this experiment. And I&#8211;why should I not be willing to live forever after what had happened the night before?</p>
+
+	<p>We had to hasten, for the wan wraith of a moon was already low in the west, and it was necessary that the ceremony should come to an end while it was still visible. The people were full of enthusiasm. Whatever the leaders of this people might be there was no question about the spirit of the people themselves. They were as happy as birds, born to build nests and sip the dew from the hearts of the roses. They greeted us with cries of joy. De Vega did not appear. He was not willing to dampen the occasion by his presence. Having performed the hospitable duties which he considered incumbent upon him, he slipped away in the garden.</p>
+
+	<p>We three were told to walk one behind the other, and around us circled youth clothed in white, who leaped and waved palm branches, and as they did so gave out a staccato cry, shrili and musical, something like the whistle of the oriole. We wound quickly among the knolls in that ambient morning air, half drunk with the scent of the magnolia blossoms, and came presently to the Fountain, which, gleaming with iridescent lights of green, lay half in sun and half in shade, at the foot of the mountain.</p>
+
+	<p>Near us the mountain was clothed in green, except where a rough trench had been broken out of ragged, heaped boulders by the torrent, which, spring-soon as we had entered.</p>
+<!-- consult image for coding this -->
+<p>ing suddenly from the very breast of the mountain, as though it were the milk of Mother Nature, flowed into the pool below with dull, thunderous commotion.</p>
+
+	<p>Before the pool the procession stopped. Father Anton and the Adelantado, with much chanting, and saluting, and gesticulating, stood upon the very brink. Then simultaneously we were divested of our robes, and pushed by dozens of youths, themselves half naked, into the water.</p>
+
+	<p>It was not cold. On the contrary, a tender warmth penetrated our limbs as <!-- missing part of sentence? --></p>
+
+	<p>"On, on, to the heart of it," the youth cried, while the chant rose higher and higher, and Padre Anton's nasal intonations furnished a dull undertone.</p>
+
+	<p>"It must rise above your heart, above your lips, above your head!" directed the youths, "and you must also drink of it!" and we went on together into the warm rushing under stream, which, swinging directly from the cataract, caught us, and drew us under until our feet touched that metallic bottom, where the exquisite green sediment shot out its shafts of mysterious light.</p>
+
+	<p>And here, looking downward, I saw within the pool another pool, at the very bottom, like a great purple morning glory, with red flushing about its edges. I permitted myself to arise to the surface, and then I Sank into the very heart of this flower-like place, and came up and was dragged ashore by long lassos of braided cypress root thrown about my neck. I was given a goblet of the sacred water, which I drank, and then my robe was flung about me, a branch of magnolia flowers placed in my hand by some one. I turned to thank the giver, and I saw that it was one of those little maids who waited on Opaka.</p>
+
+	<p>But Opaka I saw not. And I was glad. For when I looked on her face I wanted no others by. We went then to the great public gardens, where a feast was spread, and all the people in the island came and ate.</p>
+
+	<p>The sun reached high heaven, the insects buzzed and boomed in delight, the musical birds gave out their weird cries, and all that was gayest in the melancholy  Floridian landscape was here, in this garden, where moved these many creatures in everlasting youth. There was nothing left to long for&#8211;and perhaps that was why I saw on a few faces a look of dread and gloom like that worn by the runner in marble that stood within Opaka's door.</p>
+
+	<p>We made many acquaintances on this occasion, and I, at least, was indefinably charmed with these innocent and perplexing creatures, who appeared to think so little and live so much. I could quite understand why Opaka was considered a great teacher among them. She did not appear on the pleasure grounds till the feast was well over, and then, followed by a few of her maids, she came tripping lightly down the avenue, her saffron dress making a gleam among the black shadows.</p>
+
+	<p>She saluted us merrily, passing me over with a hasty glance, which interpreting it as I did, was a profound compliment. It was the instinctive sign by which she strove to conceal her love. No sooner had she appeared than a number of the young men joined her. She stood among them laughing and jesting, and it was only when they informed her that it was the strangers who had been received among them&#8211;a fact which she received in calm silence, disdaining to deceive, but not acknowledging that she knew of the nature of the feast&#8211;till she was besought to add her congratulations.</p>
+
+	<p>"Which of us shall say that a deed is done till the lady Opaka speaks," cried one of her pupils, leading her toward us. She bowed to Bridges, to Bryan, and spoke some pretty words to which they both returned elaborate replies in faultless English, and then to me she gave a slighting acknowledgement. How my heart laughed! Bryan looked at me pityingly. He thought she had taken a dislike to me. Poor Bryan.</p>
+
+	<p>But it was then that something happened which had a sinister portend. I saw Padre Anton call aside some of the young men who were grouped about her, and with lowering brows he spoke some words to them which they appeared to bitterly resent. At first their faces flushed and they showed every sign of anger, but as the priest continued to talk a look of fear came into their faces, and I noticed that they did not return to the company about Opaka, but kept apart. As for my love, she did not feign to be ignorant of what was taking place. She turned a triumphant smile on the sour priest, and began talking with those about her, charming them with her wit and with her tenderness, till even the priest looked at her with something like envy, and the Adelantado paced restlessly up and down as if some secret pain tore at his heart. I could well guess what it was. I thought I knew why he had been so vindictive the day at the council chamber.</p>
+
+	<p>As soon as courtesy would permit, we withdrew, that we might return to our doomed friend, from whom my thoughts had seldom been absent during the day. I found one moment to speak alone with my love.</p>
+
+	<p>"Until day after tomorrow I shall stay with my friend," I said to her, "and after that I shall follow my heart, which has left my body and is lodged with you."</p>
+
+	<p>She drew a bunch of orange flowers from the saffron silk that bound her shoulders and gave it to me.</p>
+
+	<p>"We give these flowers only to those we love," she whispered, "but perhaps flowers mean nothing with your people."</p>
+
+	<p>"They mean still more with us, for we twine them only in the hair of a bride," I said. Here eyes sank under my gaze. My calmness was deserting me. In a moment more I should have wrapped her in my arms. I turned and fled, for my farewells were already spoken, and found my friends waiting for me.</p>
+
+	<p>I do not care to write of the evening we spent together with De Vega. It was a strange evening for four young men to pass together. But I learned much that I can never forget, and that strengthened me in all that followed, and that showed me the value of following that which was truly high and beautiful. This wonderful man, looking into the shadows of the grave, was happy. He saw things as they were<sic corr="."></sic> He took them at their right values. These words sound hackneyed. I seem to myself to be uttering the veriest platitudes&#8211;but a platitude, however familiar, becomes very beautiful when one stands face to face for the first time with some illustration of it. It is then that one realizes that it is these hackneyed truths which are the best truths.</p>
+
+	<p>The morning dawned sultry and windless. The sky hung low, and the first promise of dawn came not in rose and purple, but in sullen copper-colored threats of storm. A large company of sympathizing friends were waiting without the door as we issued, De Vega in the midst of us, dressed in a long, mournful gown of purple, belted with leather thongs, and wearing a crown of purple thistles on his head. Such, he said, was the dress of those who went to die. I had ventured to ask several times what the mode of death was to be, but each time an answer to my question had been avoided, and concluding that it was something shameful of which he would rather not speak, I ceased to approach the matter.</p>
+
+	<p>In a short time, to the hollow beating of drums, down the long avenue appeared the honorable men of the community, the Adelantado and Padre Anton marching side by side. De Vega looked at them with a smile, and then saluted profoundly. There was something in his manner of doing this that appeared to irritate both of them.</p>
+
+	<p>"I go to my death, noble ones," said he with satirical emphasis, "therefore you are to bear with me, while I assure you that I would not for all the sum of life contained in this island of the blessed, exchange my privilege of death."</p>
+
+	<p>"Peace," cried the Adelantado angrily, "or"&#8212;</p>
+
+	<p>"Or what?" queried De Vega. "With what do you threaten me? With life? That is the only thing I dread, and that you do not are to offer." Before a reply could be made, he placed himself in the midst of the same band of youths who had the day before accompanied us on such a different errand, only now they were clothed in black and bore branches of cypress. There was no show of compulsion, no military display. The prisoner walked with uplifted head in the midst of his friends, some of whom were weeping. But his own eyes were dry and filled with a proud light. We walked a long way, and came at length to a sort of plain which I had never before seen. On this there had apparently grown at some time a quantity of gigantic trees or plants, but these had been cut down and only the uncouth stumps remained. And in the center of the plain, growing to a considerable height, was a strange and formidable plant, which I could see at a glance, was of the same sort as those stumps with which we were surrounded. Over the top of these stumps, which resembled a huge plant more than a tree, there had gathered a sort of milky mucus, which was dried now under the sun, but remained there in a decaying condition. It was very repulsive to look on.</p>
+
+	<p>My heart seemed to be clenched with some strong and druel hand. I felt I could not endure it to let my friend die thus&#8211;some strange, nameless death, the dread of which was pailing every face. The youths walking about De Vega and those with whom we mingled were trembling so that some of the youngest of them hung on to the skirts of their friends, and I noticed a convulsive, contagious shuddering seize upon them. The throbbing of the drums never ceased. And the air grew heavier, while the stench from the rotting mucus or those stumps sickened the strongest.</p>
+
+	<p>We walked directly toward that great plant which stood in the midst of this plain, and I recognized it as being like the picture I had seen in the council chamber opposite that of the fountain of youth.</p>
+
+	<p>De Vega still walked with his head up and a smile on his lips, but I noticed signs of a physical sickness which he could not overcome. Immediately in front of this plant we stoped. Some long, tongue-like leaves reached out on the ground almost to our feet. They had <sic corr="serrated">serated</sic> edges, and I noticed an infinite number of little cup-like formations on the leaves. The plant did not rise to a great height, but its long leaves spread out on the ground like the arms of a devil fish. While I was absorbed in curiosity and in noticing the peculiarities of this extraordinary creation. Padre Anton kneeled and began praying in a monotonous and perfunctory voice. When he was finished the Adelantado said a few words to De Vega, but I know not what they were, for a horrible illness had seized me, and a fear of I know not what mysterious thing. I did dimly hear some words of warning against treason that were being spoken for the benefit of the trembling young men, and I caught a glimpse of De Vega's scornful smile. Then I saw my friend kneel. He bowed his head and silently prayed. Arising he spoke to many friends, an last of all to us, and me he kissed on the cheek.</p>
+
+	<p>"I had a dream last night," he said, "that you stood in a golden glory, like a god, and when I asked you, dreaming, how you came to be so beautiful you said, 'because of Opaka's kisses'. I take it that my dream was but a prophesy, and I hope, my brother, that it was so. Tell me truly."</p>
+
+	<p>My speech struggled for utterance. I put one hand to my throat. The words would not come.</p>
+
+	<p>"Speak, dear brother," said that mournful voice. "Speak."</p>
+
+	<p>"It is true that we love," I cried, "an I pray to God that I have in no way defrauded you."</p>
+
+	<p>"You make me very happy," he replied, "for now I know that she will be protected." We stood with clasped hands, looking at each other for a moment, and then with a sudden wrench, he flung himself away from me. He made a haughty gesture of farewell to the councilmen and the trembling governor. Then, parting the long leaves of the plant before him, he walked toward the heart of it. Once at the center he sprang up from whorl to whorl of the stiff leaves, and stooping over, seemed to be drinking something from the great bud which grew in the center.</p>
+
+	<p>"It is very sweet," he called back&#8211;"like death."</p>
+
+	<p>Then&#8211;how shall I write it? Then it was that I noticed how all the lithe leaves of the plant seemed alive, and were straining and lifting. Before I could grasp it all, I saw the leaves nearest the bud curl up and writhe like serpents about the man who stood there in the center, with his lips still at the chalice of that green cup. Whorl after whorl lifted, writhing and curling. They licked the air hungrily; they lifted partly and fell and lifted again; and a frightful odor, sweet, but nauseating, filled the air. The little cups on the hideous leaves opened and shut convulsively, and faster and faster as the time went on. Then I saw them all closing up around the center; I heard groans from the youths about me; maledictions from a few, and finally a terrible, terrible cry of mortal anguish, and&#8211;nothing more, except the voice of one of the young men, saying consolingly:</p>
+
+	<p>"Believe me, he is drunk ere this with honey of the bud. That was a cry of <sic corr="delirium">delirum</sic>, not of pain. He cannot feel when he has drunk of the honey, but it turns the brain mad. Believe me, it is so." But the voice grew more and more faint. The deadly scent grew fouler. The plain seemed to be writhing with serpents. I sank from a vision of unhallowed sights into oblivious.</p>
+
+<p rend="center">(To Be Continued.)</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

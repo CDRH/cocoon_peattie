@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.cha.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Open Door: A Home for Unwed Mothers</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-13</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">The Open Door: A Home for Unwed Mothers</head>
+
+	<p>American women of the nineteenth century devoted themselves to the embodiment of four important "feminine" virtues: piety, purity, domesticity, and submissiveness.  Historians have named the glorification and pursuit of these traits by Victorian women "The Cult of True Womanhood."<ref target="n01" n="1>1</ref> Since purity, or sexual restraint, figured prominently into this formula of feminine success, women of the Gilded Age were against anything that might lead to or represent its opposite, sexual immorality. Accordingly, public homes were established&#8211;first in Eastern cities and then gradually throughout the West&#8211;for the reform of those who had fallen into lives of "unrestrained sexuality,"<ref target="n02" n="2">2</ref> namely unmarried mothers and prostitutes.  For similar reasons, boarding houses for young ladies and job training programs for women&#8211;such as one established in Omaha for those desiring to become laundresses<ref target="n03" n="3">3</ref>&#8211;were founded to encourage proper and virtuous employment of females, as well as to foster their return to Victorian values.</p>
+
+	<p>The "Open Door," a home for unwed mothers that opened in 1892, was the vision of one woman, Mrs. G.W. Clark, who according to Peattie, "was alone willing to give her life for it."<ref target="n04" n="4">4</ref> Clark maintained the home almost singlehandedly for all the years of its existence, without the aid or funding or a larger organization. Within a year of its opening, she made the Open Door's goals and financial records public, publishing its annual report in the <hi rend="underline">Omaha World-Herald</hi>. According to her account, during its first year of existence, the home had sheltered 130 girls, many of whom had found more permanent situations after the births of their babies. Forty-two infants had been born within the institution's walls, several placed for adoption, and a few of their mothers had wed. Newborns that had died shortly after birth had also been given appropriate burials by the Open Door. "Many times has the sad, appealing face of the heart-broken girl appeared at our door, the poor victim of her own folly and of man's licentiousness and cruelty, more sinned against than sinning, driven forth from heart and home, no place under God's heaven, no shelter. What is there for her to do? Where to go, if it was not for the Open Door?" wrote Clark.<ref target="n05" n="5">5</ref></p>
+
+	<p>Peattie was a devoted advocate of this shelter, of which she wrote in February 1891, "It is the only place in the state where, without certificate, or application, or red tape, a woman may go when friends have deserted her, when honor is gone and despair is faced."<ref target="n06" n="6">6</ref></p>
+
+	<p>Indeed homes such as the Open Door were often the only and last refuges for girls who found themselves unexpectedly pregnant during the Gilded Age. It was common practice for unwed mothers to be turned out of their parents' homes once the signs of pregnancy became visible. This "familial and community ostracism,"<ref target="n07" n="7">7</ref> which clearly branded a girl as "impure," often served to hasten her first step toward a life of prostitution.</p>
+
+	<p>Clark aptly advised established residents of Omaha via the <hi rend="underline">World-Herald</hi>: "We would give prominence in our report to protection given young girls who come to our city to look for work and who on account of failure to meet friends and various other causes are adrift in a large city, friendless and penniless. . . we must lift high the standard of social purity . . .[and] ring out loud the note of warning to the young; teach them that many things they consider to be innocent pastimes are in fact the very open door to the brothel."<ref target="n08" n="8">8</ref></p>
+
+	<p>Perhaps because it lacked the backing and support of a larger organization, the Open Door was haunted by insufficient funds from its earliest days. In 1892 Mrs. Clark wrote, "Winter is here, and we are without coal and food and those things that money will supply, but where is the money?"<ref target="n09" n="9">9</ref> In 1896 as her eyesight deteriorated, Mrs. Clark was forced to close the home's doors. Peattie decried this event in her October 4 column. "It did not fail for lack of consecrated devotion on the part of the woman who organized it&#8211;[but] the interest of others was spasmodic, impulsive, ephemeral, and sentimental. Sometimes they helped, but oftener they forgot."<ref target="n10" n="10">10</ref></p>
+
+	<p>The Salvation Army absorbed the ministration to unwed mothers in Omaha into their own, larger "League of Love" program<ref target="n11" n="11">11</ref>. Although Peattie was saddened that The Open Door had been forced to close, she gratefully acknowledged the special skills of the Salvation Army in caring for what they termed, the "submerged classes." "The Salvationists make a specialty of working among the fallen, they poor, the miserable, the outcast," she wrote. "They are trained for the work as specifically as the carpenter is trained for the building of houses. They are the scavengers of the world, gathering up those cast away souls for which others have no use. . to them may be trusted the world's the work among the fallen women and among those poor mothers who have not the comfort of a home."<ref target="n12" n="12">12</ref>
+
+
+
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Armitage, Susan">Armitage, Susan</author>, and <author n="Jameson, Elizabeth">Jameson, Elizabeth</author>. <hi rend="underline">The Women's West</hi>. <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="1987">1987</date>.</bibl>
+
+<bibl>"<title level="a">Churches and Charters</title>." <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. <date value="1893-09-23">9/23/93</date>: <biblScope type="pages">5</biblScope>.</bibl>
+
+<bibl><author n="Clark, G.W.">Clark, G.W.</author> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. "<title level="a">The Open Door</title>." <date value="1892-10-22">10/22/92</date>: <biblScope type="pages">5</biblScope>.</bibl>
+
+<bibl><author n="Pascoe, Peggy">Pascoe, Peggy</author>. <title level="m"><hi rend="underline">Relations of Rescue: The Search for Female Moral Authority in the American West, 1894-1939</hi></title>. <pubPlace>New York</pubPlace>: <publisher>Oxford University Press</publisher>, <date value="1990">1990</date>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. <title level="a">"A Word With the Women."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. <date value="1896-10-10">10/10/96</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;</author>. <title level="a">"Leda."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. <date value="1891-02-01">2/1/91</date>: <biblScope type="pages">?</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;</author>. <title level="a">"Lessons From the Past."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. <date value="1896-10-04">10/4/96</date>: <biblScope type="pages">18</biblScope>. 
+</bibl>
+
+<bibl><author n="Rosen, Ruth">Rosen, Ruth</author>. <title level="m"><hi rend="underline">The Lost Sisterhood: Prostitution in America 1900-1918</hi></title>. <pubPlace>Baltimore</pubPlace>: <publisher>Johns Hopkins University Press</publisher>, <date value="1982">1982</date>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustrations</head> <!-- check links, edit citations -->
+
+<bibl>"Group of young women with chaperones, date unknown." <author n="McCarthy, John">McCarthy, John</author>, likely photographer. <date value="2008-01-28">1/28/2008</date>. The American Memory Digital Project. http://memory.loc.gov/cgi-bin/query/D?ngp:4:./temp/~ammem_Kezq:: 
+Collection: The Northern Great Plains, 1880-1920: Photographs from the Fred Hultstrand and F.A. Pazandak Photograph Collections. digital id: ndfahult b443. <!-- permission pending -->.</bibl>
+
+<bibl>"Young pioneer Miss waiting for her beau to call."
+1/28/2008. The American Memory Digital Project. http://memory.loc.gov/cgi-bin/query/D?ngp:4:./temp/~ammem_Kezq:: 
+Collection: The Northern Great Plains, 1880-1920: Photographs from the Fred Hultstrand and F.A. Pazandak Photograph Collections digital id: ndfahult b449.
+<!-- permission pending --></bibl>
+
+<bibl>"Rescue Mission." 1/27/2008. < www.wmm.org/.../history/history-part1.html> <!-- permission pending -->.</bibl>
+
+<bibl>"Home for unwed mothers in Fargo, North Dakota, opened April 19, 1883." 1/27/2008. <www.fargo-history.com/hospitals/crittenton.htm> <!-- permission pending -->.</bibl>
+
+
+
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Armitage, 143.</p>
+
+<p><note id="n02" n="2">2</note> Pascoe, 6.</p>
+
+<p><note id="n03" n="3">3</note> "Churches."</p>
+
+<p><note id="n04" n="4">4</note> "Lessons," 18.</p>
+
+<p><note id="n05" n="5">5</note> Clark, 5.</p>
+
+<p><note id="n06" n="6">6</ntoe> "Leda."</p>
+
+<p><note id="n07" n="7">7</note> Rosen, 166.</p>
+
+<p><note id="n08" n="8">8</note> Clark, 5.</p>
+
+<p><note id="n09" n="9">9</note> Clark, 5.</p>
+
+<p><note id="n10" n="10">10</note> "Lessons," 18.</p>
+
+<p><note id="n11" n="11">11</note> "Lessons," 18.</p>
+
+<p><note id="n12" n="12">12</note> "Word," 8.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

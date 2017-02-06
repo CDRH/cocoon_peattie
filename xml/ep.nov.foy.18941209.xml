@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18941209 SYSTEM "ep.nov.foy.18941209.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18941209">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.foy.18941209</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-12-09">9 December 1894</date>
+<biblScope type="pages">18</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Serialized Novel, Part 7</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-18</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.nov.foy.18941209">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p18"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">CHAPTER IX.</head>
+
+	<p>"Good God, man," I cried when we were really on the outside and beyond the hearing of the council and beyond the hearing of the council chamber, "they permit you to depart! They think you will be fool enough to return to be murdered for the crime of exercising your own personal liberty!"</p>
+
+	<p>De Vega turned on me with a look of pride and reproach.</p>
+
+	<p>"Brother, we of Bimini obey the law."</p>
+
+	<p>"You mean that you will tamely go to be murdered?"</p>
+
+	<p>"Worse would follow than that which threatens, if I did not obey my fate. For, understand, it is the decrees <sic corr="of">of of</sic> fate which I bow to. One of your race cannot understand this as can an Indian. My death was designed when the plan of the ages was unrolled. Were I to try to mar this plan I would bring disaster to all connected with me. I would have no happiness if I should live, knowing that like a coward I had run from death. Brother, try to understand. Not only would I be an outcast from society, but a haunted man as well, surrounded by the spirits of the infernal regions, who would consort with me and call me their companion. For they also have thwarted the will of the great spirit. This is the greatest crime an Indian can commit. No, brother, I will be courageous and true. Then there can be no punishment, and as for the pain of a few moments&#8212;that is nothing. It cannot compare with the pain that I have suffered in my heart for months. Death, you see, has no terrors for me."</p>
+
+	<p>We found Bryan and Bridges waiting under the shade of a tree. They read in our faces all they cared to know and sadly followed behind us, Bryan leaning heavily on his friend's arm.</p>
+
+	<p>As we neared the house, there sprang suddenly from behind a huge cactus plant a little brown body that sped toward us with the speed of some wild animal. It was 'Sin. De Vega's face lighted up when he saw him. He ran forward to meet him, and the two spoke together for a moment.</p>
+
+	<p>"You will not fail me?" De Vega called back twice as we walked on.</p>
+
+	<p>"By the sign of my fathers," cried 'Sin in his Seminole, "I will be there. A tiger"&#8212;and he drew up his beautiful little body proudly, "A tiger never forgets what he has promised."</p>
+
+	<p>De Vega's hospitality was in no way relaxed when we returned to his lodge. Those elaborate formulas of welcome which the etiquette of his race required were repeated in tones of the most convincing sincerity. Dinner was served for us in the long cool dining hall&#8212;fowl, fruit, the wild potato and koonti&#8212;made into pudding with the aid of strong but savory eggs of some wild bird.</p>
+
+	<p>From the time we left the state house, we had been the object of curiosity. A great crowd of people were waiting for us without the door of the council chamber, but so deep in grief was I at the position of my friend, that I saw them with undiscerning eyes, and only gathered confused visions of stately, slow-moving figures, wrapped in bright colored garments, redolent with strong and spicy perfumes. Many of these followed us as we returned along the avenue of palms, but their curiosity was not of that morbid sort which a crowd of my own countrymen would have displayed. It was evident that the people of Bimini did not rejoice in the sorrows of others. Their commiseration made itself felt somehow. As we sat at dinner, a low murmur that came in through the window informed us that many of the people had gathered in the garden. Indeed, we had not finished our meal before word was brought De Vega that his miners, hearing of his return, had come down from the mountain to consult with him. De Vega sent word that all in the garden were to be served with fruits and wine, and then resumed his quiet and courtly attention to us.</p>
+
+	<p>"Brothers," he said, "I shall this afternoon prepare my testament, and make a written disposal of all of which I am possessed, as is the law. My kinsfolk are few, and they have more than their needs. Therefore I shall only leave them reminders of my regard. I have, also, a few faithful servitors, who deserve something from my hand. But you, my sworn friends, who have entered my country and my home under circumstances so peculiar, shall have that which will give you a place in the commonwealth. The Adelantado himself will not dare disregard you when you stand possessed of the only mine containing gold in the country, and control a body of men who know no fear. At the same time it will be a great pleasure to me to know that the tasks which I have undertaken will be worthily carried on, and that the men who have so long worked for and with me will continue to have masters who will consider their good."</p>
+
+	<p>At this moment the servant whom we had first seen when we approached De Vega's house entered the room. His manner, in spite of that stately impassivity which it was always his ambition to maintain betrayed excitement.</p>
+
+	<p>"Father," said he, "there awaits, without, the Lady Opaka and her train."</p>
+
+	<p>I know not how it was, but at this information each of us sprang to his feet. De Vega turned white under his swarthiness. Bryan, still weak from his illness, trembled in sympathy with De Vega. I felt as if a hand were at my throat. This woman, whom the governor of the land thought it worth his while to denounce for political reasons&#8212;this woman, who had had such a fatal influence over my poor friend, and who seemed to contain in herself the knowledge of letters, of which her race was ignorant, who was, in fact, the disturbing element of this placid land&#8212;was it well to meet and know her? These thoughts poured hotly through my brain, and yet I knew, and I admitted to myself, that I would not, for anything the world had to offer, have left that roof, knowing she was under it, without seeing her.</p>
+
+	<p>"Come with me. I dare not meet her alone," said De Vega in a strained voice. He paused to drain another glass of the mulberry wine, and then, after two or three laboring breaths, drew himself up, flung apart the curtains at thee door, and entered the other room.</p>
+
+	<p>In the white light of noon, backed by the gray panels of the apartment, stood a group of women. Their dark and innocent eyes were turned on us. Their lithe bodies obtruded themselves through the white drapery of their garments. As we entered, one of these parted from the group and glided toward De Vega with hands outstretched. I saw a terrible look shoot into a the Indian's eyes&#8212;such a look as a spirit might wear, which, through the murky gloom of an inferno, beholds heaven. Then he roused himself and accepted the hands which the lady extended toward him.</p>
+
+	<p>"Opaka," he breathed.</p>
+
+	<p>"My brother," sobbed the lady, "I have come to ask for pardon. I have committed a crime. It is I who am responsible for all this evil which has fallen on you."</p>
+
+	<p>"Lady," said De Vega sternly, "you were the servant of fate. Such words as you speak do not accord with all that you have taught me<sic corr="."></sic> It is your teachings which have fortified me. You will surely not be the one to disprove those lessons which I learned so well, and which are now my only consolation."</p>
+
+	<p>But she did not heed his words.</p>
+
+	<p>"I will go before the council," she protested, "they shall reconsider. They shall place the blame where it belongs."</p>
+
+	<p>"My dear lady," cried De Vega in anxiety," make yourself no more enemies than you already have. Interfere not in this matter. Already I have heard that Padre Anton whispers lies among those who will lend ear to them. Dear lady, beware! Think only of yourself. My death is nothing. Have you not yourself taught me that death is better than life when life has ceased to be beautiful?"</p>
+
+	<p>"But what a death, my brother Hisakitma!"</p>
+
+	<p>'Hush, hush!"</p>
+
+	<p>"Oh, let me plead for you. Do not deny me this one little thing! It will quiet my spirit, which is torn with remorse."</p>
+
+	<p>"Lady, if I lived, could you love me?"</p>
+
+	<p>The imploring eyes which had been lifted to his dropped suddenly. A flush spread over the face and the stately neck.</p>
+
+	<p>"But&#8212; but," she protested falteringly," there is life, poetry, philosophy, friendship!"</p>
+
+	<p>"Beautiful teacher," interrupted De Vega, "you have many pupils who think that they learn from you the principles of truth. But I am your best pupil, for I have learned from you the greatest truth, which is love, and beside which all else is nothing&#8212;or rather, but a part of this great whole of love. Do you understand me? I separate this guava into fifty parts and I call these parts by splendid names&#8212;duty, philosophy, sacrifice, poetry, beauty, life, health; but when I join them all, then I call them love. Love is the perfect thing, my teacher. Your pupil has outgrown you. You, who once instructed, now need instruction. You are as one who walks in the twilight in a strange land. But the morning will dawn for you! Yes, by the great spirit, I seem to know, by some power which I cannot explain to you, that it will soon dawn."</p>
+
+	<p>"And then?" grasped the lady, drawing her white wrappings about her, as if she shrank from something terrible.</p>
+
+	<p>"Then," went on De Vega, "you will no longer teach. You will no longer write. You will merely live. And you will read what you have written of this mystical fire with amazement, and your own words will mean to you what they have never meant before. And in place of a wealth of things to say your tongue will stammer<sic corr="."></sic> And your pain will be sweeter than your joy is today, and your joy will ever be seasoned with pain."</p>
+
+	<p>The lady drew an end of her floating vesture up over her face, with a gesture such as mourners use.</p>
+
+	<p>"No more, my friend," I whispered, "no more, for mercy's sake." The lady heard my words. She dropped her veiling and looked at us courteously.</p>
+
+	<p>"These are my friends and brothers," said De Vega, and he told her our names. She bowed low to each of us. Bryan, supporting himself by the back of a seat, had not once removed his eyes from her.</p>
+
+	<p>"You are ill," she said, extending one hand compassionately. Bryan lifted the hand to his lips for answer. I involuntarily started. De Vega turned away, but not before I had seen a vein in his forehead suddenly swell out as if it had been struck a blow.</p>
+
+	<p>"Tomorrow," she said, "while the sun and moon still look at each other in heaven, you shall be healed. There is no need of bodily suffering here, for him who chooses to live as the Adelantado dictates"&#8212; Here her voice took on a tone of bitterness. "It is only diseases of the mind that we find it hard to cure," she added.</p>
+
+	<p>"And the Lady Opaka," said De Vega, "is the great physician."</p>
+
+	<p>"God is the great physician. He and his chosen priests," cried a fierce voice. The band of white-robed maiden attendants started with little screams of terror. Opaka turned with a look of superb indifference and faced the speaker.</p>
+
+	<p>"Padre," said she, coldly. "Truth is the physician, come to us how it may. It is the guide to heaven. Truth, which is afraid of nothing, which, instead of denying, finds the uses of created things, even the uses of death and sin."</p>
+
+	<p>"There is no use for sin," returned that harsh and melancholy voice, intensified now by the hatred which its owner could not disguise. "Nor for death. Nor yet for false teachings."</p>
+
+	<p>At this remark, which was intended to be a direct challenge to Opaka, De Vega started forward, but the priest fixed the Indian with a look from his piercing and repellant eyes, and advanced toward him, holding on high an ebony crucifix.</p>
+
+	<p>"This is truth," cried he, and, as he passed Opaka, he gathered up his skirts with one hand.</p>
+
+	<p>"Aye, so it is, padre," said Opaka, "but not as you understand it, for the truth which it teaches is a precious stone hidden deep within the mountain, and you are not the man to find it."</p>
+
+	<p>She bowed in token of farewell to each of us.</p>
+
+	<p>"I will see you whenever you choose," said she to De Vega, "and I trust you will tell your friends that they are welcome at my lectures."</p>
+
+	<p>She smiled serenely on the muttering and frowning priest, and beckoned her band of maidens to follow her. But at the door she turned once more.</p>
+
+	<p>"Padre, she cried, significantly, "why do you not come out in the sunshine?"</p>
+
+	<p>The visage of the priest grew blacker, and he crossed himself as the maidens wended their way beyond the scarlet-leaved plants on the veranda.</p>
+
+	<p>"Brother," whispered De Vega, seizing me by the hand, "by our oath of friendship, see that no harm comes to her."</p>
+
+<p rend="center">(To Be Continued.)</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

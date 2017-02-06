@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+
+]>
+<TEI id="ep.gs.0011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">An Astral Onion</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.gs.0011</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="m">The Shape of Fear and Other Ghostly Tales</title>
+<title level="a">An Astral Onion</title>
+<pubPlace>New York</pubPlace>
+<publisher>Macmillan</publisher>
+<date value="1898">1898</date>
+<series>Short Story Index Reprint Series</series>
+<pubPlace>Freeport, NY</pubPlace>
+<publisher>Books for Libraries Press</publisher>
+<date value="1969">1969</date>
+<biblScope type="pages">129-142</biblScope>
+</bibl>
+
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+
+
+<revisionDesc>
+<change>
+<date>2009-02-26</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-11-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item></item>
+</change>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Converted from html</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="ep.gs.0011.01.jpg" n="129"/>
+
+<head>AN ASTRAL ONION</head>
+
+<p>WHEN Tig Braddock came to Nora Finnegan he was
+
+red-headed and freckled, and, truth to tell, he remained with these
+
+features to the end of his life&#8212;a life prolonged by a lucky, if
+
+somewhat improbable, incident, as you shall hear.</p>
+
+<p>Tig had shuffled off his parents as saurians, of some sorts, do
+
+their skins. During the temporary absence from home of his mother,
+
+who was at the bridewell, and the more extended vacation of his
+
+father, who, like Villon, loved the open road and the life of it, Tig,
+
+who was not a well-domesticated animal, wandered away. The
+
+humane society never heard of him, the neighbors did not miss him,
+
+and the law took no cognizance of this detached citizen&#8212;this lost
+
+pleiad.   Tig 
+
+<pb id="ep.gs.0011.02.jpg" n="130"/>
+
+would have sunk into that melancholy which is attendant upon
+
+hunger,&#8212;the only form of despair which babyhood knows,&#8212;if he
+
+had not wandered across the path of Nora Finnegan. Now Nora
+
+shone with steady brightness in her orbit, and no sooner had Tig
+
+entered her atmosphere, than he was warmed and comforted. 
+
+Hunger could not live where Nora was.   The basement room where
+
+she kept house was redolent with savory smells; and in the stove in
+
+her front room&#8212;which was also her bedroom&#8212;there was a bright
+
+fire glowing when fire was needed.</p>
+
+<p>Nora went out washing for a living. But she was not a poor
+
+washerwoman. Not at all. She was a washerwoman triumphant. She
+
+had perfect health, an enormous frame, an abounding enthusiasm
+
+for life, and a rich abundance of professional pride.  She believed
+
+herself to be the best washer of white clothes she had ever had the
+
+pleasure of knowing, and the value placed upon her services, and
+
+her long connection with certain 
+
+<pb id="ep.gs.0011.03.jpg" n="131"/>
+
+families with large weekly washings, bore out this estimate of
+
+herself&#8212;an estimate which she never endeavored to conceal.</p>
+
+<p>Nora had buried two husbands without being unduly depressed
+
+by the fact. The first husband had been a disappointment, and Nora
+
+winked at Providence when an accident in a tunnel carried him off
+
+&#8212;that is to say, carried the husband off. The second husband was
+
+not so much of a disappointment as a surprise.   He developed
+
+ability of a literary order, and wrote songs which sold and made him
+
+a small fortune. Then he ran away with another woman. The woman
+
+spent his fortune, drove him to dissipation, and when he was dying
+
+he came back to Nora, who received him cordially, attended him to
+
+the end, and cheered his last hours by singing his own songs to him.
+
+Then she raised a headstone recounting his virtues, which were
+
+quite numerous, and refraining from any reference to those
+
+peculiarities which had caused him to be such a surprise.</p>
+
+<pb id="ep.gs.0011.04.jpg" n="132"/>
+
+<p>Only one actual chagrin had ever nibbled at the sound heart of
+
+Nora Finnegan&#8212;a cruel chagrin, with long, white teeth, such as
+
+rodents have! She had never held a child to her breast, nor laughed
+
+in its eyes; never bathed the pink form of a little son or daughter;
+
+never felt a tugging of tiny hands at her voluminous calico skirts!
+
+Nora had burnt many candles before the statue of the blessed Virgin
+
+without remedying this deplorable condition. She had sent up
+
+unavailing prayers&#8212;she had, at times, wept hot tears of longing and
+
+loneliness.   Sometimes in her sleep she dreamed that a wee form,
+
+warm and exquisitely soft, was pressed against her firm body, and
+
+that a hand with tiniest pink nails crept within her bosom. But as she
+
+reached out to snatch this delicious little creature closer, she woke
+
+to realize a barren woman's grief, and turned herself in anguish on
+
+her lonely pillow.</p>
+
+<p>So when Tig came along, accompanied by two curs, who had
+
+faithfully followed him 
+
+<pb id="ep.gs.0011.05.jpg" n="133"/>
+
+from his home, and when she learned the details of his story, she
+
+took him in, curs and all, and, having bathed the three of them,
+
+made them part and parcel of her home. This was after the demise
+
+of the second husband, and at a time when Nora felt that she had
+
+done all a woman could be expected to do for Hymen.</p>
+
+<p>Tig was a preposterous baby. The curs were preposterous curs.  
+
+Nora had always been afflicted with a surplus amount of laughter&#8212;
+
+laughter which had difficulty in attaching itself to anything, owing
+
+to the lack of the really comic in the surroundings of the poor. But
+
+with a red-headed and freckled baby boy and two trick dogs in the
+
+house, she found a good and sufficient excuse for her hilarity, and
+
+would have torn the cave where echo lies with her mirth, had that
+
+cave not been at such an immeasurable distance from the crowded
+
+neighborhood where she lived.</p>
+
+<p>At the age of four Tig went to free kinder-
+
+<pb id="ep.gs.0011.06.jpg" n="134"/>
+
+garten; at the age of six he was in school, and made three grades the
+
+first year and two the next. At fifteen he was graduated from the
+
+high school and went to work as errand boy in a newspaper office,
+
+with the fixed determination to make a journalist of himself.</p>
+
+<p>Nora was a trifle worried about his morals when she discovered
+
+his intellect, but as time went on, and Tig showed no devotion for
+
+any woman save herself, and no consciousness that there were such
+
+things as bad boys or saloons in the world, she began to have
+
+confidence. All of his earnings were brought to her. Every holiday
+
+was spent with her. He told her his secrets and his aspirations. He
+
+admitted that he expected to become a great man, and, though he
+
+had not quite decided upon the nature of his career,&#8212;saving, of
+
+course, the makeshift of journalism,&#8212;it was not unlikely that he
+
+would elect to be a novelist like&#8212;well, probably like
+
+Thackeray.</p>
+
+<p>Hope, always a charming creature, put on her most alluring
+
+smiles for Tig, and he 
+
+<pb id="ep.gs.0011.07.jpg" n="135"/>
+
+made her his mistress, and feasted on the light of her eyes.
+
+Moreover, he was chaperoned, so to speak, by Nora Finnegan, who
+
+listened to every line Tig wrote, and made a mighty applause, and
+
+filled him up with good Irish stew, many colored as the coat of
+
+Joseph, and pungent with the inimitable perfume of "the rose of the
+
+cellar." Nora Finnegan understood the onion, and used it lovingly.
+
+She perceived the difference between the use and abuse of this
+
+pleasant and obvious friend of hungry man, and employed it with
+
+enthusiasm, but discretion. Thus it came about that whoever ate of
+
+her dinners, found the meals of other cooks strangely lacking in
+
+savor, and remembered with regret the soups and stews, the broiled
+
+steaks, and stuffed chickens of the woman who appreciated the
+
+onion.</p>
+
+<p>When Nora Finnegan came home with a cold one day, she took
+
+it in such a jocular fashion that Tig felt not the least concern about
+
+her, and when, two days later, she died 
+
+<pb id="ep.gs.0011.08.jpg" n="136"/>
+
+of pneumonia, he almost thought, at first, that it must be one of her
+
+jokes. She had departed with decision, such as had characterized
+
+every act of her life, and had made as little trouble for others as
+
+possible.  When she was dead the community had the opportunity
+
+of discovering the number of her friends.    Miserable children with
+
+faces which revealed two generations of hunger, homeless boys
+
+with vicious countenances, miserable wrecks of humanity, women
+
+with bloated faces, came to weep over Nora's bier, and to lay a
+
+flower there, and to scuttle away, more abjectly lonely than even sin
+
+could make them. If the cats and the dogs, the sparrows and horses
+
+to which she had shown kindness, could also have attended her
+
+funeral, the procession would have been, from a point of numbers,
+
+one of the most imposing the city had ever known. Tig used up all
+
+their savings to bury her, and the next week, by some peculiar
+
+fatality, he had a falling out with the night editor of his paper, and
+
+was discharged. 
+
+<pb id="ep.gs.0011.09.jpg" n="137"/>
+
+This sank deep into his sensitive soul, and he swore he would be an
+
+underling no longer&#8212;which foolish resolution was directly
+
+traceable to his hair, the color of which, it will be recollected, was
+
+red.</p>
+
+<p>Not being an underling, he was obliged to make himself into
+
+something else, and he recurred passionately to his old idea of
+
+becoming a novelist.   He settled down in Nora's basement rooms,
+
+went to work on a battered type-writer, did his own cooking, and
+
+occasionally pawned something to keep him in food.  The
+
+environment was calculated to further impress him with the idea of
+
+his genius.</p>
+
+<p>A certain magazine offered an alluring prize for a short story,
+
+and Tig wrote one, and rewrote it, making alterations, revisions,
+
+annotations, and interlineations which would have reflected credit
+
+upon Honor&#233; Balzac himself. Then he wrought all together,
+
+with splendid brevity and dramatic force,&#8212;Tig's own words,&#8212;and
+
+mailed the same. He was 
+
+<pb id="ep.gs.0011.10.jpg" n="138"/>
+
+convinced he would get the prize. He was just as much convinced of
+
+it as Nora Finnegan would have been if she had been with him.</p>
+
+<p>So he went about doing more fiction, taking no especial care of
+
+himself, and wrapt in rosy dreams, which, not being warm enough
+
+for the weather, permitted him to come down with rheumatic
+
+fever.</p>
+
+<p>He lay alone in his room and suffered such torments as the
+
+condemned and rheumatic know, depending on one of Nora's
+
+former friends to come in twice a day and keep up the fire for him.
+
+This friend was aged ten, and looked like a sparrow who had been
+
+in a cyclone, but somewhere inside his bones was a wit which had
+
+spelled out devotion. He found fuel for the cracked stove, somehow
+
+or other. He brought it in a dirty sack which he carried on his back,
+
+and he kept warmth in Tig's miserable body. Moreover, he found
+
+food of a sort&#8212;cold, horrible bits often, and Tig wept when he saw
+
+them, 
+
+<pb id="ep.gs.0011.11.jpg" n="139"/>
+
+remembering the meals Nora had served him.</p>
+
+<p>Tig was getting better, though he was conscious of a weak heart
+
+and a lamenting stomach, when, to his amazement, the Sparrow
+
+ceased to visit him. Not for a moment did Tig suspect desertion. He
+
+knew that only something in the nature of an act of Providence, as
+
+the insurance companies would designate it, could keep the little
+
+bundle of bones away from him. As the days went by, he became
+
+convinced of it, for no Sparrow came, and no coal lay upon the
+
+hearth. The basement window fortunately looked toward the south,
+
+and the pale April sunshine was beginning to make itself felt, so
+
+that the temperature of the room was not unbearable. But Tig
+
+languished; sank, sank, day by day, and was kept alive only by the
+
+conviction that the letter announcing the award of the
+
+thousand-dollar prize would presently come to him. One night he
+
+reached a place, where, for hunger and dejection, his mind
+
+wandered, 
+
+<pb id="ep.gs.0011.12.jpg" n="140"/>
+
+and he seemed to be complaining all night to Nora of his woes.
+
+When the chill dawn came, with chittering of little birds on the dirty
+
+pavement, and an agitation of the scrawny willow "pussies," he was
+
+not able to lift his hand to his head. The window before his sight
+
+was but "a glimmering square." He said to himself that the end must
+
+be at hand. Yet it was cruel, cruel, with fame and fortune so near! If
+
+only he had some food, he might summon strength to rally&#8212;just
+
+for a little while! Impossible that he should die! And yet without
+
+food there was no choice.</p>
+
+<p>Dreaming so of Nora's dinners, thinking how one spoonful of a
+
+stew such as she often compounded would now be his salvation, he
+
+became conscious of the presence of a strong perfume in the room.
+
+It was so familiar that it seemed like a sub-consciousness, yet he
+
+found no name for this friendly odor for a bewildered minute or
+
+two. Little by little, however, it grew upon him, that it was the 
+
+<pb id="ep.gs.0011.13.jpg" n="141"/>
+
+onion&#8212;that fragrant and kindly bulb which had attained its
+
+apotheosis in the cuisine of Nora Finnegan of sacred memory. He
+
+opened his languid eyes, to see if, mayhap, the plant had not
+
+attained some more palpable materialization.</p>
+
+<p>Behold, it was so! Before him, in a brown earthen dish,&#8212;a
+
+most familiar dish,&#8212;was an onion, pearly white, in placid seas of
+
+gravy, smoking and delectable. With unexpected strength he raised
+
+himself, and reached for the dish, which floated before him in a
+
+halo made by its own steam. It moved toward him, offered a spoon
+
+to his hand, and as he ate he heard about the room the rustle of Nora
+
+Finnegan's starched skirts, and now and then a faint, faint echo of
+
+her old-time laugh&#8212;such an echo as one may find of the sea in the
+
+heart of a shell.</p>
+
+<p>The noble bulb disappeared little by little before his voracity,
+
+and in  contentment greater than virtue can give, he sank back upon
+
+his pillow and slept.</p>
+
+<pb id="ep.gs.0011.14.jpg" n="142"/>
+
+<p>Two hours later the postman knocked at the door, and receiving
+
+no answer, forced his way in. Tig, half awake, saw him enter with
+
+no surprise. He felt no surprise when he put a letter in his hand
+
+bearing the name of the magazine to which he had sent his short
+
+story. He was not even surprised, when, tearing it open with
+
+suddenly alert hands, he found within the check for the first prize&#8212;
+
+the check he had expected.</p>
+
+<p>All that day, as the April sunlight spread itself upon his floor, he
+
+felt his strength grow. Late in the afternoon the Sparrow came back,
+
+paler, and more bony than ever, and sank, breathing hard, upon the
+
+floor, with his sack of coal.</p>
+
+<p>"I've been sick," he said, trying to smile. "Terrible sick, but I
+
+come as soon as I could."</p>
+
+<p>"Build up the fire," cried Tig, in a voice so strong it made the
+
+Sparrow start as if a stone had struck him. "Build up the fire, and
+
+forget you are sick. For, by the shade of Nora Finnegan, you shall
+
+be hungry no more!"</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

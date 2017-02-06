@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18921022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Open Door</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Open Door</title>
+<title level="a" type="sub">Annual Report of the Superintendent With Recommendations</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1892-10-22">22 October 1892</date>
+<biblScope type="pages">5</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcribed and encoded</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb corresp="ep.owh.18921022.jpg" n="p5"/>
+
+<div1>
+
+<head type="main">THE OPEN DOOR</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Annual Report of the Superintendent<lb/>
+With Recommendations.</head>
+
+	<p>The door of our "home" has been opened wide the last year to receive beneath the shelter of its roof, those who so sadly stood in need of our ministration. Many times has the sad, appealing face of the heart-broken girl, appeared at our door, the poor victim of her own folly and one man's licentiousness and cruelty, more sinned against than sinning, driven forth from heart and home, no place under God's heaven, no shelter. What is there for her to do? Where to go, if it was not for the Open Door.</p>
+
+	<p>Girls sheltered, 130; sent to friends, 32; sent to state home, 13; married, 2; homes found for 68; in the home, 15. Nationality, Swedish, 11; Scotch, 4; English, 4; German, 8; colored, 1; Irish, 12; Dane, 5; Norwegian, 4; American, 82.</p>
+
+	<p>Babies in the home September 1, 1891, 3; born, 42; died, 2; still born, 1; premature, 3; kept by their mothers, 17; adopted, 19; in the home, 3; total, 175.</p>
+
+	<p>Money collected, $1,377.56. Of this we have received from unions in the state, $128.69. Tekamah, Craig and Crawford, ninety yards of carpet; clothing, bedding and supplies from Omaha, Tobias, Tilden; Bradshaw, Seward; Mrs. Flora Cassell, one-half dozen White Ribbon song books, for which we tender our heartfelt thanks, with the words of our dear Lord: "I was an hungered and ye gave me meat, I was thirsty and ye gave me drink, I was a stranger and ye took me in, naked and ye clothed me, and inasmuch as ye have done it unto one of the least of these ye have done it unto me."</p>
+
+	<p>We would give prominence in our report to protection given young girls who come to our city to look for work and who on account of failure to meet friends and various other causes are adrift in a large city, friendless and penniless. Thus in many instances crime has been prevented.</p>
+
+	<p>We recognize the fact that prevention is better than cure, and while we are doing all we can to reclaim, we must do more work to prevent our boys and girls from going to ruin. We must lift up high the standard of social purity; to stamp out in society that which is not pure and right and brand it as it is, foul and wrung; ring out loud the note of warning to the young; teach them that many things they consider innocent pastime are in fact the very open door to the brothel. What we need today is intelligent, competent, educated motherhood. Of the 7,000,000 young men in this country 75 per cent do not attend church, 95 per cent do not belong to church, 97 per cent do nothing for the church; 70 per cent of our incarcerated criminals are young men: 85 per cent (nearly) of all crimes are committed by young men; 85 per cent of the patrons of saloons and bagnios are young men. It is time to consider the cause of this state of affairs, and seek for a remedy. We must quarantine against immoral literature. This is a deadly poison. Let your most earnest effort be to keep out of the home the sensational novel. Put in reach of your children good papers, magazines and books. It is as easy to cultivate a good as a depraved taste for reading. We must become more familiar with the laws of our state and use our influence to have better laws for the protection of women. The age of consent must be raised to 18 years. There should be no age of consent, but if we must have a law, et it be at least 18 years, and let us try and have the laws we have better enforced.</p>
+
+	<p>The expenses of the home are $200 a month, or $2,400 a year, and our receipts, as our friends will see, $1,377.56.</p>
+
+	<p>We have five babies, one of them a little mulatto boy 3 weeks old, that the mothers would say, could they but see him, is too cunning for anything. Winter is here, and we are without coal and food and those things that money will supply, but where is the money?</p>
+
+	<p>Let those now give who never gave before, and those who always gave, now give the more.</p>
+
+	<p>A full list of all those who have in any way contributed the past year to our home will be given later.</p>
+
+<closer><signed rend="right">M<hi rend="smallcaps">RS</hi>. G. W. C<hi rend="smallcaps">LARK</hi>,<lb/>
+Superintendent.</signed></closer>
+
+
+</div1>
+</body>
+</text>
+</TEI>

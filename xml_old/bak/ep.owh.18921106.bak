@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18921106 SYSTEM "ep.owh.18921106.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18921106">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Nebraska University</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Nebraska University</title>
+<title level="a" type="sub">A Splendid Educational Institution of Which the Whole State is Proud</title>
+<title level="a" type="sub">The Giant Strides Which It Has Taken in a Single Generation&#8211;Some of Its Leading Characteristics</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1892-11-06">6 November 1892</date>
+<biblScope type="pages">19</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-13</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18921106">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p19"/>
+
+<div1>
+
+<head type="main">The Nebraska University</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">A Splendid Educational <orig reg="Institution">Institu-</orig><lb/>
+tion of Which the Whole<lb/>
+State Is Proud.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">The Giant Strides Which It Has Taken in a<lb/>
+Single Generation&#8211;Some of Its <orig reg="Leading">Lead-</orig><lb/>
+ing Characteristics.</head>
+
+	<p>What do you know about the University of Nebraska?</p>
+
+	<p>Not as much, I will be willing to wager, as you do about Harvard and Princeton, Johns Hopkins and Ann Arbor.</p>
+
+	<p>But if Omaha and some other parts of the world are ignorant of the subject, there are at least 903 persons who understand it very well.</p>
+
+	<p>They are the students of the university.</p>
+
+	<p>These young men and women are almost all Nebraskans, though a number come from adjacent states. There are two boys in the university who are from London. They were brought there by Prof. Tompkins, who is associated with the Merchant Tailors' Guild school of London.</p>
+
+	<p>"Why did you bring these London boys to Nebraska for their schooling?" Chancellor Canfield asked him.</p>
+
+	<p>"Because[.]" Prof. Tompkins replied, "they were going to be American citizens and I thought they ought to be educated in America."</p>
+
+	<p>Rather better sense than is shown by those Americans who fit their boys for citizenship by sending them to Oxford or Cambridge university, eh?</p>
+
+	<p>It's rather diverting to know what most interested this English educator referred to at our university.</p>
+
+	<p>It was the fact that there were the sons of twenty-six common day laborers taking the university course.</p>
+
+	<p>And it's a big fact sure enough. Where else could it happen but here in America? Perhaps, indeed, it could only happen here in the west. Two hundred and twenty-three farmers have enrolled their children on the university register. And the trades and professions are generally represented in the parents of the pupils.</p>
+
+	<p>The fellows are the sort who have an appreciation of what college means. They have not sauntered down to take a perfunctory course and to run through $2,000 or $3,000 of spending money a year. They are, on the contrary, fellows who economize, who work after hours to help out with their board bill, and who study with a sense of all that their chance means. Perhaps, if the truth were known, the girls, many of them, resort to devices to help out with their expenses also.</p>
+
+	<p>When you get people of that sort in a university there is reason to expect good results.</p>
+
+	<p>The co-education is a feature which insists on intruding itself constantly upon the attention of the visitor. It's a part of the new time-of the wonderful new time in laboratory and class room, at reference table, at easel, in philosophy, in music, in gymnastics and in mechanics, there are the young men and women working together with that nonchalance and absence of self-consciousness which is their own best safeguard and education. Not only is there co-education, but there is co-instruction, and some of the most esteemed members of the faculty are women.</p>
+
+	<p>The spirit of liberality, tolerance, catholicity and courtesy which is a part of all this is, in violent contrast to the exclusion and the conservatism of the universities of the old regime; and it is due to two things, the fine theoretical democracy of the founders, and the staunch practical democracy of the chancellor.</p>
+</div1>
+
+<div1>
+<head type="sub">The Chancellor</head>
+
+	<p>Chancellor James H. Canfield has been with the University of Nebraska for about two years. No formal scholar, he, with dull and dogmatic utterance and the smell of obsolete libraries about him, but a man of early middle age, alert, full of life of the living time; a man anxious to know all that is new; and determined to make the university and its work fit into our busy, competitive age. He looks <unclear></unclear> the university as the continuation <unclear></unclear> public <unclear></unclear> year he traveled <unclear></unclear> miles in this state, visiting the public schools and endeavoring to make the work of the high schools and the university sequential, complementary and of identical aim.</p>
+
+	<p>The university consists of three colleges, the academic college, the industrial college, and the college of law. There is also a preparatory course with each college, in which any student may be fitted for the college of his or her selection. And, additionally, there is a school of the fine art and music, where instruction is given in drawing, painting, modeling, the history of art, and in instrumental and vocal music. There is a plan for a school of graduate instruction, which will be open to graduates of any college, but I understand that this is not yet underway.</p>
+
+	<p>The sources of income of the university are several. First, the aid received form the United States. This comes by a grant of seventy-two sections of land for the support of the state university; by a grant of 90,000 acres of land for the industrial college for the benefit of agriculture and the mechanical arts, and by a special act creating the Morril fund, which makes an annual appropriation for instruction in certain branches. Second, a fund is derived from a general tax of three-eighths of a mill upon each dollar of taxation on the assessment roll of the state.</p>
+
+	<p>With the exception of the small matriculation fee of $5 and certain expenses-which are slight-connected with the law college, the instruction is absolutely free. And another thing which greatly lightens the expenses usually incident to a college education, is the comparative absence of text books. The instruction given is not of that indolent and perfunctory sort to be derived from text books, but is of the kind which aims to make a scholar of the student and to teach him the value of libraries.</p>
+</div1>
+
+<div1>
+<head type="sub">The Library.</head>
+
+	<p>One of the most admirable features of the university is its modern, well-selected library. Not only is there a general library of reference and literature, but there is a small special library connected with every department, and put in that department so as to be conveniently at hand. There are also periodicals for every department, numbering in all over three hundred. Many of them are secured in exchange for the college papers. One of the distinguishing features of this fine assortment of periodicals is that of almost all of them there is a complete file. One of the most valuable is an unbroken [file] of the Nation.</p>
+
+	<p>Miss Mary L. Jones is the librarian. She is a graduate of the school of librarians, which was started a few years ago, and which has already produced some very successful librarians. Miss Jones is herself a graduate of the university, having come to it from Hastings. It is indicative of the loyalty with which the under graduates and graduates of the university feel toward their alma mater that Miss Jones refused an offer of $1,200 a year in another college, to give her labors at Lincoln at little more than half that sum. The assistant librarians are Miss Lulu M. Green and Miss Florence Smith. Miss Jones is now engaged upon a scientific cataloguing of the library, preparatory to its removal into the new library building.</p>
+
+	<p>This new structure, which will be one of the most honest and enduring buildings ever erected in the state, is now well under way. Only the wing will be completed at present, the main portion of the structure being left until the next legislature has taken definite measures upon the whole appropriation needed. I think that when completed, the chancellor said, that the building will have cost $40,000 and the furnishings $20,000 more.</p>
+
+	<p>The State Historical Society is to have rooms in the basement; the library is to be the first from the wing, which is built according to the best library plans; above is to be an art room, devoted both to exhibitions of art and to work; on the lower floor of the main building will be reading and cataloguing rooms, and above will be lecture halls and similar much needed apartments. Every brace and beam of the building has been calculated by the mathematicians of the faculty, and every variety of material personally tested. The library room will be absolutely fireproof. The building will be in wholesome contrast to Nebraska Hall, which was erected by the state, and shows jobbery in every gable and arch. A portion of it has recently been taken down because it would hold together no longer, and has been rebuilt. But the plastering threatens to fall in places; the mortar drops out from between the bricks, and the whole thing is an excellent commentary on what the university would be within and without, if politics had its grasp on it, which, thank heaven is has not got, and will not get while the people of this state retain a good average of sanity.</p>
+
+	<p>This fact is one which causes a good deal of irritation in the political rings at Lincoln; and the officers of certain institutions run by the state have made open protest against the violent contrast to their own, prodigality&#8211;to call it by no harsher name&#8211;offered by the economy in expenditure at the university.</p>
+</div1>
+
+<div1>
+<head type="sub">The Teachers Are Young.</head>
+
+	<p>The array of young men in the faculty is something at once rare and delightful. One feels in the midst of tense, radical, ambitious men&#8211;men who are not resting upon their laurels. The second reason of which is that they have not many laurels to rest upon. The first reason is that they are not that kind of men. If ever a university belonged to the present time, that university is ours. There are a few men past middle age in the faculty. Prof. Henry G. Hitchcock, who was a graduate from Knox in 1846, is at the age where he may be termed venerable. He is, it hardly seems necessary to say, owing to his reputation, professor of mathematics, and has been identified with the university since its beginning in 1871.</p>
+
+	<p>It is difficult to believe that the institution is only one generation old, and that every ounce of material put in the University hall, the first building erected, and the central one of the present group, was brought by wagon from the Missouri. This building is old-fashioned, but none the worse for that, and it seems to be in first rate condition. It contains the chancellor's office and the rooms of various other officers, besides the several libraries and reading rooms, the chapel, society halls and twenty lecture rooms. There is a very annoying congestion of pupils at present owing to lack of proper room, but great relief will be afforded when the library building is completed.</p>
+
+	<p>The casual reference to the chapel suggests the astonishingly large attendance there every morning. The attendance is not compulsory&#8211;which is, perhaps, the reason it is so large.</p>
+
+	<p>"We've a prayer meeting every day," says the chancellor, "and at least eight-tenths of our people are always in attendance."</p>
+
+	<p>It is quite safe to say that there are no churches in Nebraska which could show as good a record. There is need for a larger chapel, but as there seems to be no way of supplying it at present, the need will have to exist. Clergymen from the various churches conduct the services.</p>
+
+	<p>There are wide plans for work in certain branches which are as yet, only plans. The development of the university will go on from year to year. One feels that it is an institution still in process of evolution&#8211;which is one of the most complimentary things that can be said about it.</p>
+
+	<p>The appearance of the building is quite satisfactory, and though the campus is young, it is well laid out, and is supplied with trees which have promise, even if they lack umbrageous beauty and the historic interest of the trees on eastern college grounds. When Chancellor Canfield first came to his post he found the campus still wild. Having the full traditions of a college man who makes much of all the associations of college life, he urged its speedy development, and, along with it, those sports which belong to the campus. The football eleven is counted very strong&#8211;though the altitude did <unclear></unclear> them out at Denver the other day. Apropos of <orig reg="football">foot ball</orig>, the honest democracy of the university is well illustrated by an incident which recently occurred in connection with this game. An eleven from a southern university refused to meet the Lincoln men because one of their eleven is a Negro. There was no resentment shown by the Lincoln fellows.</p>
+
+	<p>"The color line <unclear></unclear> been drawn at the University of Nebraska," they said simply, and left <unclear></unclear> opponents to meet them or not on the <unclear></unclear> assigned.</p>
+
+	<p>To the university people it may seem [can't read] to take the following leaves from the catalogues of the university, but I am very anxious that the general public shall be made acquainted with the work which is being done at Lincoln, and it is undeniably a fact that even here in Omaha there is very little knowledge on the subject.</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<head type="sub">THE FACULTY.</head>
+<milestone unit="smallbar"/>
+<head type="sub">A Splendid Array of Pedagogic<lb/>
+Talent.</head>
+
+	<p>The board of regents, of course, must largely decide the policy of the institution, and it is therefore interesting to know that they are such active and modern-minded men as Charles H. Morrill of Lincoln, Byron B. Davis of McCook, George Roberts of Creighton, J. L. H. Knight of Lee Park, Charles H. Marple of Omaha and E. A. Hadley of Scotia. J. Stuart Dales of Lincoln is the secretary of the board.</p>
+
+	<p>The faculty is as follows:</p>
+
+	<p>James H. Canfield, A. B., A. M., chancellor and president of University senate.</p>
+
+	<p>Henry E. Hitchcock. A. B., A. M., Ph.D., professor of mathematics.</p>
+
+	<p>Hudson H. Nicholson, A. M., professor of chemistry and director of the agricultural experiment station.</p>
+
+	<p>Grove E. Barber, A. B., A. M., professor of Latin.</p>
+
+	<p>Lucius A. Sherman, A. B., Ph. D., professor of English literature and dean of the Academic college.</p>
+
+	<p>Charles E. Bessey, B. Sc., M. Sc., professor of botany.</p>
+
+	<p>Rachel Lloyd, A. M., Ph. D., professor of analytical chemistry.</p>
+
+	<p>DeWitt B. Brace, A. B., A. M., Ph. D., professor of physics.</p>
+
+	<p>Charles N. Little, A. B., A. M., Ph. D., professor of civil engineering.</p>
+
+	<p>Charles L. [Ingarsoll], B. Sc., M. Sc., professor of agriculture and dean of the industrial college.</p>
+
+	<p>Ebenezer W. Hunt, A. B., professor of English.</p>
+
+	<p>James T. Lees, A. B., Ph. D., professor of Greek.</p>
+
+	<p>John J. Pershing, second lieutenant Sixth United States cavalry, professor of military science and tactics.</p>
+
+	<p>W. Henry Smith, dean of the college of law.</p>
+
+	<p>Harry K. Wolfe, A. B., A. m., Ph. D., profess or philosophy.</p>
+
+	<p>Howard W. Caldwell, B. Ph., professor of American history and civics.</p>
+
+	<p>Lawrence Fassler, B. Sc., associate professor of Germanic languages.</p>
+
+	<p>John R. Wightman, A. B., A. m., Ph. D., associate professor of romance languages.</p>
+
+	<p>Erwin H. Barbour, Ph.D., associate professor of geology.</p>
+
+	<p>Fred M. Fling, A. B., Ph. D., associate professor of European history.</p>
+
+	<p>William R. Fraser, Ph. D., associate professor of classical pailology, and principal in charge of preparatory courses.</p>
+
+	<p>Harold N. Allen, B. Sc., adjunct profess or physics.</p>
+
+	<p>T. Morey Hodgman, A. B., A. M., adjunct professor of mathematics.</p>
+
+	<p>Frederick W. Taylor, associate professor of horticulture.</p>
+
+	<p>Robert B. Owens, E. E., associate professor of electrical engineering.</p>
+
+	<p>Robert W. Furnas, lecturer on forestry.</p>
+
+	<p>John C. Cowlin, lecturer on constitutional law.</p>
+
+	<p>G. M. Lambertson, A. M., lecturer on criminal law.</p>
+
+	<p>Samuel Maxwell, chief justice of Nebraska, lecturer on code pleading.</p>
+
+	<p>W. H. Munger, lecturer on real and personal property.</p>
+
+	<p>M. B. Reese, lecturer on real and personal property.</p>
+
+	<p>Joseph R. Webster, A. B., A. M., lecturer on equity and equity jurisprudence.</p>
+
+	<p>James M. Woolworth, A. M., LL. D., L. H. D., lecturer on the definition and contents of the science of jurisprudence.</p>
+
+	<p>H. H. Wilson, Ph. B., A. M., lecturer on evidence.</p>
+
+	<p>Novia Z. Snell, B. Sc., lecturer on criminal law.</p>
+
+	<p>Victor A. Elliott, lecturer on mining and irrigation.</p>
+
+	<p>David F. Easterday, instructor of cadet band.</p>
+
+	<p>H. Elton Fulmer, B. Sc., A. M., instructor in chemistry.</p>
+
+	<p>Oscar V. P. Stout, B. C. E., instructor in mathematics and civil engineering.</p>
+
+	<p>Lawrence Bruner, instructor in entomology.</p>
+
+	<p>George B. Hussey, A. B., A. M., Ph. D., instructor in Latin.</p>
+
+	<p>Mary A. Tremain, B. Sc., A. M., instructor in history.</p>
+
+	<p>Herbert Bates, A. B., instructor in English.</p>
+
+	<p>Carrie Moot Barton, instructor in clay modeling and wood carving.</p>
+
+	<p>Wilber P. Bowen, instructor in physical training.</p>
+
+	<p>T. Lyttleton Lyon, B. Sc., instructor in agricultural chemistry.</p>
+
+	<p>Charles Russ Richards, M. E., instructor in manual training.</p>
+
+	<p>Clara Conklin, A. B., instructor in modern languages.</p>
+
+	<p>Hans Christian Peterson, B. Sc., instructor in English literature.</p>
+
+	<p>Kate Wilder, instructor in physiology and hygiene.</p>
+
+	<p>Ermina D. C. Menzendorf, teacher of piano, organ and voice culture.</p>
+
+	<p>Gustav c. Menzendorf, teacher of violin, harmony and counter point.</p>
+
+	<p>Albert F. Woods, B. Sc., A. M., assistant in botanical laboratory.</p>
+
+	<p>Frank S. Billings, instructor of animal diseases.</p>
+
+	<p>F. G. Novey, consulting chemist.</p>
+
+	<p>Josephine Tremaine, instructor in Latin.</p>
+
+	<p>Louise Pound, instructor in English.</p>
+
+	<p>Morgan McGee, electrician.</p>
+
+	<p>I give the names of the other officers and <orig reg="employees">employes</orig> of the university, simply that a full idea of the magnitude and system of the work may be appreciated:</p>
+
+	<p>J. Stuart Dales, steward and superintendent of buildings and grounds.</p>
+
+	<p>Ellen Smith, registrar.</p>
+
+	<p>George McMillan, custodian of the library.</p>
+
+	<p>Mary L. Jones, assistant librarian.</p>
+
+	<p>Lulu M. Green, assistant in library.</p>
+
+	<p>Florence Smith, assistant in library.</p>
+
+	<p>Max Westermann, chief clerk.</p>
+
+	<p>Harry B. Duncanson, assistant agriculturalist, college farm.</p>
+
+	<p>S. W. Perin, foreman, college farm.</p>
+
+	<p>James W. McCrosky, electrician.</p>
+
+	<p>John M. Chowins, mechanic of electrical department.</p>
+
+	<p>John Green, chief engineer.</p>
+
+	<p>Janitors&#8211;Charles Dean, University hall; Anson Bowers Nebraska hall; Richard Adams, chemical laboratory; John Best, Grant Memorial hall.</p>
+
+	<p>E. P. Swearington, gymnasium attendant.</p>
+
+	<p>Jacob D. Shear, night watch.</p>
+
+	<p>John Shaw carpenter.</p>
+
+	<p>J. H. Hadkinson, gardener.</p>
+
+	<p>Aleck Brostrom, fireman.</p>
+
+	<p>The following is certainly a very alluring lecture course:</p>
+
+	<p>Hon. James Whitehead, Broken Bow-"Practical Education and Its Uses to the Government," September 16, 1891, opening of the university year.</p>
+
+	<p>Hon. John L. Webster, Omaha&#8211;"The Extent of Law," September 30, 1891, opening of the law college.</p>
+
+	<p>Professor L. Fossler&#8211;Course of lectures on "Goethe" during fall term.</p>
+
+	<p>Professor L. A. Sherman&#8211;Course of lectures on "Shakespeare," winter and spring terms.</p>
+
+	<p>George Kennan&#8211;"Siberia," October 26, 1891, under auspices of Palladian society.</p>
+
+	<p>Chancellor Francis H. Snow, university of Kansas&#8211;"Evolution," December 18, 1891[,] under auspices of Scientific club.</p>
+
+	<p>Rev. J. L. Jones, Chicago-&#8211;"The Cost of a Fool," January 26, 1892.</p>
+
+	<p>Paul Blouet (Max O' Rell)&#8211;"America as Seen Through French Spectacles," February 9, 1892, under auspices of Palladian society.</p>
+
+	<p>Rev. Washington Gladden, D. D., Columbus, Ohio&#8211;"The True Socialism," February 15, 1892, Charter day address.</p>
+
+	<p>Professor George B. Hussey&#8211;"Archeology," February 23 and March 15, 1892.</p>
+
+	<p>Professor John R. Wightman&#8211;"Paris," March 8, 1892.</p>
+
+	<p>Professor Harold N. Allen&#8211;Course of lectures on "The Evolution of the Solar System," spring term, 1892.</p>
+
+	<p>Hon. James M. Woolworth, Omaha&#8211;"The Ideal Lawyer," May 11, 1892, closing address before the College of Law.</p>
+
+	<p>Rev. William Kirkus, New York. "Scholarship a Burden of the Lord," baccalaureate address, June 12, 1892.</p>
+
+	<p>Rev. Willard Scott, D. D., Chicago-Commencement oration, June 15, 1892.</p>
+</div1>
+
+<div1>
+<head type="sub">The Courses of Study.</head>
+
+	<p>The required courses in the academic college are English, the Germanic or the romance languages, Greek, Latin, mathematics, philosophy, physiology and hygiene, science, English literature, European history or American history, with twelve electives. This includes the three groups, the classical and the literary, and English of the academic college.</p>
+
+	<p>One of the pleasant accessories is, it goes without saying, the literary clubs and fraternities. I believe, however, that the fraternities are not strong at the Nebraska university; partly because they represent an unnecessary expenditure, and partly because they are more or less aristocratic and <unclear></unclear> is a protesting <unclear></unclear> and radical spirit at Lincoln. There are two large literary societies, the Palladian and the Union; the [Delian] is younger, but is prosperous and popular. The two first mentioned societies have very nice society rooms in the university hall, and here they hold all manner of entertainments, from debates to private theatricals. No interference whatever is made in the conduct of these or any other societies by the institution.</p>
+
+	<p>The industrial college contains four groups, the general scientific group, the agricultural group, the civil engineering group and the electrical engineering group. Chemistry, English, English literature, mathematics, military science, modern languages, physics, physiology and hygiene, any two natural sciences and twelve electives.</p>
+
+	<p>The agricultural group has these studies, with the addition of botany, entomology, geology, horticulture and zoology. The civil engineering group has, in addition to an English and mathematical courses, chemistry, civil engineering, electrical and steam engineering, military science, thesis, etc. The electrical engineering group is substantially the same.</p>
+
+	<p>The agricultural farm connected with the industrial college lies about two miles from the university grounds, and is said to be in a fine state of cultivation, and of the greatest practical benefit. It contains 320 acres. Electric cars run past it, so it is easily reached.</p>
+
+	<p>One of the most attractive buildings on the ground is the chemical building. It is, in the first place, gratifying in an architectural way. Within is an equipment which any university, however successful, might be proud of. The building has two stories and a basement, is finely lighted, and is supplied with large and small lecture rooms, with work and experiment room, private offices and supply rooms. Prof. Nicholson and Prof. Rachel Lloyd work here together, as a fine illustration of that co-instruction which as been remarked upon. Mrs. Lloyd is one of four women holding similar positions in this country.</p>
+</div1>
+
+<div1>
+<head type="sub">The Electrical <sic corr="Laboratory">Labratory</sic>.</head>
+
+	<p>In connection with the industrial college may be mentioned the electrical laboratory, which has only recently been constructed. There were reasons why the building of this structure would willingly have been delayed, but the need for it was so imperative that there was no choice in the matter. Steam engineering is taught here in connection with electrical engineering. There are four complete systems of electricity, the Edison three-wire system, the Westinghouse, the Wood and the Thomson and Houston, besides parts of two other systems. One of the steam engines is taken to pieces and put together by students. There is a gas engine in the house also, and all the apparatus is arranged so as to make combinations of power.</p>
+
+	<p>In this building is also a department devoted to the mechanical arts. A high class of manual work will be done here, in connection with graphics, or applied geometry. This class in only just under way.</p>
+
+	<p>The battalion, which is one of the especial sources of pride of the university, is the outcome of the agricultural college. The government assigns an officer to instruct in military science in every agricultural college, and the one assigned to Lincoln, Lieutenant Pershing, is one who seems to have the qualities that go to make up a good officer. At least, he has succeeded in creating enthusiasm and discipline; and instead of the battalion being a little thought of accessory, as it so frequently is in colleges of this sort, it holds a conspicuous place in the university. There are about 250 men, counting the band. This band, by the way, is the best one in Lincoln. As the men pocket all the money they earn by playing, the band is a very popular institution. The battalion is not without its ordinance, having four guns. There are 250 stands of arms. There is a cavalry department, though without even the remotest equine association. The saber drill alone indicates their divergence from the infantrymen. It will be remembered, by the way, that the <gap reason="torn away" extent=""/>iment took a prize at the ne<gap reason="torn away" extent=""/> this city in the early part <gap reason="torn away" extent=""/>mmer. Grant Memorial hall <gap reason="torn away" extent=""/> by the departments of mili<unclear>t</unclear>ary s<gap reason="torn away" extent=""/> and physical training. Th<unclear>e</unclear> cadets do not take the gymnastic drill, <unclear>if</unclear> they have enough physical developmen<unclear>t</unclear> without that work. The physical trainin<unclear>g</unclear> is very thorough and systematic, by the way, and could not be considered play from any point of view. At five minutes of five every afternoon there comes a call to arms, the American flag flutters from the mast and the campus is filled with men, armed, if not ready for fray. This is the hour when the university grounds are most visited. The cleverness with which the stiffness is taken out of a recruit is said to be very well worth watching.</p>
+
+	<p>The museums, the rooms for agriculture, botany, entomology, geology, horticulture, physics and zoology are in Nebraska hall.</p>
+
+	<p>Here the distinguished Prof. Bessey has his fine botanical collection, which, added to the university collection, makes an assortment of classified botanical specimens seldom equaled.</p>
+</div1>
+
+<div1>
+<head type="sub">Botany and Geology.</head>
+
+	<p>Botany is made a vast science under Prof. Bessey's handling. It is a biological study as he pursues it. Flora is live, not dead, to his students, and he unfolds the fairy tales of science most alluringly, teaching not so much to give narrow and specific knowledge as to inculcate broad and general culture. The geological collection is intensely interesting, as is the zoological, for the reason that an earnest and most intelligent effort is being made to discover and preserve things distinctly Nebraskan, both ancient and of the present.</p>
+
+	<p>Prof. Barbour, who is an enthusiast in his specialty, geology, and a young man of splendid energy, has himself unearthed some fossils, which are absolutely unique and above marketable value. One is the horn of a pre-historic horned and mailed lizard. This was found in the western part of the state. Another is a number of enormous vegetable petrifications, spiral in form and of nature unknown. Prof. Barbour advances the theory that they were inland sponges. These were found in the <orig reg="badlands">bad lands</orig>. I think he said that some of them were forty feet high, although there are none of them at the museum of this height. There are many other unique treasures, but these are mentioned as being of peculiar interest.</p>
+
+	<p>The entomological college is excellent and is presided over by Prof. Bruner, a man with something more than ordinary aptitude for his work.</p>
+
+	<p>Another thing to be mentioned in connection with the industrial college is the green house. The chancellor secured this as an accessory of the experiment station. The botany pupils use it a great deal, not only for analysis, but for experiment. Indeed, it is in constant service, and now seems indispensable. It presents a most inviting appearance, and would be much valued for its beauty even if it served no other end.</p>
+
+	<p>All this will give an idea of the apparatus and material which the industrial student has to help him in his work. A camera club and other clubs of like nature show that the spirit of the class room is carried into the amusements. Chancellor Canfield hopes to introduce printing for both men and women before very long.</p>
+
+	<p>The college of law has a three-year course, and is modeled after the best of such schools.</p>
+
+	<p>Among the societies connected with the university which have not yet been mentioned is the University Young Men's Christian association; the University Young Women's Christian association; the Athletic association; the Oratorical association; the Scientific club; the University Debating club; the Republican club; the Democratic club and the Independent club. These clubs are at liberty to ask political speakers to address them, so long as no one but university students attend the meetings. There are about 200 voters in the university.</p>
+
+	<p>Two monthly papers are published from the university. One is the Hesperian, the other, The Nebraskan.</p>
+
+	<p>Both make a specialty of university news; both are well "made up," and are typographically attractive.</p>
+</div1>
+
+<div1>
+<head type="sub">Some Innovations.</head>
+
+	<p>Two innovations have been made by Chancellor Canfield since he came to Lincoln. One was the establishment of the chair of American history and civics over which Prof. Caldwell now presides. The chancellor was for fifteen years previous to his coming to Lincoln, associated with the University of Kansas, and latterly he held such a chair in that institution. The idea was his own, and perhaps nothing is of more importance in the academic work, in his estimation, than this broad study of history and politics. It is, perhaps, tautological to speak of history and politics since they are one and the same thing. To turn out men who are at once good scholars and good citizens seems to the chancellor about as ambitious a thing as a man can aspire to. His chair of civics stands to him for whatever is most moral, most elevated, most progressive, most practical, and most intellectual. He expects it to teach the application of all the knowledge gained in the other departments.</p>
+
+	<p>The second innovation is the establishment of a friend and consulting woman for the girls. He had had experience enough in educational institutions to know that many girls suffer in health for want of some woman to advise with. And realizing as he does that nothing is more imperative for the continuance of higher education for women than that a high average of health is sustained, he secured the services of a very talented young woman to help him in cases of possible emergency. Miss Kate Wilder is a college girl, and also a trained nurse and an instructor in physical culture. She does so many things that I hesitate to endeavor to specify. For one thing she takes anthropometrical measurements of all the girls and directs them in the development of any deficient part. She has got the girls in gymnasium suits for their exercises. She gives them talks on hygiene and on health. She tells them when they need the services of a physician and advises them upon a thousand other matters beside their health.</p>
+
+	<p>Much is also made of the history of women and their work, and an impetus is given to the independence of women with the full knowledge of what it means&#8211;and that is, a class of self-supporting women, who will marry for only the best of reasons, who will realize their own individuality and their moral responsibilities in the fullest way. Such women, it is safe to say, will not be the mothers of criminals or of idiots. Prof. Mary Tremaine has charge of this work in connection with her instruction in history.</p>
+
+	<p>I have said nothing about the art departments. I understand that they are singularly well conducted. I saw wood carving, clay modeling, free hand drawing and still life studies in oil that were very good for students' work.</p>
+
+	<p>The number of pupils in the industrial college is 139; in the academic college, 334; in the college of law, 48; the specials are 70; the post-graduates 15. The total in the university proper is therefore 606. In the preparatory course are 281, in music and art 75, making the total enrollment 912. The ages of these students range all the way from 13 to 49 years; their occupation, or rather the occupation with which they are associated, going all the way from unskilled day labor to banking and the pulpit.</p>
+
+	<p>This article is in no sense complete, but it may give a hint to some who have been ignorant on the subject of the opportunities open to every boy and girl in this state. If you are so poor that you have to work nights to pay your board bill, you are just as welcome as if your circumstances were different. If you are rich enough to go to Harvard, to Oxford or to Heidelberg, you will still find that here in your state you can receive all that is needed to make you an accomplished scholar, a good citizen, and a cultivated member of society.</p>
+
+	<p>The doors are open to you at any time. The more visitors that come the better Chancellor Canfield and his staff are pleased.</p>
+
+	<p>"The institution belongs to the state," the chancellor says, and perhaps nothing can better prove that this is what he earnestly believes than that instead of closing the doors on fair week as has been the custom, he opens them, and last fair week no less than 1,500 persons were shown through the building.</p>
+
+<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+<div1 type="file references">
+<list>
+<item>
+<xptr n="ep.owh.18921106">The Nebraska University</xptr>
+</item>
+</list>
+</div1>
+
+</div1>
+</body>
+</text>
+</TEI>

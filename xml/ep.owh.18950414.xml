@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" []>
+
+<TEI id="ep.owh.18950414">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">100 Books for Girls</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2010</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18950414</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a">100 Books For Girls</title>
+<title level="j">Omaha World-Herald</title>
+<biblScope type="volume"></biblScope>
+<date value="1895-04-14">April 14, 1895</date>
+<biblScope type="pages">18</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date> 2010-05-26</date>
+<respStmt>
+<name> Rhiannon Root </name>
+</respStmt>
+<item> Proof Reading </item>
+</change>
+<change>
+<date>2010-02-05</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2010-01-07</date>
+<respStmt>
+<name>Charise G. Alexander</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">100 BOOKS FOR GIRLS.</head>
+
+<p>What shall our little girls read? Little girls are made of sugar and spice, and all that's nice, as everyone knows, and there is no one who owns such a precious thing as a daughter, without being more or less puzzled as to what shall furnish mental food and recreation for her. A gentleman writes to me: "I have read lists of books for boys, lists of of books for older people, but I do not remember to have read, what concerns me most; a list of books for girls. (Our boys are all girls.)  Will you not kindly publish an ideal reading course, viewed from your point of view, for girls. Our oldest daughter is<!-- figure?  unrelated -->
+now entering her 10th year. The entire field of literature will soon be at her disposal, and I am, and her mother is, very anxious that the best shall be given her. The same desire is; I am sure, uppermost in the heart of every parent visited by the World&#8211;Herald.  This letter is written at my office; but know that my wife would join me very heartily to my request if she were here."</p>
+<p>Our painstaking young librarian, Miss Jessie Allen, once said to me:</p>
+<p>"There is a great dearth of good books for girls. I am really sorry for the girls who visit the library. Many of them have read every book which could be strictly considered a girls' book in the place. There are plenty of authors for the boys. But the girls have not their share of good literature."</p>
+<p>
+With this in mind I looked over the finding list of the Omaha Public Library, only to find that there are five books written particularly for boys, to one written for girls. Speaking of this to a very cultivated woman, who has a genius for instruction, and whose acquaintance with books and girls is large, she said:</p>
+
+<p>"I do not think that either girls or boys should he kept on literature designed especially for their sex. I think that girls should read boys' books and boys read girls' books. It enlarges their sympathies, and rounds their characters. They sympathize with and understand each other better. Nor do I think it wise to keep girls too long on juvenile literature. The Dinsmore book, and even Miss Alcott's stories can be over&#8211;done. I have known girls of 16 or 17 who have been kept on that mild literary diet until they had taste for nothing better. Wholesome baby food it might for infants, but after one's teeth are cut, stronger food can be digested. Now anyone can enjoy 'Little Women' and the rest of Miss Alcott's stories.  You understand I merely mean to say that a young girl's mind cannot be expanded to its capacity if she is kept on books of that sort.  It is as far as it goes. We all love it, and the class of books it stands for, but if vistas are to be opened up to the mind, the library of a young girl must not be limited to books of that kind. As soon as possible I would lead the mind of either boy or girl to the classics, and I would encourage them to read books that relate to achievement. I would give them lofty ideals. The daily stress of living will lower their ideals fast enough at best. The books that refer to commonplace, everyday things are wholesome and sweet. They should be read. But they are not enough. A higher note must be touched."</p>
+
+<p>This is the children's age. This is, also, the children's country. Henry James used to say that Americans &#8212; about whom he always writes as if he were an alien &#8212; gave him the impression of being the serfs of the children. He is wrong, of course. James knows how to be brilliantly wrong and
+always in the most elegant English.  But it is true that to serve the children has been	one of the religions of America. It is in this country that there has grown up for them a delightful and healthful literature. Here have been printed those almost perfect periodicals which weekly or monthly bring to the fireside illustrations, tales, simple, philosophy and ethics, prepared by the best artists and authors. The home that
+admits St. Nicholas, Harper's Young People or the Youth's Companion opens up the way for a good education, a standard of honor, and pleasant manners to the children. An intelligent child will come to have all these desirable things as the result of a contiunous perusal of any of these periodicals.</p>
+
+<p>The days are fortunately past when children are forced to read the disgusting pages of "Gulliver's Travels" in order to find amusement. They still cling to "Arabian Nights," "Robinson Crusoe," and "Swiss Family Robinson," and no child's library should be without them. Taking it for granted that these stand on the shelves of our girl's book case, let us consider further. This consideration must have its tentative qualities. It is absurd to be dogmatic about a thing of this kind. But, supposing that our daughter is 10 years of age, that she has had those tiresome little Dotty Dimple books, just as she has had the measles, got through with any number of brilliantly illustrated books of infantile doggerel, and is really ready to begin reading books, let us see what she would better have on her shelves.</p>
+
+<p>Suppose, then, that wish to provide her room with 100 good books which will give her information in a pleasant way, stimulate her imagination in a healthful manner, and give her much amusement and delight. How will the following list do &#8212; a list which has purposely avoided many of the books popular with girls, for reasons not necesaary to explain in detail. The list is not dogmatically offered. It is merely a suggestion, and it might be well for those who are interested in the matter to correct it, make further suggestion, or enlarge it.</p>
+
+<list>
+<item>1&#8212;The Jungle Book, Rudyard Kipling </item>
+<item>2&#8212;Alice in Wonderland, Lewis Carroll</item>
+<item>3&#8212;The Wonder Book, Nathaniel Hawthorne</item>
+<item>4&#8212;Hans Brinker, Mary Mapes Dodge</item>
+<item>5&#8212;Little Women, Louisa M. Alcott </item>
+<item>6&#8212;The Diary of Babbette, Ruth McHennery Stuart</item>
+<item>7&#8212;The Story of Siegfried, James Baldwin </item>
+<item>8&#8212;The Story of Roland, Baldwin </item>
+<item>9&#8212;The Story of the Golden Age, Baldwin</item>
+<item>10&#8212;Lady Jane, Mrs. C. V. Jamison</item>
+<item>11&#8212;Toinette's Phillip, Mrs. Jamison</item> 
+<item>12&#8212;Melody, Laura Richards </item>
+<item>13&#8212;Little Marjorie's Love Story, Margaret Bouvet</item>
+<item>14&#8212;Sweet William, Miss Bouvet</item>
+<item>15&#8212;Black Beauty, Anna Sewall</item>
+<item>16&#8212;Beautiful Joe, Marshall Saunders </item>
+<item>17&#8212;The Story of Patsy, Kate Douglas Wiggin</item>
+<item>18&#8212;The Bird's Christmas Carol, Miss Wiggin </item> 
+<item>19&#8212;Child's Life In Prose, J. G. Whittier</item>
+<item>20&#8212;Poems of James Whitcomb Riley</item>
+<item>21&#8212;Poems of Henry Wadsworth Longfellow</item>
+<item>22&#8212;Queen Victoria, Girlhood and Womanhood, Grace Lippincott</item>
+<item>23&#8212;Hans Christian Andersen's Fairy Tales </item>
+<item>24&#8212;The Red Fairy Book, Andrew Lang</item>
+<item>25&#8212;The True Story Book, Lang</item>
+<item>26&#8212;The Yellow Fairy	Book, Lang</item>
+<item>27&#8212;Old Caravan Days, Mary Hartwell Catherwood</item>
+<item>28&#8212;Common Wayside Flowers, Olive Thorne Miller</item>
+<item>29&#8212;Dear Daughter Dorothy, Plympton.</item> 
+<item>30&#8212;Eyebright, Susan Coolidge</item>
+<item>31&#8212;A Battle and a Boy, Blanche Willis Howard.</item>
+<item>32&#8212;Young Folk's History of the United States, T. W. Higginson</item>
+<item>33&#8212;Child's History of England, Charles Dickens</item>
+<item>34&#8212;A Child's Dream of a Star, Dickens </item> 
+<item>35&#8212;Tanglewood Tales, Nathaniel Hawthorne</item>
+<item>36&#8212;Story of Mexico, Edward Everett Hale</item>
+<item>37&#8212;The Boy's King Arthur, Sidney Lanier </item>
+<item>38&#8212;Stories from Famous Ballads, Grace Lippincott</item>
+<item>39&#8212;Stories and Sights of France and Italy, Lippincott</item>
+<item>40&#8212;The Story of Spain, E. E. Hale. </item>
+<item>41&#8212;Little Folk's Letter, Ralph Waldo Emerson</item>
+<item>42&#8212;Sara Crewe, Frances Hodgson Burnett</item>
+<item>43&#8212;Little Saint Elizabeth, Mrs. Burnett</item>
+<item>44&#8212;Giovanni and the Other, Mrs. Burnett</item>
+<item>45&#8212;Little Lord Fauntleroy, Mrs. Burnett </item>
+<item>46&#8212;Piccino, Mrs. Burnett</item>
+<item>47&#8212;Edith's Burglar, Mrs. Burnett</item>
+<item>48&#8212;Story of the Illiad, E. Brooks </item>
+<item>49&#8212;Story of the Odyssey, E. Brooks</item>  
+<item>50&#8212;Story of New Yolk, Elbridge S. Brooks</item>
+<item>51&#8212;Uncle Tom's Cabin, Harriet Beecher Stowe</item>
+<item>52&#8212;In Leisler's Time, E. S.  Brooks </item>
+<item>53&#8212;Story of the American lndian, E. S. Brooks</item>
+<item>54&#8212;Historic Boys, E. S. Brooks</item>
+<item>55&#8212;Historic Girls, E. S. Brooks</item>
+<!-- no #56 in original text -->
+<item>57&#8212;The Boyhood of Christ, Lew Wallace </item>
+<item>58&#8212;Juan and Juanita, Frances Courtney Baylor</item>
+<item>59&#8212;Birds and Their Ways, E. R.  Church </item>
+<item>60&#8212;Adventures in Thule, William Black </item>
+<item>61&#8212;The Absent Minded Fairy, Thomas A. Janvier</item>
+<item>62&#8212;An Old Fashioned Girl, Louisa M. Alcott</item>
+<item>63&#8212;Betty Leicester, Sara Orne Jewett</item>
+<item>65&#8212;The Children of the Cold, Lieutenant Schwatka</item>
+<item>66&#8212;Knockabout Club, Fred Ober</item>
+<item>67&#8212;Tales from Shakespeare; Charles and Mary Lamb</item>
+<item>68&#8212;Robin's Recruits, Plympton</item>
+<item>69&#8212;Stories from the Magicians, A. J. Clark </item>
+<item>70&#8212;Mopsa the Fairy, Jean Ingelow </item>
+<item>71&#8212;Jenny Wren's Boarding House, Kaler </item>
+<item>72&#8212;Doris and Theodora, Thomas Janvier</item>
+<item>73&#8212;Holiday House, Catherine Sinclair</item>
+<item>74&#8212;Captin Polly, Sophia Sweet</item>
+<item>75&#8212;Wild Life under the Equator, Paul Du Chaillu</item>
+<item>76&#8212;Wild Life on the Plains, Elizabeth Custer</item>
+<item>77&#8212;At the Back of the North Wind, George McDonald</item>
+<item>78&#8212;With Trumpet and Drum, Eugene Field</item>
+<item>79&#8212;The Bodley Books, Horace E. Scudder</item>
+<item>80&#8212;Three Vassar Girls, Elizabeth Champney</item>
+<item>81&#8212;A Jolly Fellowship, Frank Stockton</item>
+<item>82&#8212;Miss Dewberry's Scholars, Margaret Sangster</item>
+<item>83&#8212;Uncle Remus, Joel Chandler Harris </item>
+<item>84&#8212;Crowded Out o' Crofield, W. O. Stoddard</item>
+<item>85&#8212;Timothy's Guest, Kate Douglas Wiggin</item>
+<item>86&#8212;The King of the Golden River, John Ruskin</item>
+<item>87&#8212;The Little Lame Prince, Dinah Mulock Craik</item>
+<item>88&#8212;Diego Pinzon, John Y. Coryell  </item> 
+<item>89&#8212;Stories from the Greek Tragedies, A. J. Church</item>
+<item>90&#8212;Three Greek Children, A. J. Church </item>
+<item>91&#8212;Cast Up by the Sea, Sir William Baker </item>
+<item>92&#8212;A Flock of Girls, Nora Perry</item>
+<item>93&#8212;Stories of the Normans, Sara Orne Jewett</item>
+<item>94&#8212;The Children of Old Park's Tavern. F. A. Humphrey</item>
+<item>95&#8212;Chapters on Animals, Phillip Gilbert Hamerton</item>
+<item>96&#8212;Gypsy Breynton, Elizabeth Stuart Phelps</item>
+<item>97&#8212;Jackanapes, Juliana Horatia Ewing</item>
+<item>98&#8212;In Nesting Time, Oliver Thorne Miller</item> 
+<item>99&#8212;Stories Told to a Child, Jean Ingelow </item>
+<item>100&#8212;Snap Dragon, Juliana Horatia Ewing</item>
+</list>
+<p>As said before, this is merely suggestive. A large number of these books have been recommended to me by my own little daughter and two of her personal friends, and each number is, so I am told, "the loveliest book that ever was." Children know, of course, what they like, and ought to be given what they like, so long as they do not show a vicious tastes. But I am persuaded that juvenile literature, even when it has such classics in it as contained in the foregoing Iist, not long satisfy the active&#8212;minded girl. They like more vital and creative fiction than that which deals merely with childhood. I discovered that about six months ago when my small child went around with a long and rumpled brown veil dangling from her head. Several days passed without my curiosity being sufficiently aroused to inquire what this extraordinary decoration signified. At last I asked.</p>
+<p>"I'm Rowena," she replied in a stately manner; "Rowena of the Saxons. I've just been to a joust, and nearly all the knights were killed."</p>
+<p>On rainy days the brown veil still asserts itself, and Rowena, a very small and thin little girl, with eerie gray eyes, sits on chair arms looking down into an imaginary arena.</p>
+<p>It is an easy step from one of Scott's books to others, and already the excursions are being made. And as for Dickens &#8212; a child can no more be kept away from Dickens than flies can be kept out of a sugar bowl. Children do not need to be protected from literature as much as commonly thought. A pint cup holds only a pint, though it be dipped in the Atlantic, and a child can read adult books and take away only the part that assimilates with childhood.</p>
+
+<p>Certainly, for a well trained childhood the girl of intelligence may well be trusted in the home library to read what she pleases. It is not for any one to set bounds and metes for her. She may have a capacity for comprehension which the purchaser of the library never possessed. The human soul soon comes to its own responsibility. The human mind runs to its liberty.</p>
+<closer><signed><hi rend="right">ELIA W. PEATTIE.</hi></signed></closer>
+
+
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18940603 SYSTEM "ep.owh.18940603.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18940603">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Waking Dream</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18940603</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Waking Dream</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-06-03">3 June 1894</date>
+<biblScope type="pages">17</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-11-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18940603">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+
+<div1>
+
+<head type="main">A WAKING DREAM</head>
+
+	<p>Did you ever lie for a week in a state of half-delirium? Not that mad frenzy of the brain, where one is tortured with repulsive sights; or where one fails to recognize one's friends, or fears to take wholesome food, suspecting poison. But just in that semi-sane state, where to be quiet means to drift through space as if one had been eating hasheesh. The pain of the body, perhaps, has been allayed. The fever is there, but not raging. Thirst can be quieted at any moment these common sense days, by turning to the pitcher of iced water by the bedside. There is nothing to trouble one. The room is quiet and dark. The nurse does not move unless she is wanted. The dull perfume of cape jasmine steals to your senses, or that of roses, or carnations&#8211;tributes of those you love best. There is nothing to do in all the wide world&#8211;no engagements to keep, no one to feel sorry for but yourself, no work to do. Nothing but to float and dream.</p>
+
+	<p>The mystics of India believe in levitation&#8211;they think that by exercise of the will and a holding of the breath it is possible for a man to overcome the laws of gravitation, and float in space at his will.</p>
+
+	<p>Certainly, it is possible for the person in a happy delirium to do this. At least he feels sure he is doing it, and that is the same thing. So up, up out of the darkened room he floats, away into tender and perfumed air, and exults in the fine power with which he has overcome nature. Presently he comes to a canon. It is wild enough and deep enough, and the draft that blows down it is cool enough to make it in Colorado. But where in that rugged state is there a cannon so hung with vines that show translucent in the light? Where in Colorado or any other place on earth are there leaves so wonderful in shape, so many veined, so change in hue&#8211;silver and green, bronze and yellow? Where does the wind carry a song on it as if many birds were singing together the chorus from "Cavalleria Rusticana?" "He arose from the dead. He reigns in the glory of heaven&#8211;in the glory of heaven."</p>
+
+	<p>Or is you, yourself, and not the chorus of invisible birds who are singing it? Is it you who sends forth from lungs and throat that splendid swelling chorus, which rises louder and louder&#8211;"He is risen from the dead orri asee Gloria del ciel&#8211;alla Gloria del ciel!"</p>
+
+	<p>Wonderful, too, that all those tree trunks which but a moment before made glorious the side of the canon, should turn into the pipes of a mighty organ, all the color of gold, and that the wind should blow through them, making reedy and solemn music. Wonderful, too, that the other trees on the topmost bank should shape themselves into the gothic arches of a cathedral, and that you should be there alone, and from the farthest end should stream a glory as of the sun through glass of many stains. "He is risen from the dead. He reigns in the glory of heaven!"</p>
+
+	<p>Then suddenly&#8211;blackness.</p>
+
+	<p>And suddenly too, silence.</p>
+
+	<p>To have neither sound or light&#8211;that is horrible. It is to be wrapped about with muffling blankets. The senses struggle like mad men in chains to find an exercise for themselves.&#8211;And they snap, someway, in their frantic struggles, the chains of darkness and of silence and there is noise again and light. But the noise is very strange. It is the voice of the hills crying to one another. And the light is gray and dim and steals between hoary hillsides&#8211;hillsides that are as old as the shaped world. And when you look closer behold all the topmost peaks of the hills have faces of cold, gray stone&#8211;wild and primitive faces, with great mouths, and from these mouths there comes a cry. And the cry is that of weariness and age. It is a mighty voice making plaint for the travail of the earth. It is as the voice of a giant mother in birth throes, groaning for what the earth must annually bring forth&#8211;moaning with the anguish of the mother who yearly bears millions of men.</p>
+
+	<p>Beyond is the sea&#8211;a gray sea, with waves that leap high and in leaping take to themselves also the semblance of sad, old faces with torn white hair framing their melancholy. They, too, have voices and they cry for the dead of which they know, and for the fate of the ships that float on them, and for the sorrow of the living who have told their sorrows.</p>
+
+	<p>Then, suddenly, the dawn! Day's miracle! The marvel of creeping light and purple east! The marvel of rose clouds dancing over a sky of blue! The marvel of quieted waves, sun-glittering, and of airs that blows from the sweet chambers of Aurora! The marvel of the tired bird resting on the wave! The marvel of the hills that cease their might, moaning and singing together for love of life. The marvel of dew in the flower, and of perfume from the fields, and of the nodding tassels of the grass&#8211;and there are miles of grass&#8211;miles and miles of tossing, tiny heads of feathered grass, and each a world for wee creatures living their lives with as much intensity in their way, pretty things, as we.</p>
+
+	<p>Ah, small we! Trifling, evanescent we! So full of our conceit! So very, very slight in creation's sum! So foolish in our joy; so selfish in our sorrow; so limited in knowledge; so arrogant in our hopes for immortality.</p>
+
+	<p>Out there on the shore where the dawn is there comes in slow procession all the men of the earth. And there is a man, or a woman, or a child for very grain of sand that lies there. And behold the men and the women are no larger than the grains of sand, and they are as much alike one to the other as are the grains of sand. And into the hands of the dreamer there is placed a huge glass that magnifies these men till he can see them distinctly, although they are no larger than the sands of the sea. And as he look she sees strange sights. He sees these tiny, egotistic things fall on each other and slay each other. And he sees him who kills the most is called great, and put high on the shoulders of the rest. And he hears the shouts of victory, and names are cried, "C&#230;sar! Napoleon! Grant!" And these are great because they have slain many men. Yet he sees another man, who, from much suffering, kills one man to secure his own personal liberty. And he sees this man who kills but one bad man put all his life in a prison house where he is detained by force. Yet he killed a bad man, while the great killed many innocent men. And the dreamer wonders much, and is shows a great book wherein is written the law of nations. And as he reads he laughs, because it so ill accords with the justice and the equity of things, or with men's needs, or with the truth. And looking through the magnifying glass at all the swarming, tiny men, the dreamer sees yet stranger things&#8211;men who starve each other&#8211;men bound by law to women whom they hate&#8211;women loving in secret men they dare not tell their love to&#8211;children bearing in misshaped bodies and enfeebled minds the burden of their parents' sins&#8211;men beating helpless animals&#8211;food rotting in warehouses, and many hungry&#8211;clothes rotting on shelves, and many naked. And from the mass came cries of hate, and loathing and of fear.</p>
+
+	<p>Then suddenly all lifted up their faces&#8211;every man and women, no matter how craven&#8211;lifted up their faces hopefully, for a voice came out of heaven, saying: "Behold the truth!" And they all looked. And they all looked. And a white figure was before them, large as the sea and sky.</p>
+
+	<p>But the face of it was veiled, and the lips were silent! And the men and women who had hoped fell prone upon the sand and wept!</p>
+
+	<p>And so the scene faded and brought a cottage&#8211;a little home&#8211;where forget-me-nots grew in the garden and Virginia creeper clung about the latticed windows. And a woman with a quiet face looked out of it. And below was a man, working in the soil. And he was begrimed with it, but his face was full of happiness and health. And the woman looking at him and softly: "I love you!"</p>
+
+	<p>And it seemed as if that were the end of time, for all the palpable earth vanished then, and the delirium was gone. And there was only sleep. And sleep is the end of all things&#8211;perhaps.</p>
+
+<closer>
+<signed rend="right">E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed>
+</closer>
+
+
+</div1>
+</body>
+</text>
+</TEI>

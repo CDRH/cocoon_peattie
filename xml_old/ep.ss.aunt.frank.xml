@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" []>
+
+<TEI id="ep.ss.aunt.frank">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">At Aunt Frank's Service</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2010</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.ss.aunt.frank</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a">At Aunt Frank's Service</title>
+<title level="j">The Youth's Companion</title>
+<biblScope type="volume">74</biblScope>
+<date value="1900-02-01">1 Feb. 1900</date>
+<biblScope type="pages">49-50</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+
+<change>
+<date>2010-03-10</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2010-03-04</date>
+<respStmt>
+<name>Charise Alexander</name>
+</respStmt>
+<item>initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="Page49" />
+<head type="main">At Aunt Frank's Service</head>
+
+<p>That fate which apportions homes had overlooked Mary Bell Browne.  "Which saves me," as she used to say to the girls at Miss Singleterry's school, "the trouble of being homesick."</p>
+
+<p>Mary Bell was not able to remember the time when she had been anything but an orphan.  Her life had been spent in various places; now she was put on a farm for her health; now sent to the city for her manners.  It was a very large family, that of the Indiana Brownes.  All of them were well&#8211;to&#8211;do, and proud of the fact.  All were hospitable and believed in the obligations entailed by relationship.  The little orphan was welcomed under half a dozen roofs.  But in no place did she stay long enough to learn to speak the word "home."</p>
+
+<p>It was generally agreed that "poor Quinton's girl" was to have advantages, and although this did not, with the Brownes, signify any profound degree of scholarship, it meant that she should be prettily educated.  And so she was at Miss Singleterry's.</p>
+
+<p>In appearance, Mary Bell was tall, lithe, graceful, impulsive, and possessed of a sudden, illuminating smile.  Her face was oval, and her eyes were a soft, dark gray, and humorous in their expression. </p> 
+
+<p>And she was marked by one physical peculiarity which make all who looked upon her remember her over and above other human creatures.  This was an abundance of the most obvious golden hair, contrasting itself with heavy, dark brows and lashes.</p>
+
+<p>Now it chanced when Mary Bell was graduated from school in the month of roses, and at the age of sixteen, that she was invited by her uncle Fresham and his wife, who attended the graduation exercises and were much gratified at the deportment and beauty of their niece, to go with them to Alaska.  The journey lengthened itself as journeys will, and the Browne party not only visited Sitka, but the City of Mexico.  They arrived at Indianapolis, their home, just before the Christmas holidays.  Uncle Fresham Browne, who had not been out from behind the counter of his thriving dry&#8211;goods shop before for twenty&#8211;five years, felt unsettled by his adventure into the world, and decided to take his wife and his daughter Bertha to Europe for a prolonged holiday.</p>
+
+<p>Since "poor Quinton's" death at Rome when Mary Bell was a baby, the entire family had looked upon Europe with some suspicion.  The determination of Fresham to give the old world another chance was therefore looked upon something in the light of an overture, and to celebrate the event, all the blood and kin of the Brownes were bidden to the capacious mansion of the Sinclairs for Christmas week.</p>
+
+<p>Mrs. Sinclair was Sally Browne before she married a rich jeweler of Indianapolis and set up a house with twenty&#8211;four rooms &#8212; and an attic.  Of all the prosperous Brownes, she was, perhaps, the most prosperous, and it have her the greatest pleasure imaginable to gather all of her relatives under her imposing roof.</p>
+
+<p>Mr. Sinclair was a widower when he married her, and he had one son, David, about twenty years of age.  These three endeavored to occupy the twenty&#8211;four rooms and the attic; but there were several rooms to spare.  Mary Bell was invited to occupy one of these for good and all.</p>
+
+<p>"You're to think of this quite as your own home, if you will, Mary Bell," her aunt Sally said.  "It will add to our happiness to have you here.  Mr. Sinclair urges you to come as heartily as I do."</p>
+
+<p>"A house isn't much of a house to my thinking, without a girl in it," said Mr. Sinclair, in vociferous corroboration of his wife's remark."Of course I want you to stay.  And so does David!  Don't you, David?" </p>
+
+<p>David flushed, but frankly declared he would "just like to see her try to go anywhere else."</p>
+
+<p>"You are all as good and sweet as you can be!" cried MAry Bell.  No girl was ever so blessed as I with unselfish friends.  Just think how Uncle Fresham&#8212;"</p>
+
+<p>"Oh, I don't think I'd trouble about the unselfishness involved.  Eh, David?"</p>
+
+<p>"I think we are very selfish, sir, in wanting Bell Marie," said David, so earnestly that Mary Bell was relieved when her aunt continued in quite a businesslike tone of voice: </p>
+
+<p>"It has been decided among the relatives, Mary Bell, that as you will have a good opportunity this week to see all of us, you are to decide once and for all, where you want to live and with whom.  We agree in thinking your life has been too haphazard.  In our opinion, it will be best for you to settle down now, and learn to call some place home.  You are welcome at all of our houses, as you know, and each and every one has sent in a loving invitation to you.  But in looking over the matter, you will see that Aunt Elizabeth has her hands too full; Uncle Fresham is going away; Cousin Lydia is deafer than ever, and admits that it makes her nervous to have young people around.  That leaves Uncle Macy's, up at Chicago, where, of course, you would know the very nicest people and have a great many advantages; and Aunt Henrietta at Lafayette, where you would be contented and happy, for her home is as sweet a one as I ever knew; and our house.  Now turn the matter over in your mind, my child, and make your own decision."</p>
+
+<p>"You have neglected to mention the invitation sent by Miss Frances Browne, my dear," said Mr. Sinclair to his wife, mischeivously.</p>  
+
+<p>"Yes, Aunt Frank actually sent in another application for you," laughed Mrs. Sinclair.  "She has done it periodically since you were born.  I don't think I took her into the family council concerning you, but she got wind of it someway, and said she was entitled to consideration as well as the rest."</p>
+
+<p>"Entitled to consideration!" cried the young girl.  "Why, any one would think I was conferring a favor by consenting to live with her."</p>
+
+<p>"Ridiculous view to take, isn't it, David?" said Mr. Sinclair, in mocking accents.</p>
+
+<p>"What is it about Aunt Frank, as you call her?"  David asked his stepmother, with a transparent effort to turn the conversation.  "It cannot be possible that she is more interesting than the Brownes I already know."</p>
+
+<p>"Interesting!" ejaculated his stepmother.  "Eccentric, David, to the last degree.  When she was a young girl she preferred a horse or a cow to a new dress.  And speaking of dresses, did you never hear about Aunt Frank's historic purple satin?"</p>
+
+<p>"No. A historic gown in our family, Aunt Sally?  Tell us!"</p>
+
+<p>"Well, Aunt Frank, at the age of twenty&#8211;eight, was about to be married, and to that end she bought a purple satin.  Not that it would have been becoming, but Aunt Frank said she had always been partial to the expression, 'purple and fine linen.'  She intended to take it to a dressmaker in a town twelve miles distant from her farm.  She had not been on the road before for two or three years, and the man she was to marry had bought in there, and Aunt Frank had to ride by his place.  She drove along by her lover's fence and scrutinized his farming, and before she had come to the end of his domain, she turned her horse's head and drove back again.  'His potatoes,' she told me, 'would have broken your heart, Sally.  And as for his corn, it wasn't even dropped with a marker.  It would have driven me crazy to live near it.  So I ended it that evening.  It's a pity about that purple satin, isn't it?  I shall never want it now.' That was Aunt Frank's only lament over her lost love."</p>
+
+<p>"She seems to be a woman of true philosophy," said Mr. Sinclair, teasingly.  "I should like to know her."</p>
+
+<p>He had an opportunity that evening, for while they sat at dinner a telegram came, saying:</p>
+
+<p>I arrive to&#8211;night.  Be sure to meet me.  I am afraid of cabmen.</p>   
+<p><hi rend="right">Frances Browne.</hi></p>
+
+<p>Amid much laughter it was agreed that Mary Bell and David should drive down in the surrey to meet her.</p>
+
+<p>"Uncle Fresham was saying," said David, as they sped toward the station, "while you were getting on your hat, that Frances Browne was one of the best judges of stock in Indiana, and that she had a number of activities, such as running a country store and editing a poultry journal.  I heard you saying the other day that you would like to write for publication.  Maybe if you asked Aunt Frank, she'd let you contribute to her chicken magazine."</p>
+
+<p>"I'll do it &#8212; when I go to live with Aunt Frank!"</p>
+
+<p>"If I thought you were going to live anywhere else except at our house, after I have bought all those new books to read with you this winter, and ordered that toboggan, I'd cease to believe in the eternal principles of justice.  Seriously, Bell Marie, you must not think of going anywhere else.  I heard father say he'd give you a coming out party that he would be willing to have stand as an example of how he could entertain,  And everything from turret to donjon keep is yours, princess, if you will but come."</p>
+
+<p>The girl pouted her red lips playfully. </p> 
+
+<p>"And you want me to give up all the pleasures I might have at Chicago with Uncle Macy and Aunt Janey &#8212; the music and the books and pictures&#8212;"</p>
+
+<p>"We'll buy any books you want.  You could run up to Chicago when you wanted, for the picture exhibits, and the mu&#8212;"</p>
+
+<p>"Oh, you absurd boy!  How very, very ridiculous boys are!"  David looked so bewildered at this that she would have apologized if, at that moment, the train had not pulled in at the station.  By hastening, David and Mary Bell were able to place themselves near the great iron gates as the throng from the train came pouring out.  Conspicuous among this hurrying crowd was a tall, thin woman in a short skirt, carrying a handbag of the smallest imaginable size.</p>
+
+<p>"That's Aunt Frank! Don't you think she looks like me, David?" whispered Mary Bell, saucily.  Before David could answer she had run forward and stopped the headlong woman, something as one stops a runaway horse.  </p>
+
+<p>"If you come out this way, Aunt Frank," Mary Bell said, quite gravely, "you will avoid the cabmen.  David!  Come here!  David Sinclair, Aunt Frank.  He drove me down, but he's not a cabman, though he looks a little like it."  The old lady glanced sharply at the tall, singular&#8211;looking girl with her vivacious face, her obtrusive golden hair and her dark, heavy brows.</p>
+
+<p>"I am used to being made fun of," she said, calmly.  "It's one of my luxuries, young people, to be afraid of cabmen.  I have very few luxuries, so you needn't grudge it to me.  I'm not afraid of an unbroken steer, or of a colt.  Here are my checks.  Thank you, David.  I brought down one trunk of eggs and butter.  I knew Sally Sinclair couldn't have too many things in the house with all the company she was going to have.  My clothes and presents are in the other.  I had my purple satin made up!"  She didn't seem to doubt for a moment that the young people knew all about the purple satin, and they were rejoiced that they were about to exclaim:</p>
+<p>"Oh, did you really!  How interesting!" and Mary Bell ejaculated as they quitted the station: "Only fancy, David, the purple satin!"</p>
+
+<p>Aunt Frank looked pleased, and continued with the same aspect at brekfast.  By noon the house was swarming like a beehive, and every one was full of mystery and activity till nightfall, when the huge Christmas tree was lighted in the circular hall, a tree so aspiring that it was necessary to go to the second story of the rotunda to secure the fruit from its topmost branches.</p>
+
+<p>The week was a gay one.  There were sleighing parties and family dances, dinner parties and candy&#8211;pulls, charades and theatricals, and basket ball and bicycle races in the attic.  Through it all Aunt Frank kept a watchful eye on Mary Bell, as the others saw with amusement.  But Mary Bell was not so much amused as the others.  She was deeply curious to know why this peculiar woman should attach importance to her, a mere girl, a penniless orphan, a foolish, lighthearted child as she knew herself to be.  </p>
+
+<p>There was something pathetic and appealing about Aunt Frank, and Mary Bell felt to the recesses of her soul that she was to be made conscious of these qualities as no one else in the world had ever been.  Nor was she wrong.  One evening, as she was hastening along the  upper hall from her room, where she had been to search for a forgotten fan, Aunt Frank came out of the shadow on the landing of the stairs and drew her down on the window&#8211;seat.</p>
+
+<p>"This is New Year's eve," she said, ina constrained voice, "and to&#8211;morrow my visit ends &#8212; the first visit I have made anybody for eighteen years.  It's only just and fair, Mary Bell, that I should know what your decision is, and whether or not you are going home with me."</p>
+
+<p>Now to tell the truth, the passionate desire of Aunt Frank for this consummation had been beating against Mary Bell's soul all the week, as waves persistently beat upon the shore.  And now she tapped the toe of her little bronze slipper on the polished floor and stammered as she answered and could not make herself coherent. </p> 
+
+<p>"Then you're not going!" said Aunt Frank, with conviction.  She stretched her long, work&#8211;worn hands out before her and stared at them with an absent minded expression.  "It wasn't reasonable to expect it.  When you were a little thing, teething and all that, I wanted to take you and see you through your second summer, but no one would hear of it.  Then when you got old enough to go to school, I asked for you again.  I offered to hire a preceptress for you &#8212; any one the relatives would recommend.  But they put me off.  I know what they thought well enough.  They agreed that a grim, business&#8211;like house like mine was no place for a child.  Then I built an office on and kept all my business to that one room, and fitted up a parlor with a velvet carpet and piano and all the children's books I ever heard of, and fixed a bedroom for you off of it, and invited the girls down to see it.  I thought they might consider it a fit place for you then.  But they said no.  So I consoled myself the best I could.  I adopted a little boy out of the poor&#8211;house.  But he had the seeds of consumption in him and died the second year I had him.  I heard of a boy who had run away from his father because he was beaten, and I went out one bitter November day &#8212; the first snow of the season was falling &#8212; and got him out of the cave where he had hidden, and took him home and clothed and comforted him, and taught him how to live like a civilized creature.  He became too civilized and stole thirty dollars from the office drawer and made off with it.</p>
+
+<p>"Then I took a neighbor's daughter in, to go to school and act as my companion, and she ran away with my hired man.  So I took to animals.  I got dogs and I liked them better.  They did not lie or steal or run away, or talk about me behind my back, or meet me coldly.  But still I was not satisfied.  I wanted to see you, and I came up here for that purpose and no other.  I like you even better than I thought I should.  In other words, you have justified the feeling I have had for you all these years.  And to tell the truth, I am much too fond of you to take you anywhere that you do not want to go.  And I can see by your confusion, that you do not want to go with me."</p>
+
+<p>Mary Bell arose and stood straight and fair on the landing, and peered down at the dancers whirling about the drawing&#8211;room.  She could see David waiting for her by the door &#8212; David, who had planned such pleasant things for her that winter! David, in whose company she talked better and was more pleased to be alive than in the company of any living creature!  Then she looked at Aunt Frank, sitting, angular and dejected, on the window&#8211;seat.  The shadows of age rested beneath her eyes.  Her brow was seamed with narrow thoughts &#8212; thoughts about work and money&#8211;making and mean neighbors and shirking help.  Her face was grim and stern and would have been altogether forbidding but for the look of intelligence and the lurking spirit of humor, which, however flogged to its hiding place, would reassert itself and peep forth from the snapping black eyes.</p>
+
+<p>A sense of her own youth swept over Mary Bell.  She was conscious of hidden springs of love within her, of strength and joy, and elate and generous with this sweet feeling of the power to bestow, she cried in her clear, penetrating voice:</p>
+
+<p>"Dear Aunt Frank, you are quite mistaken!  I do want to go with you!  I want to go where I am needed.  I want a real place in the world &#8212; not a make&#8211;believe one.  My mind is quite made up, Aunt Frank &#8212; and it's so seldom that it is subjected to such an exertion, that you must excuse me if &#8212; if &#8212; I talk a &#8212; little queerly!"  Her voice broke and the tears would have started had she not chanced, at that moment, to look at Aunt Frank's face.  It was transfigured. </p> 
+
+<p>They were calling for the Virginia reel down below, for it was almost at the stroke of twelve, and they meant to speed the old year merrily.  </p>
+
+<p>"Come, come, Aunt Frank," cried Mary Bell, seizing her by the hand, and dragging her after her as she tripped down the stairs.  "You must be my partner.  No, not this time, David.  What's that, Uncle Macy?  We're to lead the reel?  Aunt Frank and I?  Quick, then, the music, or the clock will strike!"  So up and down and in and out, balancing, <hi rend="italic">chass&#233;ing,</hi> whirling, bowing, went the two, the voluminous purple satin skirts and the diaphanous white ones all in a pretty confusion, the adorable golden head and the prim gray one close together.  And in the midst of it the clock struck twelve.
+</p>
+<p>There is something awful about the passage of time, if one stops to think.  So the dancers would not stop, but whirled along as fast as time itself, and the music beat down the regrets and the sad old memories that were lying ambush for them, and heartened up hope and fresh resolves and kindly thoughts to take the open road with them for the New Year.</p>
+
+<p>"Kiss me, Aunt Frank!" cried Mary Bell, as she led that lady to her seat after a breathless gallop about the hall.  "Listen, dear people, I'm going home with Aunt Frank!  But she keeps no ogre's castle.  Do you, Aunt Frank?  I shall not be shut from sight of mortal man."</p>
+
+<p>"No indeed, my dear.  Far from it."  Aunt Frank held out her hand to David, as if she intended this remark to convey some especial  intelligence to him and he, bewildered, took it, keeping his eyes fastened on Mary Bell's glowing and beautiful face. </p> 
+
+<p>Mary Bell made a funny little courtesy.</p>
+
+<p>"Thank you all, kind friends," she said in affectionate mockery.  "Aunt Frank, the New Year and your new daughter are at your service."</p>
+
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.rel.0003.01 SYSTEM "ep.owh.rel.0003.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.rel.0003.02 SYSTEM "ep.owh.rel.0003.02.jpg" NDATA jpeg>
+<!ENTITY ep.owh.rel.0003.03 SYSTEM "ep.owh.rel.0003.03.jpg" NDATA jpeg>
+<!ENTITY ep.owh.rel.0003.04 SYSTEM "ep.owh.rel.0003.04.jpg" NDATA jpeg>
+]>
+
+
+<TEI id="ep.owh.rel.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Salvation Army</title>
+<title type="sub"></title>
+<author n="Crockett, Carrie">Crockett, Carrie</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.rel.0003</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2007-11-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">The Salvation Army</head>
+
+	<epigraph><quote>"Many hands, many hearts, many heads have toiled and prayed and planned to bring the Army to where it now is.  History will record but a small part of the events, and many of the actors will be completely forgotten, but from God's history, on the Great Muster Day, every heartache, every tear, every agonizing prayer, every day and night of toil will be read out and credited to the proper person. God won the victory, and to Him we give the glory. It was not an uninteresting fight."</quote>
+<bibl><author>Ballington Booth</author>, Salvation Army Commander<ref target="n01" n="1">1</ref></bibl>
+</epigraph>
+
+	<p>The Salvation Army first formally reached American shores when seven women and one male officer, who "struggled with flag, luggage, and other passengers down the gangplank," disembarked the steamer Australia at Battery Park, New York City, in March 1880. The figures, clad in dark blue, yellow-trimmed uniforms and wearing matching derby hats emblazoned with the words, Salvation Army, "literally leapt from the [gangplank's] bottom step into action. The Army flag was planted with dramatic postures, and the country was claimed for God and the Army. They began to sing: 'with a sorrow for sin let repentance begin.'" They had come from London, the Army's birthplace, prepared to launch a great crusade in the name of God despite any hardship. "By all odds," an historian has written, "they should have failed on the spot, outright and finally."<ref target="n02" n="2">2</ref> But they did not fail. From an obscure dock on Manhattan's lower West Side, the ideology of the Salvation Army would traverse America's Victorian social landscape, over time earning the country's recognition, moving steadily toward the goal of alleviating the spiritual and physical suffering of all.</p>
+<!--
+<figure entity="ep.owh.rel.0003.01">
+<figDesc></figDesc>
+</figure>
+-->
+	<p>The Salvation Army had been originally established by a husband and wife, William and Catherine Booth, similar not only in their deep devotion to each other and Christ's Gospel, but also to the aim of lessening the hardships of the poor. William Booth began his theological practice as a Methodist minister; Catherine has been called "the rarest of historical beings: a legend that survives scrutiny."<ref target="n03" n="3">3</ref> Born in England in 1829, Catherine, although often ill, was a girl of high religious and civic ideals, having read the Bible eight times by the time she was twelve and possessing a deep empathy for the plight of the impoverished. She and William were joined in what would be a very happy union in 1855.</p>
+
+	<p>The couple's shared religious convictions led them to take up residence in London's East End in order to meet those whom Christ referred to as "the least of these." They began a ministry designed to spread His Word among "the working class, orphans, the helpless, pension-less aged, prostitutes, the clods and cast-offs, broken wheels, and ne-er-do-wells of Victorian England."<ref target="n04" n="4">4</ref> Here, in modest conditions and with the support of just ten followers, the two founded what would be later known as "The Salvation Army."</p>
+<!-- 
+<figure entity="ep.owh.rel.0003.02">
+<figDesc></figDesc>
+</figure>
+-->
+	<p>Believing that spiritual, emotional, and physical well-being are inextricably linked within the soul, the Booths conducted church services but also systematically sought to break the chains of poverty among their constituents. Catherine, upon visiting various factories in which their female followers worked, realized that not only were they paid less than half of what men doing similar labor received, but their health was often put at grave risk. Workers in match factories, for example, had high death rates because they continuously breathed in toxic fumes from the yellow dye into which new matchsticks were dipped. Their faces would painfully necros, turn green and then black, and discharge pungent pus until the women themselves died from the toxicity. This condition came to be called "Phossy Jaw," after the toxic phosphorous that caused the malady. Catherine herself died of cancer in 1890, but William vigorously carried on their mutual cause, seeking to improve working conditions for all his varied followers. In 1891 he even established a Salvation Army match factory, which not only paid its workers twice the salary of other companies but also used harmless yellow phosphorous in the manufacturing process. In 1901 as a direct result of the competition that the Salvation Army had introduced, Bryant and May, a major match manufacturer, abandoned its use of toxic, yellow dye. The Booth's cause had been initially viewed with some scorn and skepticism by leading ecclesiastical authorities in England. An 1882 survey of London revealed, however, that nearly 17,000 worshipped with the Salvation Army consistently, in contrast to 11,000 who occasioned other churches of the day.<ref target="n05" n="5">5</ref></p>
+
+	<p>The influence of the Booths was not destined to remain solely in London's East End. Catherine had borne and educated eight children, most of whom went on to continue their parents' cause on foreign shores. While William Booth had sent the aforementioned party of eight that had alighted on the Battery Park wharf, Ballington Booth, one of the couple's sons, eventually became the Commander for both the United Kingdom and the United States. The work of the Army, initiated that day in Manhattan, had by 1896 grown to be 25,000 soldiers strong and could be found in every part of the nation.<ref target="n06" n="6">6</ref></p>
+
+<figure entity="ep.owh.rel.0003.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>The rapid growth of the Army can be partially correlated with the widespread poverty of the era. A 1900 survey by the United States Industrial Commission showed that between sixty and eighty-eight percent of Americans were either "poor" or "very poor." Many in this category were immigrants from the Old World who had come to America with no specific plan for financial solvency in mind and had been either packed into urban ghettos or had tried to make their luck on the frontier, sometimes with disastrous consequences. To these, who were trying to "reconcile golden expectations of life in America with the grim reality of slums and sweatshops," the message and aid that the Army provided were welcome relief.<ref target="n07" n="7">7</ref> As the century turned, Salvation soldiers and officers in not only the U.S. but in thirty-six other countries were laboring to establish programs that were both daring and innovative for the time:  the first day-care facilities, the first food depot, and the first Army missionary hospitals, in addition to orphanages and relief homes of all types.<ref target="n08" n="8">8</ref></p>
+
+<figure entity="ep.owh.rel.0003.04">
+<figDesc></figDesc>
+</figure>
+
+	<p>Catherine Booth had been a woman, it appears, after Elia Peattie's own heart, articulate and passionate in her views, unafraid of making them known. Catherine's husband had been so impressed by his wife's striking ability to publicly preach, in addition to her quick mind and loyal nature, that he once stated, "the best men in my Army are the women." This thought, revolutionary in its time, opened doors for women who joined the corps of the Salvation Army to not only receive sustenance and comfort but then to formulate the best, most effective programs for assisting others. Women in the Army became known for their abilities to analyze a social problem and come up with multiple solutions to remedy the ill, settling eventually on one most appropriate to the setting. Evangeline, Booth’s daughter, only three years younger than Peattie, also had a successful career in the Salvation Army. During World War, she persuaded the United States to allow women in the "Army" to serve overseas, and because of her war work, President Woodrow Wilson awarded her the Distinguished Service Medal. In 1934 she became the first woman general in the Salvation Army. </p>
+
+	<p>Peattie admired the ideals and commitment of those in Booth's Army, often reporting on their efforts in her column. In 1893 she wrote, "Among the many commonplace sights of Omaha there is one sight which is never exactly commonplace. It is, indeed, almost heroic. It is the little band of men and women that in storm and sunshine, when the pavement is slippery with mud or hot with mid-summer sun, march the streets in the name of their Lord, and kneel among the secular surroundings, making a cathedral of the common street . . . in fact, nothing but good and disinterested motives am I able to find from a perusal of the remarkable [...] Salvation Army."<ref target="n09" n="9">9</ref></p>
+</div1>
+
+<div1 ><head type="sub">Read Peattie's Writings</head>
+<list>
+<item>
+<xref n="ep.owh.18931211">Salvation Lasses at Home</xref>
+</item>
+</list>
+</div1>
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><title level="a">"Biography: Catherine Booth."</title> <xref url="http://religiousmovements.lib.virginia.edu/nrms/salvationarmy.html" rend="new">http://religiousmovements.lib.virginia.edu/nrms/salvationarmy.html</xref></bibl>
+
+<bibl><author n="McKinley, Edward">McKinley, Edward</author>. <title level="m">Marching to Glory: The History of the Salvation Army in the United States 1880-1980</title>. <pubPlace>San Francisco</pubPlace>: <publisher>Harper and Row</publisher>, <date value="1980">1980</date>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. <title level="a">"Salvation Lasses At Home: Mrs. Peattie Writes of the Blue Frocked Sisterhood of the Lord."</title> <title level="j">Omaha World-Herald</title> <date value="1893-12-11">11 December 1893</date>: <biblScope type="pages">5</biblScope>.</bibl>
+
+<bibl><author n="Taiz, Lillian">Taiz, Lillian</author>. <title level="a">"Applying the Devil's Works in a Holy Cause: Working-Class Popular Culture and the Salvation Army in the United States, 1879-1900."</title> <title level="j">Religion and American Culture</title> (Summer <date value="1997">1997</date>): <biblScope type="pages">195-223</biblScope>.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+<!-- 
+<bibl>"General William Booth and His Daughter Evangeline."  Salvation Army USA. <xref url="http://www.salvationarmyusa.org/usn/www_usn.nsf/vw-text-dynamic-arrays/85256DDC007274DF80256B800035325F?openDocument" rend="new">http://www.salvationarmyusa.org/usn/www_usn.nsf/vw-text-dynamic-arrays/85256DDC007274DF80256B800035325F?openDocument</xref>. (Permission pending.)</bibl>
+
+
+<bibl>"Citadel Corps. Of Oakland, California." <author n="McKinley, Edward">McKinley, Edward</author>. <title level="m">Marching to Glory: The History of the Salvation Army in the United States 1880-1980</title>. <publisher>Harper and Row</publisher>: <pubPlace>San Francisco</pubPlace>, <date value="1980">1980</date>.</bibl>
+-->
+<bibl>"Salvation Army, Two Halleluja Females From England." <author n="McKinley, Edward">McKinley, Edward</author>. <title level="m">Marching to Glory: The History of the Salvation Army in the United States 1880-1980</title>. <publisher>Harper and Row</publisher>: <pubPlace>San Francisco</pubPlace>, <date value="1980">1980</date>.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> McKinley, i.</p>
+
+<p><note id="n02" n="2">2</note> McKinley, 1.</p>
+
+<p><note id="n03" n="3">3</note> McKinley, 3.</p>
+
+<p><note id="n04" n="4">4</note> McKinley, 4.</p>
+
+<p><note id="n05" n="5">5</note> "Biography"</p>
+
+<p><note id="n06" n="6">6</note> Taiz, 198.</p>
+
+<p><note id="n07" n="7">7</note> Winston, 116.</p>
+
+<p><note id="n08" n="8">8</note> "Biography."</p>
+
+<p><note id="n09" n="9">9</note> Peattie, 5.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

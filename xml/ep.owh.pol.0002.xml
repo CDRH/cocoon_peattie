@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.pol.0002.01 SYSTEM "ep.owh.pol.0002.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.pol.0002.02 SYSTEM "ep.owh.pol.0002.02.jpg" NDATA jpeg>
+<!ENTITY ep.owh.pol.0002.03 SYSTEM "ep.owh.pol.0002.03.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.pol.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Laboring for the Cause of Women's Rights</title>
+<title type="sub"></title>
+<author n="Crockett, Carrie">Crockett, Carrie</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.pol.0002</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-04-01</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<div2>
+<head type="main">Laboring for the Cause of Women's Rights</head>
+
+<figure entity="ep.owh.pol.0002.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>On January 18, 1892, women's activist Elizabeth Cady Stanton delivered a speech titled "The Solitude of Self" before the House Judiciary Committee on Women's Suffrage. The oration, now lauded as "the finest statement of her feminist ideology,"<ref target="n01" n="1">1</ref> was followed by testimony from Stanton's close friend and colleague, Susan B. Anthony. Seventy-six-year-old Elizabeth Stanton had originally written the address as her statement of resignation from the presidency of the National American Woman Suffrage Association. The House convened impromptu hearings concerning women's suffrage, however, and Stanton's presence was required. That equal rights be meted to all citizens the seasoned suffragist did not implore, but rather gently observed, "To refuse political equality is to rob the ostracized of all self-respect; of credit in the marketplace; of recompense in the world of work, of a voice in choosing those was make and administer the law . . . we ask for the complete development of every individual, first, for his own happiness . . . [and] for the general good."<ref target="n02" n="2">2</ref></p>
+
+	<p>Elizabeth Stanton had campaigned for women's rights, and specifically for suffrage, for more than forty years. In 1848 she had delivered her moving "Declaration of Sentiments" at the very first "feminist" convention at Seneca Falls, New York. Peattie admired Stanton and wrote of her and other women involved in politics, in addition to voicing her own political views. The end of the nineteenth century was an era during which the rights of many marginalized groups were re-evaluated, including those of the laboring classes and women. Women were not permitted to vote or participate in the legislative process yet were still obligated to pay taxes on any property they might possess. In addition, a woman's children were not considered legally hers but were regarded the sole property of her husband. In almost all divorce cases, fathers received complete custody of the couple's offspring. Moreover, social barriers also hindered women from pursuing advanced educations, joining the ministry, and obtaining a wide range of jobs.</p>
+	
+<figure entity="ep.owh.pol.0002.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>In her daily editorials, Peattie sought to raise her readership's awareness concerning women's rights issues as well as the rights of other devoiced socio-economic groups. She praised May Wright Sewall's work as one of the five founding members of the National Council of Women of the United States, which was established in 1888 in the company of fellow members Frances Willard and Susan B. Anthony.<ref target="n03" n="3">3</ref> "The women in this society stand for such things as equal pay for men and women for equal work; for patriotic instruction in the public schools and elsewhere; for reform in the divorce laws; for reform in dress; for social purity . . . and above all for the education of women."<ref target="n04" n="4">4</ref></p>
+
+	<p>Mary Lease, another object of Peattie's writing, was a rather infamous figure in nineteenth century politics. She campaigned vigorously for farmers' rights on behalf of the Populists, known officially as the People's Party. Lease was an orator of great reputation and every year delivered hundreds of Populist "stump" speeches as she traveled to visit communities of struggling farmers.</p>
+
+	<p>Mary Elizabeth Lease was born in Pennsylvania in 1853 and attended school in New York. When she was twenty she moved to Kansas, became a schoolteacher in the parochial school at the Osage Mission, and was married. Later she raised four children while simultaneously schooling herself in the Law. Lease later explained that her reading would necessitate "pinning sheets of notes above [the] wash tub to study" as she "scrubbed the washings" in order to earn fifty cents a day.<ref target="n05" n="5">5</ref> She was successful in her endeavor, however, and was admitted to the Kansas Bar in 1885. Elia Peattie once wrote of her, "Mrs. Lease practiced law in Wichita before she went into politics . . . with her assertive eloquence and her hypnotic powers, she stands a chance of getting almost anything she wants&#8212;and Mrs. Lease wants a great deal.<ref target="n06" n="6">6</ref></p>
+
+<figure entity="ep.owh.pol.0002.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>Lease was credited with coining the phrase, "raise less corn and more hell," although the saying was actually the creation of a fellow lecturer. She later commented that she had "let the comment stand, when it was attributed to her, because she thought it was 'a right good piece of advice'."<ref target="n07" n="7">7</ref> The speaker's voice distinguished her and brought her much acclaim. One man described it as "a golden voice&#8212;deep, rich contralto, a singing voice that had hypnotic qualities. . . . She put into her oratory something which the printed copies . . . did not reveal. They were dull enough often, but she could recite the multiplication table and set a crowd hooting and hurrahing at her will."<ref target="n08" n="8">8</ref> Lease similarly won over the crowd during an address to the Christian Temperance Union, when she designated their present day as a critical intellectual moment in history:</p>
+</div2>
+
+<div2>
+
+	<p>For . . . old ideas, traditions and customs have broken loose from their moorings and are hopelessly adrift on the great shoreless, boundless sea of human thought&#8212;a time when the gray old world begins to dimly comprehend that there is no difference between the brain of an intelligent woman and the brain of an intelligent man . . . We are living in an age of thought; men, women and children are in commotion, discussing the mighty problems of the day. The agricultural classes, loyal and patriotic, slow to act and slow to think, are to-day thinking for themselves; and their thought has crystallized into action.<ref target="n09" n="9">9</ref></p>
+
+</div2>
+
+<div2>
+<p>Wrote one journalist, "Her speeches are philippics. She hurls sentences as Jove hurled thunderbolts."<ref target="n10" n="10">10</ref></p>
+
+	<p>Peattie also defended the character of Frances Willard, suffragist and prison reformer, in "A Word to the Women." "Miss Willard is a natural leader," she wrote. "All things seem small to her compared with the cause which she has espoused."<ref target="n11" n="11">11</ref> Peattie both admired and followed the acclaimed political figures of her day, such as Stanton, Sewall, and Lease. It seems that Peattie could also see, however, mirrored in the actions of the common men and women she herself lived among, an ever-brightening vision of the just society all dreamed would follow. "It requires faith and optimism to view without apprehension any further enlightenment and liberation of the race, for such . . . inevitably brings with it further complexity. But there are men and women with true hearts, clear minds, and courage firm who do not fear. For perfect liberty is a part of evolution&#8212;the acme of it, perhaps, and toward it they trend, drifting with God's great purpose, unafraid."<ref target="n12" n="12">12</ref></p>
+</div2>
+</div1>
+
+<div1 ><head type="sub">Read Peattie's Writings</head>
+<list>
+<item>
+<xref n="ep.owh.18921120">The Women and Politics</xref>
+</item>
+<item>
+<xref n="ep.owh.18950908">A Word With the Women</xref>
+</item>
+</list>
+</div1>
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><title level="a">"1896: Mary E. Lease."</title> <xref url="http://projects.vassar.edu/1896/lease.html" rend="new">http://projects.vassar.edu/1896/lease.html</xref>.</bibl>
+
+<bibl><author n="Clanton, O. Gene">Clanton, O. Gene</author>. <title level="m">Kansas Collection: Kansas Historical Quarterlies</title>. <title level="a">"Intolerant Populist: The Disaffection of Mary Elizabeth Lease."</title> <xref url="http://www.kancoll.org/khq/1968/68_2_clanton.htm" rend="new">http://www.kancoll.org/khq/1968/68_2_clanton.htm</xref>.</bibl>
+
+<bibl><author n="Clugston, William G.">Clugston, William G.</author> <title level="m">Rascals of Democracy: A Case Study in Popular Government</title>. <pubPlace>New York</pubPlace>: <publisher>R.R. Smith</publisher>, <date value="1940">1940</date>.</bibl>
+
+<bibl><author n="Diggs, Annie L.">Diggs, Annie L.</author> <title level="a">"The Women in the Alliance Movement,"</title> <title level="j">Arena</title>, <date value="1892-07">July 1892</date>.</bibl>
+
+<bibl><title level="a">"History is a Weapon: Speech to the Christian Temperance Union."</title> <xref url="http://www.historyisaweapon.com/defcon1/marylease2.html" rend="new">http://www.historyisaweapon.com/defcon1/marylease2.html</xref>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. <title level="a">"A Word With the Women,"</title> <title level="j">Omaha World-Herald</title>. <date value="1894-11-18">11/18/1894</date>: <biblScope type="pages">18</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;</author>. <title level="a">"A Word With the Women."</title> <title level="j">Omaha World-Herald</title>. <date value="1895-05-22">5/22/95</date>: <biblScope type="pages">8</biblScope>. </bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;</author>. <title level="a">"A Word With the Women."</title> <title level="j">Omaha World-Herald</title>. <date value="1895-06-12">6/12/95</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;</author>. <title level="a">"A Word With the Women."</title> <title level="j">Omaha World-Herald</title>. <date value="1895-06-24">6/24/95</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl><editor n="Ravitch, Diane">Ravitch, Diane</editor>, ed. <title level="m">The American Reader: Words That Moved A Nation</title>. <pubPlace>New York</pubPlace>: <publisher>Harper Perennial</publisher>, <date value="2000">2000</date>.</bibl>
+
+<bibl><publisher>The National Council of the Women of the United States, Inc.</publisher> <xref url="http://www.ncw-us.org/mission-statement.html" rend="new">http://www.ncw-us.org/mission-statement.html</xref>.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>Elizabeth Cady Stanton, seated, and Susan B. Anthony, standing, three-quarter length portrait. Library of Congress <xref url="http://www.loc.gov/pictures/item/97500087/resource/" rend="new">http://www.loc.gov/pictures/item/97500087/resource/</xref>.</bibl>
+
+<bibl>Mary Elizabeth Lease, Lecturer.
+Kansas Collection: Kansas Historical Quarterlies. <xref url="http://www.kancoll.org/khq/1968/68_2_clanton.htm" rend="new">http://www.kancoll.org/khq/1968/68_2_clanton.htm</xref>.</bibl>
+
+<bibl>May Wright Sewall.
+Photograph from the Records of the National Women's Party: Library of Congress. <xref url="http://memory.loc.gov/cgi-bin/" rend="new">http://memory.loc.gov/cgi-bin/</xref>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Ravitch, 347.</p>
+
+<p><note id="n02" n="2">2</note> Ravitch, 350.</p>
+
+<p><note id="n03" n="3">3</note> "National Council."</p>
+
+<p><note id="n04" n="4">4</note> Peattie "Word" 11/8/94: 18.</p>
+
+<p><note id="n05" n="5">5</note> Clugton, 92.</p>
+
+<p><note id="n06" n="6">6</note> Peattie "Word" 5/22/95: 8.</p>
+
+<p><note id="n07" n="7">7</note> "1896."</p>
+
+<p><note id="n08" n="8">8</note> Clanton.</p>
+
+<p><note id="n09" n="9">9</note> "History."</p>
+
+<p><note id="n10" n="10">10</note> Diggs.</p>
+
+<p><note id="n11" n="11">11</note> Peattie "Word" 6/24/95: 8.</p>
+
+<p><note id="n12" n="12">12</note> Peattie "Word" 6/24/95: 8.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

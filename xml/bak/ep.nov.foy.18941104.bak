@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18941104 SYSTEM "ep.nov.foy.18941104.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18941104">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1894-11-04">4 November 1894</date>
+<biblScope type="pages">10</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.nov.foy.18941104">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p18"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By. Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">CHAPTER III.</head>
+
+	<p>Five days more we journeyed. Now by the sparse, dwarfed palmetto, now by luxuriant cypress swamp, now by high hammock. Day yielded to night with a fierce surrender, and tropical darkness plunged on us, and left us with no choice but sleep. The cool winds of the night comforted us for the heats of the day, and dawn found us fresh and vigorous, everyone of us filled with the desire to push on.</p>
+
+	<p>Our boats were more for the carrying of our provision than the transportation of ourselves, and we took turns in walking. There was not, it must be confessed, much choice, if ease were a consideration, for our progress was not easy. The absolute solitude might have weighed on us, unused to it as we all were, but for the fact that we comprised so jolly and self-sustaining a party in ourselves.</p>
+
+	<p>And then we had no opportunity for loneliness. For when we were plodding and dragging through marsh-land every energy was bent on escaping. We swore at the noxious red ants that leaped across our path, and we hauled each other out of frightful mud holes. Then, worn out with the exhaustion of it, crushed with carrying and dragging our boats through these entangled morasses, we would at last reach a beautiful hammock, on which the palms raised their majestic heads, and through which we could see the Floridian sky beaming beneficently upon us.</p>
+
+	<p>Under our feet would be the firm ground. About us would fit silent and beautiful birds, beneath whose scarlet or snowy breasts fear was not lodged. And the pumpkin and the bean, the banana and the wild maize grew about us and offered a banquet fit for&#8211;well, for us. And we all considered that that was saying no small thing.</p>
+
+	<p>We came at last to the Ock-kollawah-coot-chee. I think the name is exceedingly descriptive. I do not know that any more accurate idea of it could be conveyed by a description of its horrors. It was a field of dense and towering saw grass, about four miles wide.</p>
+
+	<p>At least, Dickie Berlin, our guide, half Indian, half Christian, said that was the distance. I have no ability myself to calculate the territory of purgatory.</p>
+
+	<p>The sun had turned into a ball of brass. It poured down on us till we reeled, and a frightful nausea took possession of us. One man had continually to go in front and push aside this sea of swords, as Bridges graphically described the saw grass, to break the way. And no man could endure this strain upon his shoulders and side for more than five minutes. There was some stinging poison in the water, and our feet began to swell till they filled out boots, and sent the blood painfully throbbing and beating against the flesh. It seemed impossible that a man could experience so many terrible sensations at once.</p>
+
+	<p>Then Bryan's true qualities came out. In spite of the illness which he felt in common with the rest of us, he began singing college songs. I never heard anything so inappropriate as those fantastic songs in that noisome hell of weed and water. That was a part of the virtue of them. Their inappropriateness kept us laughing. I would never have dreamed that Bryan could make so much noise.</p>
+
+	<p>"Let's give three cheers," he yelled, "come ahead, boys!"</p>
+
+	<p>"What for, in God's name?" asked Bridges. "I can't imagine what any one wants to cheer for."</p>
+
+	<p>"Can't you," yelled back Bryan. "Why, for all the rest of the globe except this spot."</p>
+
+	<p>"I'm with you," said Bridges, and we let out a whoop that made a slow white bird used only to trailing about among the palmettos, rise straight up into the sky like a lark, in her astonishment.</p>
+
+	<p>But in time we came out of the swamp and marched on dry ground to Myers.</p>
+
+	<p>Here we rested for a day, and then pushed on.</p>
+
+	<p>Beyond Myers lies a stretch of dazzling white sand, and after that a thin forest, through which we journeyed all day. Half our way lay under water, and at other times it was necessary to pull our boats across the <sic corr="chaparral">chapperal</sic>. Hammock melted into a swamp and swamp into pond and pond into pool.</p>
+
+	<p>"There's an entertaining uncertainty about what is coming next," said Bridges. Whenever we rested Bridges used to carve "Alice" on the trees. But you couldn't laugh at Bridges. There were two reasons. One of them was that it wasn't safe.</p>
+
+	<p>The insects were frightful in those dim twilights, made by the cypress swamps. I loathed these swamps. The writhing, snake-like look of these parasitic things that wreathed in spirals up to the trees filled me with a singular dread.</p>
+
+	<p>"I can't get over feeling that there is some sort of enchantment in the place," said I to Bryan. Sam Grove heard me.</p>
+
+	<p>"The witches is mighty pertikler who they takes," he said, consolingly. Then he treated us to one of his laughs. But I don't think he was laughing at his own joke. He did it on the same principle that an engine lets off steam&#8211;because otherwise there would be an explosion.</p>
+
+	<p>But I couldn't be merry with the rest of the good fellows. I was happy enough. But it was a sort of terrible happiness. I had to continually contemplate my happiness, and when you are happy you should not be thinking about it all the time. I drank in with fevered eyes the glory of the scarlet orchids that grew on the dead limbs of the trees; I felt my mind&#8211;I may almost say, my body expand in those golden dawns when I watched the sun rise behind the veil of gauze which the gray moss supplied, and I shuddered at the writhing vines.</p>
+
+	<p>I told Bridges that he might be a fool, but he could never match me. He laughed, and said Fate had hold of my halter and was leading me somewhere.</p>
+
+	<p>Toward the end of the third day, after leaving Myers we reached the Bad Country. Now in a jungle of vines, now in water to our knees, now in grass to our heads, we stumbled on by a weird light&#8211;not a dry spot for the foot, not a stone on which to build a fire, dripping all of us, with the reek of the swamp and the dew of the night.</p>
+
+	<p>Dan Sheldon, who had been over the road before, mentioned the "Buck Pens," and begged Bryan to let him lead to him. They were out of the way, but we had reached a point where rest was a necessity. Bryan gave permission.</p>
+
+	<p>"Our business will keep," he said. I think what really touched him was Sheldon's ghastly face&#8211;for he was not yet over the results of his sickness. The night settled down without a star. Sheldon said there was a path, and that he was in it, but I could perceive none. We crossed the sluggish Akholowa-kootei, and reached the pine island known as the Buck Pens at last, and then Sheldon fell flat, and we had to put in the next hour rubbing him. The boys got a fire blazing in a very short time, and the supper, when it came, was worth eating. We put on dry clothes, or else hung them before the fire till we were dried out, and then laid down in the blackness, breathing a prayer of thankfulness for the solid earth under us.</p>
+
+	<p>"I wonder what the Girl would say if she knew where I was tonight," whispered Bridges.</p>
+
+	<p>"Hasn't she any idea what part of the world you are in?" I asked him.</p>
+
+	<p>"No," sighed Bridges. "I supposed she would feel bad if she knew."</p>
+
+	<p>Poor Bridges! He couldn't get over the idea that she cared. I had a theory at that time that no woman ever cared. I think I got it from what the boys told me at college. The next day we reached the Big Cypress swamp.</p>
+
+	<p>There are ten camps at the Big Cypress swamp, and I spent the next fortnight going among them. My work among the Seminoles threatened from the first to be difficult. There was unfortunately no way of concealing the fact that I was an emissary of the United States government, and the Seminole was naturally prejudiced against anything that came from Washington.</p>
+
+	<p>From 1497, when Florida was discovered by Sebastian Cabot, the Seminole has suffered a succession of tragedies. Now, by his campfires, he reflects on a divided race, a decreasing progeny, and a dark future. For the white man crowds him to the verge of the Everglades, and some day, not far distant, he will crowd him into them. And then one of two things will happen.</p>
+
+	<p>The white man will be taught one more hideous, swift lesson, or the heart of the Seminole will quite break. He will lose his pride and yield to that degradation which bridges savagery and a lower civilization. All of the suffering of centuries has not yet broken the pride of this people. It is true that their arts have been lost, their personality is partially vanished, but their skill as fishermen and haunters and as freedmen remain. I made one mistake at the outset. I addressed a man of importance among them as a Seminole. I was proudly informed that those Indians who capitulated and had gone west at the bidding of the renegades were Seminoles. For Seminole meant coward.</p>
+
+	<p>I did not care to question the man's authority. But I knew all the same that he was mistaken. Still, if my Indian wanted to be called Kan-yuk-sa Is-ti-tca-ti I was willing to oblige him.</p>
+
+	<p>Being in that strange mental mood which I have described, I was ready to become intensely interested in my work. My knowledge of other Indian tongues, and my acquaintance with Spanish lightened the difficulty of my work. I saw that the real trouble would lie in placating the Indians.</p>
+
+	<p>So, after some thought, I determined to interest myself in the children. These round little fellows bore a part of the duties of the household, but they had their play ground and their play hours. Toward that part of the ground which was recognized as theirs, I sued to see them throwing wistful glances from their shy brown eyes as they turned the meat before the fire, or pounded the koonti flour at the log. The koonti flour is, with the exception of the maize, the chief bread product. It is a sort of arrowroot, which, being gathered, is placed in the koonti log, which contains many holes. Here it is pounded with a slender pestle, till the pulp is separated from the fibre. A soaking, a straining, a fermenting and a drying process are necessary. Then the flour, though lacking in any decided flavor, is quite pleasant. So I followed the little ones to the koonti log, where they often worked when their elders were engaged in more pressing tasks, and by slow degrees we became friends.</p>
+
+	<p>Bryan had gone about his work, which was one that required less tact than mine, and he reported nightly that he was getting on well with his survey, whereas I had got no further than making rag dolls for the little pickaninnies, who delighted in them, and who built tiny camp fires for them to sit around.</p>
+
+	<p>My especial pet was 'Sin. 'Sin was the last syllable of his name&#8211;there were six more&#8211;but I liked the piquancy of 'Sin. He had no clothes except those that nature made him, and he lived to the full day and night. He had an ambition. It was to go turkey hunting. Already he was very expert with the bow and arrow, and I used to watch him shoot little birds which he would bring back to the play house with the information that he had been turkey hunting. 'Sin was inventive and he used to get up games for the other children. Once he got a lot of small wild tubers about an inch in diameter, out from a patch of deer-food, and throat through each one a little stick. These funny teetotems he whirled upon a dried deer skin and said he was having a green corn dance.</p>
+
+	<p>"Only," he said, "they did not take the drink that comes the first day. When I am a man&#8211;and I am almost a man now&#8211;I shall not take the bitter drink the first day of the green corn dance."</p>
+
+	<p>"But if you do not," said the little girl he called his wife in play, "You will be sick."</p>
+
+	<p>"I shall not mind that," said 'Sin proudly, whirling six teetotems without letting any stop, "for I am an Indian, and an Indian does not mind pain. It's only those things with white faces that mind plain," and he gave a shy look at me to see if I heard the remark.</p>
+
+	<p>I believed this opinion to be sincere.</p>
+
+	<p>'Sin actually believed me to be a coward. And I wasn't sure but he was right. How could I tell, when I had never had any opportunity to test my valor.</p>
+
+	<p>I confess that aside from 'Sin, who was deliciously quaint, I did not feel any personal liking for the Indians. They seemed to me to be uninteresting. If they had been picturesque I should not have minded some other things. I was forced to admit that they were cleanly. The little picaninnies got a sousing a dozen times a day, no matter how tender their years. The open sheds, with their palmetto roofs, in which some slight taste was shown, were clean and comfortable. The implements used were mostly American&#8211;and this was a disappointment. There was no carving, no manufacturing, no painting. In fact they seemed to have lost all expression of national feeling, except through their silent and fierce racial prejudice. None of the older Indians would have anything to say to me, in spite of my ingratiating manner.</p>
+
+	<p>Still, I was interested in those vast fields where the koonti plant grew, and in the cornfields, and the sugar-cane fields. The life was free and independent. No government harassed it with vain and complicated laws. No diseases seemed to require an army of men to fight them. No lawyers were needed to adjust the claims of marriage. Both men and women were chaste and honest in their relations with each other. Polygamy did exist, but not to any great extent. There lives, in short, were fairly industrious, wholly free and untrammeled, and not without much uprightness. Around the fire the family gathered to dress, to eat, to play, to work. The field, the chase, the river, occupied them. But it was horribly commonplace. The women wore frightful American print dresses. They are out of tin cans imported from Massachusetts, and which had originally contained <sic corr="some">come</sic> well-known brand of tomatoes or salmon.</p>
+
+	<p>Bridges came to me one day with a disgusted look on his face.</p>
+
+	<p>"I hope you are getting some money out of this, Shadwin," he said. "For I don't see much fun in it."</p>
+
+	<p>"Why can't those Indian women have the sense to put red kerchiefs on, and drink out of pottery," I just petulantly, answering his idea.</p>
+
+	<p>"Well, one reason is that they haven't the pottery."</p>
+
+	<p>"They used to know how to make it," I said. "Just see how it is! The Anglo-Saxon race sucks the life out of every other race it comes in contact with. It will impose an inferior art upon a nation, and supplant its strongest ideas. It's fate I suppose."</p>
+
+	<p>"Yes," admitted Bridges,<sic corr=" &quot;">" </sic>you would naturally suppose that a Seminole, born as he is to a heritage of hate, would disdain to use American wares when he can supply all of his own needs with his own hands if he likes."</p>
+
+	<p>"They lose their national individuality. Look at that pile of tin plates! See those bad calico dresses. It's a wonder they cling even to the palmetto shed. But I understand there are three or four of them who have built houses."</p>
+
+	<p>"They have no pockets, that's one thing," said Bridges, thrusting his hands into his own. "That means a lot, doesn't it? Think how much simpler married life would be if a man had no pockets!"</p>
+
+	<p>"Oh, Bridges," I protested, "what would the Girl say if she heard such a remark?"</p>
+
+	<p>Bridges didn't like my jest.</p>
+
+	<p>"Come now, don't get smart, Shadwin," said he. "I'm only trying to live up to the ethics of the funny paragrapher just now. But I may as well tell you that it's all over about the Girl."</p>
+
+	<p>"Oh, indeed!"</p>
+
+	<p>"Yes. I'm going to forget her. I decided last night. I wrote her a letter and told her so. Of course the letter had to be burned up in the camp fire. But it did me good. And now I shall forget her."</p>
+
+	<p>I congratulated him. I thought he might be able to do so. I had never been troubled with the image of any girl.</p>
+
+	<p>Bridges was still staring around, wearing a very introspective sort of a look for a man who was engaged in forgetting, when little 'Sin came racing breathlessly across the place in front of his father's shed. He peered anxiously into the various structures. There wasn't a person to be seen. The soup bubbled over the first in the west weather kitchen, the blood hound slept the sleep of comfortable old age on the warm ground, but not a sign of man, woman or child could 'Sin discover. That is why he appealed to me. But then I had given him a jack knife the day before, and he may have felt friendly, too.</p>
+
+	<p>"Come, come!" he cried. "Strange Indian! Come!" I did so. I was in hopes something had arisen by which I might prove to 'Sin that I was not a coward.</p>
+
+	<p>Have you ever looked in an alligator's eyes? Well, somehow an alligator has a way of looking as if he had all the wisdom of the world in his horrid hide. 'Sin had just that kind of a look. I always suspected him of being a sort of reincarnated Pharaoh with the accumulated subtlety of the ages&#8211;of Egyptian ages&#8211;in his composition. 'Sin was oriental. But this is a long digression. 'Sin raced over the hammock, and I followed. I couldn't keep up with him, for he came of a race of runners, and he was no disgrace to them. But after a time I reached the edge of the hammock, right where the sea of wire-grass reached off into the impenetrable Everglade.</p>
+
+	<p>And there, sure enough, was an Indian. And he was different from any Indian that either I or 'Sin had ever seen.</p>
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<head type="sub">CHAPTER IV.</head>
+
+
+	<p>The Indian was sitting under a palmetto tree, and leaning against its trunk, as if exhausted. His eyes lifted themselves to us in appeal as we approached. I drew a flask from my pocket and offered it to him. But he shook his head. I told 'Sin to run back and fetch a plate of meat, and while the boy scampered off to do it I tried what the Seminole language would do with my savage.</p>
+
+	<p>But I should not call him a savage. I do not know what to call him. He was certainly not civilized, according to American ideas, but the glance of his eye, the carriage of his head, the very quality of his flesh, was not such as I knew in the Indian. He did not respond to my question, except by a slow shaking of the head, which implied excessive fatigue, rather than lack of ability to understand. He ate the meat that 'Sin brought him, and then, with a graceful gesture of thanks and apology, he stretched himself on the grass and closed his eyes. He almost immediately fell asleep.</p>
+
+	<p>I sat not far distant and regarded him. His handsomely curved lips were closed with that peculiar precision of a man who thinks. His hair had a suggestion of a curl in it, which was certainly not Indian. In the whole pose of his body there was something elegant and self-respectful and high born. His hue was swarthy, but it was not the same tint as that which 'Sin had on his ancient little face. His garments were of rude, coarse silk and of deer skin, embroidered with a dull silver thread. These were much torn and soiled, but they were beautiful, and totally different from anything I had thus far seen. On his head he had worn a hat, not unlike the shape of a canoe, of braided straw. This now lay beside him. He had no weapon that I was able to discover. And his feet were bare.</p>
+
+	<p>'Sin sat near me, without speaking, and we both gazed at him<sic corr="."></sic> Once or twice I met 'Sin's eye and we both shook our heads. Evidently 'Sin had no theories about him. And I felt that if a problem was too much for 'Sin, only the sphinx could settle it.</p>
+
+	<p>Neither 'Sin nor I had any intention of moving till that man woke up. I can not say how many hours passed&#8211;perhaps two or three. I fell to dreaming of other things, and 'Sin, perhaps, was thinking of future turkey hunts. And at last our patience was rewarded. The man opened his eyes. He arose on one elbow and smiled at us.</p>
+
+	<p>Now a savage does, not smile in the presence of strangers.</p>
+
+	<p>Then he spoke. His voice was full and rich, and it was delicately modulated. His remark was an interrogatory one. I could not understand it. But I made a motion for him to repeat it, and he did so. I asked once more to say it. In it I caught a Seminole word, though somewhat distorted. And I discerned several Spanish words, though they were not pronounced exactly as I had been used to hearing them.</p>
+
+	<p>I said to him in Spanish finally: "Are you trying to ask me where you are?"</p>
+
+	<p>He understood me and gave a gesture of joy.</p>
+
+	<p>I told him where he was, and said I thought we should be able to understand each other. What followed astonished me and dismayed 'Sin. The man sprang forward and clasped my hands. "We shall understand each other," he cried joyfully. Such demonstration on the part of an Indian was past comprehension. 'Sin ran off a distance and stared at us. He thought I had a mad man for a companion.</p>
+
+	<p>"Are you an Indian?" I said.</p>
+
+	<p>"Sir," he said in Spanish, "I am of a peculiar race. But I call myself an Indian."</p>
+
+	<p>"And your home?"</p>
+
+	<p>"Is back there through miles of morass."</p>
+
+	<p>I looked at him doubtfully.</p>
+
+	<p>"No one lives in there," I said. "You are mistaking the direction."</p>
+
+	<p>He bowed in sign that he could bring no proof. The gesture was a European one. It astounded me. Even an American would not have made that gesture.</p>
+
+	<p>"How many days have you been traveling?" I asked.</p>
+
+	<p>The man leaned against the tree.</p>
+
+	<p>"I have kept no count," he said. "But it is many days. I have been tired&#8211;I have slept in the water with my head on the grasses&#8211;I have eaten almost nothing. I could not keep count of time."</p>
+
+	<p>"An why have you come?" I went on. It may have been rude. But I had no thought of trivial things. My curiosity was absorbing me.</p>
+
+	<p>"I have come," he answered with an accent of weariness, "to see if I can die." I thought he ought to know Bridges. Bridges wanted to die. Only he couldn't.</p>
+
+	<p>"It's easy enough," I replied angrily. I didn't like such sentiments. "You have only to run a knife through you."</p>
+
+	<p>He looked at me a minute without speaking. Then he crossed himself from forehead to breast with the sign of our Lord.</p>
+
+	<p>"Then," he said, "I should sin. The holy mother protect me from sin like that!' I give the words, for convenience sake, as if it were easy for me to understand them. But it was, in fact, exceedingly difficult. The jargon he spoke was that of no known language in its purity, but it was made two-thirds of words that I knew, or that resembled words that I knew. And the man spoke with an almost constant gesticulation. I managed to make out what he meant.</p>
+
+	<p>It was growing dusk, and the Indians were beginning to return from a field. 'Sin no sooner set eyes on them than he rushed toward them and told them the news. Four or five of them, from the camp near which I was lodged, came up, and stared, opened mouthed. The Seminole ordinarily prides himself on his ability to conceal all astonishment, but the demands made upon his powers of repression in this case were too great. The father of 'Sin tried asking some questions. The stranger looked at him with a puzzled and sort of haunted look in his eyes. He turned his head on one side, his eyes <sic corr="narrowed">narowed</sic>, and he seemed to be looking somewhere deep in the cells of memory. But though he repeated two or three of the words uttered by Tal-la-has-ke, he could make nothing of his questions. He only pointed out over that terrible expanse of saw grass, and told by his gestures that he came from there. To this the Indian shook their heads, all but Me-lo.</p>
+
+	<p>Me-lo was a very aged Indian who had the reputation of great wisdom.</p>
+
+	<p>He looked long and silently and then he spoke.</p>
+
+	<p>"One other came," he said, "before any of you now here saw the sun. I saw that other. He was an Indian, and yet not an Indian, like this one. I could not understand what he spoke, though he had some of the same words. And I have seen many years ago a great smoke coming out of the midst of that"&#8211;he pointed out over the far-stretching Everglades, "and at night this smoke became fire. And we who are old know that long ago the Indians all said there were mountains that spouted fire somewhere there. And the Indian showed us with signs that he came from a place where a great mountain shot out fire. Perhaps this came from the same place."</p>
+
+	<p>The father of 'Sin gave some grunts of dissent.</p>
+
+	<p>"What became of this Indian who was no Indian?" he asked.</p>
+
+	<p>"That is not known," said Me-lo. "But I myself saw him bitten by a serpent, yet he did not die, though any other bitten would have died. Perhaps he found something else that killed him. Perhaps he went back from where he came."</p>
+
+	<p>But even curiosity could not longer keep the men from the kettle over the fire. They motioned the stranger to fellow them, which he did, though I thought he cast one of two longing glances at home, as if he would have preferred that an invitation had come from me. But I was afraid of offending the Seminole.</p>
+
+	<p>That night Bryan came in from his work to have a visit with us. I reserved my tale till the boys had got in their tents, and Bridges and Bryan and I were together. Bryan got in a fever of excitement.</p>
+
+	<p>"I tell you boys," cried he, "I believe that we are on the verge of anything wonderful."</p>
+
+	<p>But Bryan wasn't to be put down. "I must see this man," he went on. "I have heard a tradition ever since I can remember of mysterious Indians who came out of the heart of the Everglades, and who were thought to be living on some island in the midst of the swamp. There's that column of smoke too&#8211;I've heard of that. I even read an article on it in a scientific periodical not so long ago. I believe there is something in it all. Why, you have surely heard of the secret path through the Everglades! I know you have."</p>
+
+	<p>"What a kid you are, Bryan," said Bridges. "I didn't think you would go off half-cocked."</p>
+
+	<p>"A man who spends his time writing letters to some one he dare not send them to, up here in the heart of the wilderness, ought not to talk about going off half cocked," said Bryan hotly. But the next morning his courtesy returned. "I say old fellow," he cried, putting out his hand, "don't look cut up. I'm only guying you of course. Write letters all you want to. I'm sure you've the right."</p>
+
+	<p>"It doesn't matter," said Bridges, rather sulkily. "I know I'm a fool, and it doesn't hurt my feelings to have any one else say so."</p>
+
+	<p>But it had hurt him, all the same, and I hastened to suggest that we should go together to the palmetto sheds, which, were about half a mile distant, and try to find the stranger. The boys consented and we started off. There was a young moon out, and the hammock was exquisite. A heavy perfume from some flowering tree filled the air. Strange night noises arose from the swamp, and the black wall of the cedars marked where the swamp began.</p>
+
+	<p>We had better luck than we dared to hope for, for the man we were in search of was found walking restlessly up and down on the edge of the swamp. His pacing was rapid and restless, but it was not that sort of tread that the caged animal has. It was the walk of a man who is torn by mental conflict. Swift, silent and fierce was his tread, and now and then he interrupted it to throw his hands above his head with an imprecation, like one who is distressed to the verge of madness.</p>
+
+	<p>"Can't be a very comfortable place that man comes from," said Bridges. "I don't think I would care to do it." Bryan went up to the man and spoke. The stranger turned. Bryan lifted his hat and saluted him with ceremony. Bridges grunted. He didn't see much use in that sort of thing.  But I know Bryan was doing well. Then I saw him hold out his hand. The stranger grasped it, and the two men stood looking at one another in the moonlight. They were taking that long gaze to some purpose. They were getting an estimate of each other. I had never realized before how very handsome Bryan was. He had a look of hauteur, which did not in any way detract from the gentleness of his expression.</p>
+
+	<p>He called to me after a few seconds, and begged me to come and translate the conversation. The questions I had asked in the afternoon were repeated, and answered in much the same way.</p>
+
+	<p>"You have left your country under unfortunate circumstances," Bryan told me to say. "Or perhaps you have been exiled. At any rate you are suffering. If we can do anything to help you we will." I managed to make the stranger understand at least a part of this. He expressed thanks with dignity, but there was nothing, he signified, that we could do. He had left his home of his own will, and he because he was very unhappy there. But now he found that he was still more unhappy to be away. He longed with a longing beyond expression for his home.</p>
+
+	<p>"I die for the scent of the spice," he said, "and the mangroves, and the houses of my friends."</p>
+
+	<p>"I know what the matter is," whispered Bridges. "It is a girl."</p>
+
+	<p>"He speaks old Spanish," I said to Bryan, "and it is interlarded with Seminole words of a bastard sort. I understand him better every time he speaks."</p>
+
+	<p>"Is it possible for a man to make his way through the Everglades to the spot where you live?" I asked. "You have done it, of course. But could it be done again?" A wild look came into the man's eyes. He fixed his gaze on Bryan, who, standing with his hat still in hand, his splendid young figure brought out by his suit of clinging flannel, his eyes black with interest.</p>
+
+	<p>The man gave a sort of groan. "Do not go," he almost sobbed, "if you would still be happy. Stay where you are."</p>
+
+	<p>I told them what he said. Bridges gave a short, dry laugh.</p>
+
+	<p>"Oh, we're frantically happy," he said, dryly!</p>
+
+	<p>"You are happier than you knew," Bryan said reprovingly. "I wish you would let up on your talk about misery, Bridges. No man who has got along without dishonor is really unhappy. If you think you are wretched simply because a woman does not love you, you are mistaken It is a kind of luxury&#8211;unrequited love is. You ought to appreciate that fact while it lasts, for the first thing you know the privilege of being miserable in that particular way will be taken from you. Unrequited love is very brief."</p>
+
+	<p>I was trying meanwhile to find from the stranger why we should not be happy in that mysterious abode of his. But he would not tell me.</p>
+
+	<p>"There are secrets," he said, "which belong t our people. It is not honorable that I should tell them. They are a wonderful people&#8211;greater in some ways than any that have ever lived." He drew himself up and looked at me proudly. "You see me in rags and far from my home," he went on, "and do not know of what I am capable. I am a very strong man. I can run. I can fast. I can endure. But there were reasons why I was no longer happy among my people. Still, now I find I am yet more unhappy. Now I wish I was back." He turned a look of deepest dejection southward.</p>
+
+<p rend="center">(To be Continued Next Sunday.)</p>
+
+</div1>
+</body>
+</text>
+</TEI>

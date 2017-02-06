@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18950106 SYSTEM "ep.nov.foy.18950106.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18950106">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.foy.18950106</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1895-01-06">6 January 1895</date>
+<biblScope type="pages">10</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Serialized Novel, Part 11</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-23</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.nov.foy.18950106">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p10"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">CHAPTER XIII.</head>
+
+	<p>I do not know how long I stayed there, in that fragrant room. Grief and love were so absorbing that I had no cognizance of time. But when at length I left I found the sky clouded over and dark. A specter shape hung on the southern cross and chilled me with a superstitious fear, and while I stood staring at this phantom crucifixion in the sky, a figure came slowly out of the gloom of the bushes by my path, and Bryan laid an arm on my shoulder.</p>
+
+	<p>"It is you," he cried, "coming at this hour from"&#8212;</p>
+
+	<p>"Hush Bryan," I said sternly, "she is in trouble. I stayed to comfort and to advise."</p>
+
+	<p>"Oh!" he protested, "you need not fear I would think evil of her&#8212;or you. But she loves you? Answer me that. She loves you?" His face, gleaming white out of the darkness, almost touched mine, and he leaned forward with fierce hands on my shoulders.</p>
+
+	<p>"We love each other," I replied.</p>
+
+	<p>A dry, rasping sob came from his lips. His grasp on my shoulders tightened yet more.</p>
+
+	<p>"I am glad," he said in that same strained voice, "that you are happy. But I&#8212;Oh, Shadwin! I must live always!"</p>
+
+	<p>"Bryan," I cried, "you do not love her?"</p>
+
+	<p>I saw the dreadful answer in his eyes. But the next second he pulled himself together. He laughed a little and said: "But it does not matter. You are not to worry, and she, mind you, is not to know. I suppose it is the fate of all men to love her." And before I could say more he had walked away.</p>
+
+	<p>He did not appear at the morning meal. Only Bridges and I were there, and I noticed as Bridges carved the meat that there were little blurs of green on the palms of his hands.</p>
+
+	<p>"Bridges," I said, preferring to put off the relation of my troubles as long as possible, "it was a very warm evening we had yesterday."</p>
+
+	<p>"Yes," returned he, "nice night though. Never saw anything like it north."</p>
+
+	<p>"No. And the palms of the ladies are not so moist in the north, either, Bridges."</p>
+
+	<p>"Eh?" said he, stupidly. I pointed to his tell-tale palms.</p>
+
+	<p>"For whom is the Oriole making a green petticoat?"</p>
+
+	<p>My friends turned a crude contrast to his hands by becoming scarlet. Then I apologized, and later told him all that had happened to me during the evening that had passed, and we sat far into the forenoon talking of what we should do.</p>
+
+	<p>Toward noon Bryan returned. I longed to speak a word of comfort, and I greatly needed his advice, but I could not bring myself to venture on a subject which would be so painful to him. He himself, however, finally said:</p>
+
+	<p>"I have heard of the news. Of course it rests with us, if only for the reason that we must keep our promise to De Vega, to find means of protecting the Lady Opaka. What scheme have you talked of?" We told him. They were certainly very simple devices. He rejected them all. We talked together for the better part of an hour. Then we went to ask an audience of the Adelantado.</p>
+
+	<p>We found him at his home and he consented to see us. We were received with courtesy, and fruit and wine were placed before us, before the nature of our errand was asked. Bernal Diaz, the Adelantado of <sic corr="Bimini">Biminin</sic>, himself served us. We all chafed under these elaborate courtesies, but there was no choice for us to make. We had to accept them. Once through with these matters, I spoke.</p>
+
+	<p>"Noble Adelantado," said I, standing with uncovered head. "I was present last evening when you arraigned the teacher and philosopher, the Lady Opaka. I have come to say that you labor under a misapprehension if you think that she teaches aught which is detrimental to the commonwealth. She is making good citizens, not destroying them. And I and my friends ask leave to prove the same at any time or place that you may appoint, only stipulating one thing, that the justice of injustice of our cause may be determined by men who compose a jury, half of whom shall be selected from the people. We are your subjects, Adelantado, and we pray this at your hands, in token of our good will an in confirmation of your love of noble ruling."</p>
+
+	<p>Bernal Diaz permitted a puzzled look to escape him. There was a silence which seemed interminable to me. At length he broke it.</p>
+
+	<p>"Why do you, who are not her students, plead her cause?" he asked.</p>
+
+	<p>Bridges gave me a warning look, but I would not heed it.</p>
+
+	<p>"I plead her cause," said I, "because she is my promised wife&#8212;" the words were not out of my mouth before I repented them. The untrained man before me betrayed himself. A look of malignity swept over his face. He was used to presenting a haughty front, but he was not enough of a ruler to dissimulate hatred. I thought I heard a smothered laugh in the ante chamber, and it filled me with an ungovernable rage. I leaped toward the doorway, tore away the curtain of bearskin, and without in the twilight of the windowless <sic corr="room">rom</sic> I saw Padre Anton.</p>
+
+	<p>"Why do you laugh," I shouted, "tell me before I brain you against this wall. At what are you laughing?"</p>
+
+	<p>He shook himself loose with adroitness.</p>
+
+	<p>"I laugh," said he, "at the coil which the lovers of the Lady Opaka are like to make."</p>
+
+	<p>"What do you mean?" I gasped, "not that&#8212;"</p>
+
+	<p>"I am glad to have excited your curiosity," he said, slowly, and his scorn was worse, in that he <sic corr="concealed">oncealed</sic> his sneer, "and I can gratify it. Our noble Adelantado is one of the many whom the Lady Opaka has seen fit to reject." I stared at him, dully. Then I returned to the audience chamber. Bernal Diaz had overheard every word beyond a doubt<sic corr="."></sic></p>
+
+	<p>"You have heard what that skulking priest says," I asked him. "Will you deny his insinuation that this public persecution of a woman is the result of private pique?"</p>
+
+	<p>"You are insane, Shadwin," interrupted Bryan, in English. "Can you not see that you"&#8212;</p>
+
+	<p>I hardly remember what I said next, but I know that I <sic corr="interrupted">interupted</sic> my friend furiously. I called Diaz a tyrant, at which he laughed. I called him a coward, determined to drive him to an attitude of defense. He told me to beware and I returned that it was he who would best beware, for he was the one in danger. Then I hurled myself out of the room, and my friends followed me.</p>
+
+	<p>"You have done nothing but harm, Shadwin," said Bryan.</p>
+
+	<p>"It is nothing to the harm that I mean to do."</p>
+
+	<p>"What insane idea have you got in your head now," impatiently cried Bryan. "We are but three men. What can we hope to do against a nation?"</p>
+
+	<p>"We are many. Bryan you forget that the young men are our friends. I propose that we shall appeal to her students."</p>
+
+	<p>"Good God, man, that may mean war! You would not take such a responsibility as that?" It was Bridges who spoke.</p>
+
+	<p>I did not answer him. I was wondering if, indeed, I dared take blood upon my hands&#8212;the blood of creatures ex-<gap reason="torn away"/> from <gap reason="torn away"/> death <gap reason="torn away"/>r, whi<unclear></unclear> is always horrible, would be more horrible than ever before in this case.</p>
+
+	<p>But I was left no time for thought. Fate seemed to hurry me on. Down the street, I saw coming a number of the young men with whom we had walked the day before on our way to Opaka's house. When they saw us, they hurried toward us.</p>
+
+	<p>"We have been looking for you," said Alonze Penoda, one of them whom I knew. "We must talk together about what must be done. We came to you because the Lady Opaka bade us to come."</p>
+
+	<p>"What do you want to do," I retorted. "Do you wish to let this woman go to that hideous death on the plains? Or do you wish to keep that death for those who have committed crimes?"</p>
+
+	<p>They answered me with cries. They were already excited to a murderous pitch. I saw I could lead them whither I would. For one second more I listened to the compunctions which arose in my heart. Then I smothered them, for a vision of Opaka's face came before me. And I grew indifferent to everything else.</p>
+
+	<p>"Then you, whom she has given her best to, you, for whose sake she is now suffering, will protect her. I will be your leader. We will resist Padre Anton and Bernal Diaz."</p>
+
+	<p>I must tell you that no greater insult could be given a man in Bimini than to call him by his name, without his title, if title he possessed. And even when he had no title it was customary to preface his name with the <sic corr="appellation">appelation</sic> of brother, or friend. That was why the Lady Opaka was given the title of lady&#8212;merely as a demonstration of respect. Therefore when I called the "illustrious Adelantado" by his name, barely, without preface, even these angry young men looked startled.</p>
+
+	<p>"We are foes," said I brusquely, in explanation. "Bernal Diaz and I. Is there need that I should play the hypocrite's part? Is it not better that I should be a true man?"</p>
+
+	<p>"You are right," cried Penoda. "And he is our foe also. He would have kept us in ignorance. With him it is a crime for a man to think. It is treason to ask to be free. Therefore, he kills our teacher and our liberator."</p>
+
+	<p>"Yes," said I. "But you have not got at the heart of the matter yet. He was the lover of the Lady Opaka, and she refused his love. And this is his revenge that he is taking. He will kill the woman he loves, because she does not love him. Will you permit this, you who have been her friends?"</p>
+
+	<p>They cried out again, in that half savage way of theirs. The Indian traits were very apparent. I walked on ahead toward our house, and they followed me. Once within, the doors closed, we talked till midnight.</p>
+
+	<p>The next morning 400 men gathered on the plain where the fatal plants grew and we three, Bryan, Bridges and I, went out to meet them. This represented at least a third of the fighting men of Bimini. A number of men selected from this number met with us to talk of the plan of action. It was decided that we should not wait for the following day, which was the day of execution, but should act immediately. I had had no time to see Opaka&#8212;nor did I want to see her. For one thing, I felt I could not look upon her exquisite face, and realize the danger she was in, without pain which would unfit me for action. And in addition to this, I knew she would not approve of the steps I was taking for her defense. I could not more seriously offend her fine nature than by causing the spilling of innocent blood.</p>
+
+	<p>The men gathered on the plain were armed with such implements of warfare as they could gather. There were arrows, and sling shots, such as it was their habit to use in the killing of birds, and swords, and some excellent knives, made for killing the bear, and well adapted for hand-to-hand fighting. I divided the company into four squadrons, and at the head I placed Bryan, Penoda, Bridges, and a fine young fellow, very much more Indian than Spanish, named Ko-nip-ha-teo.</p>
+
+	<p>It was our plan to march to the state house, and, putting it in a state of siege, demand the absolute transmutation of the Lady Opaka's sentence. Further than this, our movements were not provided for. The Indians had some tradition of warfare, but not of such a nature as we contemplated; and as for the rest of us, we had no practical ideas whatever on the subject. But the fierce yells of the more reckless, and the need every man felt for immediate action, kept us from indulging in those natural apprehensions which men virgin to war might have been excused for feeling. The forenoon was half spent when we marched into the town, the flute players and the drummers leading each squadron. This unwonted demonstration brought every inhabitant of the island on the streets, and among them we saw many black looks. We were considered as the enemies of good order and of religion. No teacher could be as fearless as Opaka without making many enemies. But I had confidence. I did not even consider the possibility of defeat.</p>
+
+	<p>The incidents that followed crowded on each other so that I hardly know whether or not I can clearly relate them.</p>
+
+	<p>News of our meeting had reached the Adelantado and the council, and they were gathered in the state house. We sent a delegation of the noblest and most eloquent youths of our company to make our demands and state our intentions, and waited without in silence, while the people gathered about us in ever increasing crowds. But we noticed that there were few men in this company. It was self evident that the Adelantade had informed the men that there might be need of their presence.</p>
+
+	<p>Our delegates <gap reason="torn away"/> half an hour. Then they returned and their leader spoke.</p>
+
+	<p>"Companions in a just cause," said he in that simple, yet graphic phraseology of the Indian, "the ruler of this land says that when he has spoken, he has spoken. He will not change his decrees, nor alter his designs. He believes that the Lady Opaka, known as a philosopher and instructor, has been speaking treason against this commonwealth, and those in wisdom and estate, who govern it. Therefore he has determined that she shall die the death. Tomorrow at sunrise, he declares, she shall perish as others have perished who have committed such and other crimes. These are his final words. And he further demands that this company disband, in peace, and go to its many homes, and that on pain of imprisonment, none seek to raise up mutiny. These, brothers, are the words of the illustrious Adelantado of Bimini, Bernal Diaz."</p>
+
+	<p>He finished, and close behind him came the council, which, with many formal assertions of power and authority, commanded us to disperse. The answer was an uncompromising silence. Then, as the body attempted to descend the steps of the state house, the squadrons closed up about them.</p>
+
+	<p>"Your excellence," said I, coming forward. "You will not be permitted to leave the state house, till you have reversed the decree for the death of the teacher Opaka."</p>
+
+	<p>"What," roared the president of the council, a man whose name I did not know, thought her narrow and baleful eyes were only too familiar, "you think to keep us here against our will?"</p>
+
+	<p>"Illustrious councilman," said I, carelessly adjusting my musket, "if you attempt to descend those stairs you will be dead when you reach the bottom."</p>
+
+	<p>At these words Bernal Diaz came rushing from the door. But he did not speak. I still held my musket in position, and I looked at him along the barrel. He disappeared as suddenly as he had come.</p>
+
+	<p>I sent a messenger to Bryan<sic corr="."></sic></p>
+
+	<p>"Face your squadron the other way," I said. "Penoda and I with our men will watch this building. Have Bridges and Ko-nip-ha-teo keep an eye on the flanks. Tell the men to be in readiness for an attack."</p>
+
+	<p>I had given these instructions none too soon. A moment later from three directions came a volley of arrows. I gave a great shout which all the men took up, and then&#8212;then came a hideous hour.</p>
+
+	<p>Two-thirds of the men of Bimini were our foes. We realized at once that we were outnumbered. But that only whetted our enthusiasm. Bryan pushed our assailants down the avenue, and our flanks were swung out from our center at the guard square, so that the enemy, instead of compressing us, was itself compressed. And then we surged away from the state house along the avenue, and down it, under those splendid palms. The sky was so blue and so beautiful that it was almost terrible to look at, and whenever by chance my eye glanced upward I felt as if the eye of God was on me. All about me fell those deathless creatures. These young, splendid men, who would never know age or pain, died like sheep, and on one side I led them on, and on the other, the black priest, spitting out maledictions, urged on his faithful crew.</p>
+
+	<p>With many turns of fortune, we got at last to the base of the mountain, and wrestling, struggle, writhing together a vast mass of slayers, the two companies mingled, foe with foe, we howled about the fountain, and some of the dead fell in those pure waters, and turned them red, and above the majestic hymn of the falling Waters of Youth, was the sickening tumult of dying and fighting men.</p>
+
+	<p>I stood on the edge of the fountain and was crying: "Remember, we fight for liberty and for truth," when there came a little hot sting on my brow, then a gushing of something warm over my eyes, and then silence and a sudden cessation of the tumult.</p>
+
+<p rend="center">(To be Continued.)</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

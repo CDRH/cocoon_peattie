@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+
+]>
+
+
+<TEI id="ep.ss.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Childless Madonna</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.ss.0004</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note><hi rend="italic">Originally published in Omaha's Woman's Weekly  April 7, 1894;
+ reprinted in the Prairie Schooner Summer 1967: 143-151</hi></note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a">"A Childless Madonna"</title>
+<title level="m">Woman's Weekly</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-04-07">April 7, 1894</date>
+<biblScope type="pages"></biblScope>
+</bibl>
+
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a">"A Childless Madonna"</title>
+<title level="m">Prairie Schooner</title>
+<editor></editor>
+<pubPlace>Lincoln, NE</pubPlace>
+<publisher>University of Nebraska-Lincoln</publisher>
+<date value="1967">Summer 1967</date>
+<biblScope type="pages">143-151</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2007-11-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+
+<head>A Childless Madonna</head>
+
+<head type="sub"><hi rend="italic">Originally published in Omaha's Woman's Weekly  April 7, 1894;
+ reprinted in the Prairie Schooner Summer 1967: 143-151</hi></head>
+
+<pb id="ep.ss.0004.01.jpg" n="43"/>
+
+<head rend="left">ELIA W. PEATTIE</head>
+
+<head type="sub">from <hi rend="italic">Woman's Weekly</hi>, Omaha, April 7, 1894</head>
+
+	<p>HAVE you noticed that street which meshes itself amid ruined remnants of old farms&#8211;the street that now yields to the orderly quiet of grass-grown terraces, and now presents the ragged clay cut and the trig brick paving?</p>
+
+	<p>Lola lived up one of the clay banks. The steps by which she reached the height were of rotten brick, and even Lola's light foot often knocked one of them from its place as she mounted to her room under the wires, for the telegraph poles, heavy with their weight of wires, flanked the old house on the bank, and above Lola's bare room the wind played through a harp of a hundred strings, and with whirr and drone, with muffled shriek, and sounds as of the sea, lulled the tired girl to sleep. There, in her bed with its mattress of straw, she lay in the ecstasy that precedes the sleep of youth, and let the rise and fall of the inarticulate melody vibrate through her little body.</p>
+
+	<p>Lola's father&#8211;who looked like a pirate not wholly reformed&#8211;and Lola's mother&#8211;who had the face of a declined Borgia&#8211;slept down stairs in the old house, because they did not like the sound of the wires. And just behind their chamber was the room where the bulldogs slept. Lola's father and mother were very particular about these dogs. They saw they were well fed, and they always <pb id="ep.ss.0004.02.jpg" n="144"/> kept themselves informed of their whereabouts. They were not so careful about Lola.</p>
+
+	<p>Lola stood all day in that fruit stand with the gay awning down on the sunny corner of the busiest of the streets of the town. From underneath the festoons of grapes she looked out shyly at the gay American girls as they went by. These girls seemed very old, in a way, to Lola: they were so sure of themselves. They seemed already acquainted with life. They worked like men. Of course Lola worked too. But that was different. She was a peasant. And in America there were no peasants&#8211;at least, so Lola thought. She was learning English little by little. It was not beautiful on the tongue, yet she felt proud when she spoke it. It made her feel that she knew a great deal.</p>
+
+	<p>But there was something wrong to Lola in the streets. She felt disappointed every time she looked at them. She liked to shut her eyes and see another street, which she remembered vividly, where long shafts of sun and shadow reached down beyond an arch of mighty masonry, and underneath went the women in gay kerchiefs, and overhead swam a tender sky, and the day was full of dreams, and even the poverty was tinctured with a sort of happiness that made life sweet.</p>
+
+	<p>There was almost always music on the streets that Lola dreamed of, and the people walked in time to it. And there were palaces, and in some of them great galleries of pictures where Lola walked on certain days with her head high and warm currents of joy coursing through her little body, and tears that would come to her eyes&#8211;tears of happiness which the pictures made, and which she could not put in words.</p>
+
+	<p>Then Lola's mind would come back over the leagues of sea and the leagues of land to the bare young city in the new world, where there was no music, and none to pause to listen to it if there were any. And where pictures in the windows that Lola paused to look at made her turn away with a sigh, and go hungering, she did not know why. Still Lola loved the sky here almost as well as the sky she knew at home. To be sure it was not tender like the one she mused on when her eyes were closed. It was instead a burning blue, cloudless, marvelous; and the air was white&#8211;not gold as it had been <pb id="ep.ss.0004.03.jpg" n="145"/> in the other city which her baby feet had trod. And at close of day the sunsets she watched from the high window of her room were red as blood and streaked with purple like the gown of a king, or lit with gold so bright that Lola sometimes thought the sun had melted and made itself into a cloud. It was only such things as this that made Lola happy out here in this strange town where no one spoke her tongue. Then there was one marvelous day when the world had a transfiguration. Her father and mother&#8211;who were not above pleasures of a certain sort&#8211;borrowed the express wagon of Giovanni the licensed deliverer, who lived two blocks away, and they and Lola went together for a ride in the country. The dogs ran behind and Lola tried not to look at their ugly faces, and their legs, which were so hideously far apart, and their cruel eyes. She sat in the back of the wagon on some straw. She had been afraid her hat would blow off so she had a saffron kerchief of silk&#8211;fine silk&#8211;about her straight black hair. Her little brown hands were clasped in her lap. She sat and looked off over a new world.</p>
+
+	<p>Up and down undulated the hills of the plains-the mighty plains which reached forever into the west. Over them swept the wind. It seemed to blow from the vast blue chambers of the sky. It was laden with messages. It had perfumes. It had songs. It hinted of the things over which it had blown&#8211;of fields where grain had ripened, and waters that laughed through a gracious woods, and flowers that passionately held their bit of color up to the rivalry of the sky. And there were hills that were all gold with sunflowers, and other hills purple with the wild aster, and from the roadside tender plumes of the golden rod waved. And on the distant bluffs slept the haze of autumn, lilac and dusty blue and unburnished sliver.</p>
+
+	<p>Lola wanted to sing. But her father would have frowned. Perhaps the dogs would have shown their teeth. So she kept her lips closed. But in her heart was a song&#8211;not exactly merry, but better than merry&#8211;more like the mass at some grand festival.</p>
+
+	<p>That night the wires sang louder than ever. Lola might have liked the singing, but for the idea which she could not get rid of, that they would bring her bad luck. Perhaps she would find the bananas rotten in the morning, or she would make a mistake in <pb id="ep.ss.0004.04.jpg" n="146"/> giving change&#8211;the money was so very puzzling. In any case her father would find fault with her. She was always being found fault with&#8211;was Lola. How beautiful it would be if she could know some one in this new strange country who would speak kindly to her! But these rushing Americans, they had no time for friendship! Ah, this terrible land, where men and women worked, worked, worked, and there were no festivals and only the hills with the sunflowers were beautiful! And so in fancy she built her a house on the golden hills and lived there with&#8211;but sleep came over her eyes.</p>
+
+	<p>And in the morning early she was down at the fruit stand, very tired, someway, and sick at heart. A cold wind blew down the wide street and tossed the dust in Lola's eyes. The sky was gray. Why should any one wish to live when the sky was gray? Lola sadly tidied the fruit. She arranged the plums in little pyramids, and tilted up the boxes of figs; she draped the grapes from the top of her little booth, and polished the apples, and to crown the whole, she staggered on the top of a box with a huge bunch of bananas, to tie them in the middle of the booth.</p>
+
+	<p>Her arms trembled terribly&#8211;these bananas grow in such large bunches&#8211;and suddenly over among the boxes she toppled, and lay on the floor for a minute with a drop of blood finding its way down her cheek. The wires had not sung for nothing!</p>
+
+	<p>Then someone lifted her. Lola opened her eyes, although it took an effort to do it. Mother of God! It was an American! He was young, with blue eyes. Lola was tired of black eyes, anyway. His hair was almost yellow and his skin was fair. And he was large&#8211;Lola liked a man to be large. And how strong he was! He sat her in a chair and wiped the blood from her cheek. And then he left her a moment while she sat still and waited, confident that he would come back. And he did, and put something on her cheek which covered the little wound and stopped the bleeding, and he gave her something out of a small glass. Then he tied up the bananas. Some young fellows went by and laughed at him. He nodded and laughed back at them. And when all was through he lifted his hat to Lola and started away.</p>
+
+	<p>Then Lola sprang up. Did he think her an ingrate? She seized <pb id="ep.ss.0004.05.jpg" n="147"/> his hand. She kissed it. The young man shook his hand loose, and turned scarlet. Lola turned scarlet herself then, and said quite piteously: "You no like that?"</p>
+
+	<p>"Oh, you speak English; do you? No, I didn't like that. I might kiss your hand if I was better acquainted. There would be some sense in that, you know. But here in America we say thank you to anyone who has done anything that pleases us. We do not kiss their hands."</p>
+
+	<p>Lola hung her head.</p>
+
+	<p>"But never mind that," cried the young man brightly. "Come to think of it, it wasn't so bad after all. Don't look like that. I hope your cheek doesn't hurt you much."</p>
+
+	<p>"No."</p>
+
+	<p>"I hate to leave you here alone. You're not yourself yet. You've no business to be tying up those bunches of bananas. That one was about all I cared to lift. Isn't there anyone I can call to stay with you?"</p>
+
+	<p>"No, no," cried Lola in trepidation.</p>
+
+	<p>"Well, good morning then. Don't think I minded what you did. Here, shake hands American fashion, and say thank you."</p>
+
+	<p>Lola held out her thin, brown hand, and he shook it heartily.</p>
+
+	<p>"Thank you," she said softly, putting little vowel sounds on the end of her words. And she lifted her eyes full of that loneliness she could not name, and searched his face for that for which she sought.</p>
+
+	<p>"What is it?" he asked, perceiving something of the glance.</p>
+
+	<p>"I don't know," she said coldly.</p>
+
+	<p>The young man lifted his hat and walked away.</p>
+
+	<p>But that night on his way home he stopped for a moment. Lola's father was there, selling off a lot of grapes with much vociferation. Lola sat at the back of the booth brooding. She had wrapped herself in a gay striped scarf against the blustering wind, and her hair was tossed wildly about her dark face. The young man smiled at her. Involuntarily the hunger came back in her eyes. It was the first time anyone in America had spoken to her like that with the smile of friendliness. She smiled back brilliantly, her eyes dancing and her white, little, even, teeth flashing into sight. A flush crept up <pb id="ep.ss.0004.06.jpg" n="148"/> under her skin. A wild gayness came into her manner, as if she would like to take him by the hand and run away to those hills where the sunflowers were, and be happy. The young man bought some dates absently, his eyes fixed on her. Then he passed beyond the shouting old man, her father, with his face like an unreformed pirate, and said to her: "What is you name?"</p>
+
+	<p>"Lola," she said in a caressing voice.</p>
+
+	<p>"Lola?"</p>
+
+	<p>She nodded and raised her finger warningly toward her father. The torches flaring in their sockets threw a red light over her excited face. And when the young man walked on, it was with a visible effort and with a tightening of the lips as if he were making a resolve.</p>
+
+	<p>Whatever that resolution may have been, it was not sufficient to keep him from pausing a moment every morning to say a word. And she learned to say his name, only she always said "Jaka" instead of Jack. But that was charming. She remembered English words she heard, and would ask him the meaning. And she asked him if he was a Catholic, and prayed for him twice every day when she found he was a heretic. They had strange conversations. She asked him how long the sunflowers lasted on the hills, and when told only three or four weeks at the very most, the color left her face. Those were the only beautiful things she had seen in this cold land, and so she told him.</p>
+
+	<p>"Beauty," he said, "why there's not an hour of the day or night that those hills are not beautiful. I've seen them in storm and sunshine, in daylight and darkness since I was a boy, and all I know that is best worth knowing, I found out there, looking at those hills."</p>
+
+	<p>Lola understood him perfectly. That was how she had felt about other places&#8211;about the sea.</p>
+
+	<p>"It's better than books&#8211;the hills," he said. Lola gave a splendid gesture of contempt.</p>
+
+	<p>"Books," she exclaimed contemptuously, "bah!"</p>
+
+	<p>This worried Jack a trifle. He wanted to be conscientious with the little thing. He got her books then, and she began to study a <pb id="ep.ss.0004.07.jpg" n="149"/> little, and made some headway because she studied with her heart.</p>
+
+	<p>So it went on. And she grew sweeter every day. But Jack kept his resolution&#8211;the resolution which protected him from loss of self-respect, but which did not keep her tears from falling at night when she lay on the fresh straw of her bed and listened to the moaning of the wires. No, no! How could those resolutions keep her from walking up and down that bare little room with hands clinched in agony and teeth set close? How could it keep her from writhing there on her bed in torture of spirit? How could Jack Morris, well poised and moral, know anything of such unmoral passion as that which tore at the breast of this beautiful little savage? How could a man born in the north know what a woman of the south would think&#8211;or do?</p>
+
+	<p>And then came a day more dreadful than any other. It was mid-winter then, and the snow hurled about the little booth. Lola was roasting chestnuts and was quite merry with the occupation. "Jaka" looked in suddenly at the door&#8211;it was the hour when he went home from his work.</p>
+
+	<p>"I've come to bring you a little present for Christmas," he said, "though it's not quite Christmas time. But I'm going away. I'll be gone quite a while. And when I come back, Lola, I will have a wife with me&#8211;a beautiful young wife. I am going away to be married. And I am very happy about it, and have come to tell you just as I would expect you to tell me if you were going to do anything of that kind."</p>
+
+	<p>Lola took the little present in her hands, and undid its wrappings. It was a little silver chain with a tiny heart set round with turquoises. She put it about her neck without a word, even of thanks, and then she stood and looked at Jack Morris, so steadily, that sure of himself as he usually was, he felt the blood climb up to his brow. It was a sad gaze&#8211;a deep, deep gaze, with thoughts behind it that he could not quite fathom. But the look moved him, and made him want to get away. There was world-old wisdom in the gaze, as if the girl had found a well of human knowledge unknown by him. He shook hands with her heartily, and she still kept the dark eyes fixed on his. She did not see him then for a long, long time.</p>
+
+<pb id="ep.ss.0004.08.jpg" n="150"/>
+
+	<p>Meanwhile, her father spoke of Achille Morisini, who had a store of his own, and a delivery wagon, and who wished to marry her. "As thou choosest," Lola had said. What did it matter? It would be better to marry. All women married. Besides Achille was kind, and he had said himself he like the way Americans treated their wives. He meant to be an American, he said. So they were married in the cathedral. And they lived together back of Achille's store. And they were very good friends, in a way. And Lola no longer trembled with fear as she had when she had cause to dread her mother's tongue and her father's fist. To be sure there had been times in those old days when her heart was lighter than it would ever be again. But that was because&#8211;but what was the use of thinking? She still liked to wear the bright scarfs that Jack had admired. And she thought over the things he had said to her&#8211;so much so that she did not hear Achille when he spoke till he sharply called out, asking her if she were deaf.</p>
+
+	<p>The winter was long&#8211;how long! And the snow and ice were cruel indeed. Why was it, Lola asked, that when the leaves were gone from the trees, the heart seemed dead too? Yet spring&#8211;the symbol of God's better life&#8211;comes at last, however bleak the winter, and the winds are warm, and the birds come back, and out of mold spring flowers blue as the April skies. Kneeling on the flagging of the church she made her lenten penance, with thoughts that plowed deep into her soul, and left their scar there, as freshets leave the traces of their fury amid the meadows. And still there was the hunger in her heart she had known so long, and which prayer could never satisfy. Achille looked serious sometimes.</p>
+
+	<p>"We have no little one," he said in his native tongue, shaking his head solemnly. "We have all the rest of life that is good, only we have no little one." Lola looked at him and said nothing. There was a thought behind her silence which she could not put in words. Yet, for all these thoughts, she was happier now. The sunshine made her like life&#8211;she really lived in the summertime. When the catalpa trees were like bouquets, and the trumpet flowers bloomed, when the nights were still and fair, and the moon hung low over the river and the bluffs, then Lola liked life. And so the summer wore away. She was silent almost always.</p>
+
+<pb id="ep.ss.0004.09.jpg" n="151"/>
+
+	<p>"Thou hast not the tongue of a woman," Achille would say. Yet he was proud of Lola. She was a good wife. And she never quarreled.</p>
+
+	<p>Autumn came again, and once more the hills were splendid with the sunflower. And again these faded, and the days of Indian summer tinted all the hills with purple. And then the leaves turned gold, and hurled about the streets. And one day when Lola stood among the late grapes, shivering a little, yet wrapt in the wonder of the day, the full of those silent thoughts of hers, a voice as familiar as her own spoke to her. She looked around with a slow gaze fixed on "Jaka's" face the selfsame look that she remembered to have seen there a year before. And he was the same&#8211;the very same. Only in his arms was a babe, with startled blue eyes roving about the place, and tiny, tiny hands outstretched.</p>
+
+	<p>"He wants me," she said, and Jack handed the wee thing over to her across the heaped up fruit of the counter.</p>
+
+	<p>"You're in your husband's home now, Lola," he said kindly. "I'm glad to see you here. I knew you'd like to look at my baby. Haven't you one of your own to show me?" But the light words died upon his lips. For he saw sweeping over her face a mighty passion, and the dark face grew transfigured as it bent above the babe.</p>
+
+	<p>She turned her swimming eyes from the child to him, and back again, and then he knew the truth and guessed the thought that made her face grow pale. And suddenly, with a motion swift and tender as the tough of the Madonna to the Child, she drew the little one close to her breast and held it there as if her yearning could force the sweet fluid of a mother's breasts into those rosy lips.</p>
+
+	<p>Jack held out his arms for the child, white with consciousness of what he had just learned. And what she laid the little one within his arms it was with a sacrificial sense that made her look not quite of earth.</p>
+
+	<p>The words the man had meant to say, died upon his lips. And Lola turned from him and held her arms about her breast as if to still the ache a mother feels when her dear babe has died.</p>
+
+<milestone unit="smallbar"/>
+
+<note type="editorial">E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi> <hi rend="italic">(1862-1935) and her husband, Robert Peattie, worked for omaha newspapers (especially the</hi> World-Herald<hi rend="italic">) from 1888 to 1896, when thy moved to Chicago and other editorial positions. Mrs. Peattie was a leading journalist, club woman, and lecturer in Nebraska, especially in the early 1890's, and a nationally published fiction writer. She published numerous books throughout her life, but the early collection of stories,</hi> A Mountain Woman <hi rend="italic">(1896), received the strongest notice in Nebraska, both pro and con. Some of her pictures of pioneer life were harshly realistic. "A Childless Madonna" was written for the</hi> Omaha Woman's Weekly <hi rend="italic">("A Journal for the Up-to-Date Woman"), edited and published for the Omaha Woman's Club by Mary Fairbrother. The story presents one group of Nebraska immigrants who have been largely overlooked&#8211;the Italians of the city.</hi></note>
+
+</div1>
+</body>
+</text>
+</TEI>

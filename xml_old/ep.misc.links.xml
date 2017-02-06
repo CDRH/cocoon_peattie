@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+]>
+
+<TEI id="ep.misc.links">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Prodigious Full Text Links</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.misc.links</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-11-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Prodigious Full Text Links</head>
+
+<div2>
+<head type="sub">Novel</head>
+<bibl><title level="m">The Precipice: A Novel</title>. Boston: Houghton Mifflin, 1914; Urbana: U of Illinois P, 1989.
+	<xref url="http://www.gutenberg.org/etext/12177" rend="new">http://www.gutenberg.org/etext/12177</xref></bibl>
+</div2>
+
+
+<div2>
+<head type="sub">Autobiography</head>
+<bibl><title level="m">Painted Windows</title>. New York: George H. Doran, 1918.
+	also <xref url="http://www.gutenberg.org/etext/1875" rend="new">http://www.gutenberg.org/etext/1875</xref></bibl>
+</div2>
+
+
+<div2>
+<head type="sub">Short Stories</head>
+<bibl>"Grizel Cochrane's Ride." <title level="j">Saint Nicholas</title> 14 (Feb. 1887): 271-278.</bibl>
+
+<bibl>"The Crime of Micah Rood." <title level="j">Cosmopolitan</title> 4 (Jan. 1888): 383-389.</bibl>
+
+<bibl>"The Man at the Edge of Things." <title level="j">Atlantic Monthly</title> 84 (Sept. 1899): 321-342.</bibl>
+
+<bibl>"Rubaiyat and the Liner." <title level="j">Harper's Bazaar</title> 33 (29 Sept. 1900): 1360-1366.</bibl>
+
+<bibl>"The Esmeralda Herders." <title level="j">Atlantic Monthly</title> 87 (Jan. 1901): 111-117.</bibl>
+
+<bibl>"Mozart: A Fantasy." <title level="j">Atlantic Monthly</title> 90 (Nov. 1902): 634-636.</bibl>
+
+<bibl>"Ged." <title level="j">Scribner's</title> 34 (Nov. 1903): 580-594.</bibl>
+
+<bibl>"Thorkild Viborg." <title level="j">Atlantic Monthly</title> 91 (1903): 228-235.</bibl>
+
+<bibl>"Wilderness Station." <title level="j">Munsey's Magazine</title> 29 (May 1903): 272-275.</bibl>
+
+<bibl>"The Stagecoach." <title level="j">Atlantic Monthly</title> 93 (May 1904): 787-796.</bibl>
+
+<bibl>"The Truth and the Lady." <title level="j">Reader</title> 5 (Dec. 1904): 86-89.</bibl>
+
+<bibl>"The Door." <title level="j">Reader</title> 7 (Jan. 1906): 168-176.</bibl>
+
+<bibl>"Shehens' Houn' Dogs." <title level="j">Reader</title> 10 (June 1907): 73-84.</bibl>
+
+<bibl>"A Michigan Man." <title level="j">Lippincott</title> 47: 394.
+	<xref url="http://www.gutenberg.org/etext/23176" rend="new">http://www.gutenberg.org/etext/23176</xref></bibl>
+
+<bibl>"Resuscitation." <title level="j">Harper's Weekly</title> 35 (13 June 1891): 441-442.
+	<xref url="http://www.classicreader.com/read.php/sid.6/bookid.802/" rend="new">http://www.classicreader.com/read.php/sid.6/bookid.802/</xref></bibl>
+
+<bibl>"The Door." unknown
+	<xref url="http://arthursclassicnovels.com/arthurs/peattie/tdoor10.xml" rend="new">http://arthursclassicnovels.com/arthurs/peattie/tdoor10.xml</xref></bibl>
+</div2>
+
+
+<div2>
+<head type="sub">Poems</head>
+<bibl>"On a Blank Leaf in 'The Marble Faun.'" <title level="j">Century Magazine</title> 42 (Oct. 1891): 847.</bibl>
+
+<bibl>"Love's Delay." <title level="j">Atlantic Monthly</title> 79 (Feb. 1897): 257.</bibl>
+
+<bibl>"Star 'i' the Darkest Night." <title level="j">Munsey's Magazine</title> 24 (Nov. 1900): 285.</bibl>
+
+<bibl>"Trinity." <title level="j">Current Literature</title> 47 (Aug. 1909): 217-218.</bibl>
+
+<bibl>"Lanier in the Valley." <title level="j">Scribner's Monthly</title> 72 (Nov. 1922): 625.</bibl>
+</div2>
+
+
+<div2>
+<head type="sub">Essays</head>
+<bibl>"The Artistic Side of Chicago." <title level="j">Atlantic Monthly</title> 84 (Dec. 1899): 828-834.</bibl>
+
+<bibl>"A Defense of Fine Writing." <title level="j">The Critic</title> 42 (June 1903): 546-547.</bibl>
+</div2>
+
+
+<div2>
+<head type="sub">Book Reviews</head>
+
+<bibl><title level="m">A Mountain Woman</title>. Chicago: Way &amp; Williams, 1896; Freeport, NY: Books for Libraries, 1969.<lb/>
+Reviewed in: <title level="j">The Bookman</title> 3 (July 1896): 460; <title level="j">Chicago Tribune</title> (6 June 1896): 10; <title level="j">Critic</title> 29 (8 Aug. 1896): 88; The Dial 22 (1 Jan. 1897): 23; <title level="j">The Nation</title> 63 (10 Sept. 1896): 201.</bibl>
+
+<bibl><title level="m">The Shape of Fear, and Other Ghostly Tales</title>. New York: Macmillan, 1898; 1899; 1904; Freeport, NY: Books for Libraries, 1969<lb/>
+Reviewed in: <title level="j">Atlantic Monthly</title> 83 (Feb. 1899): 287-288; <title level="j">The Bookman</title> 8 (Jan. 1899): 492; <title level="j">Reader</title> (1904): 455; <title level="j">The Spectator</title>; <title level="j">The Bookman</title> 8 (Dec. 1898) <xref url="http://etext.lib.virginia.edu/etcbin/browse-mixed-new?id=AnoPeat&amp;tag=public&amp;images=images/modeng&amp;data=/texts/english/modeng/parsed" rend="new">http://etext.lib.virginia.edu/etcbin/browse-mixed-new?id=AnoPeat&amp;tag=public&amp;images=images/modeng&amp;data=/texts/english/modeng/parsed</xref></bibl>
+
+<bibl><title level="m">The Beleaguered Forest</title>. New York: D. Appleton, 1901.<lb/>
+Reviewed in: <title level="j">Critic</title> 24 (Sept. 1901): 263.</bibl>
+
+<bibl><title level="m">Poems You Ought to Know, Selected by E. W. Peattie</title>. Chicago: Jamieson-Higgins, 1902; Chicago: Fleming H. Revell, 1903; Freeport, NY: Books for Libraries, 1969; Granger Book Co., 1978.<lb/>
+Reviewed in: <title level="j">Critic</title>.</bibl>
+
+<bibl><title level="m">The Edge of Things</title>. Chicago: F.H. Revell, 1903.<lb/>
+Reviewed in <title level="j">The Bookman</title> 18 (Nov. 1903). <xref url="http://etext.lib.virginia.edu/etcbin/browse-mixed-new?id=CooEdge&amp;tag=public&amp;images=images/modeng&amp;data=/texts/english/modeng/parsed" rend="new">http://etext.lib.virginia.edu/etcbin/browse-mixed-new?id=CooEdge&amp;tag=public&amp;images=images/modeng&amp;data=/texts/english/modeng/parsed</xref></bibl>
+</div2>
+
+
+<div2>
+<head type="sub">Movie</head>
+<bibl>The 1925 film <title level="m">Thunder Mountain</title> is based on the play "Thunder" or "Howdy Folks" by Pearl Franklin, which was based on a Peattie's Azalea Young Adult fiction series.</bibl>
+
+<bibl>Overview and Cast<lb/>
+<xref url="http://www.tcm.com/tcmdb/title.jsp?stid=498863&amp;category=Overview" rend="new">http://www.tcm.com/tcmdb/title.jsp?stid=498863&amp;category=Overview</xref><lb/>
+<xref url="http://movies.msn.com/movies/movie.aspx?m=167955&amp;mp=syn" rend="new">http://movies.msn.com/movies/movie.aspx?m=167955&amp;mp=syn</xref></bibl>
+
+<bibl>Director of "Thunder Mountain"<lb/>
+Victor Schertzinger<lb/>
+<xref url="http://www.tcm.com/tcmdb/participant/participant.jsp?spid=171418&amp;apid=151053" rend="new">http://www.tcm.com/tcmdb/participant/participant.jsp?spid=171418&amp;apid=151053</xref></bibl>
+
+<bibl>Actors in "Thunder Mountain"<lb/>
+Madge Bellamy<lb/>
+<xref url="http://www.goldensilents.com/stars/madgebellamy.html" rend="new">http://www.goldensilents.com/stars/madgebellamy.html</xref><lb/>
+Zasu Pitts<lb/>
+<xref url="http://www.goldensilents.com/stars/zasupitts.html" rend="new">http://www.goldensilents.com/stars/zasupitts.html</xref></bibl>
+</div2>
+
+
+
+</div1>
+
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl>Garvey, Ellen Gruber. <title level="m">The Adman in the Parlour: Magazines and the Gendering of the Consumer Culture, 1880s to 1910s</title>. New York: Oxford University Press, 1996.</bibl>
+
+<bibl>Matthiessen, F.O. <title level="m">The James Family</title>. New York: Random House, 1947.</bibl>
+
+<bibl>Wilson, Christopher P. <title level="m">The Labor of Words: Literary Professionalism in the Progressive Era</title>. Athens: University of Georgia Press, 1985.</bibl>
+</div1>
+
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Elia Peattie." Courtesy Robert and Alice Peattie.</bibl>
+</div1>
+
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> Mathiessen, 320.</p>
+
+<p><note id="n02" n="2">2</note> Garvey, 9.</p>
+
+<p><note id="n03" n="3">3</note> Wilson, 40.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

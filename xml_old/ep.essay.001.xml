@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd">
+
+<TEI id="ep.essay.001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Defence of Fine Writing</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.essay.001</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a">A Defence of Fine Writing</title>
+<title level="j">The Critic</title>
+<biblScope type="volume">42</biblScope>
+<date when="1903-06">June 1903</date>
+<biblScope type="pages">546-547</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-11-24</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Converted from html</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb n="546" />
+<head type="main">A Defence of Fine Writing</head>
+
+
+<byline>by Elia W. Peattie</byline>
+
+<p>I SAW recently, in an article by a popular critic, a rebuke for a
+
+young novelist because of "fine writing."  The critic said the one
+
+fault of the novelist was his fondness for that sort of thing, and
+
+expressed the hope that he would sooner or later become conscious
+
+of his mistake.  I have not read the books of the writer to whom
+
+reference was made, but as he was classed with George Meredith I
+
+imagine that his work must have been really literary, and I am
+
+willing to admit &#8212; without undue urging &#8212; that I am not one of
+
+those who shy at beauty, even when I see it lying right beside the
+
+road.</p>
+
+<p>A good many folk have got into the way of considering
+
+matter-of-factness consummate good form.  They cannot tolerate
+
+anything pronounced and would no more indulge in a passionate or
+
+exceedingly pictorial sentence than they would drive down Fifth
+
+Avenue in a scarlet and gold coach drawn by piebald horses.  They
+
+are as plain as a tailor-made suit in their manner of writing, and it is
+
+evident that they are responsible for the withdrawal of Literature
+
+from her place among the Arts, and her dubious installation among
+
+the drab Utilities.  There she sits, poor girl, tight-laced,
+
+conventional, shy, and dull, looking with wistful but bewildered
+
+gaze into that luminous past when she was held to be Queen of all
+
+the Arts.  Fair days, those!  Her courtiers hung pearls about her
+
+neck, there were always dewy blossoms on her head, and the
+
+'broidery of her robes betrayed the devotion of her handmaidens.</p>
+
+<p>Now, marry come up, we must beware lest we decorate our
+
+ideas, we dare apostrophize nothing, we are inoculated against
+
+passion, and fantasy is as out of favor as embezzlement!  It is not
+
+thought quite sane to be enthusiastic about anything; to be ardent is
+
+as great an offence as to be unsophisticated, and any one who is
+
+eloquent may expect the sardonic lifting of brows at his expense. 
+
+Who supposes for a moment, that any one as excessive as
+
+Shakespeare would be proposed at any Writers' Club were he to
+
+appear among us to-day?  It is quite certain that the critic quoted at
+
+the first of this article would have slashed him merrily for his
+
+puerility in daring to be "fine."</p>
+
+<p>I do not say, of course, that the Continental Europeans are as
+
+heavy and self-conscious as all this, for really M. Maeterlinck
+
+seems more or less indifferent to public opinion, and probably
+
+would not apologize though he were caught in the very act of
+
+passionately and eloquently uttering a lovely truth; and quite a
+
+number of Frenchmen, Italians, Germans, Norwegians, and
+
+Russians are still unashamed when they depict some great character,
+
+portray weird or splendid scenes, or present a moving play.  It is
+
+only we Anglo-Saxons who are so stiff, so ugly, and so shy.  Can it
+
+be that we are afraid that we shall become artists and therefore
+
+disreputables?  The danger is slight.  Or it may be that we fear a
+
+soulful outburst may proclaim us provincials.  But, after all, souls
+
+are not exclusively suburban affairs.</p>
+
+<p>If the creative literary worker is so circumscribed, try to fancy
+
+in what cramped quarters the critic must abide!  He is allowed but
+
+one activity &#8212; that of throwing cold water.  His praise is often as
+
+dampening as his fault-finding.  Pronouncing upon an earnest and
+
+eager book, he says, perhaps: "The author appears to be unduly
+
+agitated about his subject.  He should learn to take well-known facts
+
+and his own none too lofty fancies with more calmness."  Or,
+
+speaking of a glowing biography, he utters this easy cynicism: "The
+
+author has permitted himself to become an advocate for his subject. 
+
+The book is eulogistic, and not to be classed with serious works on
+
+this theme."  A new poet appears and the critic is distinctly
+
+annoyed.  "We fancy," he writes, "that we discern the influences of
+
+certain Victorians in this young man's
+
+<pb n="547" />
+
+work.  This is well enough, and we commend the tidiness of his
+
+versification, but we suggest more caution in simile and phrase, and
+
+look to a moderation of adolescent enthusiasms."</p>
+
+<p>In the class-room it is no better.  There are exceptions, of
+
+course, but the average instructor in English is the Discourager of
+
+Genius, the Slayer of Talent.  It is a common thing for originality to
+
+be held up to ridicule before a class, and anything like passion of
+
+utterance would be considered fit subject for professorial mirth.  It
+
+is not in such places, surely that inspiration will be found.  It is not
+
+here that the writer will learn to express himself with unreserve and
+
+delight.</p>
+
+<p>"Writing," said Sir Walter Scott, "is a habit.  My brother
+
+Thomas could have written much better than I, but he never formed
+
+the habit."</p>
+
+<p>This is a substantial half of the truth, and the one unquestioned
+
+excuse for courses in English is that they may get students in the
+
+habit of writing.  If they get them out of the habit of it, they will not
+
+have served their purpose.  A school for writers is not designed to
+
+discourage students from writing, any more than a law school is
+
+intended to deter students from practising law.  But as English is
+
+taught in many university class-rooms, the professor appears in the
+
+r&#244;le of the defender of literature against the attacks of the
+
+mob &#8212; the class representing, of course, the murderous
+
+<hi rend="italic">canaille</hi>.  This attitude is not conducive to producing
+
+na&#239;ve and spontaneous utterances; it is not calculated to
+
+invite a revelation of temperament, or to extract from the delicate
+
+and reticent poet the visions of his soul.</p>
+
+<p>It must be a sturdy talent and a robust egotism that can survive
+
+these onslaughts of the professors of English; and adolescent
+
+egotism is liable to be frail and budding talent tender.  Only a very
+
+melodramatic mind can find pleasure in contemplating the tragedies
+
+of the class-room.</p>
+
+<p>The question is, How is the Anglo-Saxon to accustom himself
+
+to beauty?  Could he, by the wearing of smoked glasses, mitigate
+
+the glare till his eyes became strengthened sufficiently for him to
+
+look at loveliness without blinking?  Since he is an idealist in the
+
+matter of morals, may we not hope that he will presently cease to be
+
+a literalist in matters of art?  If his imagination is appealed to by the
+
+wizards of modern mechanics, the practical masters of physics, the
+
+captains of commerce, can it not be touched also by the
+
+impassioned and spiritual artist?  Must the delineator of life foever
+
+feign that he finds the mortal experiences of men and women
+
+commonplace, snug, smug, and trivial?  If the geographer is
+
+permitted to tell tremendous tales, may not the poet be permitted to
+
+do as much?  If the machinist sets the pulses throbbing with his
+
+colossal engines, may not the novelist be allowed to rival him?</p>
+
+<p>At any rate, these calm, mediocre, and cynic intelligences need
+
+not endeavor to discomfit the enthusiasts with their easy
+
+opprobrium.  It is pure shenanigan, and ought not to fool any one.</p>
+
+<p>Moreover, there is one tremendous comfort.  The real genius
+
+does not bother very much with the ideas of other men.  He is too
+
+self-absorbed.  So perhaps he will never find out that his eloquence
+
+is discountenanced by the trim critics of the capitals.  As for the
+
+unhappy child of talent, it is different with him.  He has regard for
+
+the critics.  He thinks about public opinion.  He is likely, under the
+
+lash of the unimaginative reviewer of books, to fit into the lustreless
+
+mosaic of the common scheme.  It is much more than probable that,
+
+having little faith, he will blush for the beauty that burned in his
+
+heart in the days when he first knew the joy of utterance, and that he
+
+will become as literal, as cautious, as full of doubt and dulness as
+
+the most cosmopolitan and sophisticated critic could desire.</p>
+
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+
+]>
+<TEI id="ep.gs.0007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Child of the Rain</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.gs.0007</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="m">The Shape of Fear and Other Ghostly Tales</title>
+<title level="a">A Child of the Rain</title>
+<pubPlace>New York</pubPlace>
+<publisher>Macmillan</publisher>
+<date value="1898">1898</date>
+<series>Short Story Index Reprint Series</series>
+<pubPlace>Freeport, NY</pubPlace>
+<publisher>Books for Libraries Press</publisher>
+<date value="1969">1969</date>
+<biblScope type="pages">79-88</biblScope>
+</bibl>
+
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p>Note: I have omitted signature indicators and running heads.
+
+In addition, I have made the following changes to the text:
+
+<table>
+
+<row><cell>PAGE</cell><cell>LINE</cell><cell>ORIGINAL</cell><cell>CHANGED TO</cell></row>
+
+<row><cell>156</cell><cell>1</cell><cell>where as</cell><cell>were as</cell></row>
+
+<row><cell>156</cell><cell>4</cell><cell>mouth</cell><cell>mouth.</cell></row>
+
+<row><cell>165</cell><cell>5</cell><cell>Wedgwood</cell><cell>Wedgewood</cell></row>
+
+<row><cell>166</cell><cell>9</cell><cell>Wedgwood</cell><cell>Wedgewood</cell></row>
+
+<row><cell>167</cell><cell>6</cell><cell>surperfluous</cell><cell>superfluous</cell></row>
+
+<row><cell>172</cell><cell>11</cell><cell>every</cell><cell>ever</cell></row>
+
+<row><cell>173</cell><cell>17</cell><cell>Bogg</cell><cell>Boggs</cell></row>
+
+</table>
+</p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+
+
+<revisionDesc>
+<change>
+<date>2009-02-26</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-11-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item></item>
+</change>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Converted from html</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="ep.gs.0007.01.jpg" n="79"/>
+
+<head>A CHILD OF THE RAIN</head>
+
+<p>IT was the night that Mona Meeks, the dressmaker, told him she
+
+didn't love him.   He couldn't believe it at first, because he had so
+
+long been accustomed to the idea that she did, and no matter how
+
+rough the weather or how irascible the passengers, he felt a song in
+
+his heart as he punched transfers, and rang his bell punch, and
+
+signalled the driver when to let people off and on.</p>
+
+<p>Now, suddenly, with no reason except a woman's, she had
+
+changed her mind.   He dropped in to see her at five o'clock, just
+
+before time for the night shift, and to give her two red apples he had
+
+been saving for her. She looked at the apples as if they were
+
+invisible and she could not see them, and <orig reg="standing">stand-
+
+<pb id="ep.gs.0007.02.jpg" n="80"/>
+
+ing</orig> in her disorderly little dressmaking parlor, with its cuttings and
+
+scraps and litter of fabrics, she said:</p>
+
+<p>"It is no use, John. I shall have to work here like this all my life
+
+&#8212;work here alone. For I don't love you, John. No, I don't. I thought
+
+I did, but it is a mistake."</p>
+
+<p>"You mean it?" asked John, bringing up the words in a great
+
+gasp.</p>
+
+<p>"Yes," she said, white and trembling and putting out her hands
+
+as if to beg for his mercy.  And then&#8212;big, lumbering fool&#8212;he
+
+turned around and strode down the stairs and stood at the corner in
+
+the beating rain waiting for his car. It came along at length,
+
+spluttering on the wet rails and spitting out blue fire, and he took his
+
+shift after a gruff "Good night" to Johnson, the man he
+
+relieved.</p>
+
+<p>He was glad the rain was bitter cold and drove in his face
+
+fiercely.   He rejoiced at the cruelty of the wind, and when it hustled
+
+pedestrians before it, lashing them, twisting 
+
+<pb id="ep.gs.0007.03.jpg" n="81"/>
+
+their clothes, and threatening their equilibrium, he felt amused.   He
+
+was pleased at the chill in his bones and at the hunger that tortured
+
+him. At least, at first he thought it was hunger till he remembered
+
+that he had just eaten.  The hours passed confusedly. He had no
+
+consciousness of time. But it must have been late,&#8212;near midnight,
+
+&#8212;judging by the fact that there were few persons visible anywhere
+
+in the black storm, when he noticed a little figure sitting at the far
+
+end of the car.   He had not seen the child when she got on, but all
+
+was so curious and wild to him that evening&#8212;he himself seemed to
+
+himself the most curious and the wildest of all things&#8212;that it was
+
+not surprising that he should not have observed the little
+
+creature.</p>
+
+<p>She was wrapped in a coat so much too large that it had become
+
+frayed at the bottom from dragging on the pavement. Her hair hung
+
+in unkempt stringiness about her bent shoulders, and her feet were
+
+covered with 
+
+<pb id="ep.gs.0007.04.jpg" n="82"/>
+
+old arctics, many sizes too big, from which the soles hung
+
+loose.</p>
+
+<p>Beside the little figure was a chest of dark wood, with curiously
+
+wrought hasps. From this depended a stout strap by which it could
+
+be carried over the shoulders. John Billings stared in, fascinated by
+
+the poor little thing with its head sadly drooping upon its breast, its
+
+thin blue hands relaxed upon its lap, and its whole attitude so
+
+suggestive of hunger, loneliness, and fatigue, that he made up his
+
+mind he would collect no fare from it.</p>
+
+<p>"It will need its nickel for breakfast," he said to himself. "The 
+
+company can stand this for once. Or, come to think of it, I might
+
+celebrate my hard luck. Here's to the brotherhood of failures!" And
+
+he took a nickel from one pocket of his great-coat and dropped it in
+
+another, ringing his bell punch to record the transfer.</p>
+
+<p>The car plunged along in the darkness, and the rain beat more
+
+viciously than ever in his face. The night was full of the rushing
+
+sound 
+
+<pb id="ep.gs.0007.05.jpg" n="83"/>
+
+of the storm. Owing to some change of temperature the glass of the
+
+car became obscured so that the young conductor could no longer
+
+see the little figure distinctly, and he grew anxious about the
+
+child.</p>
+
+<p>"I wonder if it's all right," he said to himself. "I never saw living
+
+creature sit so still."</p>
+
+<p>He opened the car door, intending to speak with the child, but
+
+just then something went wrong with the lights. There was a blue
+
+and green flickering, then darkness, a sudden halting of the car, and
+
+a great sweep of wind and rain in at the door. When, after a
+
+moment, light and motion reasserted themselves, and Billings had
+
+got the door together, he turned to look at the little passenger. But
+
+the car was empty.</p>
+
+<p>It was a fact. There was no child there&#8212;not even moisture on
+
+the seat where she had been sitting.</p>
+
+<p>"Bill," said he, going to the front door and addressing the driver,
+
+"what became of that little kid in the old cloak?"</p>
+
+<pb id="ep.gs.0007.06.jpg" n="84"/>
+
+<p>"I didn't see no kid," said Bill, crossly. "For Gawd's sake, close
+
+the door, John, and git that draught off my back."</p>
+
+<p>"Draught!" said John, indignantly, "where's the draught?"</p>
+
+<p>"You've left the hind door open," growled Bill, and John saw
+
+him shivering as a blast struck him and ruffled the fur on his
+
+bear-skin coat. But the door was not open, and yet John had to
+
+admit to himself that the car seemed filled with wind and a strange
+
+coldness.</p>
+
+<p>However, it didn't matter. Nothing mattered! Still, it was as well
+
+no doubt to look under the seats just to make sure no little
+
+crouching figure was there, and so he did. But there was nothing. In
+
+fact, John said to himself, he seemed to be getting expert in finding
+
+nothing where there ought to be something.</p>
+
+<p>He might have stayed in the car, for there was no likelihood of
+
+more passengers that evening, but somehow he preferred going out 
+
+<pb id="ep.gs.0007.07.jpg" n="85"/>
+
+where the rain could drench him and the wind pommel him. How
+
+horribly tired he was! If there were only some still place away from
+
+the blare of the city where a man could lie down and listen to the
+
+sound of the sea or the storm&#8212;or if one could grow suddenly old
+
+and get through with the bother of living&#8212;or if&#8212;</p>
+
+<p>The car gave a sudden lurch as it rounded a curve, and for a
+
+moment it seemed to be a mere chance whether Conductor Billings
+
+would stay on his platform or go off under those fire-spitting
+
+wheels.   He caught instinctively at his brake, saved himself, and 
+
+stood still for a moment, panting.</p>
+
+<p>"I must have dozed," he said to himself.</p>
+
+<p>Just then, dimly, through the blurred window, he saw again the
+
+little figure of the child, its head on its breast as before, its blue
+
+hands lying in its lap and the curious box beside it. John Billings
+
+felt a coldness beyond the coldness of the night run through his
+
+blood. Then, with a half-stifled cry, he 
+
+<pb id="ep.gs.0007.08.jpg" n="86"/>
+
+threw back the door, and made a desperate spring at the corner
+
+where the eerie thing sat.</p>
+
+<p>And he touched the green carpeting on the seat, which was quite
+
+dry and warm, as if no dripping, miserable little wretch had ever
+
+crouched there.</p>
+
+<p>He rushed to the front door.</p>
+
+<p>"Bill," he roared, "I want to know about that kid."</p>
+
+<p>"What kid?"</p>
+
+<p>"The same kid! The wet one with the old coat and the box with
+
+iron hasps! The one that's been sitting here in the car!"</p>
+
+<p>Bill turned his surly face to confront the young conductor.</p>
+
+<p>"You've been drinking, you fool," said he. "Fust thing you know
+
+you'll be reported."</p>
+
+<p>The conductor said not a word. He went slowly and weakly
+
+back to his post and stood there the rest of the way leaning against
+
+the end of the car for support. Once or twice he muttered:</p>
+
+<pb id="ep.gs.0007.09.jpg" n="87"/>
+
+<p>"The poor little brat!"  And again he said, "So you didn't love
+
+me after all!"</p>
+
+<p>He never knew how he reached home, but he sank to sleep as
+
+dying men sink to death. All the same, being a hearty young man,
+
+he was on duty again next day but one, and again the night was
+
+rainy and cold.</p>
+
+<p>It was the last run, and the car was spinning along at its limit,
+
+when there came a sudden soft shock. John Billings knew what that
+
+meant.  He had felt something of the kind once before. He turned
+
+sick for a moment, and held on to the brake.   Then he summoned
+
+his courage and went around to the side of the car, which had
+
+stopped. Bill, the driver, was before him, and had a limp little figure
+
+in his arms, and was carrying it to the gaslight. John gave one look
+
+and cried:</p>
+
+<p>"It's the same kid, Bill! The one I told you of!"</p>
+
+<p>True as truth were the ragged coat dangling from the pitiful
+
+body, the little blue hands, 
+
+<pb id="ep.gs.0007.10.jpg" n="88"/>
+
+the thin shoulders, the stringy hair, the big arctics on the feet. And
+
+in the road not far off was the curious chest of dark wood with iron
+
+hasps.</p>
+
+<p>"She ran under the car deliberate!" cried Bill. "I yelled to her,
+
+but she looked at me and ran straight on!"</p>
+
+<p>He was white in spite of his weather-beaten skin.</p>
+
+<p>"I guess you wasn't drunk last night after all, John," said
+
+he.</p>
+
+<p>"You&#8212;you are sure the kid is&#8212;is there?" gasped John.</p>
+
+<p>"Not so damned sure!" said Bill.</p>
+
+<p>But a few minutes later it was taken away in a patrol wagon,
+
+and with it the little box with iron hasps.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

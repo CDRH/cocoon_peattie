@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.intro.01 SYSTEM "ep.nov.jtw.intro.01.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.intro">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth: A Romance of the Supernatural</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.foy.intro</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Revisions</item>
+</change>
+<change>
+<date>2008-08-25</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Elia Peattie's "The Fountain of Youth"</head>
+
+<head type="sub">Introduction</head>
+
+<figure entity="ep.nov.foy.intro.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>In February 1893, Elia Peattie travelled to Florida on an unknown mission, perhaps to accompany her husband, Robert, who suffered from ill health, on a recuperative journey to a warmer winter climate. Whatever the case, two publications transpired from the experience. First, she penned an editorial while in Florida headlined "A Contrast of Extremes: A Comparison of Nebraska and Florida by One Who Knows Both" on February 14, 1893, that was published five days later in the <title level="j">Omaha World-Herald</title>. It presented "The Compensations and Drawbacks of Each&#8211;Some Thoughts on Agriculture and Horticulture." Lauding the diversity of Florida agriculture, especially the role women played in truck farming, she urges Nebraskans to quit blaming the railroads and elevators for their problems and try new crops, like sugar beets or fruits and vegetables. She philosophizes, "life was given to us that our souls might grow; and I maintain that they are not likely to do so if the surroundings are sordid, if the body is too worn with work to let the brain exercise itself; or if the necessities of life so force themselves before the eye of the mind that the spiritual imagination lies inert."</p>
+
+	<p>The second piece with a Florida setting was a short novel, "The Fountain of Youth: A Romance of the Supernatural," serialized in the <title level="j">World-Herald</title> from October 1894 to January 1895.<ref target="n01" n="1">1</ref>  Peattie's realistic Florida settings, which she observed with the eye of a writer and learned from first hand reports, add credulity to her fiction. This utopian/dystopian gothic romance explores the philosophical question: "If the Fountain of Youth bubbled up before you and you knew that by drinking of its waters you would live forever, would you drink it?" </p>
+</div1>
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Fountain of Youth." <xref url="http://9teen87spostcards.blogspot.com/2008/02/fountain-of-youth-st-augustine-florida.html" rend="new">http://9teen87spostcards.blogspot.com/2008/02/fountain-of-youth-st-augustine-florida.html</xref> With Permission.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> See the Peattie Bibliography for the dates and page numbers of the publications.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

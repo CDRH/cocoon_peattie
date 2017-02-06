@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.nc.i SYSTEM "ep.nov.nc.i.jpg" NDATA jpeg>
+<!ENTITY ep.nov.nc.52a SYSTEM "ep.nov.nc.52a.jpg" NDATA jpeg>
+<!ENTITY ep.nov.nc.98a SYSTEM "ep.nov.nc.98a.jpg" NDATA jpeg>
+<!ENTITY ep.nov.nc.158a SYSTEM "ep.nov.nc.158a.jpg" NDATA jpeg>
+
+]>
+
+<TEI id="ep.nov.nc">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Newcomers</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<respStmt>
+<resp>Illustrator</resp>
+<name n="Rosenmeyer, B. J.">With illustrations by B. J. Rosenmeyer</name>
+</respStmt>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2010</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.nc</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="m">The Newcomers</title>
+<publisher>Houghton Mifflin Company</publisher>
+<biblScope type="volume"></biblScope>
+<date value="1917">1917</date>
+<biblScope type="pages"></biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Book</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2010-06-14</date>
+<respStmt>
+<name>Rhiannon Root</name>
+</respStmt>
+<item>Proof reading</item>
+</change>
+<change>
+<date>2010-03-05</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2010-02-18</date>
+<respStmt>
+<name>Charise G. Alexander</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+
+<figure entity="ep.nov.nc.i">
+<figDesc></figDesc>
+</figure>
+<pb n="1" />
+<head type="main">CHAPTER I</head>
+
+<head type="sub">A HARD&#8211;LUCK DAY</head>
+
+<p>
+"IN half an hour," said Rue Wardell, looking at her wrist watch, "we'll be there."
+</p>
+<p>Annie Dee Wardell, who had a wrist watch of her own, consulted it for confirmation. "Time to get our things together," she declared.</p>
+<p>Their brother, Robert Wardell, carried his watch in his pocket, but he pretended to consult his brown, muscular wrist.</p>
+<p>"Dear me," he said in a voice such as his sisters might be expected to use, but did not, "I'm so fluttered! Where's my parasol?"</p>
+<p>His sisters paid no attention to him. It was not good for him to know that they were secretly flattered by his impertinences. His mother, to be sure, did go the length of saying, "Don't be foolish, Robert." But she really was pleased to have him foolish, and<pb id="Image00011.tif" n="2" />
+her mild reproof was only a sign that she was as her son had put it, rather "fluttered."</p>
+<p>There would have been some excuse for her and for the others if they had shown worry, for they were out on a hazard of new fortunes. They had cut loose from their accustomed moorings, and for the first time
+were going among strangers. But, as Mrs. Wardell had said over and over again, hardly seemed that a family brought up in so big a city as Chicago ought to fear a little town like Dalroy.</p>
+<p>Mrs. Wardell herself had not been born in Chicago. Indeed, she had not left the pleasant Massachusetts village where she had grown up until she went to share the fortunes of Richard Wardell. But always, in the midst of prosperity, when she was the mistress of a handsome house in the city, she had retained tender memories of her home town with its neighborliness and its rigid ideals.</p>
+<p>Eight years had passed since her husband
+had died. With her fervent will to do what
+was best for her children, she had sold the<pb id="Image00012.tif" n="3" />
+large house and its attractive, almost sumptuous, furnishings, and had settled down in a small furnished apartment near the school that Robert and the girls attended. And there they had valiantly made the best of their rather commonplace circumstances.</p>
+<p>At the age of twenty&#8211;three Robert had finished his course at Armour Institute and accepted the position of assistant engineer in the building of a dam on Rock River in central Illinois. Rue, three years younger, had just ended her first year as a teacher of English in what her sister derisively called "a young goose's academy." Annie Dee had finished her high&#8211;school course and was taking some credit to herself for having done it at the age of seventeen.</p>
+<p>Rue alone of them all had been doubtful about the wisdom of making the change.</p>
+<p>"I've given up my position, I know," she had said with a sigh at one of the last family councils, "but I may be very glad to ask for it again next September &#8212; when, probably, it will be too late to get it back."</p>
+<pb id="Image00013.tif" n="4" />
+<p>"You'll never ask for it back if I have my way, sister," Annie Dee declared. "I never could endure to see you in that place, wasting your time on those smirking, chattering creatures."</p>
+<p>"Don't be violent, sis," Rue answered "Their smirking and chattering did n't hurt me."</p>
+<p>"Yes, it did, my dear. It put you in wrong light. Mother thinks just as I do. She was ashamed to have you associate with a school that set shallow accomplishments above real education."</p>
+<p>Rue's face flushed, but she said nothing.</p>
+<p>"You're not saying anything, Rue," Annie Dee ventured after a minute.</p>
+<p>"What is there to say? If I had been able to take my normal&#8211;school course, I might have commanded a position of some consequence. As it is&#8212;"</p>
+<p>"As it is," Robert broke in, "I hogged the education! Well, it can't be helped, Rue. My only comfort lies in thinking how much brighter you are than I. You'll make up
+<pb id="Image00014.tif" n="5" />
+some way for all that you've missed ; and then, too, maybe you'll not have to teach school many years."</p>
+<p>But whatever their arguments about the
+benefits and disadvantages of leaving the city had been, they were at last sitting, with bags in hand, ready for the train to slacken at the station of Dalroy. To be sure, it had not been necessary that they should all accompany Robert, but they had to spend the summer somewhere, and why not with him, since to be together was the chief desire of all of them? Mrs. Wardell hoped to find some little cottage open to sun and air, surrounded by trees, with a garden plat and a pleasant
+vista.</p>
+<p>"Dalroy looks like the prettiest sort of a
+place," Annie Dee announced as she caught
+glimpses of the river through a fine row of
+Lombardy poplars. "Oh, mother, I know
+we're going to love it! You will, especially,
+you poor dear, after being shut up in that
+little flat so long."</p>
+<p>
+"Come," said Rue. "Here we are."</p>
+<pb id="Image00015.tif" n="6" />
+<p>A few moments later the Wardells were standing before the usual dark&#8211;red station and marveling at two lackluster omnibus drivers, who stood in depressed and depressing silence beside their vehicles. The Wardells had been the only passengers to leave the train, but a large, untidy&#8211;looking man with a worried expression on his face was boarding it. The Wardells could not have failed to notice him, for he hung from the platform of the train even as it pulled out and regarded them with a glance that seemed to have in it both anxiety and dislike.</p>
+<p>"Guess he has something on his mind, commented Robert blithely. "I don't see any signs of a baggageman, do you, Rue? It does n't seem right to go away and leave our trunks standing out on the platform."</p>
+<p>But the station agent, who heard, had a different opinion.</p>
+<p>"Let 'em stand," he said. "Nobody won't hurt 'em."</p>
+<p>"But where is the baggageman?"</p>
+<pb id="Image00016.tif" n="7" />
+<p>"Gone away for his health," drawled the agent, and winked at an imaginary audience.</p>
+<p>Robert did not understand the point of the joke until, turning to take one more sweeping inventory of their trunks and boxes, he saw the agent himself swinging the luggage into the storeroom.</p>
+<p>A tall young man, with his hands in his pockets and his hat on the back of his head, stood leaning against the shady side of the station. To him Robert turned trustingly for advice.</p>
+<p>"Which hotel would you recommend?" he asked, indicating the waiting omnibuses, on which were lettered the faded legends that they belonged respectively to "The Dalroy House" and "The Sinnissippi Hotel."</p>
+<p>The young man looked out of half&#8211;closed lids and dropped the one word, "Neither."</p>
+<p>"Perhaps you know of some boardinghouse, then?"</p>
+<p>"There ain't but one &#8212; and it's for railway hands."</p>
+<pb id="Image00017.tif" n="8" />
+<p>Robert would have thought the young man amusing if the fellow had not been so evidently ill&#8211;natured.</p>
+<p>"I choose the Dalroy House, because I don't know how to pronounce the name of the other one!" cried Annie Dee gayly. And because that seemed as good a reason as any, they were soon rattling up the street behind the bored&#8211;looking horses.</p>
+<p>The streets would have been more pleasant, perhaps, if they had not been so broad. They might have been designed for a world capital &#8212; so imposing was their width; but stores, of moderate size and of not very attractive appearance, lined the way, with many gaps for future buildings. The Dalroy House, however, had an engaging village look, as if it had known many experiences to which its neighbors were strangers.</p>
+<p>"What a nice human expression it has!" said Annie Dee admiringly. "I like the old paint and the sagging shutters. See, there are trees in the side yard! Do you think we might eat under them?"</p>
+<pb id="Image00018.tif" n="9" />
+<p>"Why, there 's Mr. Harmon's office opposite!" cried Robert with some excitement.</p>
+<p>John Harmon was his employer, whom he had not yet seen, and his mother and sisters stared at the little one&#8211;story office building with something like awe. The employer of Robert was bound to seem important to them.</p>
+<p>With the feeling that they were on an adventure, the Wardells mounted the steps to the wide veranda and passed into the hotel office. They had arrived, and they felt exhilarated over the event. They were even willing to have others exhilarated; but the group of elderly men smoking their pipes in gloomy sociability seemed to care nothing about them. Even the clerk was calm &#8212; almost insultingly so. He had rooms, yes. Good rooms? Good enough, he guessed. A bath? No room with a bath &#8212; only general baths. The price? It was not modest.</p>
+<p>"We shall be with you until we find a house," said Mrs. Wardell in that neighborly voice that long residence in the city had not been able to take from her. "Per<pb id="Image00019.tif" n="10" />haps you will kindly tell us something about the vacant houses in town. Could we find a furnished one, do you think ? "</p>
+<p>"There are no vacant houses in town," said the clerk indifferently.</p>
+<p>" None at all? " persisted Mrs. Wardell. "Not some little place that would do for the summer?"</p>
+<p>"Nothing at all, I believe," the clerk replied in a tone that seemed to say it was time to end the conversation.</p>
+<p>The group in the corner had the air of thinking the same thing and thinking it harder. There was an atmosphere of discouraging chill.</p>
+<p>Annie Dee giggled. "They don't need electric fans here," she whispered to her sister.</p>
+<p>The entrance of a young woman saved the situation. She was a tall girl with dark eyes and a well&#8211;tanned skin. Her plain frock of white linen, her immaculate white canvas shoes, and her jaunty, untrimmed hat of green felt gave her an air of distinction.<pb id="Image00020.tif" n="11" />
+She was businesslike, but she had the manner of being so temporarily. She bowed to
+the clerk and won a smile from him. Then 
+she approached the old cronies.</p>
+<p>"Father is n't here?" she asked in a tone
+that had more carrying power than she seemed to realize.</p>
+<p>The Wardells had started to get their bags together, but they lingered, fascinated. How did it happen that this fine girl was addressing those seedy, idle gossips in the tone of a comrade? The men were appreciative of her favors, it seemed. They removed their pipes, and one of them actually got to his feet.</p>
+<p>"Cap ain't been here all afternoon, Miss Pat," he said. "Was n't there some talk of his taking a party down the river? Did you happen to notice whether the Raven was at the dock?"</p>
+<p>"No, I did n't come round by the cabin," the girl said.</p>
+<p>She hesitated a moment, and her eye searched the room. It seemed to the Wardells<pb id="Image00021.tif" n="12" />
+that she was not accepting the word of her father's friends unquestioningly.</p>
+<p>"It 's quite important that I should see him. If he comes in, perhaps you'll be kind enough to tell him."</p>
+<p>She smiled at the men rather pleadingly, and they responded with a chorus of assurances that they would deliver her message. Her glance, which had on her entrance passed to the Wardells and swept on, now returned to them with an alert, friendly look.</p>
+<p>She was nearly at the door, when Rue suddenly contrived to make an opening for acquaintanceship.</p>
+<p>"Oh, may we see you a moment?" she said, walking toward her.  Just one little moment &#8212; in the parlor?" She turned to the clerk. "There is a parlor?"</p>
+<p>There was; the clerk pointed to it, and the Wardells trooped into it with the girl.</p>
+<p>"It's about a house," Rue began. "We are strangers, as you see, and we 're hoping to spend the summer here because my brother has work in the town. The clerk has quite<pb id="Image00022.tif" n="13" />
+dismayed us by telling us that there are no vacant houses to be had. Can that be so?"</p>
+<p>The girl thought a moment, while she looked from one to the other with friendly eyes; but as she reflected, she sobered.</p>
+<p>"Oh," she said at last regretfully, "I don't believe there 's one&#8212;not a single one!"</p>
+<p>"How extraordinary!" said Mrs. Wardell. "Is this such a rapidly growing town?"</p>
+<p>"No, it could n't be called that," the girl admitted. "On the contrary, it 's a town where little building has been done for years."</p>
+<p>"I'm afraid we 're in a predicament," said Mrs. Wardell.</p>
+<p>"Yes," murmured the girl sympathetically. Then she laughed. "There are a number of persons in town who would be very glad to get away," she said. "The only thing I can suggest is that you let them know you want to move in. Perhaps that will give them the impulse to go."</p>
+<p>"Why do they want to go?" demanded Annie Dee.</p>
+<pb id="Image00023.tif" n="14" />
+<p>"I don't suppose they all have the same reason," she said. " But a little town is something like a story often told &#8212; you may get tired of it."</p>
+<p>"I 'm afraid we have been very unbusinesslike in coming here without making proper inquiries," said Mrs. Wardell. "We 're so used to living where we can get anything we have the money to pay for that we 're spoiled. It never occurred to us that we could n't find a house."</p>
+<p>"I see," said the girl. "Well, when I want anything <hi rend="italic">terribly</hi> it usually comes to me. I hope you 'll have the same luck. If I can do anything at all for you, call me up by telephone &#8212; Patricia Quincannon, 29 Blue. And if I hear of anything, shall I communicate with you here?"</p>
+<p>"Would you?" cried Robert. "You are very kind indeed. Wardell is our name. This is my mother, Miss Quincannon; these are my sisters." That would have seemed sufficient, but he added with an air of awkward isolation, "I am Robert Wardell."</p>
+<pb id="Image0024.tif" n="15" />
+<p>A gleam of something like mischief shone in the girl's eyes, but before Robert could decide what it meant she had made her bows and farewells and was gone.</p>
+<p>There was nothing left now for the Wardells to do except to go to their rooms, which, as Annie Dee said, was a stupid proceeding when they were all keyed up for something stirring. The rooms proved to be pleasant enough, but they suggested appalling inactivity.</p>
+<p>"Run over and call on Mr. Harmon, Robert," said Mrs. Wardell. "He ought to know that you 've come."</p>
+<p>Robert was gone a long time; long enough for the girls and Mrs. Wardell to have their trunks brought to their rooms and for them to unpack their handbags. Annie Dee was walking round and round, trying, she said, to distribute her vibrations and make the place seem homelike, when Robert came back. His face was white and his manner disturbed.</p>
+<p>"What is it?" the three demanded at once. "What 's wrong? "</p>
+<pb id="Image0025.tif" n="16" />
+<p>"Everything! Mr. Harmon was horrified when he heard that I had brought you all with me. He had no idea of my doing such a thing. He said Dalroy was a wretched hole as far as accommodations went, and that anyway&#8212;" He paused.</p>
+<p>"Anyway," they all prompted.</p>
+<p>"He is n't sure that the dam 's going to be built."</p>
+<p>"Why not?" demanded Mrs. Wardell in the very quiet voice that she used when excited.</p>
+<p>"Oh, it seems that there is opposition on every hand! The people don't want a factory here &#8212; particularly a furniture factory. A number of the leading citizens are stockholders in a furniture factory in a town twenty miles down the river, and they don't want competition. But that is n't all. The dam will flood fifty acres of low, sedgy land on the farther bank of the river. That land has never been considered of the slightest value, and Mr. Harmon supposed he should have no trouble in buying it, at a moderate<pb id="Image00026.tif" n="17" />
+figure, of course. But now the old duffer who owns it declares that he was about to drain it and raise corn on it, and is offering figures to show how much corn per acre can be raised on precisely that kind of land. He refuses to sell it at a reasonable figure and has served an injunction to prevent Mr. Harmon from building the dam. The whole scheme 's tied up. Meanwhile &#8212; no work and no salary for Bobbie Wardell."</p>
+<p>"No salary? But you are here &#8212; you'll give them your time. It is n't your fault that&#8212;"</p>
+<p>"And you refused that other position."</p> 
+<p>"And now it's too late to take that back!" </p>
+<p>"No job and no home," said Rue nervously.</p>
+<p>"We have no more sense," announced Annie Dee feelingly, "than rabbits."</p>
+<p>"Not so much," said her brother.</p>
+<p>For five minutes they gloomily sat in silence, thinking of what they might have done and was what they might have left undone. It was not a cheerful moment, although it<pb id="Image00027.tif" n="18" />
+was a vivid one, and they were often to remember it in years to come.</p>
+<p>It was Annie Dee who first reentered the ranks of the courageous. "Come," she said, "let's have lemonade served in the garden. It will be cooling for the brain."</p>
+<p>It was a pleasing thought, and they immediately descended to the office.</p>
+<p>"May we have some lemonade?" asked Annie Dee with what cheerfulness she could summon. "And we'd like it served in the garden, please."</p>
+<p>The gossips by the window turned to stare. The clerk removed his pen from behind his ear and replaced it again.</p>
+<p>"We serve nothing here except at mealtimes. And we never serve anything except in the dining&#8211;room or, in case of sickness, in private rooms."</p>
+<p>"I wish," Annie Dee replied, fixing the clerk with a steady gaze, "that I were running this hotel. I'd try to make my guest have a pleasant time."</p>
+<p>"Annie Dee!" said her mother in reproof.</p> 
+<pb id="Image00028.tif" n="19" />
+<p>But the girl paid no attention. She swept out to the street and the others aimlessly followed her.</p>
+<p>"Oh, it's blistering hot out here!" said Rue. "Where are you going, Annie Dee? We can't roam round in this heat. Why not go back to our rooms? There does n't seem to be any other place to go."</p>
+<p>When she remembered that even that commonplace refuge was an extravagance that they could ill afford, she could hardly keep back her tears. Worn out with her year of teaching, Rue was not in such good fighting trim as her sister.</p>
+<p>"Go back to our rooms?" Annie Dee cried, not caring in the least that her defiant young voice was being wafted back to the ears of that wooden hotel clerk and the group of smoking cronies. "Not a bit of it!
+We'll go and find a house where we can make
+our own lemonade."</p>
+<p>"What is the use in finding a house if there's no work for Bob?" asked Rue brokenly.</p>
+<pb id="Image00029.tif" n="20" />
+<p>"There'll be work," Annie Dee declared. "You would n't want him to run away because there are difficulties, would you? There are always difficulties in business."</p>
+<p>"I had no thought of running away," said Robert quietly. "Mr. Harmon would think very poorly of me if I did. I've merely got to share his hard luck."</p>
+<p>Mrs. Wardell's lips were drawn in a straight line and her eyes had what Annie Dee called their "turned&#8211;in look."</p>
+<p>"Let's go on," she said, looking down the street, where the heat rose in visible waves. "We may as well see what is to be seen."</p>
+</div1>
+<pb id="Image00030.tif" n="21" />
+<div1 type="">
+<head type="main">CHAPTER II</head>
+<head type="sub">HOW THE LUCK TURNED</head>
+
+<p>ROBERT'S employer, Mr. Harmon, called in the evening to pay his respects to Mrs. Wardell, and in the dim hotel parlor the question uppermost in the minds of all of them was discussed.</p>
+<p>"I'll admit," said Mr. Harmon, who was much younger than the girls had expected him to be, "that when I sent for your son I thought him foot&#8211;loose, as a young man just out of college usually is. Had I known that it was otherwise with him, I should have wired to him at once when the injunction was served and told him not to come. I let him come, even when things were so discouraging, because I thought I might be able to use him in little ways and that he might be content for a time upon part of the salary that I originally promised him."</p>
+<p>"I see your position perfectly, and you are <pb id="Image00031.tif" n="22" />
+to feel no responsibility whatever concerning us," Mrs. Wardell responded, so pleasantly that only her children could guess how much pride the remark covered. "We have to spend the summer somewhere, and naturally we prefer to spend it with Robert if possible."</p>
+<p>"As matters stand," said Mr. Harmon, "I find myself completely tied up, and even those small details with which I had hoped to occupy him temporarily must be set aside for a time. You see, Dalroy is one of those mean little towns where every one seems to enjoy setting a spoke in the wheel of every one else, though of course there are some fine people here. Just at present the whole town is torn up over a school quarrel. The school principal here is a regular back number who refuses to get out till he's thrown out. One of the teachers, an up&#8211;and&#8211;coming young woman, put the trustees up to sending for a woman of radical methods to come here and be looked over. She's expected any day, and meanwhile the town talks of little else, and<pb id="Image00032.tif" n="23" />
+poor old Rysdael, the present incumbent, has left in a huff."</p>
+<p>"A man with a large head and no creases in his trousers?" asked Annie Dee explosively.</p>
+<p>"Just! You've seen him?"</p>
+<p>"He got on the train as we got off, and glared at us. Probably he thought mother was his rival."</p>
+<p>"Very likely. The poor man has taught school here for the last twenty&#8211;eight years and has had little enough pay for it. He had an invalid wife into the bargain; but she's gone now, and his daughter keeps house for him. Naturally, they feel very bitter, and no one can help sympathizing with them. But of course the greatest good of the greatest number is what has to be considered. I'm always on the side of progress."</p>
+<p>"Naturally," murmured the Wardells.</p>
+<p>"Now, here I am being held back by a lot of barnacles. The man who served that injunction on me is a lazy old crank who has held the property half a lifetime and has<pb id="Image00033.tif" n="24" />
+never done a thing with it. He lives in a sort of house&#8211;boat affair down on the river and runs a little steam yacht for excursionists. Now, he does n't want the land that he's making all this trouble about; yet he won't sell it at a reasonable price. He's tickled to death to be spiking my guns. However, I'll get that injunction set aside just as sure as the sun rises. <hi rend="italic">When</hi> I'll be able to do it is, of course, another question."</p>
+<p>When Mr. Harmon was leaving, after an evening in which the Wardells showed their talents as listeners, he invited them to go driving with him the next afternoon. He wished to show them the country, he said, for by and by, when the work began, there would be no time for pleasure jaunts.</p>
+<p>The next morning found the Wardells, for no reason that they could have given, early at the breakfast table. Rue, whose nerves had been shaken by a prolonged succession of entertainments at the closing of the Ingledew Academy, &#8212; "fluffy" entertainments, as Annie Dee described them, &#8212; was re<pb id="Image00034.tif" n="25" />stored by her night's rest; the fact that there were very real difficulties to face stimulated her. She was much more like her mother than Annie Dee was; she had the same placid brow, the same gentle eyes, the same soft brown hair. Annie Dee was keener, more impulsive, more likely to pay for to&#8211;day's adventure with to&#8211;morrow's regret.</p>
+<p>"Somewhere in this town," Rue announced at breakfast, "is a house where the Wardells are going to live, and I'm going out to find it."</p>
+<p>"I'm with you!" Annie Dee cried. Will you come, mother?"</p>
+<p>But Mrs. Wardell was tired and decided to stay quietly on the shady porch. As for Robert, he mysteriously disappeared, and the two sisters, fresh&#8211;gowned, rejoicing in the comparative coolness of the midsummer morning, set forth. </p>
+<p>Keeping carefully on the shady side of the street, they walked up and down and took stock of Dalroy's residences. Very pleasant some of them were, flanked by <pb id="Image00035.tif" n="26" />
+porches and set amid lawns. Some were lowly and inviting, others bore the unmistakable stamp of aristocracy; but all, humble and grand, had the appearance of being occupied by the persons who had built them and who had every intention of passing them on to their descendants.</p>
+<p>"Let's look for barns," said Rue. "I 've heard of charming houses being made out of barns. If we can find a picturesque one that is n't being used, maybe they'll let us have it."</p>
+<p>It sounded like a pathetic last resort, but the girls were not feeling pathetic; they were in far too aggressive a mood for that. In order to look for barns they turned into a street, if street it could be called, that seemed to have been neglected and left unimproved. Trees and shrubs grew beside the road, and flower beds, neglected but still beautiful, retained their shape amid the wild growth of weeds and grass. Evidently the street had been cut through the heart of some fine old farm. Almost forgetting their quest in the<pb id="Image00036.tif" n="27" />
+enjoyment of this pleasant path, they wandered on with strangely light hearts.</p>
+<p>And then, most unexpectedly, they came upon the house. They knew it for the house as soon as their eyes fell upon it. The little Gothic cottage, indescribably suggestive of modesty and decorum, of sweetness and placidity, seemed to be waiting just for them. The pale&#8211;green paneled shutters kept the inquisitive from seeing within the narrow windows; the moss&#8211;grown roof sloped to a charming porch, and at each end of the little neglected house rose a chimney of mellow old red brick.</p>
+<p>"Annie Dee!" gasped Rue, clutching her sister's arm. "There it is! We've found it."</p>
+<p>A nearer view of the house brought no further knowledge of it. The weeds had had their way for years in a rich soil and had succeeded in hiding every trace of a path; and nothing could have been more secretive than those solid shutters. Altogether it looked a place of gentle mystery.</p>
+<p>"And there's another house," said Rue.<pb id="Image00037.tif" n="28" />
+"Some one is living in it, I think. Do you see it, back there among the trees?"</p>
+<p>This second house was a weathered, homelike place of moderate size, standing in a grove of fine trees. As the girls passed through the high gateway and walked up the winding path, squirrels scolded them from the great elms and martins fluttered about the groups of bird houses. No one answered their knock at the front door, and they ventured to the side of the house, whence came the pleasant sound of a carpenter's plane. The door of a little workroom stood open, and Rue, looking in, saw, not the masculine artisan she had expected to find, but a young woman with a sad, somewhat bitter face, occupied in smoothing the edge of a plank which was clamped in a vise. She stopped,
+startled by the presence of her visitors, and
+looked at them with mingled shyness and annoyance.</p>
+<p>"Please excuse us," said Rue. "But we've come to ask about the house next door. Could you tell us who owns it?"</p>
+<pb id="Image00038.tif" n="29" />
+<p>The woman wiped her brow with an embarrassed gesture and came out into the open.</p>
+<p>"I can tell you the names of the owners," she said primly, "but not their address. That house belonged to Miss Amrah Curtis, and she lived in it for forty years. When she died she willed it to her nephews, the only kin she had. They were here at the funeral, but they have n't been back since."</p>
+<p>"It does n't look so very ruinous," said Rue. "Only neglected."</p>
+<p>"Where do those nephews live, please?" Annie Dee inquired.</p>
+<p>"In Chicago. They've gone into college or business, I don't know which&#8212;or where."</p>
+<p>"Do you know their names?"</p>
+<p>"Certainly. I've known them since they were babies. They are Gordon and Wylie Curtis."</p>
+<p>"I do wish we had the key!" sighed Rue, still gazing at the house. Then something in the silence of the carpenter woman made her ask, "you have n't the key by any chance?"</p>
+<pb id="Image00039.tif" n="30" />
+<p>"I have the key," the other admitted, 1 flushing, "but I don't care to take any responsibility about showing the house. Three times when I thought I had tenants the boys refused to rent it."</p>
+<p>"But why?" </p>
+<p>"They wanted a description of the people, and I gave it to the best of my ability. In each case they said they were afraid people like that would n't understand the place. You see, everything is just as their aunt left it, and they want it kept that way."</p>
+<p>"I'm sure," declared Rue, "that we are the very people for the house. Miss Curtis must have been very nice or her nephews would n't feel that way about her. If you described us in your most complimentary manner, do you think we'd be accepted, Miss&#8212;pardon me, I don't know your name."</p>
+<p>"Miss Rysdael."</p>
+<p>"We'd better write a description of ourselves," said Annie Dee, with a laugh. "We 're so much nicer than we look."</p>
+<p>"Oh, perhaps you are the daughter of that<pb id="Image00040.tif" n="31" />
+Mr. Rysdael who is principal of the Dalroy school?" asked Rue with sudden recollection.</p>
+<p>"Yes," said the other, stiffening, "I am."</p>
+<p>Rue paid no attention to this frigidity.</p>
+<p>I'm a school&#8211;teacher myself," she said,
+but I've just given up my position."</p>
+<p>"Indeed," said Miss Rysdael coldly.</p>
+<p>For a minute Rue felt angry at the girl's irritating way; then, when she remembered what John Harmon had said of her, &#8212; that she had passed her youth in caring for an invalid mother and that now she had to share the misfortunes of a querulous father, &#8212; a wave of compassion for her swept over Rue Wardell.</p>
+<p>"We want the house very much," she said with a smile. "We are homeless, yet we must stay here. I think we'll try to get word to the Curtis nephews, and if they give us permission we'll come again for the key."</p>
+<p>"If those boys are in Chicago, we'll find them," Rue declared to Annie Dee, as the two walked back along the lane. "Will mother want to see the house before we do anything?"</p>
+<pb id="Image00041.tif" n="32" />
+<p>Mrs. Wardell, when they had told their story, cheerfully relinquished any responsibility.</p>
+<p>"Make the finding of a home your achievement," she said. "I've had the pleasure and the worry of making decisions for us all for eight long years now. If you are ready to do
+some of the experimenting, I'm willing to let you."</p>
+<p>They hurried to the telegraph office and sent the following message to a friend:&#8212;</p>
+<p>Please consult directory and find address Gordon and Wylie Curtis.</p>
+<p>In an hour the answer was in their hands:</p>
+<p>Curtis Brothers, automobile supplies, No.&#8212; Michigan Avenue.</p>
+<p>Forthwith the girls telegraphed to that address:&#8212;</p>
+<p>Would like to rent your cottage. Wire permission for key.</p>
+<p><hi rend="right">RUE AND ANNIE DEE WARDELL.</hi></p>
+<p>"Would n't it have been better if you had signed your brother's name?" Mrs. Wardell asked them later.</p>
+<pb id="Image00042.tif" n="33" />
+<p>"Oh, mother," said Annie Dee reproachfully, "you said we could do it all by ourselves!"</p>
+<p>"Do be wise, then, Annie Dee," Mrs. Wardell pleaded. "You are so &#8212; so adventurous."</p>
+<p>Early in the afternoon they received a reply from the Curtises; it was distinctly noncommittal:&#8212;</p>
+<p>Did not know cottage was habitable. Will consider proposition, but would like to know something about you.</p>
+<p>"Now, what are we to do?" demanded Rue. "Of course we can give them references, but, after all, how will they know that we're the very persons to respect a place sacred to the memory of Aunt Amrah!"</p>
+<p>"Oh, Rue, I have it!" Annie Dee declared. "Let's send them that family group we had taken on mother's last birthday. Her face would win any one over."</p>
+<p>The photograph went, and with it this letter:&#8212;</p>
+<p>You will find herewith the names and ad<pb id="Image00043.tif" n="34" />dresses of a number of friends who will answer any questions you choose to ask concerning us. You see, it is this way: we must have a house, and yours is the only vacant one in town. We understand that you wish your aunt's belongings to be treated with respect. We have not seen them, but the probabilities are that we shall go further and treat them with affection. If the inside of the house is half as quaint and appealing as the outside, we shall value it indeed. If we make your cottage rentable for future tenants, will you give us the place rent free for a year?</p>
+<p>When they got back to the hotel, after mailing the letter and the photograph, they found their brother, hot and dusty, but well pleased. He quickly showed them that in the matter of enterprise they had not got ahead of him.</p>
+<p>"When I realized that Mr. Harmon would n't need me for a month at least," he said, "I made up my mind that I 'd find some profitable way of putting in my time; so I went hunting for a temporary job. People were pretty unresponsive at first &#8212; wanted
+to talk about the dam. I told them I had n't<pb id="Image00044.tif" n="35" />
+come to talk about that. I wanted some bookkeeping or auditing to do; I said that I was willing to take inventory of stock or that I'd act as clerk. I made it plain that I was an engineer, but that I did n't propose to sit around and think about it. Well, I landed something fairly good."</p>
+<p>"Oh, tell us, Bob!" cried his sisters.</p>
+<p>"It's getting the production cost for a cottage&#8211;organ factory that started up about six months ago. The man's making and selling some very good little instruments, but he is n't sure of his manufacturing cost. I told him that was just the sort of puzzle that appealed to me; so to&#8211;morrow I start at it.</p>
+<p>"How nice!" Annie Dee exclaimed. "And we're going to get a home for you."</p>
+<p>At that the two girls excitedly began to tell him about the house.</p>
+<p>When John Harmon's fine car purred up to the veranda, the four Wardells awaited him.</p>
+<p>"I want to show you some of the prettiest <pb id="Image00045.tif" n="36" />
+roads in the whole country," he said, as he turned his machine riverward. "In my opinion, this is going to be a stirring town some time. The site is excellent. All that is needed is enterprise. A few old mossbacks have been running the place; that old man who served the injunction on me and put my work back weeks &#8212; perhaps months &#8212; is a case in point. I want you to see where he lives and then you can form an idea of his character."</p>
+<p>He turned the machine as he spoke, and they swept along the river&#8211;bank beneath beautiful overhanging trees.</p>
+<p>"There's his house now! Did you ever see the like of that?"</p>
+<p>The Wardells never had seen the like of it, but they had to admit to themselves that they thought it rather attractive.</p>
+<p>It was a stanch little habitation shaped like the cabin of a boat, standing on strong cedar piers at least twelve feet above the surface of the water and well out from shore. Six small windows on each side of the cabin<pb id="Image00046.tif" n="37" />
+commanded the views of the river, and from the bow waved the American flag, and under it a pennant bearing a black raven on a white ground. A wharf and a flight of steps gave communication with the shore.</p>
+<p>"The place is perfectly fitted up inside," Mr. Harmon admitted. "There's a cook's galley and a sitting&#8211;room and a room with bunks. It's a snug little hole all right, but what does a man mean by living in that sort of place and associating with all the old loafers in town, when he could have a proper home? Why is n't he taking care of his daughter, who is as fine a girl as any in Dalroy? I think the man must be a little off in the upper story. Why, he came of a good family and married into a better one, yet he's willing to lead an eccentric, half&#8211;vagabond existence! He's a fine&#8211;looking man, too, but I never see him without noticing that his eyes are a little too near together. That's a bad sign, according to my observation. Stop here a moment, you say? Yes, immense view, is n't it?"</p>
+<pb id="Image00047.tif" n="38" />
+<p>It was, but neither Robert nor his sisters had eyes for it. When the motor had paused at their mother's request, they became aware of the figure of Patricia Quincannon erectly approaching. She did not at first see them, but when she did she bowed in rather reserved recognition.</p>
+<p>"She does n't seem so cordial as she did yesterday," said Annie Dee.</p>
+<p>"I can guess why," said John Harmon. "She's on her way to visit her father, and she hopes to make you think she's proud to be seen doing it."</p>
+<p>"To visit her father?" repeated Robert vaguely, watching the tall figure of the girl as she swung on down the road.</p>
+<p>"Surely!" cried Mr. Harmon. "See, there she goes! Old cap's at home, too."</p>
+<p>"You mean," faltered Robert, "that Miss Quincannon is the daughter of&#8212;"</p>
+<p>"Of old Captain Quincannon, of course. Whose daughter should she be?"</p>
+<p>None of the Wardells answered. They saw the girl cross the little wharf and climb the<pb id="Image00048.tif" n="39" />
+narrow steps to the boathouse. She still carried her head very high and entered the door as if it had been the portal of an ancestral mansion.</p>
+</div1>
+<pb id="Image00049.tif" n="40" />
+<div1 type="">
+<head type="main">CHAPTER III</head>
+<head type="sub">PORTRAITS</head>
+<p>"WHAT, did n't you know that?" asked Mr. Harmon. "Pshaw, yes! Patricia Quincannon, the finest girl in the county, is the daughter of the old man who lives in that silly structure on stilts; but Patricia does n't live with him. Mrs. Thwait, who is at the head of things in Dalroy, treats her like a daughter. She sent her away to school, and the girl fitted herself to be a teacher according to the most advanced methods. Patricia's the one who proposed that Miss Torrey be sent for."</p>
+<p>"The woman they're trying to get for principal?"</p>
+<p>"The same. You see, Miss Torrey has a big reputation for a young woman. She'll be coming along in a day or two now, I hear, and then you'll think all the bees in the county are swarming."</p>
+<pb id="Image00050.tif" n="41" />
+<p>"I simply love to read about girls with strange, disreputable parents," said Annie Dee that evening, when the four of them were again by themselves. "But when it comes to knowing and associating with them, it's different."</p>
+<p>"You have n't been asked yet to associate with Miss Quincannon, Annie Dee," said her brother rather sharply. "And how do we know her father is disreputable ? We have n't laid eyes on him yet; and naturally Mr. Harmon is in no mood to put him in a flattering light."</p>
+<p>"No, we won't call her father disreputable," said Mrs. Wardell amiably. "Neither will we lose our heads over the girl because she's good to look at and has agreeable manners. One would be as foolish as the other."</p>
+<p>"Oh, but, mother, there's <hi rend="italic">no</hi> mistaking her!" protested Rue. "She's wonderful!"</p>
+<p>"If she's wonderful," Mrs. Wardell concluded, "there's an end of argument. Given personality enough, any one can emerge from hard situations."</p>
+<pb id="Image00051.tif" n="42" />
+<p>The next morning the girls decided to go for a row on the river. After exploring the bank for a little distance, they pulled into the shade of some overhanging willows. The sun was hot out on the river, and the girls were glad to rest in their little retreat. Rue began to sing softly and Annie Dee joined in; then, after a time, for no reason that they could have told, they became silent, content to listen to the lisping of the water about the boat. That was how it happened that two persons walking along the path on the bank knew nothing of their presence.</p>
+<p>"How long are you going to hound me, Pat?" a man said gruffly. "Have n't you known me long enough to understand that I 'll do what I please without consulting any one &#8212; least of all a daughter that's too proud to live with me?"</p>
+<p>"But, dad," pleaded a voice that they easily recognized as Patricia Quincannon's, "what is the use of spoiling Mr. Harmon's plans and keeping many men out of work for the summer? Sooner or later Mr. Harmon's<pb id="Image00052.tif" n="43" />
+going to come out ahead, and holding him back like this seems spiteful. I hear people saying what they think of you, and &#8212; and it seems as if I could n't stand it."</p>
+<p>"I did n't know you were so sensitive about me, Pat. If you take such an interest in me, why don't you come and live with me and act as a daughter should?"</p>
+<p>"You know very well, dad, that I'd live with you in a minute if it was n't for those friends of yours. How could I stay in the cabin with them coming there and drinking and singing?"</p>
+<p>"Mighty fine you are!" the man snarled. "Well, I don't like your friends any better than you like mine; so you leave me alone and I'll do the same by you &#8212; no thanks either way."</p>
+<p>The man's steps crunched along the gravelly walk, and he was gone; but the girl remained. Rue and her sister heard her rustling among the leaves, and then, before they realized it, she was looking into their embarrassed eyes.</p>
+<pb id="Image00053.tif" n="44" />
+<p>"Oh, we're so sorry!" Rue said, leaning forward. "We could n't go, could we?"</p>
+<p>Patricia Quincannon had tears in her eyes, and quite frankly she wiped them away.</p>
+<p>"No," she said, "you could n't go. It's all right anyway. You'd have found out soon. Now you know what any one in town would have told you five minutes after you began to speak of me."</p>
+<p>"Get into the boat with us, won't you ?" said Rue. "There's plenty of room."</p>
+<p>Her gray eyes, quiet and understanding, met the hot and unhappy eyes of the girl on the bank. There was a moment's pause.</p>
+<p>"Yes," Patricia answered at last. "I'll be glad to get in."</p>
+<p>For a moment they were silent, not knowing exactly what to say. Then Patricia spoke abruptly, "Have you found a house?"</p>
+<p>They told her of the cottage that they coveted, and she related stories of the much&#8211;loved little woman who had long lived in it. Then they talked of other things, and the morning slipped away. When they parted it<pb id="Image00054.tif" n="45" />
+was with a feeling that they had formed a fast friendship.</p>
+<p>The following morning the letter came from Chicago. The Curtis brothers wrote:&#8212;</p>
+<p>We shall be honored to have you occupy our aunt's cottage on the terms you suggest, and hope you will not be discouraged by the state in which you will find things. We return your picture, as you request. Thank you very much. It was, to say the least, reassuring. If you wish to see portraits of us, you will find them hanging on the south wall of Aunt Amrah's sitting&#8211;room.</p>
+<l rend="indent">Yours sincerely,</l>
+<p><hi rend="right">GORDON AND WYLIE CURTIS.</hi></p>
+<p>"What fun!" Annie Dee said. "They took it all just as we wanted them to, did n't they? What a relief to find some one who is n't terribly serious! Now, mother, you must come and see the house."</p>
+<p>The Wardells certainly were not very serious as they made their way to Miss Rysdael's cottage, armed with telegram and letter to convince her of their right to the key.</p>
+<p>"To my mind you need a scythe as much as a key," Miss Rysdael said discouragingly.
+"I don't see how you're ever going to get through that tangle to the door."</p>
+<p>"Oh, we'll manage very well, thank you!" Rue returned valiantly. "We've old boots and old gloves and are ready for a conflict."</p>
+<p>"You must expect to find mice in the house, and maybe bats," Miss Rysdael continued. "Father said he was n't sure but snakes had got in, too."</p>
+<p>To her surprise the Wardells did not falter.</p>
+<p>"Wish us luck!" cried Annie Dee. And, laughing at her oddly resentful neighbor, she led the attack on the little house.</p>
+<p>Only when they had flung wide every door and shutter did the Wardells pause to see what manner of house Miss Amrah Curtis had left to record her personality. Then, with many exclamations of delight, they went from room to room. True, dust covered everything; but the low, comfortable rooms, the simple furnishings, the friendly fireplaces, and the tasteful dishes filled them with joy.</p>
+<p>"That little red rocker must have been<pb id="Image00056.tif" n="47" />
+Miss Amrah's favorite," Rue declared. "See how well placed it is here by the window! That must be your own particular place, mother dear. And oh, Annie Dee, there's that picture of the Curtis boys, as Miss Rysdael calls them!"</p>
+<p>They gathered about the picture, which hung on the south wall. It showed two sturdy small boys &#8212; six and eight years of age, perhaps &#8212; in Highland costume. From their place on the wall they smiled shyly at their tenants.</p>
+<p>"What funny little kiddies!" said Rue. "But they're nice, are n't they, mother?"</p>
+<p>"As nice as everything else that belongs to Miss Amrah. I like her house, her nephews, and her atmosphere. I hope she's pleased to have us here."</p>
+<p>Rue and Annie Dee put on the old frocks that they had brought to work in, while Mrs. Wardell went to the village to purchase ammunition and implements of war," as she said in the way of brooms, brushes, pails, soap, and cleaning materials.</p>
+<pb id="Image00057.tif" n="48" />
+<p>"There are only two bedrooms," observed Rue, "and of course mother must have one and Bobbie the other."</p>
+<p>"And we'll sleep in the trees, I suppose," said Annie Dee, laughing.</p>
+<p>"No, not quite; but we'll take this little summer kitchen and make the loveliest dressing&#8211;room out of it you ever saw. Then we'll screen in the little porch that opens off it and put two cots out there. What could be finer?"</p>
+<p>"Nothing," agreed Annie Dee.</p>
+<p>Mrs. Wardell was not one of those persons who think it economical to stretch out a piece of work that can be done quickly. So, leaving the house to her girls and making the yard her particular business, she enlisted that afternoon the services of two men, two horses, a plough, and various other implements. Then, by a happy accident, she ran across one of those men who can turn their hand to all trades. She engaged him to repair the fence and paint it, to paint the house, to replace rusted hinges with new<pb id="Image00058.tif" n="49" />
+ones, to mend the pump, and to see to the drains.</p>
+<p>The next few days flew by like magic, for there is nothing more absorbing to home&#8211;lovers than the making of a home. It was delightful to watch the little place emerge from its sorry state. While the "help" that they had hired polished floors and furniture, cleaned walls and windows, beat rugs and mattresses, the girls brightened andirons and candlesticks, washed china and glassware, sewed new curtains and cushion covers, and arranged their own personal possessions in the rooms. At last the renovation was complete; two regal hibiscus plants were set to guard the front steps, the yard was seeded, the shrubbery trimmed, the house and fence were painted a quiet gray and the shutters a cool green.</p>
+<p>"Are n't you ready now to meet your neighbors?" said Patricia one day, looking
+with appreciative eyes at the dainty living&#8211;room.
+"There's to be a garden party at Mrs. Thwait's for the benefit of the new library<pb id="Image00059.tif" n="50" />
+that she started. Every one wants to meet you, of course, and this will be a fine time for it."</p>
+<p>"Well, we're ready to be looked over," the Wardells declared.</p>
+<p>"Confidentially," said Patricia, "this party was my idea, but it would n't do to have people realize that it was in any sense mine, for I 'm out of favor with at least half of my neighbors on account of the part I've played in getting a new principal for the school."</p>
+<p>As Patricia had suspected, the Wardells were feeling the need of sociability. So it was with no small sense of anticipation that they made their appearance the night of the party on the lantern&#8211;lighted lawn that surrounded Mrs. Thwait's gracious old house.</p>
+<p>Mrs. Thwait, to whom Patricia had presented the Wardells, was eager to make them acquainted with her friends, and, as far as her duties as hostess allowed, she did so; but in the dim light, and with the constraint of newness hanging over them, the Wardells received only vague impressions. A few of<pb id="Image00060.tif" n="51" />
+the people ventured upon words of welcome and spoke of calling on them, but more held out lifeless hands and uttered vague and chilly nothings.</p>
+<p>The Wardells could not fail to observe that there were two camps at Mrs. Thwait's, and that, although all were gathered together for an admirable purpose, the two factions nevertheless drew away from each other.</p>
+<p>"I see," said Patricia, "that you are observing the dark and suspicious glances hurled by one group of our townspeople at the other group, and I think you know the cause of them. By the way, Miss Torrey, the proposed incumbent, will be here to&#8211;night. She arrives on the eight&#8211;o'clock train, and the president of the School Board is going to bring her here."</p>
+<p>"Is n't that pretty hard on Miss Torrey?" asked Robert, smiling.</p>
+<p>"I've thought of that," Patricia admitted; "but I don't think she'll realize that she's a storm center &#8212; not to&#8211;night at any rate."</p>
+<pb id="Image00061.tif" n="52" />
+<p>And apparently Miss Torrey did not realize it. She seemed a good&#8211;natured, capable woman, and she went her cordial way among the people, taking no notice of the chilly reception that some gave her. She had the manner of a person who comes with a message of value, and she apparently left it to others to decide whether they would accept it or not.</p>
+<p>As Rue was sitting among the trees with her mother and two other ladies, she noticed a movement in the shrubbery and had a glimpse of a tall, thin, white&#8211;clad figure that looked familiar; it was Lena Rysdael. Something about the shadowy form indicated distress &#8212; a droop, a gesture &#8212; Rue could not have told what. With a word to her mother, she slipped back into the shadows.</p>
+<p>"Miss Rysdael, is it you?" she called softly. "It's only Miss Wardell. I thought something might be the matter."</p>
+<p>There was a pause, and then a broken voice replied:&#8212;</p>	 
+<p>"I'm not feeling well, Miss Wardell. I'd
+<figure entity="ep.nov.nc.52a">
+<figDesc></figDesc>
+</figure>
+<pb id="Image00064.tif" n="53" />
+like to go home, but I don't want to go out the front gate."</p>
+<p>Rue glanced toward the gate, where red Japanese lanterns showed a crowd of young people gathered there.</p>
+<p>"There must be a rear gate, of course," Rue said. "I'm tired, too, Miss Rysdael. If You will wait a moment, I 'll tell mother and then walk home with you."</p>
+<p>A moment later the two girls had slipped into the road and were alone. It did not need the smothered sob to tell Rue that Lena Rysdael was suffering, but as they walked along she offered no consolation in words. She merely held her companion's arm within her own.</p>
+<p>"My poor father can't stand up against that woman, can he?" said Miss Rysdael, when they had turned into their home lane. Oh, I kept seeing him, so gruff and untidy beside her! Poor dad, new clothes look as bad as old ones on him, and he won't smile when he is n't amused, to please any one. They judge him by his oddity and forget all <pb id="Image00065.tif" n="54" />
+he knows. He's taught in this school for half a long lifetime, and now they're going to throw him out in his old age!"</p>
+<p>They had reached the Rysdael house, and once within it Esau Rysdael's daughter broke down and wept.</p>
+<p>"I ought never to have gone to that place," she sobbed. "But I was lonely, and when I saw you all going in your white frocks, I said I'd go too. Oh, I wish father had n't gone away! He ought to have stayed right here and fought the thing through. But he's so nervous, and he does n't sleep well&#8212;"</p>
+<p>"Don't feel so badly," broke in Rue. "Everything will come out all right."</p>
+<p>"I don't see how you can be so sure," said Miss Rysdael rather sharply. "I don't believe you understand the situation very well, Miss Wardell. It's a case where you've got to come out in the open and say which side you sympathize with. I noticed Miss Quincannon at your house the other day&#8212;"</p>
+<p>"Our first caller," said Rue. "Is n't she lovely?"</p>
+<pb id="Image00066.tif" n="55" />
+<p>"She may be lovely, but it comes to this, that you can't be my friend and hers, too. She, at her age, to be setting herself up to teach my father! It's good of you to come home with me, and I thank you; but I must tell you that I can't compromise with father's enemies, no matter" &#8212; her voice broke a
+little &#8212;
+"no matter how much I may be inclined to like them."</p>
+<p>"I like you, Miss Rysdael," said Rue with spirit, "and you can't possibly prevent me. I like Patricia, too, and I'm going to keep right on liking her. This whole dispute is on the merits of systems of education, and I hope the best side will win."</p>
+<p>"And you think the best side is Miss Quincannon's side ?"</p>
+<p>Rue did not try to evade the question; she would be kind, but she must be honest, too.</p>
+<p>"From what I have heard I do think so," she said gently. "But what does that matter?"</p>
+<p>"Nothing could matter more," declared Lena Rysdael, rising. "I want you to go,<pb id="Image00067.tif" n="56" />
+Miss Wardell. I don't like to be rude, but you'll have to understand what this means to us. If father loses in this fight, there are hundreds of people who will be glad of it to the end of their days. No, don't say another word. I want to live by myself, and I don't want you intruding with a lot of silly cheerfulness that can't mean a thing to me &#8212; not a thing!" Then she gently pushed Rue from the house. </p>
+</div1>
+<pb id="Image00068.tif" n="57" />
+<div1>
+<head type="main">CHAPTER IV</head>
+<head type="sub">MYSTERIES</head>
+<p>AT the close of the fifth week of the Wardells' stay in Dalroy, the court set aside the injunction against the building of the Harmon dam. John Harmon was at once galvanized into intense life; not content with putting up his dam, he resolved to build his furniture factory at the same time. Before the little town, drowsing in its midsummer heat, realized what he proposed to do, a hundred workmen were on the scene.</p>
+<p>Robert, who had for four consecutive summers worked on reinforced concrete in one form or another, felt able to cope with the construction of the dam, but the chief responsibility of the undertaking was not his. Mr. Arthur Vaille, who had employed Robert during his vacations and who had recommended him to Mr. Harmon, was to come down from Chicago three times a week to oversee the work.</p>
+<pb id="Image00069.tif" n="58" />
+<p>The conversation at the Wardells' cottage turned chiefly on such subjects as winter contraction of concrete, the rapidity of the flow of the Rock River, the length of the season, and, by way of a diversion, the continued animosity of Captain Quincannon.</p>
+<p>"He's drinking heavily," Harmon told the Wardells as they sat at Sunday&#8211;night supper together, "and he and his cronies are putting their heads together a great deal nowadays. Miss Quincannon has been doing her best to get her father to take a vacation. That's the way she is pleased to put it. She's been telling him that he ought to visit his brother out in Washington, and she's offered to pay his way if he'll go; but the captain is as hot as a hornet over the decision of the court, and he intends to stay right here and make things disagreeable for me."</p>
+<p>"That explains why Patricia gave up going to Cedar Lake," said Rue. "She could n't afford to go and send her father West, too."</p>
+<p>"I hear Miss Quincannon has carried her<pb id="Image00070.tif" n="59" />
+point with the Board of Education," Harmon remarked. "They met last evening and decided to put Miss Torrey in Rysdael's place."</p>
+<p>"Mr. Rysdael is home," Robert remarked. "I saw him sitting in his yard this morning playing with the squirrels. What a strange&#8211;looking man he is with his huge, hang&#8211;dog head and his tumbled hair! He looks like a genius &#8212; or at least the way a genius is supposed to look."</p>
+<p>"There's Miss Rysdael walking up and down among the trees," said Mr. Harmon peering through the window with interest.</p>
+<p>"Yes," said Mrs. Wardell, she walks like that at twilight every day. We admire her very much, though she does n't even look our way since she found out how we stand on the school question; but we love to watch her feeding her birds and squirrels."</p>
+<p>"Oh, Mr. Harmon!" broke in Annie Dee. "Did you know I was going into the poetry business?"</p>
+<p>"I did n't know it, Miss Annie."</p>
+<pb id="Image00071.tif" n="60" />
+<p>"Next week I begin to advertise."</p>
+<p>"How? Where? Do poets advertise?"</p>
+<p>"Lord Byron never did and Tennyson seldom, but they had certain advantages over me &#8212; other ways of making themselves known. As for me, I shall become celebrated by advertising. You see, I mean to write what are called 'occasional poems.' Suppose your grandmother is about to have her seventy&#8211;fifth birthday and that none of the family is poetical. Then apply to me! I will write a poem for grandmother that will melt her heart. Or suppose that you are going to celebrate your golden wedding and want verses about it. Or imagine that you are asked to welcome a distinguished English poet and are expected to do so in rhyme&#8212;"</p>
+<p>"You ask too much," said the Wardells' guest. "I can't imagine such a thing's happening to me."</p>
+<p>"Then, to bring my talents within the realm of your needs, Mr. Harmon, suppose you made a nice little rocker in your factory and wished to advertise it in an unus<pb id="Image00072.tif" n="61" />ual manner. Then I could write you verses about Priscilla Alden and her sewing&#8211;chair do you see?"</p>
+<p>"Now that you have, as you insinuate, at last brought your ideas down to my level, I certainly see. What is more, and I'm quite in earnest in saying it, I engage you to write some of those advertisements."</p>
+<p>"My first job!" cried Annie Dee.</p>
+<p>"Have <hi rend="italic">you</hi> no chosen career, Miss Wardell?" John Harmon asked of Rue.</p>
+<p>"I've had just a touch too much career," Rue said, laughing. "I'm still lazy and fussy from an overdose of school&#8211;teaching. If it had been the real thing I probably should n't have been worn out; but fooling away my time with a company of over&#8211;indulged girls, who did n't wish to learn, got on my nerves. I'm corresponding with a teachers' bureau now in the hope of getting a position with a real school. Meanwhile I'm keeping up a University Extension Course in pedagogy and helping mother put up preserves."</p>
+<p>"Two crates of strawberries, the last of the<pb id="Image00073.tif" n="62" />
+season, are coming early to&#8211;morrow morning," announced Mrs. Wardell. "Everything will have to give way before them, too,&#8212;poetry, pedagogy, perhaps even <sic corr="engineering.">engineerng."</sic></p>
+<p>"I used to pick over berries for my mother once upon a time," John Harmon said. "She and I lived together in this little town for years; then she sent me away to get my education, and she lived here alone. It was only after she had gone and I read the record she left of those lonely years that I understood what she had been through. I believe it was partly for her sake &#8212; though I could n't explain what I mean &#8212; that made me decide to open up my business here. I had a notion she'd like me to come to Dalroy, though personally I regard it as a mean little town."</p>
+<p>"Mean and not mean, low and fine, boresome and delightful, like all other places inhabited by human beings," said Mrs. Wardell, as they rose from the table.</p>
+<p>The following morning was known thereafter in the annals of the Wardell family as "The Morning of the Hidden Hand."</p>
+<pb id="Image00074.tif" n="63" />
+<p>The occasion was an incident that had to do with the strawberry preserves and was as
+follows&#8212;</p>
+<p>Part of the preserves were in the kettle over the fire, when Patricia Quincannon called.</p>
+<p>"I shan't stay," she said, when she saw how actively engaged the family were. "I merely yielded to an impulse to run over and see you. No, &#8212; there's no use in urging me, &#8212; I'm off. News? Oh, there is n't much news! The Board has accepted Miss Torrey &#8212; you heard that? She's to live at Mrs. Thwait's, and that makes me quite happy. I'm a restless creature, and it will do me good to have some one as stimulating as Miss Torrey round. I saw poor Lena Rysdael over the fence just now, and she dropped her eyes as if I were the elephant&#8211;faced man. Who's he? Oh, he used to live in town! Poor dear, he wore a mask till the day of his death. That's one of Dalroy's stories. Some day I shall relate to you the Thousand and One Dalroy Nights. They're much more inter<pb id="Image00075.tif" n="64" />esting than the Arabian ones. Queer things have happened here. Well, I must be going. Good&#8211;bye &#8212; I'll be over again soon."</p>
+<p>"But I've ever so many things I want to tell you right now," Rue protested; and she followed her guest down the lane. Of course Annie Dee tagged along, too.</p>
+<p>Just about that time a man came to the door with an ice&#8211;cream freezer, in which he wished to interest the lady of the house. He came, moreover, to the front door, and it was there that Mrs. Wardell talked with him. She did not buy the freezer, but she saw an acquaintance who had been ill driving by, and she ran out to inquire after her health.</p>
+<p>That was how the strawberry jam happened to burn. The wind, however, was not in the right direction to convey the dire news of the culinary tragedy to Mrs. Wardell, who stood in amiable conversation with her friend. The wind was southwest by west, and so the birds and squirrels in the Rysdael grove were presumably the only creatures aware of the fact that several dollars' worth<pb id="Image00076.tif" n="65" />
+of fine berries and excellently refined sugar were scorching.</p>
+<p>Then, suddenly, that little monitor that dwells in the breasts of cooks caused Mrs. Wardell to cry, "Oh, mercy, my jam!" and to fly from the side of her friend.</p>
+<p>As Mrs. Wardell entered the living&#8211;room the accusing odors greeted her nostrils, and she hurried into the kitchen. The sight she saw was certainly bewildering. The kettle of preserves had been lifted from the stove, the contents poured from the slightly scorched caldron into porcelain pans and set upon the kitchen table, and all was well. The jam was saved.</p>
+<p>But by whom? That was what Mrs. Wardell excitedly asked her daughters when they
+returned.</p>
+<p>"Some one came into the kitchen, lifted that great kettle from the fire, poured the fruit into those pans, and filled the kettle with fresh water. Now who in the world&#8212;"</p>
+<p>Her eyes wandered to the only house near at hand, &#8212; the house occupied by Lena<pb id="Image00077.tif" n="66" />
+Rysdael, who would not speak to them, and her words died. Rue laughed &#8212; with a little choke at the end of the laugh. Annie Dee said:&#8212;</p>
+<p>"That's what I call clean sport."</p>
+<p>But no one gave words to the thought in their minds. They agreed to call it "The Morning of the Hidden Hand," and to let it go at that.</p>
+<p>Robert was in Chicago for a week on business connected with the building of the dam. The girls had made him take with him some photographs of the house to show the Curtis brothers.</p>
+<p>"Show them the befores and afters," said Annie Dee. "I do so want them to pass judgment on what we've done with Aunt Amrah's things. You must tell them that all her old friends approve, which is interesting, considering that they came for the purpose of disapproving."</p>
+<p>During Robert's absence the household had begun to suffer from that peculiar aimlessness that invariably creeps into a house<pb id="Image00078.tif" n="67" />
+when there is no man beneath the roof. There was a general loss of interest in meals, a falling&#8211;off of promptness, and a decrease of pleasure in the afternoon toilets. To be sure, there were callers in plenty, for Dalroy was feeling more sociably inclined toward the Wardells than at first.</p>
+<p>Some of the callers were particularly loquacious. Miss Nancy Ferris, for example, who, having called once, seemed speedily to acquire the habit, was the self&#8211;elected historian of the place. The only trouble with her history was that it made a specialty of what may be termed the dark features. For example, it did not occur to her to mention that the Sessions had been judges, clergymen, and professors; but she was very specific about the insanity that had broken out in the family here and there. She told at great length how Delia Sessions's mother, for no imaginable reason, had stolen all manner of things and had hidden them away like a naughty child.</p>
+<p>"She ran to teaspoons more than to any<pb id="Image00079.tif" n="68" />thing else," said Miss Ferris. "Just imagine the feelings of a hostess who found on the departure of her guests that from one to six of her best teaspoons were missing! It went on for months and years. Why, it was the greatest mystery we ever had in Dalroy! Of course, after it was cleared up, Mrs. Sessions was put in the charge of a caretaker and not allowed to go out. She was such a social person, too!"</p>
+<p>"You don't mean to say," cried Rue, "that Mrs. Sessions's neighbors realized that she was really suffering from a mental illness, and yet would n't do anything to make her happy&#8212;would n't ask her out or go to see her? I should have thought they'd have made her a present of all the teaspoons in the neighborhood if that would have comforted her any."</p>
+<p>"Oh, she did n't want the spoons! She wanted the fun of stealing them. It would n't do to indulge a tendency like that. It would be bad for the patient in the first place, and it might encourage such a tend<pb id="Image00080.tif" n="69" />ency in others. What I wished to speak about, however, was the daughter, Delia Sessions. She's a good&#8211;enough girl so far as any one knows, but she's the living image of her mother."</p>
+<p>"Her mother must have been pretty," said Annie Dee. "I think Delia is lovely."</p>
+<p>"Oh, she's pretty enough, if you come to that!" admitted Miss Ferris. "But old residents are inclined to ask, 'Will she walk in her mother's footsteps? Will the resemblance carry further than feature and form?'"</p>
+<p>"I suppose the old residents ask that every time they see the poor thing," Rue could not
+help saying. "Did you say you knew her,
+sister? Why not have her up to the house, if she'll come? We have dozens of teaspoons, so she'll have difficulty in depriving us utterly." </p>
+<p>Miss Ferris looked at Rue with a grieved expression.</p>
+<p>"My dear young lady," she said, "I think you mean to be rude to me, but I have no intention of feeling offended. I have lived much<pb id="Image00081.tif" n="70" />
+longer than you and I know that the world is not the nice place you think it. It is interesting &#8212; but not nice."</p>
+<p>With that she quite deliberately turned her back on the sisters and devoted herself to Mrs. Wardell.</p>
+<p>"You were rude, my dear," Mrs. Wardell said to Rue when their guest had gone. "I never heard you speak like that before in my life."
+</p>
+<p>"Why could n't the old cat keep her claws in, then?" Rue protested, with the tears starting to her eyes at her mother's rebuke.</p>
+<p>"I think I understand Miss Ferris better than you do," Mrs. Wardell said gently. "She has n't had enough in her life to occupy her talents. She has had to take her excitement by watching others. She's really a gentlewoman; you can tell that by her voice and her gestures and her modest way of dressing. The trouble is, she has n't had an opportunity to exercise her social gifts."</p>
+<p>"Social gifts!" groaned Rue and Annie Dee in unison. But their mother paid no <pb id="Image00082.tif" n="71" />
+attention to them. "Have you noticed how much she enjoys the little ceremony of afternoon tea? If she had lived in a place where entertaining was the custom and where there was some chance of conversing about interesting things, how different she would have been! She loves to come here just as she loves to visit Mrs. Thwait, because she is properly received. If you had a man come to your door who had been eating boot&#8211;straps and old gloves up in the Arctic regions, think what a meal you'd set out for him! Well, here's a woman who has had only old gloves and bootstraps in a mental way, and I mean to serve her some pleasantly seasoned and wholesome dishes. That's going to be my own private, especial undertaking. You girls are full of plans, and Robert has his time all laid out for him; but as for me, I'm slipping into the 'gray&#8211;and&#8211;content&#8211;before&#8211;the&#8211;fire' stage. Only it's likely to be discontent and grayness with me if I don't have something to
+do."</p>
+<p>Rue, looking up half shyly at the mother <pb id="Image00083.tif" n="72" />
+who so seldom unburdened her heart, saw her lips quivering.</p>
+<p>"You, mother!" she said reproachfully. "Why, you 're the most useful person I know! Whatever should we do without you?"</p>
+<p>"You'll be doing without me in a very little while," Mrs. Wardell replied, trying to hold her voice steady. "That will be quite right, and just the way I really want it to be; but I shall be left desperately lonely if&#8212;"</p>
+<p>"If what?"</p>
+<p>"If I have n't my own game to play."</p>
+<p>"You mean, don't you," said Rue, "that you'd like to stay in this mean little town, as Mr. Harmon calls it, and try to help it?"</p>
+<p>"Would n't that be worth doing? I don't want to go backward; when my day comes for passing on into the other life, I should not wish to go to your father less of a woman than he left me. I'd like to surprise him. Do you understand? I'd like to be something more than he ever dreamed I was &#8212; and he<pb id="Image00084.tif" n="73" />
+always gave me credit for much more than I deserved."</p>
+<p>"Oh, mother," murmured Annie Dee, throwing her impulsive arms about her mother's neck, "shall we ever be like you&#8212; ever be in the least like you?"</p>
+<p>Rue turned away and walked into the kitchen. They heard her working there among the cooking&#8211;things, and after a while Annie Dee went out to see what was happening.</p>
+<p>"Oh, coffee gelatin pudding!" she exclaimed. "How nice! For supper, sister?"</p>
+<p>"Not for us," said Rue shortly, without looking round. "For Miss Ferris."</p>
+</div1>
+<pb id="Image00085.tif" n="74" />
+
+<div1 type="chapter">
+<head type="main">CHAPTER V</head>
+<head type="sub">BENEVOLENT INTRUDERS</head>
+<p>WRAPPED up in the responsibilities of his undertaking, Robert Wardell came back from Chicago. He thought of nothing and talked of nothing except the dam. He worked evenings, and he was off early in the morning; he carried his luncheon with him chiefly that he might sit on the river bank at noon and contemplate the work that had been done.</p>
+<p>Meanwhile, he was learning the great art of managing men. As his workmen were mostly Greeks and as Robert's knowledge of Greece was wholly bookish, having to do with the country and its inhabitants about 500 <hi rend="smallcaps">B.C.</hi>, he had his troubles.</p>
+<p>Moreover, Dalroy disapproved of the Greeks. It did not like the dark, bright&#8211;eyed, foreign&#8211;speaking little men who walked about the streets looking at everything with the inquisitiveness of children, and who, when<pb id="Image00086.tif" n="75" />
+they were off duty, danced round and round, locked in each other's arms, to the music of an accordion. Why, the grave people of Dalroy wished to know, did they dance? Why did they sit in groups singing curious, wild songs and thus disturb the early&#8211;retiring inhabitants of a respectable town?</p>
+<p>Patricia Quincannon felt differently about the Greeks. Once, when she was talking with Robert about them, she quoted:&#8212;</p>
+<lg>
+<l>"How oft beneath far Syrian skies </l>
+<l>Have I looked up and thought of home."</l>
+</lg>
+<p>"Our skies seem as alien to them as the Syrian skies to the Englishman," she said sympathetically. "It would be fine, Robert, if you could do something to show that you did n't want them to feel like strangers. To think of them away from all their women and children!"</p>
+<p>It was Patricia's suggestion that Robert should take an occasional meal with his workmen, and after talking the matter over with Mr. Harmon, Robert ventured upon the experiment. Every Saturday night he ate with<pb id="Image00087.tif" n="76" />
+the Greeks, and always brought some contribution to the feast.</p>
+<p>"I don't know whether it's good discipline or not," Robert said.</p>
+<p>"It's good brotherhood," Patricia retorted. "You're so terribly dignified for a
+young person that you'll never let down the
+bars too much. They'll get to coming to you with their troubles, and that will be perfectly fine."</p>
+<p>"Oh, will it, though?" said Robert. "I've troubles enough of my own."</p>
+<p>Nevertheless, he followed Patricia's advice and with good results. His natural heartiness and good&#8211;fellowship delighted the men. When they sang the songs of their country, he responded with songs of his land; he could laugh as gayly as they, and was as eager to learn their tongue as they were to learn his. They began to feel at ease &#8212; like children who, having ventured far from home, at last see a familiar face.</p>
+<p>Robert, of course, reported to his family concerning the impression that the pictures of <pb id="Image00088.tif" n="77" />
+the house had made upon Gordon Curtis and his brother.</p>
+<p>"They said the house looked great," he announced. "Not that they thought it looked just as it had during their aunt's time. They wanted to know which of my sisters was responsible for the skittish appearance of the sitting&#8211;room, and I told them my younger sister."</p>
+<p>"Robert Wardell!" protested Annie Dee. "You know that the room looked that way from the first."</p>
+<p>A shout of laughter went up from Annie Dee's scornful family.</p>
+<p>"Annie Dee," exclaimed her brother, "can you look me in the eyes and tell me that this coquettish room is such as Amrah Curtis, spinster, would have created? You cannot! But I'm bound to say that her nephews thought it interesting, even if changed. They are coming to Dalroy presently, by the way; they've some notion of going into business here. At present they're in the automobile supply business, but merely as a<pb id="Image00089.tif" n="78" />
+makeshift till Wylie has finished at the university. He's been going the year round and so has had no vacation for three years, and his brother has been running the business to keep them going and to avoid drawing on their capital. They may invest here in Dalroy now that Wylie's free."</p>
+<p>"How soon are they coming?" asked Mrs. Wardell with some apprehension. "It would n't be very pleasant if they asked us to give up the house."</p>
+<p>"But the house is ours for a year, mother, in return for the improvements that we've put on it. At the end of a year they'll be welcome to it."</p>
+<p>"Perhaps," said Mrs. Wardell musingly, "I may want to stay here always. If all of you children go scampering off down the road, as you presently will, Dalroy will suit me much better than the city. Mrs. Thwait and I are starting a woman's club, and we're to work for the library. We even dream of a hospital some day. I'm laying out work for myself in every direction; but never mind<pb id="Image00090.tif" n="79" />
+about that now. We want to hear more about the Curtis boys, Bob."</p>
+<p>"First&#8211;rate fellows," said Robert. "A little more than medium height, good shoulders, fine athletic records, good business sense."</p>
+<p>"Just the same," said Rue, "I don't think I want them to come sailing into our harbor. I like them in the offing, vague and gray, like ships seen through mist. At close range they will probably be like any one else."</p>
+<p>A few days later Robert announced that the Curtises would come in a day or two. At once Rue and Annie Dee began &#8212; each keeping the fact from the other &#8212; to imagine the romantic circumstances under which they would meet the brothers; but the facts proved to be as different from their expectations as they possibly could be.</p>
+<p>Mrs. Wardell was spending the afternoon with Mrs. Thwait, working upon some detail connected with the new public library, and the two sisters were alone. The afternoon was hot and the girls were not disposed to be<pb id="Image00091.tif" n="80" />
+very industrious. Annie Dee had received two answers to her poetry advertisement and was idly trying to fill her orders. One was from the employees of a box manufacturer who wished to present their head with a gold watch on his fiftieth birthday; the other was from a Swedish chauffeur who wished to marry an Irish cook. Annie Dee decided to fill the chauffeur's order first.</p>
+<p>"All love&#8211;songs are alike," she declared. "Rue, could n't I call this poem 'Irish Eyes'?"</p>
+<p>"It seems to me," said Rue, wishing that her sister would let her read in peace, "that I've heard of something of that sort before."</p>
+<p>"It would be original with me, for I never heard of it. 'Irish eyes of misty blue.' Would n't that be a good first line?"</p>
+<p>"It's the first one that would come into the head of any commercial poet like yourself."</p>
+<p>"Then, how is 'O'er the bogland gayly tripping'?" demanded Annie Dee triumphantly.</p> <pb id="Image00092.tif" n="81" />
+<p>"That cook is n't near a bogland. Did n't you say she lived at Lake Forest? There are no bogs there — only fogs."</p>
+<p>"'Like a wraith through white fogs drifting,'" began Annie Dee; but it was too hot to go on.</p>
+<p>"I'm not going to write poetry," she announced. "I'm going to wash my hair. Only I ought to have soft water for that, ought n't I? And that miserable cistern pump is out of order. Don't you suppose that we could mend it if we tried, Rue? Bobbie put new washers on the old thing, did n't he? But that did n't help; so the trouble must be down at the intake. Probably there's something obstructing the mouth of the pipe."</p>
+<p>"Probably!" murmured Rue, wondering, as she began another chapter of her novel, whether anything in the world could keep Annie Dee quiet. Nothing could, apparently, for she was saying:&#8212;</p>
+<p>"There's a ladder in the cistern, is n't there? I've a mind to go down and see whether I can find out what the trouble is."</p>
+<pb id="Image00093.tif" n="82" />
+<p>"But you might slip!" said Rue in alarm. "And even if you did n't, you could n't do any good. Now don't go and do anything foolish, Annie Dee."</p>
+<p>However, Annie Dee was not to be dissuaded, and presently, clad in her gymnasium suit, with rubber&#8211;soled shoes on her feet, she appeared ready for action. She threw back the cistern top and, trembling a little, but quite eager for the experience, descended into the chill gloom.</p>
+<p>"Oo&#8211;oo&#8211;oo, what a froggy place!" she called back. "I feel just like a mermaid."</p>
+<p>"I'm going to hold on to the top of the ladder," Rue announced.</p>
+<p>"Why? It's nailed. But do lie down and look into the cistern, sister. Is n't the water dark? Is n't it wet? Oo-oo-oo, but it's cold! How my voice echoes, does n't it?"</p>
+<p>"Come out as soon as you can!" Rue pleaded. "You can see for yourself that you don't know what to do. The cistern man may come to&#8211;morrow. I don't like to have you down there."</p>
+<pb id="Image00094.tif" n="83" />
+<l rend="indent">"Glory and love to the men of old!"</l>
+<p>sang Annie Dee, striking up the stirring Soldiers' Chorus from "Faust,"&#8212;</p>
+<lg type="">
+<l>"Their sons may copy their virtues bold, </l>
+<l>Courage in heart and sword in hand,</l> 
+<l>Yes, ready to fight and ready to die for
+their fa&#8211;aa&#8211;ther&#8211;land."</l>
+</lg>
+<p>"Don't get to fooling!" Rue called. "Can you see anything? Of course you can't. I told you you would n't."</p>
+<p>But Annie Dee was listening to the deafening resonance of her own voice.</p>
+<lg type="">
+<l>"Many a maiden fair is waiting here to greet her truant soldier lover,</l>
+<l>And many a heart will fail and brow grow pale to hear</l>
+<l>The tale of cruel peril he has run&#8212;"</l>
+</lg>
+
+<p>"Annie!" cried Rue, in sudden alarm. The ladder's slipping! The nails are giving! Quick! Come back at once!"</p>
+<p>But the mournful echoes of the cistern blended all sounds, and Rue's words were lost in the rush and resonance of Annie Dee's song:&#8212;</p>
+<l>"Glory and love to the men of old&#8212;" </l>
+<pb id="Image00001" n="84" />
+<p>There was a splash, a shriek, a last bellowing of echoes, and then silence.</p>
+<p>The silence was, indeed, complete. Rue made no outcry. To whom, indeed, should she cry? Few came up that lane; Esau Rysdael was not at home, as she knew, and it never occurred to her to ask help of Lena. Besides, there was no time to waste. She ran for the clothesline, and with trembling fingers fastened one end to a stout tree, and, after making a loop in the other end, threw it into the cistern. From the depths came a cheerful voice:&#8212;</p>
+<p>"Don't worry, sis; I've got the rope. Tighten it up, please. Right&#8211;O! But how'll you haul me up? Better run for help. And <hi rend="italic">don't</hi> worry. I'm enjoying my bath."</p>
+<p>Rue realized that she never could pull her sister up alone. She must get help; but could Annie Dee hold out as long as that? The water was very cold, and Annie Dee was only a little, delicate thing &#8212; only a very slight, delicate, precious thing. Hoping that by some miracle a delivery&#8211;man or some stroller<pb id="Image00002.tif" n="85" />
+might be in the lane, she ran wildly toward the front gate.</p>
+<p>Meanwhile, Annie Dee made up her mind that the one essential thing for her to do was to keep up her courage, and could she do that better than by singing? She swept on to the finale of the great chorus:&#8212;</p>
+<l rend="indent">"Ready to fight and ready to die for their fatherland."</l>
+<p>Meanwhile, Rue, seeing &#8212; yet hardly believing that she saw &#8212; two young men at the gate, tossed her two arms wildly over her head and shouted incoherently.</p>
+<p>She always said that she told them distinctly that her sister was in the cistern clinging to a rope and that she asked them, politely if hastily, to come and pull her out. The Curtis boys &#8212; they were the Curtis boys &#8212; bore witness that she said nothing, but that she behaved like a person who had barely escaped the hand of an assassin.</p>
+<p>At any rate, she turned and ran back to the cistern, and they followed as fast as their feet could carry them. Then, at the rim of<pb id="Image00003.tif" n="86" />
+the cistern, Rue stood and pointed with tragic finger toward the aperture, from which came in sepulchral yet courageous notes:&#8212;</p>
+<l rend="indent">"Yes, ready to fight and ready to die for their fa&#8211;aa&#8211;therland."</l>
+<p>"What is it?" demanded Gordon Curtis.</p>
+<p>"My sister!" cried Rue, articulate at last. "The ladder slipped. She's in the water. It's cold."</p>
+<p>"Why is she singing?"</p>
+<p>"Because she's scared &#8212; and does n't want to be."</p>
+<p>Wylie Curtis was on his knees and peering in. He saw a pool of black water, still and deep, and a light form floating on it, clinging with small white hands to a rope. The din of the song filled his ears.</p>
+<p>"Oh, hush up!" he shouted in his commanding masculine voice. "I want to talk."</p>
+<p>"Your turn," came back a blithe but somewhat shaky voice.</p>
+<p>"Put that rope beneath your arms," he ordered. "Can you do it?"</p>
+<p>"Yes."</p>
+<pb id="Image00004.tif" n="87" />
+<p>"Now cross it over in front and twist it. Ready?"</p>
+<p>"In a minute. Ready!"</p>
+<p>"We're going to pull," Wylie warned her. It will hurt you."</p>
+<p>"Let it."</p>
+<p>The two boys began to pull at the rope hand over hand, steadily, surely, gently. Rue lay flat on her face, with her arms outstretched, ready to grasp her sister.</p>
+<p>"I'm afraid," said Gordon Curtis, "that it's hurting pretty badly. Let's get it over with quick, Wylie."</p>
+<p>Rue bent lower, reached farther, and caught a very wet, very cold little form in her arms.</p>
+<p>"Careful there!" Gordon cried to Rue. "You'll go in yourself!"</p>
+<p>But Rue was not thinking of herself as she pulled the shivering little form of her sister over the rim; she was thinking only of poor Annie Dee, who lay still, with her hands over her eyes. The three young people had the sense to let her alone, and in a second or two<pb id="image00095.tif" n="88" />
+she got to her feet and managed to make a little bow to the boys.</p>
+<p>"Whom have I the honor of addressing?" she asked gayly, with blue lips.</p>
+<p>"Oh, sister, come into the house, if you don't want to catch your death of cold!" begged Rue, and then, turning to the young men, said, "Oh, do please be so kind as to build a fire in the kitchen stove and put the kettle on! She must have some hot coffee at once, must n't she? Oh, if only mother were at home!"</p>
+<p>She took her sister's arm and ran with her toward the house; but at the door Annie Dee freed herself and took one look at the benevolent intruders, who were already filling their arms with fuel at the woodpile.</p>
+<p>"I've always kept your picture wreathed with woodbine!" she cried.</p>
+<p>As they looked up, she fled to her room; and while her sister rolled her in woolen blankets and tumbled her into bed she wept copiously in true girlish fashion.</p>
+<p>"It was horribly froggy!" she moaned. <pb id="image00096.tif" n="89" />
+"Not that I saw a frog; but it was just what frogs would have liked. And, oh, sis, my arms ache so! And I 'm so cold! I thought every minute I should get a cramp. I was sure it was coming; but it was you who came &#8212; with the benefactors. I'm all right again."</p>
+<p>At last Rue, feeling rather weak now that the excitement was over, went to the kitchen to make the coffee; but she found it already made.</p>
+<p>"We make excellent coffee," said Gordon Curtis. "Why be unduly modest about it? Here it is. Please convey it to the mermaid with our congratulations."</p>
+<p>He was using the lightest tone he could summon. Rue understood the reason, and she, too, did her best not to be serious.</p>
+<p>"She calls you the benefactors. It is your official title. And she hopes you liked her voice."</p>
+<p>"Immensely," both brothers assured her, as she fled with the coffee. "Immensely!"</p>
+</div1>
+<pb id="image00097.tif" n="90" />
+<div1 type="">
+<head type="main">CHAPTER VI</head>
+<head type="sub">THE TOPAZ NECKLACE</head>
+<p>ABOUT bringing Delia Sessions to the house, Annie Dee was as good as her word. She had met her several times at church entertainments and at the reading&#8211;room of the library, and had found her quaint and interesting. To be sure, Delia seemed a little reluctant to accept Annie Dee's first invitation. She seemed to be saying, "Are you sure you want me? Have n't you heard my story? Have n't they told you that my mother was a thief or a crazy woman &#8212; or both? Are you my friend in spite of it or because you know nothing of it?"</p>
+<p>But that unspoken inquiry met with no response from Annie Dee. It was not always possible to tell what was going on in the mind of that capricious young person. Delia Sessions spent some time wondering about it the day she first went to the Wardell cottage.</p>
+<pb id="image00098.tif" n="91" />
+<p>Annie Dee was waiting for her at the gate, and waved so gay a welcome to her that Delia involuntarily quickened her footsteps. She was a girl with few friends &#8212; with none who answered the need of her starved heart. Her life had been shadowed by the knowledge of her mother's malady and by the realization that her story was passed on to strangers by her Dalroy neighbors. Loyalty to her dead mother, pride, shyness, and sensitiveness had caused her to draw within herself, and she confided in no one, not even her elderly cousin, the postmistress of Dalroy, with whom she lived. Delia served her as housekeeper, and their relations seemed to end with their practical service to each other.</p>
+<p>"How nice of you not to be late," said Annie Dee as she went out into the lane to meet her. "Mother and Rue are both going out presently, and I want them to meet you before they go. Is n't this a wonderful day?"</p>
+<p>"It 's a pretty day," said Delia primly. "But I don't often think about the weather; do you?"</p>
+<pb id="image00099a.tif" n="92" />
+<p>"I should say I did. I'm dreadfully particular about my weather. There is n't a better critic of it anywhere! No one can make more cheerful noise over a good day or more of a row over a bad one than I can."</p>
+<p>"Well, it's on account of the bad days that I taught myself not to pay much attention to the good ones," Delia explained. "Not to care how things come, or whether they're good or bad, that's my idea of getting along in life."</p>
+<p>When Delia entered the house she looked about her with shy enjoyment.</p>
+<p>"Oh," she said, "I never dreamed you'd have a place like this! The house always seemed to me like a little ruin. How did you make it look so bright?"</p>
+<p>"Oh, it was n't a ruin &#8212; it was only lonesome!" said Annie Dee, laughing. "We heartened it up, chucked it under the chin, slapped it on the back, and it felt better at once. Mother, this is Miss Sessions. Rue, you've met Delia Sessions? Oh, don't be frightened, Delia; that isn't a rat you see<pb id="image00099b.tif" n="93" />
+under the chair. It's only another of our guests &#8212; one of the Rysdael squirrels. They 're making rather free here just now, and I suppose we ought to discipline them, but when they sit up begging with their hands on their hearts, we can't resist them."</p>
+<p>"I only stayed to welcome you, Miss Sessions," said Mrs. Wardell, smiling at the girl in her motherly way. "We're having a meeting at Mrs. Thwait's this afternoon at which we hope to form a woman's club for Dalroy &#8212; and not exclusively for middle&#8211;aged ladies. We hope to make it so interesting that our young friends will consent to join."</p>
+<p>"Will it be a study club, Mrs. Wardell?" asked the girl earnestly. "I 'd like to take up some course of study and improve myself."</p>
+<p>"Yes, a club for social and literary purposes with a little music and art thrown in. Maybe we shall do some village&#8211;improvement work, too. I 'd like a tree&#8211;planting day and a children's day&#8212;even a mother's day."</p>
+<p>"I don't think I like set occasions," said the girl. "Anniversaries are quite as likely to
+<pb id="image00099c.tif" n="94" />
+be dismal reminders as glad ones. It always annoys me to have people decide that they'll be happy on a certain day. I suppose I'm obstinate, but it makes me want to close my doors and sulk."</p>
+<p>Mrs. Wardell laughed good&#8211;humoredly. "You're a born individualist, then. Well, if we can get you into our club and make a cooperator out of you, we shall be fortunate indeed. An individualist converted into a cooperator is the most effective human being in the world. Forgive me for leaving you. I shall hope to call on your cousin and yourself some time, for I should n't think of waiting for such a busy woman as your cousin to call on me."</p>
+<p>Delia flushed through her dark skin. She was always ready to discount kind things that were said to her, but it was impossible to distrust these people. Could it be, she wondered, that these newcomers, so gracious in manner, really knew how little account in Dalroy she and her cousin were? Her cousin was, after all, only a little, worried, wizened,<pb id="image00100.tif" n="95" />
+ill&#8211;favored woman. Delia desperately feared that she might come to resemble her cousin, and it was that fear that had set her to cultivating the habit of indifference. Yet here were these people, so delightful, so different from any she knew, treating her like a possible friend! A warm little glow of self&#8211;appreciation flooded the girl. The tight expression about her mouth relaxed; her awkwardness disappeared.</p>
+<p>Rue brought in some cakes and lemonade and put them on a taboret.</p>
+<p>"My humble contribution," she said. "Also my peace offering. I am off to the woods, Miss Sessions, to find a good place for a picnic. Mother is giving a woodland party next week while the Curtises are here, and as I'm cursed with a systematic mind and can't leave things to chance, I must go and find the precise spot. Get down, you little beggar!" she went on to one of the squirrels, which had leaped upon her shoulder. "I've fed you till you're in danger of your death from indigestion. We ought not to allow them in the<pb id="image00101.tif" n="96" />
+house," she said to Delia, "but we're such weak characters that we can't refuse them."</p>
+<p>After Rue had gone from the room, Delia Sessions sat thinking for a moment or two in silence, while Annie Dee served the iced drink. This family was the kind she had always wanted people to be&#8212;the kind they were in books! She could see Rue in the adjoining room tying on her graceful sun&#8211;hat, and wished that she and Annie Dee were going to the woods, too; but she was too shy to propose it. She wondered why she so seldom went to the woods. Dalroy was surrounded by lovely groves and it had its fine river, but she had made no use of them. She had always excused herself by saying she had no friend to go with her, yet here was this much&#8211;sought young woman going by herself, and well pleased at the prospect, apparently. There was something the matter with herself, Delia decided. She lacked "go"; she did not know enough to use what opportunities for pleasure she had!</p>
+<p>"Please undo my chain, sister!" Rue<pb id="image00102.tif" n="97" />
+called, and Annie Dee ran to unclasp the delicate strand of gold about Rue's neck. A small stone, a topaz, yellow as living sunshine and clear as crystal, hung from the chain. Delia had noticed it swinging gayly in its golden circlet, and had thought it just the sort of jewel for a girl like Rue to wear.</p>
+<p>"Did you bring your sewing?" asked Annie Dee when they were settled by themselves. "I'm so glad! I'm embroidering little baskets of pink roses on these towels. Are n't they sweet? I'm making mother a set of a dozen. What are you making? Oh, a bureau cover! How pretty! Are n't you glad you're a girl? Boys miss a lot by not sewing, don't they? I think they have a very dull time of it in their off hours. Don't you hate to have a man round the house all
+day?"</p>
+<p>"I don't know, for I never had one. My
+father died years ago, and I've no brother."</p>
+<p>"How stupid of me! But I am that way &#8212;stupid. I don't see why. You'd think I
+was going to be intelligent to hear me talk &#8212;
+<pb id="image00103.tif" n="98" />
+that is, if you did n't listen too long. My father is dead, too, but I've a brother. Of course you must n't think that I dislike men, Delia. I was only meaning that I liked to have little times like this when I could be a complete girl and not have to live up to any masculine ideas."</p>
+<p>Meanwhile, Rue had turned her back on the town, wandered down the lane, climbed a fence, crossed a meadow and come at last to Borrow's Woods. The spell of the summer was waning, but only to yield to the charm of approaching fall.</p>
+<p>As Rue made her way along a wood path she suddenly came upon a man down on his knees, with a magnifying glass in his hand, bending over a granite boulder. That slack, loose&#8211;jointed figure, that great head, those rough clothes belonged to Esau Rysdael, the old school&#8211;teacher. He had never spoken to Rue, and had seemed not so much as to recognize the existence of herself or of her family yet Rue, seeing him there, felt unaccountably social.</p>
+<figure entity="ep.nov.nc.98a">
+<figDesc></figDesc>
+</figure>
+<pb id="image00106.tif" n="99" />
+<p>Esau Rysdael heard Rue's feet crunching among the twigs and looked up with a smile; but when he recognized her, the smile gave place to a frown. That put Rue on her mettle. Why should she, feeling as glad to be alive as she did, be disliked by a Rysdael or by any one?</p>
+<p>"Excuse me," she said in the musical voice that was so much like her mother's. "Is it that ladybird you are looking at through your glass?"</p>
+<p>As Rue spoke, Esau Rysdael looked her over; and as he looked, the frown slowly smoothed away.</p>
+<p>"The ladybird," he said deliberately, "is a mere intruder."</p>
+<p>"Like myself," said Rue, flushing.</p>
+<p>"Both you and the ladybird have a right to the woods," he replied. Then, after a pause, he added, "I am collecting lichens. It is a delicate business. Look at this fairy lace that I am trying to detach from the rock and transfer uninjured to my book."</p>
+<p>Rue drew near, and saw upon the rough <pb id="Image00107.tif" n="100" />
+surface of the boulder an exquisite pink tracery finer than any imaginable needle&#8211;work.</p>
+<p>"I have counted ten varieties of lichen upon this one boulder," went on the naturalist, "which is really quite a number, though not exceptional &#8212; not at all exceptional. Are you interested in lichens?"</p>
+<p>"I have n't had much chance to learn of such things, and have n't availed myself, I 'm afraid, of such chances as have come my way. But I should like &#8212; oh, immensely! &#8212; to know about them. I was thinking as I came along that I could only look at the woods with ignorant and uncomprehending eyes."</p>
+<p>"Ah, you feel that, do you?" cried the old teacher with a sudden light in his face. "It is something to have got as far as that."</p>
+<p>"I feel it deeply," said Rue. "Will you tell me how I can learn the things I wish to know? I can't go to school any more because I must work. My vacation is almost over."</p>
+<p>"You are fortunate," he said shortly "How would you feel if you had a prolonged<pb id="Image00108.tif" n="101" />
+vacation thrust upon you? What if you had been used to one work for years and suddenly found your occupation gone?"</p>
+<p>Rue's swift thought told her that he would not have spoken like that in another place, but the quiet woods put them apart from the usual conventionalities.</p>
+<p>"I should find it very hard, Mr. Rysdael."</p>
+<p>"Yet my daughter tells me, Miss Wardell, that you sympathize with the action taken in regard to me." He looked at her with the sharp gaze of the schoolmaster. "You see, I speak out what is in my mind."</p>
+<p>"And so do I," answered Rue. "I only said that I believed in progress, and that I knew there were new things in teaching&#8212;things that made pupils enthusiastic over their lessons. I thought Dalroy should have the benefit of them. I did n't mean to offend your daughter."</p>
+<p>The old naturalist lifted the ladybird on one finger and looked at it for a moment with whimsical enjoyment of its beauty; then, as it took wing, he turned to Rue with a smile.</p>
+<pb id="Image00109.tif" n="102" />
+<p>"I know that we have seemed bad neighbors," he said; "but my girl, Lena, can't bring herself to take up with any one who does n't stand by me."</p>
+<p>"I don't blame her," Rue declared. "I thought it sweet of her all the time. Whenever I've started to feel angry at the way she treated us, I've straightway forgiven her because I liked her for being so loyal to you."</p>
+<p>"You see," went on the man, "the situation has been a peculiar one. I have been looked on for years as the leading educational man in the county. Now I've been put in the wrong by a couple of women with a lot of fads. It has been humiliating."</p>
+<p>Rue made no answer. She wondered whether he in his heart of hearts did not know that he was being unjust.</p>
+<p>"Of course," he said in a changed tone, "I must admit that I am never so happy as when I can go about the woods and amuse myself as I am doing to&#8211;day. If I had been allowed to bring my classes to the woods, I <pb id="Image00110.tif" n="103" />
+could have taught them something worth the knowing &#8212; something they could not have learned from every one. I tried it years ago. But do you suppose the fanatics in the three R's would let me do that? Not a bit of it. I must stay in the classroom with my pupils and hold them to the same unchanging round. So I did. I gave them so much of what they wanted that I suppose they got tired of it." He sighed heavily.</p>
+<p>"You were ahead of your time. Why don't you form woodland classes now, Mr. Rysdael?"</p>
+<p>He shook his head gloomily and did not answer. There was something almost child&#8211;like about him in spite of his schoolmaster manner.</p>
+<p>"Are lichens your specialty?" Rue asked, with her eyes shining with sympathy.</p>
+<p>"Lichens? Oh, no, I cannot say that they receive more of my attention than many other things. All plants, all flowers, all trees interest me, though not more than bird and animal life. Won't you step over to the house<pb id="Image00111.tif" n="104" />
+some day and see my specimens? Or perhaps they would not interest you?"</p>
+<p>He looked wistful, almost timid, like one who fears to have his invitation refused.</p>
+<p>"Of course I'll come!" Rue cried. "If you will make my peace with your daughter."</p>
+<p>"Easily done, easily done," he said quickly. "Lena likes you now &#8212; wants to know you. It's only her great loyalty to me that makes her act as she does. I wish she'd get out more and forget our troubles; but she stays in and broods over what is to become of us."</p>
+<p>"Yes, of course," Rue murmured. "You'll be wanting to do something soon." With the words came an idea. "Oh, Mr. Rysdael, why not write a book on lichens?" she demanded. "Why, you'd love to, would n't you? Think what 'fairy tales of science' you could tell and what illustrations you could have! Just fancy a colored print of that!" Rue pointed to the marvelous tracery of the fronded lichen on the rock. "Why, you must have endless things to say on the subject," she added.</p>
+<p>Esau Rysdael looked at her from under his<pb id="Image00112.tif" n="105" />
+overhanging eyebrows. Absurdly enough, he was shyer than ever. He seemed to be wanting this resourceful young person to go on.</p>
+<p>"It is what you really care for, is n't it, Mr. Rysdael? If you wrote a book on the subject, would n't there be a demand for it in schools and colleges? You could write it interestingly and yet in such a way that it would serve for a textbook."</p>
+<p>She received no answer. The old teacher seemed to be thinking, and his eyes fell again to the granite boulder. Then he looked up with a smile.</p>
+<p>"I believe that it's worth thinking about."</p>
+<p>It seemed to Rue the right minute to go &#8212; she would vanish and leave him to do his thinking. She gave him her best smile and bow and hastened on into the sunlit grove beyond. It was very pleasant there &#8212; just the place for the picnic. She would have liked to linger, but she was so eager to tell her family about her meeting with Mr. Rysdael that she turned and hastened homeward by another path.</p>
+<pb id="Image00113.tif" n="106" />
+<p>The cottage was wrapped in quiet. Feeling certain that Annie Dee was sleeping, Rue stole in noiselessly; and sure enough, curled up in the hammock lay her little sister, dead to joys and troubles.</p>
+<p>Rue had that feeling of vague and utterly senseless irritation she always felt when she got home and found her mother absent. There was no one at all to talk to, although there was so much to tell. She made the best of it by treating herself to a glass of cool milk and looking over a magazine while she rested. Then she took a cool bath and dressed herself in the thinnest frock she could find &#8212; a white lawn, sprigged with yellow buttercups.</p>
+<p>"My little topaz goes nicely with this," she said half aloud. "I 'll put that on."</p>
+<p>She remembered that before leaving for the woods she had tossed the chain and pendant on her dressing-table; but it was not there now.</p>
+<p>"Annie Dee has put it away," she said to herself, and searched in the little box where she kept her "pretties." It was not there,<pb id="Image00114.tif" n="107" />
+however, or in the drawers of the dressing&#8211;table. Could Annie Dee have put it on? It was not likely, but on the chance of finding it round her sister's neck, she stole out to the hammock. Annie Dee's white throat was bare.</p>
+<p>As Rue gazed at her sister, Annie Dee's eyelids fluttered and opened.</p>
+<p>"Oh, it's you, sister? Is it time to get supper?" Annie Dee cried.</p>
+<p>"I'm sorry I wakened you, dear. No, it's not quite supper&#8211;time. I was looking for my little chain and pendant. I can't find them."</p>
+<p>"You dropped them on the dressing&#8211;table&#8212;"</p>
+<p>"I know. They're not there."</p>
+<p>Annie Dee leaped from her hammock and ran to the bedroom. She searched everywhere. Then she turned a white face toward her sister.</p>
+<p>"It's the queerest thing in the world!"</p>
+<p> "Don't mind so much, honey! What's the matter with you, anyway?"</p>
+<p>"Nothing at all. I saw the necklace after<pb id="Image00115.tif" n="108" />
+you left. Delia Sessions was looking at it. She said that she thought the way the stone was set was charming. She &#8212; she was looking at it when I went to speak to a delivery&#8211;man."</p>
+<p>The words seemed to die in her throat. She tried to strangle the memories as they were born; but in spite of all she could do the stories she had heard of Delia Sessions's half&#8211;demented, thieving, piteous little mother came trooping back, and along with them Miss Ferris's remarks about the resemblance between Delia and her mother.</p>
+<p>"People wonder," Miss Ferris had said, "if she'll follow in her mother's footsteps."</p>
+<p>Rue was remembering all, too, as her sister could see; both of them were trembling as they did when they saw anything ugly or cruel, and the younger sister put the thoughts of both into words when she said:&#8212;</p>
+<p>"Oh, I wish mother would come!"</p>
+<p>Almost upon the word their mother appeared in the doorway, and they blurted out their tale in their clear, excited voices.</p>
+<pb id="Image00116.tif" n="109" />
+<p>"What shall we do?" Annie Dee concluded.</p>
+<p>"Do?" repeated Mrs. Wardell, with a curious light shining in her eyes. "Why, invite Delia to our picnic the very first of all!"</p>
+<p>"You mean&#8212;"</p>
+<p>"I mean that the girl did n't do it," Mrs. Wardell declared. "Why, she'd be the last person in Dalroy to do such a thing! Don't you see she would? After all she has suffered, she'd never commit such a fault. And whatever you do, never, never let a hint of this get out. Never tell any one &#8212; not any one &#8212;"</p>
+<p>There was a dry little cough at the door, and all three Wardells, turning at once, saw Miss Ferris, acknowledged queen of the town gossips, standing there, with a sardonic smile on her lips that said plainer than words:</p>
+<p>"I told you so."</p>
+</div1>
+<pb id="Image00117.tif" n="110" />
+
+<div1 type="">
+<head type="main">CHAPTER VII</head>
+<head type="sub">THE SOFTENING OF NANCY FERRIS</head>
+<p>Rue and Annie Dee turned scarlet. Mrs. Wardell grew pale.</p>
+<p>"Come in, Miss Ferris," she said politely. "Come in and sit down."</p>
+<p>Miss Ferris lifted the skirt of her gray silk and entered. She was quite aware that the atmosphere was palpitant. Mrs. Wardell and her daughters stood in embarrassed silence.</p>
+<p>"You heard what we said?" asked Mrs. Wardell, after a moment.</p>
+<p>"I heard a little of it," Miss Ferris replied, with her thin lips looking thinner and her pale eyes paler than usual. "And I guessed the rest."</p>
+<p>"So now," quietly said Mrs. Wardell, "you are thinking, 'This is what I predicted,' and you are glad&#8212;or almost glad &#8212; that the poor girl seems to have fulfilled your<pb id="Image00118.tif" n="111" />
+prophecy. But it is too soon for you to rejoice, if it has occurred to you to do so, Miss Ferris, for our guest has done nothing that would make us lessen our regard for her."</p>
+<p>Miss Ferris smiled a wry little smile, half of irritation, half of admiration, evidently thinking it "thoroughbred" of Mrs. Wardell to put a good face on the matter. Then, as she looked, she saw a change of expression in Mrs. Wardell's face. It melted into sudden and genuine friendliness, as if she had summoned some ideal, for a moment lost.</p>
+<p>"Oh, please forgive me," she cried contritely, "for foisting such thoughts on you! Why should I think you were rejoicing because that nice girl has been put into an embarrassing situation? It is true that I saw that look come into your face, Miss Ferris, &#8212; It told me that you were glad in spite of your better self; but I ought not to have seen it. I ought to have looked away and given your generosity and dignity a chance to take charge of your spirit. I ought to have realized that <pb id="Image00119.tif" n="112" />
+you who have known that girl ever since she was a baby and who know all she has suffered would be much quicker than I to wish her well and to protect her reputation."</p>
+<p>"But that's not true, mother," broke in the uncompromising Rue. "It was Miss Ferris who told us about Delia, and she need n't have told us at all."</p>
+<p>"I know she told us," said Mrs. Wardell, "but she regretted it. She went further than she meant that day. Is n't that so, Nancy Ferris? Did n't you lie awake that night after you had gone to bed and wish you had bitten your tongue out before you told the story that prejudiced us against Delia Sessions?"</p>
+<p>Nancy Ferris moved restlessly in her chair and her eyes fell; then she lifted them and looked Mrs. Wardell in the face.</p>
+<p>"It is quite true," she said. "I hated myself for all I had told you that day, not only about Delia, but about other people here in town. I never meant to run on like that; I only wanted to entertain you; and then, too,<pb id="Image00120.tif" n="113" />
+stories about people's lives interest me. But when I thought how I must have seemed to you, I was ashamed. I'm known as the village gossip, and have been for years. I have lived here a long time, and I've taken a great interest in people and can't help knowing their stories."</p>
+<p>"Of course you can't. In a way it was enjoyment of life and alertness that made you take such a keen interest in your neighbors. You learned your book of comedy through and through. If you had been a playwright, no one would have blamed you for studying human nature in a satirical spirit. I only regret that a mind like yours, so keen and restless, had nothing else to occupy it; or, if you were destined to be a recorder of human frailties, I wish you might have done it in a literary, impersonal way instead of carrying stories from neighbor to neighbor."</p>
+<p>Miss Ferris flushed deeply, but she did not withdraw her gaze; she still faced her friendly Judge, although the tears sprang into her eyes.</p>
+<pb id="Image00121.tif" n="114" />
+<p>"I wish it, too," she said beneath her breath.</p>
+<p>"You might be going to the university at this minute," went on Mrs. Wardell. "Plenty of women of our age do. You could be studying some form of art or philosophy or taking up a course in literature. We're going to make things of that sort possible here in Dalroy, as you have no doubt heard, and I want you for a charter member of our woman's club."</p>
+<p>"No!" broke from Nancy Ferris. "After what you've thought &#8212; and said?"</p>
+<p>"It's over," said Mrs. Wardell, with her hand outstretched. "I've finished. I know that till the last day of your life you will never repeat the conversation you overheard between my daughters and myself. You will never put us in the wrong by letting any one know that suspicion of our guest crossed our minds, even in the faintest, swiftest way. You'll forgive us for everything, and you'll help us find the thing that's lost?"</p>
+<p>"Indeed I will and shall be glad to," said <pb id="Image00122.tif" n="115" />
+Miss Ferris heartily. "I'll help you to the best of my ability; and whether we find it or not, I shall never, to my dying day, speak of the matter. You've said some brave things to me, Mrs. Wardell, and I won't deny that they hurt, but I feel I deserved them. I'm going to forgive you for being just to me &#8212; and that's a hard thing to do, sometimes."</p>
+<p>Eagerly, anxiously, they searched the house over; they looked in all imaginable and unimaginable places. They reviewed all possible theories; the "evidence" was gone over again and again. It came to this: the last person seen handling the necklace was Delia Sessions, daughter of a kleptomaniac, and the necklace was gone.</p>
+<p>But Mrs. Wardell's faith did not falter.</p>
+<p>"I'm going to sit down," she said, after the search had been given up for the time being, "and write the invitations to my woodland party. Would you like to help me, Miss Ferris? You write such a charming hand! You see, I want to make it clear that I and my family are to be counted in with<pb id="Image00123.tif" n="116" />
+the neighbors here at Dalroy; and then, too, I wish to entertain while the Curtises are here. The first person to be invited shall be Delia Sessions."</p>
+<p>"Good for you, mamma!" cried Annie Dee, throwing her arms about her mother's neck. "You have n't an idea how glad I am that I made your acquaintance early in life!"</p>
+<p>Miss Ferris, somewhat shaken by the swift tempo of Wardell conversation, sank into a chair by the reading&#8211;table.</p>
+<p>"Indeed," she said, "I'll be most happy to help you with the invitations."</p>
+<p>She was quiet, &#8212; even humble, &#8212; but Mrs. Wardell knew, and the girls knew, that over and over again in her head went the perplexing fact that Rue's pretty necklace was gone, that Delia Sessions was the person who had last handled it, and that she, Nancy Ferris, had always said that if you watched the girl long enough you would see what you would see!</p>
+<p>The day of the picnic dawned gloriously,
+<pb id="Image00124.tif" n="117" />
+and that, according to Annie Dee, was decidedly unconventional.</p>
+<p>"Now, the orthodox picnic day," she said, "is lowering, or at least uncertain. The distant muttering of thunder is heard; the wind is in the wrong direction. But to&#8211;day, as you can see for yourself, is cool, bright, and steady. It is n't natural &#8212; it means that something strange is going to happen."</p>
+<p>Mrs. Wardell and Rue, busy with sandwiches, meat loaves, cakes and ices, for once paid little attention to Annie Dee and her prophesyings.</p>
+<p>Their own thoughts occupied them sufficiently, for they realized that it was a day of significance for more than one reason. First and foremost, it definitely established the Wardells as participants in the social life of the village and lifted them out of the mere class of onlookers and transients. And what was of more importance, they had refused to recognize distinctions that Dalroy made and had invited every one in town whom they knew.</p>
+<pb id="Image00125.tif" n="118" />
+<p>"The just and the unjust are asked," Annie Dee said to Patricia Quincannon, who had come early to help. "And Lena Rysdael and her father among them. But that was a victory &#8212; their acceptance! When I went over there to ask them, my teeth were chattering with fright. But I knocked at the door just as boldly as if I were selling patent iron&#8211;handles. 'I have a letter of introduction, Miss Rysdael,' said I, 'from the squirrels &#8212; friends of ours. Mother is giving a party in the woods for your old friends, Gordon and Wylie Curtis, and she wants you to come. She says she's going to have some strawberry jam, and that she's sure it does n't taste a bit scorched.' Well, when I spoke of the strawberry jam, she just wilted. Evidently she thought we were such ninnies that we'd never guess who saved it from destruction that day mother set it over the fire and then walked away and forgot it. She blushed and laughed, and said her father had been talking about what a good time he had with Rue that day she suggested that he should<pb id="Image00126.tif" n="119" />
+write a book on lichens. 'He's decided to do it,' she said. 'He wrote to some publishers, and they thought well of it.' The battle of Rysdael Grove is over!"</p>
+<p>So the Rysdaels, the Curtises, Mrs. Thwait, Patricia Quincannon, John Harmon, Miss Ferris, three clergymen, their wives and young people, Miss Torrey, Delia Sessions, and two&#8211;score of their neighbors made their way to the benevolent shade of Borrow's Grove.</p>
+<p>"Is n't it curious," said Patricia to Robert Wardell, "how well people look beneath trees? Now, there are quite a number of us here who would make anything except an imposing spectacle if we were, say, on the Grand Staircase of the Paris Opera House; but here we're very agreeable&#8211;looking, indeed."</p>
+<p>"We are," agreed Robert; "at least, some of us are."</p>
+<p>Patricia took the compliment as blithely as a squirrel takes a nut.</p>
+<p>"But there's no one," she observed, "who looks sweeter than Lena Rysdael. See, she's<pb id="Image00127.tif" n="120" />
+over there with Mr. Harmon! He told me he'd like to have a picture painted of her with the birds and the squirrels round her. And it would make a lovely picture, would n't it?"</p>
+<p>"I did n't think I'd like her," said Robert; "but I do. Her bark's worse than her bite."</p>
+<p>"Bark!" exclaimed Patricia. "How could she bark?"</p>
+<p>She laughed gayly as she looked toward Lena, who leaned against a spreading birch tree, her face lighted with a happiness that was new to her.</p>
+<p>"She is n't used to people," Patricia commented, after regarding her sympathetically. "We have n't been sociable enough to her here in Dalroy."</p>
+<p>"She could have been sociable if she had wanted to, could n't she?" asked Robert. "It was just as easy for her to go to see you as for you to come to see her."</p>
+<p>"Oh, mercy, no!" Patricia declared. "I'm one of those persons who is always in things. I 'm never left out &#8212; at least I never feel left<pb id="Image00128.tif" n="121" />
+out. I always have engagements, duties, and diversions. It's my disposition."</p>
+<p>Robert laughingly admitted it. From whom, he wondered, did she inherit her bright outlook on life, her girlish confidence, her instinct for leadership? Surely not from that grotesque old man, Captain Quincannon, who, since his setback in the matter of the dam, was drinking harder than ever and making a place of carousal out of his house&#8211;boat; but perhaps, after all, there was no such thing as an inheritance of mind and soul. Maybe each one came fresh from the hand of the Creator.</p>
+<p>"This certainly does seem like old times to me," Gordon Curtis told Mrs. Wardell. "Wherever I look I see a familiar face. To the best of my recollection and belief you have some hard&#8211;fighting clansmen here, but they all seem calm and temporarily under a flag of truce. How did you manage it?"</p>
+<p>"Well," said Mrs. Wardell, laughing, "in many cases I did n't know about the warfare or who was the enemy of whom. That made<pb id="Image00129.tif" n="122" />
+it easy for me. In the other cases I accepted the conflict as part of life's activities and invited the contestants."</p>
+<p>"Then you don't object to war between neighbors?"</p>
+<p>"It's a sign of life. It seems to me merely to indicate that amusement and achievement are at a low ebb. So long as men and women live and breathe, they must use their energies in some way. They'll prey on one another if they can't find anything else to do. From the vigor of the quarrels here in Dalroy, I should imagine that the people had a good deal of vitality. It would be worth while to direct their energies in the right way, would n't it?"</p>
+<p>"You just bet it would!" cried Gordon impulsively. "I 'd like to help do that. I tell you, I 'm attached to this little old town of Dalroy, Mrs. Wardell. Wylie and I have about made up our minds to settle here. We've a little capital to invest, and we want to go into business for ourselves. Wylie's a great fellow for inventing things, and he's <pb id="Image00130.tif" n="123" />
+patented a vacuum cleaner that will clean not only carpets and draperies, but books. That's only one of a dozen of things Wylie has thought of. I'm not up to little tricks like that, but I can make a pretty close estimate of cost production and selling price. I 'm afraid you'll think us terribly practical, commonplace fellows."</p>
+<p>"It's commonplace to be impractical," said Mrs. Wardell, with spirit; "but practicality is real poetry, to my mind. I like to have people use their abilities, and take whatever talent they have with gratitude, not wishing for something quite different."</p>
+<p>"Well, Wylie and I have to prove ourselves, of course. We may not strike it quite right at first, but we shall keep busy about something. By the way, we must n't let the picnic drag, must we? It is n't too hot to have some games, is it? Let's think up some good games and get every one to play. It will ease up their minds &#8212; act as a mental lubricator."</p>
+<p>"And then," said Annie Dee, who had just<pb id="Image00131.tif" n="124" />
+come up, "it will be fun to watch the lion and the lamb caper beneath the greenwood tree."</p>
+<p>So, with the laughter and frolic and the singing of songs, and the setting-out of the feast and the eating of it, there was really no chance to remember old grudges. Dalroy ceased to be critical and jealous, and gave itself up to a childlike and care&#8211;free mood.</p>
+<p>Finally the cool, bright day waned, as the loveliest day must, and the party, weary with their nonsense and fooling, their tramping and climbing, turned their footsteps homeward. Their hearts were perceptibly lightened and warmed. The reaction had been complete. For once nothing hateful or ugly had intruded to mar a Dalroy occasion.</p>
+<p>"It really was my housewarming," Mrs. Wardell explained as she received at her own gate the thanks and farewells of her guests, "but my house was too small to hold all my friends; so I annexed out&#8211;of&#8211;doors."</p>
+<p>"It's been one of the happiest days of my life," Lena Rysdael said. "I went to please
+others, &#8212; it's my way to be plain&#8211;spoken, &#8212; but next time I shall go to please myself."</p>
+<p>The guests trooped down the lane among the slanting shadows of the late afternoon, and Mrs. Wardell regarded them with a smile of satisfaction. As she turned, still smiling, toward her house, she saw that John Harmon was lingering on Lena Rysdael's doorstep.</p>
+<p>Mrs. Wardell's own young folk were lingering with their friends also. Patricia, Gordon, Wylie, and Delia had seated themselves on the garden benches to watch the sunset. The pleasant sound of their voices floated in to the older woman as she lay on the couch and looked about the pleasant, homely room.</p>
+<p>"I'm not a woman," she said to herself, "to merge my life in that of others &#8212; not even in the lives of my own children. I want my own life, my own friends, my own activities. Still, there's a certain kind of joy that they must feel for me, and that I must get through them."</p>
+<p>Truly the voices that floated in to her, the <pb id="Image00133.tif" n="126" />
+laughter, the snatches of song, were as light as thistledown. Gradually a feeling of loneliness began to steal over Mrs. Wardell. She tried to tell herself that she had had her youth; now she must be content with other things. But she was not content, and, rising, she called the young people almost imperiously.</p>
+<p>"Light the candles," she said to Rue. "They'll not be too warm, and the old rooms smile in the candlelight. Shall we have supper? Hot tea? Good. Put the teakettle on, Annie Dee. Robert, there's a joint in the refrigerator that you might slice. No, don't set the table. This is a buffet repast, and I'm going to sit still and be served by all. Yes, every one of you must bring me something."</p>
+<p>Laughing, they flew to do her bidding, and in a few minutes their supper was served. The nest of tables had been divided into its component parts, and each table served for two. It was Delia Sessions who sat with Mrs. Wardell.</p> <pb id="Image00134.tif" n="127" />
+<p>"I ought to have gone straight home from the picnic, ought n't I?" she said. "But the girls urged me to stay. Oh, it's been such a happy day! Honestly, Mrs. Wardell, my heart felt so light that I could hardly believe it belonged to me."</p>
+<p>She said this under her breath, and in the same low tone Mrs. Wardell murmured:&#8212;</p>
+<p>"Dear child, I hope this will be the first of many, many such."</p>
+<p>The talk became general, and Delia, content with her happy reverie, did not speak until Rue leaned over her as she passed the cake. Then Delia, looking up, smiled in admiration of her friend's comeliness.</p>
+<p>"I love you in a frock like that," she said. "A Dutch neck just suits you. But you ought always to wear your little gold chain; only perhaps it would n't have been proper to wear that at a picnic?"</p>
+<p>Rue drew in her breath involuntarily, and Mrs. Wardell as involuntarily threw Rue a warning glance.</p>
+<p>"What's this about Rue's necklace?"  <pb id="Image00135.tif" n="128" />
+asked Patricia gayly. "Is this a jewel mystery?"</p>
+<p>"It's been mislaid, that's all," said Annie Dee. "It will turn up somewhere."</p>
+<p>"Well, if you know where you lost it and if it will stay there, that's all right," said Patricia, laughing.</p>
+<p>"It was n't on the street, then?" asked Gordon.</p>
+<p>"No &#8212; on my dresser &#8212;"</p>
+<p>"Your dresser?"</p>
+<p>Delia looked up, startled.</p>
+<p>"The day you went to the wood?" she demanded, her eyes widening. "Why, yes, I saw your necklace on the dressing&#8211;table that day! I looked at it and put it back."</p>
+<p>"It's a pretty little thing," said Rue, as casually as she could.</p>
+<p>"But you have n't seen it since then?" Delia persisted.</p>
+<p>"Oh, it's fallen down somewhere &#8212; it was such a little thing!" Rue said cheerfully.</p>
+<p>Delia threw a look of appeal at Mrs. Wardell.</p>
+<pb id="Image00136.tif" n="129" />
+<p>"It will turn up somewhere," Mrs. Wardell said steadily. "Dear me, the hot tea was just what we all needed, was n't it? Well, you young people can clear the things away, and I'll still be Lady Sit&#8211;in&#8211;the&#8211;Chair. Delia, why go home to&#8211;night? Stay with us, and Mr. Curtis will stop at your aunt's as he is going by and let her know. And now for some more music before we part. Patricia, my dear, will you play the accompaniments?"</p>
+<p>They had only Miss Amrah's little old parlor organ, but it suited well the grave, sweet songs that they chose to sing. It was as if they were all trying to bring peace and harmony into that kindly little room, where, for a moment, a wild tumult had stirred &#8212; perhaps was even now stirring in the heart of the dark, thin girl who, with an air of valiant determination, sang with them, although her voice was a little too shrill, perhaps, and her eyes were a bit too bright. Because of the eyes that were too bright and the voice that was too shrill, Mrs. Wardell kept the girl be<pb id="Image00139.tif" n="130" />side her. She knew that to Delia it seemed that life had trapped her trickily, and that try as she might she never could quite free herself.</p>
+</div1>
+<pb id="Image00140.tif" n="131" />
+
+<div1 type="">
+<head type="main">CHAPTER VIII</head>
+<head type="sub">PROBLEMS</head>
+<p>BREAKFAST was a brisk affair with the Wardells these days, for Robert was always eager in the morning. He seemed like an engine with full steam on, snorting and puffing in the station and wild to be off down the track.</p>
+<p>But absorbed as he was in his own affairs, he could not fail to notice on the morning after the picnic the white face of Delia Sessions. It had that curious pallor that a dark face alone can have, and with the deep rings beneath the eyes and the pathetic droop of the mouth it would have caught the attention of even a more absorbed person than Robert. He chanced to have a moment alone with her, and with an impulse of comradeship he spoke out his sympathy.</p>
+<p>"Things going wrong with you, Delia?" he asked.</p>
+<pb id="Image00141.tif" n="132" />
+<p>Unable to speak, she nodded.</p>
+<p>"All because of an old trouble?"</p>
+<p>Again she nodded.</p>
+<p>"Something you can't possibly help &#8212; an old, dead trouble dumped on you and smothering you?"</p>
+<p>"Yes!"</p>
+<p>"Then why, in Heaven's name," demanded Robert, "don't you get away from here? Dalroy is n't giving you anything; that old notion of staying round and living a thing down when a whole community is determined that you shall go into your grave with your trouble still hanging over you does n't appeal to me a little bit. Get out of the place, that's what I say &#8212; get out and begin over. A fellow's got to have fresh air and room &#8212; and a girl needs the same things. This air is n't fresh for you, and they have n't given you room. You talk to mother &#8212; she 'll help you."</p>
+<p>"Thank you, Robert, I shall, I certainly shall. But, Robert&#8212;"</p>
+<p>"Yes?"</p>
+<pb id="Image00142.tif" n="133" />
+<p>"You believe in me?"</p>
+<p>"Of course I do, down to the ground and up to the skies. But you must go where you'll never have to ask that question of any one."</p>
+<p>"But there are obstacles &#8212; Cousin Jenny &#8212; "</p>
+<p>"Overcome the obstacles. That's what they're for. Good&#8211;bye, Delia."</p>
+<p>The girl waited until he had said good&#8211;bye to his family, and then flew to Mrs. Wardell. Her eyes were hot and strained, her mouth was quivering.</p>
+<p>"Now," she said, "you must let me begin to look for the necklace. Oh, just give me permission to look everywhere!"</p>
+<p>She stopped, flaming scarlet. Perhaps Mrs. Wardell would not like to have her prying into everything in the house, she who&#8212;</p>
+<p>"I can't do that," said Mrs. Wardell gravely. "It reflects on your dignity and on mine. I cannot let a guest whom I trust fight to clear herself of such a suspicion &#8212; particularly when the suspicion does not<pb id="Image00143.tif" n="134" />
+exist. You must n't ask it of me, Delia. Why, the girls would be ashamed to look you in the face!"</p>
+<p>"What am I to do, then?" demanded the girl nervously. "Oh, yes, it would be horrid, would n't it ? A thing no lady like you could allow? But what good does that do me? Here I am, with you wondering about me, &#8212; in spite of yourself, you're wondering about me! Robert says I ought to go away to some new place, and I must! I must! I can't stand this any longer!"</p>
+<p>She suddenly flung her arms about Mrs. Wardell's neck and broke into passionate tears. Mrs. Wardell had no objection to "a good cry" for an overwrought girl, but this was not "a good cry." It was a tempest of grief and shame. Rue and Annie Dee, hearing it, ran into the room, but at a look from their mother stole away again. But before the morning was over, the four of them had found the calmness that was necessary for a frank discussion of Delia's situation. They were all in favor of a change for her.</p>
+<pb id="Image00144.tif" n="135" />
+<p>"A person has no right to stay where she'll be crushed, I can see that," Delia agreed. "To live on here merely because of an idea that I owed it to Cousin Jenny to do so would be a mistake, would n't it? It would only make us both wretched."</p>
+<p>"The first duty of every person," said Mrs. Wardell, "is to do the finest thing by his own soul. Sometimes that comes through sacrifice, and sometimes it comes through refusing to be sacrificed. In either case, the soul marches on."</p>
+<p>"The only question remaining is, where Delia can march to?" Rue said.</p>
+<p>"Why not to Chicago?" asked Annie Dee.</p>
+ <p>"To do what?" persisted Rue.</p>
+<p>"What can you do, Delia, &#8212; sing, dance, teach, paint, write, typewrite, keep books, sew &#8212;"</p>
+<p>"There you are!" Delia interrupted. "I can do embroidering and all kinds of fine hand sewing. It's a talent with me &#8212; one of the things I inherited." She made a queer little face, half tender, half angry. "And do <pb id="Image00145.tif" n="136" />
+you know, only the other day Pat was telling me that Miss Torrey knew of a settlement house in Chicago where they would pay well to have sewing of that sort taught to the girls. Do you suppose she was trying to tempt me to leave Dalroy? Of course it may be too late for me to get the position."</p>
+<p>"We'll find out all about it," said Mrs. Wardell. "But whether you get the particular position or not, you'll get something. I should like that settlement work for you because it probably would give you a home."</p>
+<lb/>
+<p>Rue had her own problems these days. September was at hand, and that meant that she was to take charge of her school. She had decided on the one in Dubuque, Iowa, because it was nearer home than the one offered her in Arizona.</p>
+<p>"I don't want to be a baby," she said to Patricia, "but I certainly do dread leaving home. Here's funny little Annie Dee working away on her poems and actually making<pb id="Image00146.tif" n="137" />
+a good deal of money out of them. She's been doing a lot for a large advertising agency, and they've paid her well. It seems actually silly to make a living as easily as that, does n't it? She just goes humming and dancing round the house, working up a rhythm, as she puts it, and the first thing we know she has a bunch of verses finished and in the mail. Did you ever hear of anything so ridiculous?"</p>
+<p>"I never did!" Patricia agreed. "I always said that this was an astounding world. Some odd little talent will get ahead of the solidest worth. In speaking of solid worth I refer, Rue, to the qualities possessed by such persons as you and me. By odd little talents, I mean" &#8212; and here she raised her voice for the benefit of Annie Dee &#8212; "such flimsy wits as those by which your unreflecting sister cajoles dollars from the pockets of trusting business men."</p>
+<p>Annie Dee's derisive giggle was heard, but she did not permit herself to be drawn into the conversation, for she was at that very moment concocting some verses describing how <pb id="Image00147.tif" n="138" />
+certain jointed dolls were like your own little sister or your own little brother. Annie Dee's verses were, indeed, very much on her mind. If she awoke early, she seized her pencil and paper, which she always kept beside her bed, and tried experiments in blithe rhythm and amazing rhyme.</p>
+<p>"I 'm the one who must stay at home with mother," she decided, "so it's up to me to develop home talent."</p>
+<p>She was quite aware of her impulsiveness, and she agreed with her family that home was the place for her.</p>
+<p>"I have to be kept under restraint," she said once to Wylie Curtis. "I shall never leave mother till I can do so in the care of a solemn husband, preferably a deacon, &#8212; with whom I shall be perfectly miserable, but who will keep me in order."</p>
+<p>"Why not marry a policeman and be done with it?"</p>
+<p>"Policemen are nice," Annie Dee replied with an air of innocent pleasure. "I'm so glad you thought of that!"</p>
+<pb id="Image00148.tif" n="139" />
+<p>Rue's trunks were all packed, when the unexpected happened. One of the primary teachers in the Dalroy school was engaged to be married to a young man in the implement business; he was suddenly transferred to Albuquerque and insisted on taking his sweetheart with him. A hasty marriage was the consequence; and Pat fled to the Wardells, carrying the first rumor of it.</p>
+<p>"I never was so delighted to hear of a wedding in my life! And I always like to hear of weddings. Rue, you must put in an application at once for the vacancy. Then you can stay here with your own fascinating family and your fond friends."</p>
+<p>"Why should the Board of Education give me the place?" demanded Rue. "And if they did, there's my Iowa job! It's too late to throw that up. I wish you had n't upset me, Pat, by telling me about it."</p>
+<p>"Leave it all to me!" Pat cried.</p>
+<p>And surely enough, Patricia was equal to her task. A few telegrams settled the Dubuque matter; and Rue received her permis<pb id="Image00149.tif" n="140" />sion to take charge of part of the first&#8211;grade pupils in the Dalroy school.</p>
+<p>"So unpack your trunks, honey bird," said Annie Dee, "and be happy with us. Are n't we the lucky Wardells? Of course maybe you can find something to worry about, because you carry round a sort of magnifying glass made for the enlargement of worries, but so far as I can see with my two naked eyes there is n't a cloud on the Wardell destiny."</p>
+<p>Then, after a moment, she added:&#8212;</p>
+<p>"The Curtis boys have just about decided to stay in Dalroy."</p>
+<p>Rue neglected to give the ironic chuckle that might have been expected to follow that remark.</p>
+<p>Trouble, however, as a great many have observed, is quick to follow upon just such vainglorious boasting; and the trouble that came, unexpectedly as an earthquake, not only shook the contentment of the Wardells to its foundation, but brought catastrophe to others.</p>
+<pb id="Image00150.tif" n="141" />
+<p>The season had been an unusually rainy one, and a number of small floods caused by cloudbursts and long continuous rains had hindered work upon the dam. For one reason and another the river carried a great deal of drift, and this had on several occasions made such a conglomerate mass at the sluices that the vents had been almost completely closed. The water had risen at such a rate as to threaten the green concrete work.</p>
+<p>However, the difficulty was not regarded as serious until a heavy rain stopped work on the dam for three days. Robert's thought early and late had been for the sluices, and his men had worked like Trojans to keep them clear; but in spite of their efforts they had failed. Both Robert and Mr. Harmon trembled for their still unhardened cement.</p>
+<p>The rising waters began to inundate the low lands that Captain Quincannon had owned, and the sight of the flooded land exasperated him as much as if they were still his own.</p>
+<p>The money that he had received for the <pb id="Image00151.tif" n="142" />
+land from Mr. Harmon he had already spent in wild and riotous nights with his boon companions, and there were hours when he persuaded himself that he never had been paid anything for his property. At such moments, breaking into wild eloquence, he explained to whoever would listen that the valuable land had been wrested from him by a tyrant.</p>
+<p>Dalroy was now amused and now annoyed at those outbreaks. Quincannon, they all agreed, had long been looking for a grievance, and was delighted at having found one at last.</p>
+<p>Robert, jaded with a long and anxious day, caught a glimpse of the haggard old riverman watching the rising waters from the height above the dam. The old man frowned from under his shaggy gray brows at the young engineer, who nodded absent&#8211;mindedly and strode on toward home.</p>
+<p>A violent wind had risen during the afternoon and dark clouds, with saffron&#8211;hued edges, had gathered in the west.</p>
+<p>"Another rainfall is coming," said Robert to Mr. Harmon, whom he had overtaken on<pb id="Image00152.tif" n="143" />
+the street, "and it won't be safe for the men to work on the dam."</p>
+<p>"The whole trouble seems superfluous to me," said John Harmon testily.</p>
+<p>"Well, we could n't keep the rain off, could we? Floods don't usually come until later in the month; but they're here, and I don't see how any one can be blamed."</p>
+<p>"They can be blamed for not keeping the sluices clear."</p>
+<p>"Don't you think we've tried?" Robert asked. "The men have been at it all day."</p>
+<p> The two walked on in silence.</p>
+<p>"Oh, hang it!" said Mr. Harmon at last. "I feel as cross as a bear with a sore head! I know you've done your best, Bob."</p>
+<p>"I'm going back to the works after supper," said Robert. "Come up to supper with me and we'll talk things over. A dozen of the men are going to meet me on the bank at about seven with something they've rigged up with chains and hooks. I believe we'll have the sluices cleared by midnight."</p>
+<p>"If only the rain will hold off, I dare say<pb id="Image00153.tif" n="144" />
+we'll be all right," said Mr. Harmon; "but it certainly does look threatening, Bobbie."</p>
+<p>There was always welcome and comfort to be found at the Wardell Cottage, it seemed. Mrs. Wardell had a delicious supper, and Rue and Annie Dee served it with quiet cheerfulness, quite aware that this was not the hour for idle chatter.</p>
+<p>At sunset the air was lighted with a wonderful glow, made all the more remarkable by the black cloud that hung over the zenith and that moved very slowly toward the east.</p>
+<p>An indescribable feeling of apprehension crept upon the group round the supper table, and when the telephone bell rang sharply, all sprang to their feet. It was Robert who answered the call, and the others heard him say: "Is it you, Patricia? I can't hear &#8212; the connection seems so bad. Can't you speak louder?"</p>
+<p>He listened a moment, and then, dropping the receiver, turned to his family.</p>
+<p>"There's something the matter," he said<pb id="Image00154.tif" n="145" />
+shortly. "Patricia seems to want me, but I could n't make out where she was."</p>
+<p>"At home, I should suppose, on a day like this," said Rue.</p>
+<p>"Somehow, I don't think she is. I 'm going to find her. The wires are all knocked out to&#8211;day; I wonder she got us at all."</p>
+<p>"But ought you to go out, Robert?" asked his mother anxiously. "I feel as if something were going to happen. I never saw a stranger day."</p>
+<p>"I've got to go, mother," Robert cried. "Pat needs me &#8212; there's something wrong."</p>
+<p>He had been gone fifteen minutes, perhaps, and they had not yet lighted the lamps, when there came a convulsion of earth and air that rocked the house and sucked at the windows as if it would have drawn them out. For a moment the Wardells and their guest gasped; then Mrs. Wardell cried:&#8212;</p>
+<p>"Robert!"</p>
+<p>"Why Robert?" demanded Rue.</p>
+<p>"The dam!" Mrs. Wardell managed to articulate.</p>
+<pb id="Image00155.tif" n="146" />
+<p>"Of course!" shouted John Harmon. "It's the dam! That's what Pat was trying to say &#8212; something was being done to the dam!"</p>
+<p>He was off without his hat, running through that strange saffron&#8211;hued gloom.</p>
+<p>"Oh, mother, we can't stay here!" cried Annie Dee. "We must go, too."</p>
+<p>Yes, decidedly, they must go; and every one in Dalroy, they soon found, was going. In the wild, yellow&#8211;hued dusk they panted along the streets; all faces were turned river&#8211;ward. The young doctor sped past with his medicine case in his hand; the sheriff ran down the middle of the street, followed by a rout of boys; and along the sidewalks streamed the men and women, anxious, curious, frightened. It had begun to thunder ominously, but no one heeded that until a terrific crash, heralded by a spectacular flash of lightning, emptied the black cloud of its contents. In a moment a deluge of water was upon them, and all except the most determined were driven to shelter.</p>
+<pb id="Image00156.tif" n="147" />
+<p>Robert had raced townward, borne on by the conviction that somewhere Patricia was in distress and had called him. He did not think she was at home, yet against his instinct he went there. The Thwait house was dark except for a light at the far end of the wide hallway, and it seemed to him that his summons would never be answered. It never was, in fact, for while he stood on the doorstep there came the shock of earth and air that sent all the town from its doors. Robert called loudly for Patricia, and from somewhere in the house the voice of the cook wailed:&#8212;</p>
+<p>"No, no, Miss Patricia ain't here! I don't know where she is, and what does it matter if it's the end of the world that's come?"</p>
+<p>Robert answered incoherently, for an idea had flashed into his mind. His dam! His fine, effective, workmanlike dam, the first large achievement of his skill &#8212; ruined! He felt sure of it. And Patricia? Where was she? What could she have to do with the dam and the destruction of it? Yet her voice, <pb id="Image00157.tif" n="148" />
+so faint and broken, so distressed and frantic! With his heart pounding at his side, Robert sped on, outdistancing all the others.</p>
+<p>"There he goes!" the people said to one another. "That's Wardell! I guess he won't find much of his dam left to look at."</p>
+<p>That great flash of lightning showed Robert the Curtis boys, running close upon his heels, and the sight of them, so loyal, so efficient, so daring, comforted him.</p>
+<p>A second more and the cloud seemed to empty itself upon them; but Robert knew that those two would not turn back. He was aware that they were near him as he stood for a moment upon the bank and, through the curtain of rain, discerned the rushing waters and heard the roar that confirmed his worst fears for the dam. But Pat &#8212; Pat &#8212; Pat! Where was she? She had been there &#8212; had wished to warn him! An idea seized upon Robert and became a conviction. The cabin, farther downstream than the dam, stood in the very sweep of the flood.</p>
+<p>Robert shouted to the brothers, "I'm<pb id="Image00158.tif" n="149" />
+going to the captain's cabin! I'm afraid there's trouble there!" and dashed away.</p>
+<p>The others paused for a moment to speak to Mr. Harmon, who had come running up. They saw Mrs. Wardell and her daughter and implored them to go back.</p>
+<p>"What good can you do here?" they demanded of the women.</p>
+<p>"Where's Robert?" Rue cried.</p>
+<p>Where was Robert, indeed? He had raced along the bank as far as the Quincannon cabin, had crossed the little bridge, mounted the shaking stairs and for the first time stood in the shiplike interior of the riverman's house. Every pane of glass in the windows had been shattered by the explosion and the rain was beating in from the west.</p>
+<p>A booming sound warned him that the break in the dam was widening; indeed, the house, already loosened from its foundations by the explosion, began to slip along its piles.</p>
+<p>"It's going!" shouted Robert. "Pat! Pat! Are you here?"</p>
+<pb id="Image00159.tif" n="150" />
+<p>He pushed past the cluttered furniture into the farther room, and stumbled against something that lay across a lounge. Was it Captain Quincannon, stunned by the explosion? No, Robert knew that slender form &#8212; knew that great fall of loosened dark hair. At that moment she seemed to Robert to belong to no one except himself. She was his Pat &#8212; his daring, loyal Pat, come somehow to terrible grief.</p>
+<p>The house rocked sickeningly. There were only seconds to be reckoned with. Robert lifted the unconscious girl and bore her to the outer door, which had swung to. Resting his burden against the wall, he tried desperately with one hand to open it. It would not open.</p>
+<p>Suddenly there came to him that calmness that lies at the heart of terror. He laid Patricia carefully on the floor and tried the door with both hands.</p>
+<p>"It opened inward," he said aloud quietly. "I remember it opened inward."</p>
+<p>With that, he ran his hands along the upper casing. Sure enough, the trouble lay there.<pb id="Image00160.tif" n="151" />
+The casing, wrenched from its joining, sagged over the door. Tearing his hands on the nails, Robert rent it loose. At last he was free.</p>
+<p>But the way was no longer clear; part of the bridge was gone. It was the second for action &#8212; even if unavailing; but all his purposeful life and eager manhood would have gone for nothing if he had not taken his chance. Gathering Patricia close, he leaped shoreward amid the wash of the racing river and the tumult of the downpouring rain.</p>
+</div1>
+<pb id="Image00161.tif" n="152" />
+<div1 type="">
+<head type="main">CHAPTER IX </head>
+<head type="sub">THE QUINCANNONS</head>
+<p>THE larger part of the crowd had gathered farther upstream, yet many people saw the cabin swing loose from its foundations and the dark figures leap into the water. Several men, Gordon and Wylie Curtis among them, sprang to the river&#8211;bank, ready to do what they could.</p>
+<p>Of all the crowd, only the Curtis brothers knew positively that one of those figures was Robert's and guessed that the other was Patricia's. While the rescuers stood, hesitating; uncertain how to help, Gordon Curtis had an inspiration. Kicking off his low shoes and flinging his coat from him, he leaped down the bank, ran up the river to the first of the piers, and loosed a stanch, narrow raft made of two beams bound together with ropes. All he needed was an oar, and as he looked about him Wylie thrust one into his hand.</p>
+<pb id="Image00162.tif" n="153" />
+<p>Above the roar of waters he heard other noises &#8212; voices cheering him on, other voices begging him not to go; but he paid no attention to them. He mounted his raft as you would mount a steed and, letting it lift with the current, shot down the river. The rushing water carried him swiftly among the piles on which had rested the Quincannon cabin. There it seemed that he certainly would be unseated; but steering skillfully with his oar, he managed to get free of the piers. Outward he sped, seeming almost to fly along the surface of the dark waters, until presently he overtook Robert and Patricia.</p>
+<p>Robert held the girl with his left arm, and with his right hand clung desperately to the prow of a little skiff, which threatened each moment to break its moorings.</p>
+<p>Gordon had come upon Robert and Patricia much sooner than he expected, and too late he realized that he would probably shoot by them. He dug his oar viciously into the water in a vain effort to stop himself; then, just as he was going by, he clutched with one<pb id="Image00163.tif" n="154" />
+hand at the skiff. The added strain was too much for the fastenings of the boat. They broke, and Robert, still keeping fast hold of Patricia, was submerged by a dark, white&#8211;tipped wave.</p>
+<p>Had Gordon's craft been capable of capsizing, he could never have done what he did; but as it was, on the instant that Robert emerged from beneath the wave he grasped him by the arm, and half dragging him, half swinging the raft, brought them together.</p>
+<p>"Hang on!" he roared. "Hang on, Bob!"</p>
+<p>Instinctively Robert did as Gordon ordered. As for his hold of Patricia, he had not for a moment relaxed it.</p>
+<p>The raft was not riding so well now. It staggered, lurched, sidled, while Gordon, working desperately with his one oar, labored toward the bank. He had a confused impression that a crowd was running along the shore, cheering him with its shouts and watching for a chance to help him. And the chance came! It was a fleeting one, indeed, and had to be seized as the craft shot past the end of<pb id="Image00164.tif" n="155" />
+a short pier, which itself was in danger of being swept away; but by lying flat and reaching down the men hoped to grasp the raft and hold it. Meanwhile, other men farther down the stream ran into the water and made a living chain of themselves in order to catch the bodies should any be hurled from the raft.</p>
+<p>No one was ever quite sure what happened next; certainly no two ever told the same story. With a boat&#8211;hook the men on the pier held Gordon's raft for one second, while Gordon, aiding their efforts, swung it shoreward. A moment later a dozen hands grasped it and hung to it. The little pier began to break now under the hammering of the waves and the weight of the men, but it held for a few precious moments; and then the men who had made a living catch&#8211;net of themselves began to close in, and presently all were safe on shore.</p>
+<p>Rue, standing drenched on the bank, saw Gordon come walking toward her. The rain had suddenly ceased, and the high arc&#8211;lights,<pb id="Image00165.tif" n="156" />
+swinging on their cables, lighted up the thronged embankment.</p>
+<p>"How wonderful you have been!" she cried. "Oh, Gordon, is Bob all right? And Pat?"</p>
+<p>"Bob's fit as a fiddle!" he cried joyously. "Was n't that a glorious fight he put up? Only went under once, and took that like a fish. Only Pat &#8212; I'm not so sure!"</p>
+<p>"You don't mean she's&#8212;"</p>
+<p>"There's the doctor! We'll go and stand near," said Gordon. "I think it's the shock she is suffering from, not drowning."</p>
+<p>"I've got to go to her, Gordon!" Rue cried with sudden decision, and sped from him to where Patricia lay on the bank.</p>
+<p>All about her were her neighbors, moved to speechlessness by the tragic sight before them. Rue turned sick as she watched the young doctor working feverishly over Patricia, and sank weakly down on the bank. A dark reverie fell upon her until, after a while, the whir of a motor roused her.</p>
+<p>"But I can't go home," she heard her<pb id="Image00166.tif" n="157" />
+brother saying, "until I know how Miss Quincannon is. I've a right to know, have n't I?"</p>
+<p>"You bet you have!" said the hearty voice of John Harmon. "You worked hard enough to save her, Bob. Let him stay, boys."</p>
+<p>Just then Annie Dee dashed up. "She's all right! She's all right ! The doctor says she's coming to. Oh, are n't you thankful? Bobbie, Bobbie, I'm so glad I'm related to you!"</p>
+<p>"Then get in here with me," said her brother, holding out his trembling hand to her. "Mother's going to stay with Patricia. Mrs. Thwait is away, and mother will stay all night. Rue, are n't you coming home, too?"</p>
+<p>"I don't know," said Rue vaguely. "I think, perhaps, that I'd rather wait here with mother and see Patricia safe home."</p>
+<p>She did not know why she felt such an overwhelming desire to see Patricia safe away from that place of gray waters and protected<pb id="Image00167.tif" n="158" />
+from other, darker dangers. She could not have said what those dangers were, but as she had sat thinking there on the bank, certain terrible surmises had forced themselves upon her.</p>
+<p>Why had the dam been blown up? Who could have profited by its destruction? Obviously, no one. Then it had been destroyed by some one who had a grudge against the dam and the builder of it. And who could have any such grudge except Captain Quincannon? He had been dissatisfied with the price paid for his lands, and in his drunken resentment had seemed to forget or ignore the fact that they were not still his.</p>
+<p>The more Rue thought, the more convinced she became that Captain Quincannon had blown up the dam. Word of his intention must have reached Patricia, and she had sped to the house&#8211;boat to prevent him; she had found him gone, and had telephoned to Robert in the hope, no doubt, that he could do what she could not. Then the explosion had knocked her insensible. As for Captain <figure entity="ep.nov.nc.158a">
+<figDesc></figDesc>
+</figure><pb id="Image00170.tif" n="159" />
+Quincannon, where was he? That was the question that many would presently be asking &#8212; the bluff sheriff and John Harmon, and all those citizens who represented law and order.</p>
+<p>Even at that minute she could see the sheriff talking to a group of men of whom John Harmon was one. Harmon was kind, but he was not meek. He would try to punish the man who had wantonly destroyed thousands of dollars' worth of property and who had set back his plans for months, perhaps upset them entirely.</p>
+<p>They were putting Patricia into an automobile now, and Mrs. Wardell was getting in beside her.</p>
+<p>"May I come, too, mother?" Rue asked. "It seems as if I had to see Pat all comfortable and safe in her own bed. Oh, I'll never be able to forget how she looked!"</p>
+<p>Mrs. Wardell turned to smile reassuringly into her daughter's pale face. "You shall see her to&#8211;morrow," she said quietly. "Go home now with your brother. He may need you."</p>
+<pb id="Image00171.tif" n="160" />
+<p>Something in the tone seemed to carry rebuke, and Rue flushed. The automobile with Robert and Annie Dee in it had already left; so without a word Rue turned and trudged through the town, avoiding the main streets and desiring only to reach her home and put her weary head on her pillow. Gordon Curtis would have been watching for her, she knew, had not he too been taken home.</p>
+<p>Lights were shining through the cottage windows when she reached home, and she could hear the voices of Bob and Annie Dee within.</p>
+<p>"I hope to Heaven," she heard her brother saying fervently, "that, if he's the man who did it, he's gone down with the flood and been drowned; for if he's living, and I know anything about John Harmon, he'll go to the penitentiary as sure as fate."</p>
+<p>"Oh, it would kill Pat, it would kill her!"</p>
+<p>"See here, sis," Robert went on. "You stick by Pat, will you? I want you to do me
+the greatest favor you ever did. I want you <pb id="Image00172.tif" n="161" />
+to pick Pat out of all the world to be your friend. I don't know what she thinks of me, or whether I'm the person she'd choose to stand by her at a time like this, but I'm going to do it anyway, and I want you to help."</p>
+<p>"Oh, you may be sure of that!" Annie Dee answered. "Anyway, I'd be standing by on my own account! I like being a friend twice as much when there's something to do."</p>
+<p>"I wish I could say things the way Annie Dee does," thought Rue.</p>
+<p>She entered the room softly, burdened with sorrows, and went on to Robert's room to make his bed ready for him. Then she brought him a bowl of bread and milk.</p>
+<p>"You'll need this," she said softly, "after all your &#8212; your adventures."</p>
+<p>She did not quite get out the last words. The menace and anguish of the night had been too much for her, and tears came in a gush, with sobs that shook her to the center of her being. The others comforted and scolded her, and Rue crept to her bed at last, hu<pb id="Image00173.tif" n="162" />miliated and chastened. She had meant to be a help and she had only been a trouble, after all.</p>
+<p>"Oh, Annie Dee," she cried when the two were in their outdoor cots with the soft night about them, "don't go back on me, will you?"</p>
+<p>"Why in the name of the sacred gods of Egypt should I go back on my own sister?"</p>
+<p>"I'm such a dub! I can't act at the right moment, I can't say the things I think, and I'm always getting in the way."</p>
+<p>"What's the use of thinking about yourself when there are so many other things to think about?" demanded Annie Dee. "You 're always trying to do right, Rue, and then wondering whether you have. Don't stop to think! Rip ahead and do the first thing that comes to you. You can repent afterwards if necessary. It's no trouble to repent. I put in half my time doing it. The only things that are the matter with you, darling sis, are hesitation, meditation, introspection, and sanctification."</p>
+<pb id="Image00174.tif" n="163" />
+<p>Rue laughed beneath her bedclothes. "I guess you're right, Annie Dee. I'll try to remember. Write it out for me in the morning and I'll pin it above my dresser."</p>
+<p>No, you won't!" protested Annie Dee. "For if you do, I'll keep thinking that those are my faults and I'll be avoiding them. It would n't do at all to get mixed up like that."</p>
+<p>"And what are your faults, Mr. Bones?"</p>
+<p>"Precipitation, acceleration, flirtation, and desperation."</p>
+<p>Rue chuckled appreciatively, and Annie Dee, satisfied that her sister's storm of unhappiness had passed, laid her soft cheek upon her folded hands and slid, rather than sank, into the gray regions of sleep. But Rue lay awake half the night, anxious for many things. She was glad when the morning came and she could be up and about the affairs of the house. It was almost noon before Mrs. Wardell returned.</p>
+<p>"I waited till Mrs. Thwait came home from the city," she explained, "for I could n't think of leaving Patricia alone. She is<pb id="Image00175.tif" n="164" />
+suffering terribly! I had forgotten that the young could suffer like that."</p>
+<p>"Then it was her father who blew up the dam!" cried Rue.</p>
+<p>"She does n't say so, poor child, but she knows it. Some word was brought her, I feel sure, by one of her father's old pals, and she ran frantically to her father's cabin, hoping to stop him. She reached there just as the explosion occurred. Even though she realizes that others must know the truth, she has her mind made up to say nothing. She never once mentioned her father &#8212; never once wondered where he was. The only thing she said was, 'A man in his right senses would n't do a thing like that, would he?' And of course I said no."</p>
+<p>"Oh, how wise you are, mother!" Rue said. "I thought that all out last night for myself. He was n't thinking right, was he? It was all a sort of blunder &#8212; a terrible mistake."</p>
+<p>"Yes, daughter. By the way, I'll never call Dalroy a mean little town again."</p>
+<pb id="Image00176.tif" n="165" />
+<p>"I should think this was the very time you would be doing it, after what happened last night."</p>
+<p>"The town itself had no more to do with that deed than you or I did. This morning every one is gathering round Mr. Harmon offering to help him. Half a dozen of them have offered to lend him money to get back on his feet again. I saw Robert and John on the street, and they are coming here for luncheon. Have you marketed yet, Rue?"</p>
+<p>"She's done everything," Annie Dee put in. "I've tried to prove myself worthy by attending to something, but she got ahead of me every time; so I just gave up and took to reading the magazines. Ought n't we to visit Patricia this afternoon, mother?"</p>
+<p>"We'll talk of that later. Here come the men. I'll change my dress and see to luncheon if you girls will set the table."</p>
+<p>"No," they heard John Harmon saying, as he and Robert approached the house, "I don't intend to have any one call me a quitter. I 'm here to stay, and I 'm going to build<pb id="Image00177.tif" n="166" />
+and run a furniture factory. You can start on the dam just as soon as you please, my boy.</p>
+<p>"Good for you!" cried Annie Dee, running to the door to welcome him. "I knew you were of the Phoenix variety of bird, Mr. Harmon."</p>
+<p>"Well, it did seem rather like a knock&#8211;out blow last night, I confess, but I'm a man who rebounds quickly. Besides, the Curtis boys want to go in with me, and they stand ready to put up ten thousand dollars this minute. They've been looking round for some opening, and this seems to strike them just right."</p>
+<p>"And will you be safe from now on?" questioned Rue. "You have enemies&#8212;"</p>
+<p>"I'll attend to the enemies," said John Harmon with determination. "Our sheriff is doing his best to ferret out evidence, and I 've sent to Chicago for a couple of detectives. I 'm pretty sure who did the work, but I want definite proof. When I get it, I'll give the perpetrator &#8212; or perpetrators &#8212; a chance <pb id="Image00178.tif" n="167" />
+to see how solitude will act on the disposition."</p>
+<p>Robert Wardell turned, straightened, and looked his companion in the eye with a strange resentment.</p>
+<p>"Harmon!" he gasped. "Patricia's father!"</p>
+<p>"I can't help whose father he is. He's got to take his punishment. It will do me good to see him in the penitentiary."</p>
+<p>"Oh, it would n't, it would n't!" Rue protested. "You think so now, but you'd hate it when the time came. To be out in the free air, working and enjoying yourself, and to know that you'd put a man behind bars&#8212;"</p>
+<p>Harmon broke in with a short laugh.</p>
+<p>"And you'd want him to be out merrily blowing up dams and committing other depredations, I suppose! What kind of sentimentalist do you take me for, Miss Rue? I'm a man of good&#8211;will, I hope, but I'm not a fool."</p>
+<p>"Bob, where are you going?" Rue demanded, seeing her brother snatch up his hat again. "What's the matter?"</p>
+<pb id="Image00179.tif" n="168" />
+<p>Robert Wardell looked round the group with flashing eyes, as he paused for a moment on the threshold of the outer door.</p>
+<p>"I'm going to see Patricia Quincannon," he said. "I'm going to ask her to marry me. I want every one in the country to know that we're engaged to be married."</p>
+<p>He saw his mother standing with a white face in the doorway, and looked at her appealingly. Answering his look, her face broke into a beautiful smile.</p>
+<p>"You're going to be a sword and a shield for her," Mrs. Wardell said quietly.</p>
+<p>John Harmon stood and watched Robert striding down the path. "Have I made an enemy of him?" he asked in distress, turning to his hostess.</p>
+<p>"If you are sure you are doing right, that should not matter," she said smilingly. "I should think that you were superhuman if you did n't resent the destruction of your dam; and I should think that Bobbie was a very poor lover if he did not fly to his lady in the hour of her humiliation. Life is a tangled <pb id="Image00180.tif" n="169" />skein, Mr. Harmon; but let's all believe in each other.</p>
+<p>"That's it!" cried Annie Dee.  "Let's all believe in each other.  Oh, I believe in every one!  I believe in Captain Quincannon!"  She looked at John Harmon with bright defiance.  "Patricia's mother believed in him and they say she was a dear.  Just ask Lena Rysdael about her, Mr. Harmon.  She'll tell you what a dear Patricia's mother was." </p> 
+</div1>
+
+<pb id="Image00181.tif" n="170" />
+
+<div1>
+<head type="main">CHAPTER X</head>
+<head type="sub">THE HARVEST MOON</head>
+<p>ON a cool Sunday afternoon almost a week later, the Wardells, sitting beneath the eaves of their cottage in just the right mind for receiving company, were pleased to see John Harmon coming through the gate. He cast, it is true, rather a longing glance toward the Rysdael Grove; but it was not in him to fail in deference to Mrs. Wardell, who had brought a motherly graciousness into his lonely and matter&#8211;of&#8211;fact life.</p>
+<p>"Work for every one next week," he began in his brisk manner. "Harmon, Curtis &amp; Curtis begin rebuilding their dam first thing Monday morning. How does that suit you, Mr. Engineer?"</p>
+<p>"Fine, fine," said Robert. "You could n't bring me better news."</p>
+<p>"The Greeks are merry as grigs. I've just been telling them the news, and I left them whirling round in each other's arms."</p>
+<pb id="Image00182.tif" n="171" />
+<p>"What are grigs?" asked Annie Dee. "And why are they merry?"</p>
+<p>"The phrase," said Rue gravely, "has been brought back to its original meaning by Mr. Harmon. It is probably a corruption of 'as merry as a Greek,' but most persons use it as being 'as merry as a grasshopper or a cricket,' grasshoppers and crickets being 'grigs,' or little creatures."</p>
+<p>John Harmon sank into a chair with an expression of dismay upon his face.</p>
+<p>"Every little while, Miss Rue, you simply bowl me over with your learning. By the way, does n't school open to&#8211;morrow? And you become one of the notable staff of teachers at the Dalroy school?"</p>
+<p>"Yes," said Rue, still grave. "I do hope I succeed. I mean to put my whole soul into it."</p>
+<p>"Is n't she delicious?" demanded Annie Dee. "If she were making jelly, she'd put her whole soul into it just the same."</p>
+<p>"Do you mind walking down the lane a few steps with me, ma'am?" John Harmon <pb id="Image00183.tif" n="172" />
+said to Mrs. Wardell. "There's something I want to talk over with you."</p>
+<p>Annie Dee dropped one eyelid, but only Rue saw her.</p>
+<p>"He thinks he's going to tell a great secret to mother," Robert said when Mrs. Wardell and Mr. Harmon had passed from hearing. He looked sympathetically after his friend.</p>
+<p>"It's a great piece of news I have to tell you," Harmon was saying. "One of the reasons that I 'm so glad about not being beaten is that I'm going to be married."</p>
+<p>"Oh, how beautiful!" cried Mrs. Wardell with a good imitation of astonishment. "I had such a happy married life myself that I love to hear of others entering upon the same experience. Does&#8212;does the lady live in Dalroy?"</p>
+<p>Mrs. Wardell was as near being a hypocrite at that moment as she had ever been in her life.</p>
+<p>"You bet she does!" answered John Harmon boyishly. "Please look over there." </p>
+<p> They were opposite the Rysdael gate, and <pb id="Image00184.tif" n="173" /> down the long avenue they could see the house with its quaint old doorway and the slender mistress feeding her pets, the squirrels.</p>
+<p>"Who should she be," Harmon went on, "but the sweetest, most modest, most old&#8211;fashioned girl left in the world?"</p>
+<p>"She is lovely," Mrs. Wardell said heartily, "but she has the sort of loveliness that I was afraid no man would appreciate. She will be as loyal as a wife as she has been as a daughter."</p>
+<p>"You could n't say more than that, could you?" John Marmon replied proudly. "I think you can understand why I mean to stick right here in Dalroy in spite of everything. I could n't bear to have her think me a quitter."</p>
+<p>Mrs. Wardell felt her own step grow light with happiness as the two of them made their way back to the house, and it was with a shock that she saw Patricia Quincannon, white&#8211;faced and strangely tragic, standing by the door. Rue had her arm round her, and<pb id="Image00185.tif" n="174" />
+Annie Dee and Robert were before her; all, it seemed, were deeply moved.</p>
+<p>"It's something about her father, I fear. Oh, John Harmon, because of your own great happiness, be merciful!" Mrs. Wardell pleaded.</p>
+<p>She gave him no time to answer, but hastened to join the group by the door.</p>
+<p>"They've found father!" the girl cried, stretching out both hands to the woman who already seemed almost like a mother to her.</p>
+<p>"Found him?"</p>
+<p>"Oh, I mean that they found his body twenty miles down the river in &#8212; in a weir! Oh, poor dad!"</p>
+<p>She did not weep, but turned her hot eyes from one to another of those about her, seeking not so much for sympathy as for some gleam of regret for the taking&#8211;off of her father. She wanted appreciation of him, and Annie Dee saw it.</p>
+<p>"What a cruel way for such a great, handsome man to be found," she said.</p>
+<p>"Oh, Pat," murmured Rue, searching for <pb id="Image00186.tif" n="175" />
+some words of sincere sympathy, "don't think of him as suffering! I'm sure it must have been all over in a minute. He could n't have known&#8212;"</p>
+<p>The words brought up the picture of the drunken dynamiter, the man with hate and destruction in his heart, the creature whom none could respect. But Pat did not flinch.</p>
+<p>"He was a criminal," she said slowly, "and a hunted man, but I loved him in spite of all; but perhaps you can't understand that."</p>
+<p>"Pat, dear," cried Annie Dee, "why should n't we understand?"</p>
+<p>John Harmon did not wince beneath the girl's level gaze, although he realized poignantly that it was he who would have "hunted" the man to his doom.</p>
+<p>"It's best as it is, Miss Patricia," he said. "He can't belie himself any more, and I take it that is what he was doing of late years. Every one tells me he was a fine man in his younger days. Yes, it's best as it is &#8212; God rest his soul."</p>
+<p>"God rest his soul," repeated Patricia.</p>
+<pb id="Image00187.tif" n="176" />
+<p>The words seemed to comfort her. She held out her hand to John Harmon, and he took it in both his own.
+Then suddenly she turned toward Robert.</p>
+<p>"Of course," she said swiftly, "I can't let our engagement go on, Robert. You know what the name of Quincannon will mean after this. I talk a great deal about each one's standing on his own personal merits, but no one can get away from his family, after all. Oh, Mrs. Wardell, I never really meant to drag Bob into all this, but when he came to me, when I was so desolate, &#8212; oh, so lonely and desolate, &#8212; I let him comfort me! I'm stronger now and&#8212;"</p>
+<p>"Hush, Pat, hush!" said Robert sternly. "We are never going to part. Why, you belong to us completely! It is n't I alone who feel that way; mother and the girls&#8212;"</p>
+<p>"You are my daughter," said Mrs. Wardell gently, and drew the girl to her.</p>
+<p>And Robert added softly, "To&#8211;morrow, mother and you and I, Patricia, will go where your father is."</p>
+<pb id="Image00188.tif" n="177" />
+<p>John Harmon strolled to the Rysdael Woods, and they saw Lena, tall and delicate in her white gown, coming to meet him; then Robert and Patricia strolled to the woods; and after a time Gordon and Wylie Curtis came, and, with Rue and Annie Dee, followed the lovers. Mrs. Wardell was left alone in the silent house.</p>
+<p>"It certainly is the crown of the year," Rue said as they tramped over the sweet&#8211;smelling grasses. "If I were in Lena Rysdael's place, I should want to be married now, in the fall. October's the best month of all for a bride like her, whose good deeds have borne fruit."</p>
+<p>"I hope," said Annie Dee, "that we shall be asked to be bridesmaids. Being a bridesmaid is much nicer, to my mind, than being a bride. You have all the fun of a wedding and the next day you forget all about it. Rue, if we're asked, you're to wear pink and I'm to wear blue."</p>
+<p>"What we wear &#8212; always providing we 're asked &#8212; will make very little difference<pb id="Image00189.tif" n="178" />
+to any one, my dear. It's that sweet Lena they'll be thinking about, all in her white. Is n't it queer, Gordon, that we did n't see at first how sweet she was?"</p>
+<p>"Something had to be left to the unfolding," Gordon Curtis answered in quite the manner his Aunt Amrah Curtis might have used. "If we saw everything at once, what would be the use of going on? I'm sure Dalroy did n't appreciate you at the outset, but now &#8212; well, the town's as proud of you as if you had been made to their order."</p>
+<p>They were walking along the eastern edge of the Rysdael Grove, and Rue, looking through the trees to the quaint old house, could not help commenting on it. "It's quaint, is n't it ? Could n't you tell that some unusual person lived there?"</p>
+<p>"Which is the unusual person?" asked Wylie.</p>
+<p>"Oh, Mr. Rysdael, of course! He's really marvelous. He brought over part of what he's written for his book on lichens to show us yesterday. The illustrations are to be in<pb id="Image00190.tif" n="179" />
+color, and, do you know, he's painted them himself, yet no one had thought of him as an artist. He said that he was n't, but that of course he could paint the lichens."</p>
+<p>"John Harmon is so fond of prosperous&#8211;looking places and smart clothes and the latest automobiles," Gordon remarked, "that I wonder whether he'll be willing to live in the Rysdaels' old place."</p>
+<p>"I warrant he will," Rue declared. "He would n't think of taking Lena away from her squirrels and her birds, and he'd be much too kind to ask her to leave her father. To ask Mr. Rysdael to leave this old place would be an unthought&#8211;of cruelty."</p>
+<p>"If he were my father," said Annie Dee, "I 'd do anything he wanted me to. You have to know him at home to get any idea how nice he is. Now, you would n't think he'd like verses, would you, but he was delighted when I showed him 'The Elves.'"</p>
+<p>The leaves on the ground were not deep yet, &#8212; the young people could not rustle in them as they would be able to do a month<pb id="Image00191.tif" n="180" />
+later, &#8212; but they were falling and the air was gay with them. Goldenrod and aster made the wayside regal; the sumacs were growing in splendor. Over the spirits of the young people crept a quiet and happy mood.</p>
+<lb/>
+<p>Patricia and Robert joined them after a while, and they all turned back through the woods. They were not surprised to see Lena and John Harmon walking together in a grove. The air was golden now &#8212; flooded with all the splendor of the sunset.</p>
+<p>"Oh, how happy they are!" cried Patricia, with a sudden poignant envy.</p>
+<p>"Don't envy them, Pat," Annie Dee answered. "They have only just learned how to be happy. Oh, who is that?"</p>
+<p>A little woman, carrying a bouquet of fall leaves in her hand, was coming at a quick pace through the woods. She was dressed all in brown, and with her bunch of bright&#8211;colored leaves looked like some respectable, middle&#8211;aged dryad.</p>
+<p>"Oh, it's Miss Ferris!" said Rue under her<pb id="Image00192.tif" n="181" />
+breath; then, seeing that the woman was walking straight toward Lena Rysdael, she added, "Oh, I hope she'll be nice!".</p>
+<p>It seemed cruel, Rue thought, that Miss Ferris's sharp eyes should peer upon the lovers' happiness.</p>
+<p>John lifted his hat; Lena was smiling. The old village gossip was being pleasant, then! They saw her make a funny little bow and hand the gathered leaves to Lena very grandly. She had evidently presented them as a betrothal offering! She bowed again and, turning, hurried away. John and Lena, admiring the richly colored leaves, walked on in the golden light; but little Miss Ferris walked alone, and it came to the minds of all those who watched her that she always had walked alone. Alone she had found her queer little joys, alone she had borne the prick of sorrow. She touched their hearts as she walked there among the falling leaves, bound for her solitary home.</p>
+<p>"Perhaps she'll stop in to see mother," said Rue, answering every one's thought.</p>
+<pb id="Image00193.tif" n="182" />
+<p>"She's not turning down our lane," Annie Dee remarked. "She's going on home. Rue ought n't we to go to see what mother is doing? Do you realize that no one is with her?"</p>
+<p>"But it's so wonderful here now," objected Gordon Curtis.</p>
+<p>"Yes, there are n't many hours like this," his brother agreed.</p>
+<p>So they lingered; and it was only when the evening star showed its point of golden light in the blue depths of the sky that they turned their faces toward home.</p>
+<lb/>
+<p>Mrs. Wardell moved about softly, straightening a picture, draping a curtain, wondering vaguely at her contentment in a place that, after all, was so new to her. The little woman who had spent her life in this humble and lowly place must have passed on the sacred essence of homeliness to her successors.</p>
+<p>"I like it," Mrs. Wardell said aloud. "I like the dear little house and 'the mean little town.' We came here strangers, and now we are well acquainted, and none the worse for<pb id="Image00194.tif" n="183" />
+the struggle we had to make to win our place. We've all made it &#8212; Bob offered his good work and his heroism, Rue her strong good sense and her beautiful proprieties, Annie Dee her light&#8211;heartedness and her zest for life, and I &#8212; well, I've given what I had to give."</p>
+<p>She lifted from the table a picture of her husband and looked at it smilingly. He looked so young &#8212; he always would look young. She knew well that the wrinkles were gathering in her face, that her hair was whitening, and her step slackening; but she regretted nothing. From the window she could see the rich summer set toward decline &#8212; the cool, bright day move to evening; but all was well. Anne Wardell, being wise and humble, patient and brave, would have had it no other way.</p>
+<p>It set her thinking of another picture she had of her husband &#8212; one taken when he was a cadet, not twenty years old, at a military academy. She remembered how high he had carried his head and how full of life and<pb id="Image00195.tif" n="184" />
+hope his eyes had looked. The picture, she thought, must be in a certain trunk in the storeroom, and with almost girlish eagerness she climbed the stairs that led to the attic.</p>
+<p>Once there, with the light streaming in through the tiny windows, she enjoyed herself in that spirit of gentle retrospection and mild adventure peculiar to searchers in such storehouses of memories. She had gone through two trunks without finding what she was searching for, and was just about to open a third trunk, when she saw, in a far corner, a curious mess of stuff quite inconsistent with her housewifely tidiness.</p>
+<p>"Whatever in the world can it be?" she asked aloud, and poked it cautiously with one foot. It was the nest of some animal tucked away under the eaves; or rather, it was the cache of some explorer.</p>
+<p>"It's the squirrels, the rascals! They've been carrying off things and hiding them."</p>
+<p>Wondering what the little thieves had hidden there, Mrs. Wardell began to investigate with a stick. She found strings, bits of rib<pb id="Image00196.tif" n="185" />bon, quantities of thread, and then something that shone and glistened. With a swift conviction of what that article was, she pulled it out.</p>
+<p>It was Rue's lost necklace with its tiny topaz pendant!</p>
+<p>What beautiful news this would be for Delia Sessions! Mrs. Wardell could hardly wait until she got downstairs to the telephone.</p>
+<p>"Oh, Delia, is it you? Yes, my dear, this is Mrs. Wardell. I'm very happy, Delia, for I've just made such an interesting discovery. It's Rue's necklace &#8212; I've found it. In the attic in a squirrel's nest &#8212; of all places! It was so light, you see, that the little rascals could drag it away easily, and of course they liked it because it was so shiny. I knew you'd be glad. You're going away next Wednesday, you say? You have the position as instructor in fine sewing in the settlement house in Chicago? Well, I think you're right to go, my dear girl. I wish you Godspeed and a thousand beautiful adventures. You say you've<pb id="Image00197.tif" n="186" />
+found an old friend who will stay with your cousin? Oh, that's good, is n't it? I'll be down to see you to&#8211;morrow, Delia. Good&#8211;bye &#8212; good&#8211;bye!"</p>
+<p>She seated herself in Miss Amrah Curtis's little red rocker by the window and, folding her hands in her lap, mused happily. That the tears trailed slowly down her cheeks was of small account. She did not know why she wept. She told herself that she had never been more at peace. So, musing, she fell asleep, and in her dreams <hi rend="italic">the lover of her youth came into the room and stood before her, smiling and speaking her name.</hi></p>
+<p>The sound of voices awoke her, and she started up to see the young people trooping up the path. John Harmon and Lena Rysdael were with them. She threw open the door and called to them.</p>
+<p>"Come," she said, "it's time for supper, and you're all to stay. Lena, go get your father to come, too. When you come back I'll give you my kiss of congratulation."</p>
+<p>"What a burning shame to leave you<pb id="Image00198.tif" n="187" />
+alone, you darling one!" Annie Dee said, kissing her mother on both cheeks.</p>
+<p>"I have n't been alone," said her mother. And Annie Dee thought how rich and beautiful her voice was.</p>
+<p>"Have n't you? Who has been in, then?" </p>
+<p>But Mrs. Wardell did not answer.</p>
+<lb/>
+<p><hi rend="center">THE END</hi></p>
+
+
+
+
+</div1>
+</body>
+</text>
+</TEI>

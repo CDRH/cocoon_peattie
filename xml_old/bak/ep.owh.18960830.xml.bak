@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18960830">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1896-08-30">30 May 1896</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcribed and encoded</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb corresp="ep.owh.18960830.jpg" n="p8"/>
+
+<div1>
+
+<head type="main">A WORD<lb/>
+WITH THE WOMEN</head>
+
+<milestone unit="smallbar"/>
+
+<byline>(By Elia W. Peattie.)</byline>
+
+	<p>The wind was blowing swiftly and we were riding on an open car down Farnam street. I have taken a sail on a brisk day along the coast of the Atlantic and not gasped so much. Being in the middle of the afternoon, the car was laden with women, and every mother's daughter save one was holding on to her hat. The exception was a swarthy Bohemian woman with a wonderful purple and red silken kerchief tied over her raven hair. She sat with her big arms <sic corr="folded">foled</sic> and let the wind blow. Her look was serene&#8211;almost passively serene. Her short skirt gave her no trouble. She was not embarrassed or annoyed if the wind in its furor lifted her draperies sufficiently to show her large, shapely feet or her stout calves with their purple stockings. In fact, there wasn't any nonsense about her. No corset kept in her plenteous waist. He shoulders, with their fine curves, braced themselves with masculine energy against the back of the seat. Her melancholy black eyes wandered along the horizon line beyond Florence, with its vineyards, and rested on the distant bluffs. She was content. She looked even spiritual. And I laid it all to the absence of a hat. There may be towns in which hats are good things to wear. Omaha is not one of them. There are a few days in the year here when it is not comfortable to wear a hat. Moreover, it is always difficult to find one that will fit the head. To keep them in place at all, it is necessary to wear veils, and veils are an abomination to the eyes, and in hot weather are quite oppressive. One of two things, we ought either to wear bonnets or kerchiefs, and of the two kerchiefs seems the more desirable. Let no one imagine that they would not be becoming. On the contrary they would be charming.</p>
+
+	<p>Fancy Miss Drake, with her Titian hair, with red-brown kerchief around her head, or young Mrs. Powell wit ha dark blue or a dark red kerchief over her golden locks, or miss Curtis with her blond head swathed in a Persian folding of silk. Nothing is more picturesque, really! And what irritation and nervousness would they not save! What aching of arms they would prevent, and what disarray of locks. The average Omaha woman has a head that reminds the observer of Medusa's after she has taken a ride in the open street car. The hats sway this way and that, tearing the hat-pins from their moorings and half dragging the hair down with them. If by any chance any absurd conventionality should keep the ladies from declaring in favor of kerchiefs, at least they might adopt bonnets. There is an idea that a bonnet is only for the elderly, but nothing could be more mistaken. Everyone remembers how, when she tied her bonnet under her chin, she tied a young man's heart within! And in fact a fair young face is never lovelies than when encased in the strings of a pretty bonnet. The prettiest girl I have seen this summer rode from Omaha to Council Bluffs the other day on the motor. She was about 16, and her complexion like that of the ripe peaches at the stalls. The outline of her face was delicate as a cameo, and her brown braids seemed to resolve themselves somewhat reluctantly into plaits, for they came out of a riot of little curls, which blew gaily about her face. She wore a simple white gown as a maiden should, and a  big poke-like sort of bonnet, trimmed with fluffy white rosettes and voluminous white strings. She was exquisite. I don't say bonnets could make everyone look like that, but they would conduce to universal peace of mind.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

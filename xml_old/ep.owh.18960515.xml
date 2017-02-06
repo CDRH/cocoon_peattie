@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18960515 SYSTEM "ep.owh.18960515.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18960515">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18960515</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1896-05-15">15 May 1896</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-03-04</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-11-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18960515">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+
+<div1>
+
+<head type="main">A WORD WITH THE WOMEN</head>
+<byline>(By Elia W. Peattie.)</byline>
+
+	<p>Tuesday night was just the night for a ghost. You remember how it rained! All night long the rain fell on the sodden ground. Gusts of desolation seemed to blow about; the darkness was as a palpable melancholy. One shuddered and drew one's baby closer into one's arms for company! The room seemed full of presences, and flutterings of invisible garments moved about, or passing blots of white that might be faces, showed ghastly against the pane for a moment and were gone.</p>
+
+	<p>While comfortably housed folk were shivering in their beds, a conductor on one of the Omaha street cars, standing on his drenched platform, saw a little figure sitting at the far end of the car. For a moment he thought the mist of the glass had deceived him, for he had no recollection of having stopped to let any one on, but there was really no mistaking the fact. A little figure sat the end of the car wrapped in an old cloak. Was it boy or girl? The hair hung to the shoulders in unkempt stringiness, and the little cap gave no indication of sex. The ragged overcoat, much too large for the shrunken frame, might have belonged to either a boy or a girl. The feet were covered with old arctics, from which the soles hung loose. Beside the little figure was a chest of dark wood, with curiously wrought iron hasps. From this depended a stout leathern strap by which it could be carried over the shoulders. The conductor was strangely fascinated by the tiny shape. The head drooped sadly upon the breast. The thin blue hands lay relaxed upon the lap. The whole attitude was suggestive of hunger, loneliness and fatigue.</p>
+
+	<p>"I don't believe I'll collect fare from the poor little thing," he thought to himself. "The kid must need the fare a great deal more than the railway company. It looks starved. If it has a nickel it ought to buy some grub with it."</p>
+
+	<p>Then he stood and stared again, for a long time, while the car plunged on in the wet blackness and the rain swished in his face.</p>
+
+	<p>"I wonder whether it is a boy or a girl," he said. "It might be either. I'll go in and find out. Perhaps I can help the poor kid along some way."</p>
+
+	<p>He was so wrapped in his reverie that he had not noticed where he was and as he opened the door to enter the car turned a corner swiftly and threw the trolley from the wire. For a moment the car was plunged in murk. When the trolley was connected again, the conductor hastened through the open door and toward the further end of the car. Then suddenly, he became aware that the car was empty! There was no sad little figure in the place, no curious box, not even moisture on the seat where the dripping child had been.</p>
+
+	<p>The conductor actually looked under the seat before he confessed himself wrong. Then he went to the driver.</p>
+
+	<p>"John," he asked, with a little tremble in his voice, "did you let a little kid on with a queer box on his shoulder?"</p>
+
+	<p>"Nop," said the driver, wiping his dripping face on his sleeve. "What you talking 'bout? Nobody's got on this trip."</p>
+
+	<p>The conductor went back to his own platform and shut the door. The rain grew worse. It fairly deluged him. It was most unlikely that any one would be out on such an hour and so late at night. So he entered the car and stood there, leaning against the door. He was very tired with the long day's work and the wetting, and he nodded for a moment, there on his feet, but as a gust of wind shook the car which almost threw it from the track, he opened his eyes suddenly and caught at a strap to keep himself from falling.</p>
+
+	<p>And there, before him, with head sunk on breast, with little blue hands lying relaxed in the lap, with the curious box beside it was the dejected child-figure again. For some reason the chills of the night seemed to have got in the conductor's blood. Then his courage reasserted itself. He made a rush for the child, intending to gather it in his arms, or do anything by which he might convince himself that it was not&#8212;but even as he reached out his hands, the trolley slipped on the dripping wire, a thousand bails of blue electricity dripped from above, the tracks turned into white fire, and the little figure was gone!</p>
+
+	<p>(N.B. Only the dull need to be told that there is a time for all things. This weather is the time for ghost stories. There are times when this column is devoted to the accurate reporting of events, but that is on different sort of weather from the present. When the sun, the moon, Earth and Uranus stand in a row like boys at school with their toes on the line, one always writes ghost stores!)</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

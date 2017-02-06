@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18911115 SYSTEM "ep.owh.18911115.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18911115">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Brother Lemen's Work</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18911115</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Brother Lemen's Work</title>
+<title level="a" type="sub">The Christian Home of Council Bluffs and What It Does for Children</title>
+<title level="a" type="sub">Its Marvelous Success in a Worthy Work&#8212;Omaha Has No Institution of the Kind</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1891-11-15">15 November 1891</date>
+<biblScope type="pages">5</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-16</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-02-18</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcribed and encoded</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18911115">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p5"/>
+
+<div1>
+
+<head type="main">BROTHER LEMEN'S WORK</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">The Christian Home of Council<lb/>
+Bluffs and What It Does<lb/>
+for Children.</head> -->
+
+<head type="sub">The Christian Home of Council Bluffs and What It Does for Children.</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">Its Marvelous Success in a Worthy Work&#8212;<lb/>
+Omaha Has No Institution of<lb/>
+the Kind.</head> -->
+
+
+<head type="sub">Its Marvelous Success in a Worthy Work&#8212; Omaha Has No Institution of the Kind.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>A few days ago a young woman in a little Iowa town packed her trunk and said good by to her friends. She was a capable young woman, taller than most men&#8212;one who had had experience in taking care of herself, and who was naturally independent.</p>
+
+	<p>That was why her friends could not understand why she should be willing to resign her independence. For this young woman was going to join the band of workers at the Christian Home in Council Bluffs. And once there, duty holds one fast. Everyone knows about the Christian Home&#8212;that odd little group of cottages where nearly seventy fatherless and motherless children have found safe shelter. To go into the details of this Home is superfluous. It has no endowment, and it is supported "by the grace of God." Since it started, about ten years ago, there have been times when, to say the least, there was no superfluity in the Home. But hunger has not come there, nor despair. Every mail brings its comfortable assurance that the Home has friends in every part of the United States.</p>
+
+	<p>The young woman who left her friends to voluntarily take on her shoulders the heavy burden of assisting in the care of these little homeless youngsters had heard of the place through the papers.</p>
+
+	<p>"And I could not get rid of the idea," she said simply, "that I ought to go and help." So she has come. And she is helping.</p>
+
+	<p>And there is need for the force of workers has been low. Of course, there is always Mr. Lemen, the clergyman, whose warm impulse started the Home, and whose steadfast purpose sustains it. And there is his wife, who teaches these weary little wanderers to love her. And there is Mrs. Dakan, the matron, a grave woman, with a kindly face. The manner in which she came to the Home is not unlike that which brought Miss Pierce, the young woman from Iowa, within its precincts.</p>
+
+	<p>"My husband died," she said, "and left me with property enough to live on. I might have done so, quietly and comfortably, as other women do. But I could not. There was other work which I felt called to do. That is why I am here."</p>
+
+	<p>There is an astonishing simplicity about the whole place. These people, who have resigned the selfish pleasures, speak of their sacrifices in the most matter of fact way. Mrs. Dakan, for example, seldom goes beyond the boundaries of the close little nursery where the children play and laugh, and quarrel and sing and dance in true child fashion. She has to see that they are clean, that they are fed, in bed at the right hour, at school on time&#8212;any woman with two children and a little imagination can tell how it would be to have sixty.</p>
+
+	<p>There is Dr. Lawrence also.</p>
+
+	<p>"How did I come here," said Dr. Lawrence, looking up from her bookkeeping. "Why, I came because I could not help myself. It was two months before I would have been graduated when a Home paper reached me by accident. Mr. Lemen was a distant relative of my family, but I had not heard of him for years, and did not know what he was doing. When his little paper came, it annoyed me&#8212;that is to say, it disturbed me. I hid it in my books that I might not see it. But it persistently dropped out. I wanted to tear it up, but I could not bring myself to do so. At last the message it seemed to bring to me became imperative. I wrote to the Home asking if my help was wanted. I thought the answer would be no and that I should then have peace of mind. Instead of that a telegram told me <sic corr="to">to to</sic> come. That is over three years ago."</p>
+
+	<p>The doctor is a part of what Mr. Lemen calls the "dove-tailing." And it is true that the workers seem each to fill some particular place. For example, if a small boy is so ill-advised as to fall off the top of the house and cut his head open, there is the doctor at hand to sew it up in less time than it would take them to get another physician on the ground. She does not, however, look after the health of the little community now except in emergency cases, though until recently she has done so. The fact that there have been no deaths at the Home in three years, except in the cases of those brought into the Home already sick, is an eloquent commentary on the care which they have received. The office work has grown so that it takes all of Dr. Lawrence's time to keep the books, answer the letters, arrange for publication the lists of donors and assist in preparing material for the two papers issued from the busy little press at the Home, the subscriptions of which form so material a part of the income of the institution.</p>
+
+	<p>These papers could not be prepared in the excellent typographical style and at the slight expense which they are, if it were not for another of these "dove-tailing" helpers. This is Mr. Frank Marsh, a young man who is a practical printer. He sets the type, runs the press, and, what is equally as important, educates the larger boys in typesetting. Mr. Lemen has a son, getting up to that perplexing age where one fears to offend him by calling him a boy, who also helps in this part of the work, and who can direct circulars with any boy on earth. And it isn't any particular fun, from the standpoint of a boy, to put in your time directing circulars after school.</p>
+
+	<p>But there is a press and an excitement at the Home. Everyone is busy. All the big girls have their tasks. There are the dormitories to care for; the meals to prepare; the little ones to wash and play with and instruct. Speaking of dormitories, reminds one to say that a fine new one is being built back of the nursery. It will accommodate ten beds. It has ventilation from the four points of the compass, an air chamber above the lofty ceiling and a door at each end.</p>
+
+	<p>If all the children who came into the Home were good and sweet, the matter of caring for them would be simple. But a great many of them are the piteous flotsam of life. They have been tossed by storms. Their very cradles were rocked by winds of adversity. They have learned how to hate, but not how to love. They can lie, but they cannot tell the truth. They can be cruel, but it is difficult for them to be kind. But a little leaven will leaven the whole loaf. These poor babies are put in the nursery with the other children. They are astonished to find that they are not beaten or cuffed or scolded. They have trouble to make out why the others seem to care for them. And the spirit of imitation takes possession of them. They become amiable, because they are happy. They grow good because they are loved.</p>
+
+	<p>Money cannot buy these little ones from their safe retreat. They are held at the Home as a sacred charge. Only men and women who are good and earnest, and who will raise their children in the fear of the Lord are entrusted with the care of any of the little ones. And that is the beginning and the ending of certain adverse criticisms which have been made concerning the place. It is very difficult for some people to understand that there is anything money will not procure, or any door that cannot be opened with a golden key. Mr. Lemen does not take in the children to send them out again. He takes them in to care for them in the best way he knows how, and he teaches them to subordinate material comforts to spiritual development. For this reason he only permits them to leave when the homes to which they are taken are of the sort where they will get the training that he considers best for them.</p>
+
+	<p>So there really is one thing in this part of the country which money will not buy. It is a child from the Christian Home. These little wanderers are held above price. On an average, one child is placed in a Christian home every week&#8212;fifty-two this last year, and fifty-four the year previous. During the last few weeks four homes have been found for two children each. Mr. Lemen never separates a family. If a brother and sister enter the Home they only leave it for another in which they can live together. For six years he has two brothers and a sister because he would not separate them.</p>
+
+	<p>"I have never yet found a family which wanted to take three children," says Mr. Lemen, without any idea of being facetious, "but I may do so some day. And we are fond of children anyway. The oldest, who is 14, is a fine boy. We are in no hurry to get rid of them. Indeed, we are never in a hurry to get rid of any of our children. We only let them go when they can better their condition. And we do not lose track of them after they have left us. The other day we brought a brother and sister back. The circumstances were peculiar. We gave them to a Christian man and woman who were going out into the new west to live, and who wanted the comfort of children about them in their home&#8212;which was isolated, of course. After a little while the mother died, and the father was left in such a position on his place, thirty-six miles from a railroad, that he not only could not take care of the children, but could not leave his ranch to return them to us. But the Home never lacks friends. We wrote to a sister in Iowa, who consented to go for them, and we now have them back among us."</p>
+
+	<p>I am a very secular sort of person myself, and my faith consists in a sort of tremulous hope that this absurd and jumbled life will not be the last chance given us. When I see how gloriously the sunrise blazoned the sky at dawn, even after the blackest night, I cannot but hope that after the tragedies&#8212;all the shameful sins and the unspeakable sorrows&#8212;of this life, there will come a white dawn even for the worst of us, and that worship will then come as naturally to us as appeal does now; and that instead of doubt and wonder, we shall have joy and knowledge. But though I am so nearly a heathen, never see simple and sincere faith that I do not respect it, and for the time being, almost believe in it. Over at the Home they would no sooner doubt the fact that their heavenly father was watching them with loving kindness every moment than they would doubt that the earth was round. So, whatever burden is put on them they accept it.</p>
+
+	<p>There is never any apprehension that the burden will be greater they can bear. For example, one day a very old man came to the Home. He was bent, half blind, without friends or home, or means of livelihood. With him he had a letter from a friend of the Home.</p>
+
+	<p>"Take him in," said the letter, "take him in, if you can, in the name of the Lord." Mr. Lemen looked at his crowded quarters, thought of his limited means, looked at the old man&#8212;and took him in! As he could not very well put him in any department existing in the Home, he arose to the occasion by making a new department. He called it the old people's department.</p>
+
+	<p>Not very long after this another old man came to Mr. Lemen. He had been one of his congregation in years past. Now he was worn out.</p>
+
+	<p>"I have nothing left to do," he said, his bowed shoulders pleading for him. "I am at the end of my rope."</p>
+
+	<p>Mr. Lemen looked at him.</p>
+
+	<p>"I guess you are," said he. This tired old man had a wife as worn as he. Mr. Lemen took them in. He put the first "brother" in the two tiny front rooms of a whitewashed cottage, and there he lives surrounded by the pictures that he painted when his eyes were better and his hopes were higher than they are now. And in the rear of the cottage the other aged "brother" lives with his wife, both of them continually grateful for shelter and care. All day long Mrs. Simonds, who has the kindest and most grandmotherly of faces, patches and darns little garments, just as other grandmothers do in houses where there are fewer children.</p>
+
+	<p>"I am very glad to do it for the children," she says smilingly as she regards a dark gray patch on the elbow of a light drab jacket, "glad indeed."</p>
+
+	<p>Another department which the Home has now is the newsboys' department. This started in much the same fashion as the old people's department. Mr. Lemen saw a miserable little boy on the cars, and he felt compelled&#8212;in the same way that he feels compelled to perform many acts of kindness&#8212;to go over and speak with him. Never mind what was said. The tears that ran down the cheeks, plowing little furrows in the dirt there, moved Mr. Lemen. He promised to give him a house. But the boy was a bad little boy. There was no doubt about that.</p>
+
+	<p>"I feared I ought not to bring him here where he would teach my boys and girls bad ways. But I had promised to give this boy a home. I wondered what I should do. Then I thought of a Christian brother and his wife who might be willing to take care of him. I decided to make a new department. I did."</p>
+
+	<p>Well, the little fellow was too restless to stay. He ran away in a few days. But that is no reason for discouragement. Jean Valjean ran away from the house of the good bishop, and carried the sacred gold plate of the church with him. But he was a regenerated man all the same.</p>
+
+	<p>Meanwhile another homeless gamin had appeared and been sent to the newsboys' department. He wore a scared look&#8212;as if he had seen a good deal of life, and it hadn't been nice to look at. And one day he was seized with a sort of nervous terror. His arms twitched. His eyes grew fevered with apprehension, and he cried out continually.</p>
+
+	<p>"Don't let him stab me," he would scream, holding close to the dress of the woman who was caring for him, "if you don't watch him he will stab me! I'm tired of traveling with this show. I'm afraid to go any farther. I'll run away, I tell you. I'm not going to stay here to be stabbed."</p>
+
+	<p>The doctor came and said something terrible:</p>
+
+	<p>"He is mad."</p>
+
+	<p>As an animal dwelling in darkness becomes blind, so the blackness of this unfortunate little life had put out the light of reason. But it may be that in time he will recover. There is one chance in a hundred for him. Meanwhile the Newsboys' Home is open to those who need and deserve its shelter.</p>
+
+	<p>There is no need of saying more. This will show how wandering children are cared for in Council Bluffs.</p>
+
+	<p>But do you know what is done for them in Omaha?</p>
+
+	<p>They are housed with criminals in the jail.</p>
+
+<closer><signed rend="right">E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+
+</div1>
+</body>
+</text>
+</TEI>

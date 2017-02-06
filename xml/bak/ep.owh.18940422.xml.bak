@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18940422">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Are They Anarchists?</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Are They Anarchists?</title>
+<title level="a" type="sub">The Nineteenth Century Crusade, Its Expectations, and Its Devoted Leader</title>
+<title level="a" type="sub">Is it a Menace to Society or a Part of Society?&#8211;Is it an Offense Against Law?</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1894-04-22">22 April 1894</date>
+<biblScope type="pages">11</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb corresp="ep.owh.18940422.jpg" n="p11"/>
+
+<head type="main"><unclear>ARE</unclear> THEY ANARCHISTS?</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">T<unclear>he N</unclear>ineteenth Century <orig reg="Crusade">Cru-</orig><lb/>
+sade, Its Expectations, and<lb/>
+Its Devoted Leader.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Is it a Menace to Society or a Part of <orig reg="Society">So-</orig><lb/>
+ciety?&#8211;Is it an Offense<lb/>
+Against Law?</head>
+
+<milestone unit="smallbar"/>
+
+	<p>New times, new conditions&#8211;new conditions, new laws.</p>
+
+	<p>So runs the world away.</p>
+
+	<p>The industrial army with its "uniform of rags" is a nineteenth century crusade. But these men do not go to free a sepulcher from <orig reg="pagan"><sic corr="paynim">painim</sic></orig> hold; they go to free the citizens of a "free" country!</p>
+
+	<p>What will they accomplish?</p>
+
+	<p>Nothing, perhaps.</p>
+
+	<p>But then, "Vivas to those who have failed!"</p>
+
+	<p>The railroads running through the state of Iowa, eastward, have had several reasons for their refusal to carry on toward Washington this band of 1,400 men. The first reason was that the men had no legal right to ask for free transportation, and that no legal obligation rests upon the roads to take them without pay. The second reason is that the state of Iowa would hold the road responsible for the transportation of indigent persons from one place to another. The third reason is that under the laws of Illinois the railway companies would be liable to the payment of a fine of $100 for each indigent person landed in the state. And the fourth reason is that the companies do not wish to establish the precedent of carrying men free of charge at the demand of anybody which may see fit to do so. "Such procedure," said Attorney Baldwin, "we believe, would be dangerous not only to all property rights, but also to society and to good government."</p>
+
+	<p>These words sound well, and express the popular sentiment of most men who have been able to accumulate property&#8211;they express the sentiment of the small property owner quite as much as the large property owner.</p>
+
+	<p>But it must not be forgotten that the men in Kelly's army are as much a part of society as the militia, the governor, the officers and owners of the railways or the men who have "jobs."</p>
+
+	<p>The man who is out of a job may, indeed, be looked upon as more or less of a menace to society, providing that society be defined as that part of mankind which has "jobs." The menace, of course, consisting of the fact that the man with the job must volunteer, or be forced to make a greater or less division of his property, and share with the unemployed man. He may do this be means of the county poor house, and the fund for the indigent, or he may do it directly and "sell his goods and give to the poor."</p>
+
+	<p>But if circumstances arise which makes the number of indigent men so great that all the poor houses and relief funds in the country are unable to provide for them, then the "menace to society" becomes very alarming indeed.</p>
+
+	<p>For, be it remembered, as soon as a man becomes indigent he ceases to be a part of society in the eyes of the law, and in the estimation of society itself.</p>
+
+	<p>That is to say, so closely are the rights of man conformed with the rights of property, that the indigent man becomes akin to a criminal. He is liable to arrest as having no visible means of support. He is refused the right to even accept the gift of free transportation, the railroad which carries him being held liable to a heavy fine for carrying him from one state to another.</p>
+
+	<p>Mr. Baldwin speaks of the danger to good government which is involved in the transportation of indigent men from one place to another.</p>
+
+	<p>But these indigent men may well inquire if that government is good which has permitted them to become reduced to a point of pauperism.</p>
+
+	<p>The question as to whether or not the government is responsible, or whether the system of society in which we live is responsible, is a very large one, indeed. But in dealing with it one does well to remember that the conditions which distress us are common to all civilized countries of the world. The more civilized the country, the more emphasized is this deplorable condition.</p>
+
+	<p>That is to say, the more educated man becomes, the more effective and relentless is his greed. All of which is undoubtedly the result of an education more or less secular, and unilluminated with the finer philosophy which inculcates man's duty to man&#8211;that is to say, man's duty to God.</p>
+
+	<p>To return to the subject of Kelly's army. It seems to me that "society" has much more cause to be relieved than alarmed at its demonstrations.</p>
+
+	<p>It is a well known fact than when an eruptive disease comes to the surface the danger is comparatively slight.</p>
+
+	<p>When the surface is smooth and fair and the fever preys on the vital organs fatal results may be apprehended.</p>
+
+	<p>The French revolution, for example, smoldered and seethed beneath the surface. In <orig reg="sulfur">sulphur</orig> and flame the hell of popular discontent rioted beneath the surface. And when at length the thin crust yielded, there shot up to the heavens a pillar of flame, and there opened a hell beneath the solid ground, and men and women, cowards and heroes, sublime tellers of truth, and the liars of ancient lies, haters and lovers, egotists, altruists, materialists and spiritualists, kings and peasants, went to their tragic end.</p>
+
+	<p>But in a country where men dare openly to protest; where the right of petition is a fundamental law of liberty . . .  [lines missing?] . . . men appear to commit no offense except that of living.</p>
+
+	<p>It is true that with the present system in existence it is sometimes an offense against one man for another man to live. This is because there is not enough for both of them. But this is the fault of the system and not of the men.</p>
+
+	<p>This does not mean that there is not enough produce for all living men. Far from it. Produce is redundant. Men are forever talking of overproduction. Every labor-saving machine increases the ration of production just as it lessens the opportunities of men for work.</p>
+
+	<p>The materials to satisfy men's needs is here, but not the chance to earn the money to pay for it, nor yet money sufficient to pay for it if it were earned.</p>
+
+	<p>No, these men of Kelly's army are of the new time, the new condition, and for them and such as them must come the new law.</p>
+
+	<p>The sight they presented the other day when they lay along the embankment at Council Bluffs was very interesting.</p>
+
+	<p>The men looked that way in '61. That's what Sergeant Major Holden said.</p>
+
+	<p>"We're not so trim," said the sergeant major, critically, surveying the group, "and we're not so clean, but still the resemblance keeps coming up to me."</p>
+
+	<p>The faint blue smoke arose from the camp fires just as it had arisen from those other camp fires thirty-two years ago. The men lounged about, patient, quiet, determined, half-humorous, half-apprehensive, just as they had in '61.</p>
+
+	<p>But there was a difference. Then they were for the government. Now they are against it. Then they were to fight. Now they go to plead. Then they were willing to die. Now they ask leave to live. Then they talked of battles. Now they talk of legislation. Then they went to break the chains of other men. Now they go to have the shackles taken from about themselves.</p>
+
+	<p>But now as then, their purpose is to protest against the misuse of men and the wrong distribution of those things which are necessary to life, liberty and the pursuit of happiness.</p>
+
+	<p>The cars in which they had ridden over half the continent were there, bare as boards. These cars were the property of other men. In these the soldiers had slept, sitting upright, with the feet of one man against the feet of the other man opposite. Along the embankment of the road and about the prairie was scattered the army. Among them were a few negroes; there was one Italian, six or seven Frenchmen, two Swedes, a considerable number of Irish and German. All the rest&#8211;and the rest composed 80 per cent&#8211;Americans.</p>
+
+	<p>"American!" exclaimed one man, "well, I should say I was, and my father and mother before me, and their father and mother before them. I was born in Pennsylvania, but I've been living away out west. I am a painter by trade, but I haven't been able to get a day's work since last September. Am I married? No, I'm not. I buried my wife and my three children, and I had the good fortune to bury them before they got hungry."</p>
+
+	<p>He had a kindly face, had this Pennsylvania painter, and a quizzical expression, as if he might enjoy the telling of a good yarn when time and place offered.</p>
+
+	<p>"Every age has its struggle," he said. "This is the struggle of today. Every age has its injustice. The injustice of the present time is the system which keeps industrious men from being self-supporting. We want a new kind of liberty&#8211;the liberty to work. And we are going to see if the government will give it to us."</p>
+
+	<p>And so they have gone on to camp on Capitol hill and wait&#8211;</p>
+
+	<p>For what?</p>
+
+	<p>For the government to give them work.</p>
+
+	<p>If it does it, who will pay for it?</p>
+
+	<p>The people.</p>
+
+	<p>Who are the people?</p>
+
+	<p>Among others, the men who have marched to Washington to ask for work.</p>
+
+	<p>This do we lift ourselves over a fence by pulling upon our bootstraps!</p>
+
+	<p>Ah, no, no, not in the republic of Jefferson, and Washington, and Lincoln, nor the monarchy of Comwell, and Pitt, and Gladstone, nor the land of Desmonlins, and Carnot, and Mme. Roland does the fault lie. Government is no better than the men who make it. Government is nothing but a word. A country is made of men. If men are oppressed it is men who oppress. Nor will they cease to oppress until they have discovered that it is dangerous to do so.</p>
+
+	<p>If Kelly were an anarchist instead of what he is, perhaps his lesson would have been sooner inculcated, and would have made a deeper impression.</p>
+
+	<p>But Kelly is no anarchist. he is a protester. his eyes are gentle, with a fire in them, his voice persuasive, his spirit calm, intense, optimistic and determined, his presence indefinably magnetic.</p>
+
+	<p>In his presence one ceases to argue. One believes. Like all leaders, born to their work, the light that guides him comes from within.</p>
+
+	<p>To fail in it is better than to succeed in a lesser labor.</p>
+
+	<p>Is all this a vague and vain argument?</p>
+
+	<p>Call it so, if you like.</p>
+
+	<p>Yet remember that those who are most jeered at in one age are best believed in by another, and that now as then a man with inward turning eye marches to present death and immortal victory; and do not let the hot clamor of men, satisifed with the present order of things, blind you to the signs of the times.</p>
+
+	<p>Over and over, liberty, temporarily dead, struggles for its reincarnation. over and over old questions arise in new forms. Over and over the truth must be fought for. Evolution rolls on, and under its wheels lie those who have died&#8211;martyrs.</p>
+
+	<p>That which is the jest of today becomes the tragedy of tomorrow. The man killed for his breaking of a bad law is immortalized later <unclear>for his es</unclear>tablishment of a higher one. <unclear>And if o</unclear>ne generation called John Brown an anarchist, another named his a benefactor.</p>
+
+	<p>The man who sees the course of history only with the eyes of passion and prejudice, loses much of the largest pleasure of life.</p>
+
+	<p>The men who make the world move are not the smooth and comfortable dwellers in counting houses, railway offices and parlors. No, they are the men who participate in the struggles.</p>
+
+<milestone unit="undeclared" rend="horbar-short-center"/>
+<!-- *    *    *    *    *    *    * -->
+
+	<p>What is the militia for?</p>
+
+	<p>What relation does the militia bear to "property rights?"</p>
+
+	<p>Are there any circumstances liable to arise by which any man other than the indigent man would suffer at its hands?</p>
+
+	<p>And, by the way, since the militia appears to be the offset to indigence, as indigence increases, and the men "out of a job" become an ever-increasing army, would it not be well to also increase the militia?</p>
+
+<milestone unit="undeclared" rend="horbar-short-center"/>
+<!-- *    *    *    *    *    *   * -->
+
+	<p>There is one good thing about Mayor Bemis. He may or may not be a man of large principles, but when men are hungry he believes in feeding them. To feed a hungry man is much better than to theorize about him&#8211;especially for the man.</p>
+
+<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

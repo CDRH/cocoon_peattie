@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.wom.0001.01 SYSTEM "ep.owh.wom.0001.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.wom.0001.02 SYSTEM "ep.owh.wom.0001.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.wom.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Who Is the "New Woman"?</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.wom.0001</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-04-02</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<div2>
+<head type="main">Who Is the "New Woman"?</head>
+
+<figure entity="ep.owh.wom.0001.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>During the 1890s the Victorian ideal of femininity, the "True Woman," gradually yielded to a female figure of considerably greater authority: the "New Woman." The four cardinal values of purity, piety, domesticity, and submissiveness, ingrained in women's minds for nearly a century, seemed less relevant to the changing climate of the Progressive Era. New Women both looked and behaved differently than women of the Victorian Era and in general mapped their own futures according to their individual desires and needs. New Women also spoke in a voice never before heard in American society, postulating "intellectual, social, and verbal equality between men and women. They rode bicycles while wearing bloomers, sought the vote, advanced schooling, and public sector jobs as necessary, and in general mapped their own futures according to their desires and needs. New Women also spoke in a voice never before heard in American society: they "postulated intellectual, social, and verbal equality between men and women."<ref target="n01" n="1">1</ref> New Women did not seek the sanction of male authority to legitimize their beliefs but asked that feminine views be considered on the same level as men's.<ref target="n02" n="2">2</ref></p>
+
+	<p>Indeed the role of women in society had been undergoing drastic revision ever since the economic landscape of the country had begun to change during the Civil War. During the decade of the War, companies involved in the manufacture of goods increased by 79.6 percent, which in turn boosted the number of workers hired by 56.6 percent.<ref target="n03" n="3">3</ref> Writes historian Howard Zinn, "between the Civil War and 1900, steam and electricity replaced human muscle, iron replaced wood, and steam replaced iron. Machines could now drive steel tools . . .people and goods could move by railroad. The telephone, the typewriter, and the adding machine speeded up the work of business."<ref target="n04" n="4">4</ref> All these changes created thousands of new jobs, many of which would be filled by women.</p>
+
+	<p>At the same time that they were joining the country's labor force, women were establishing themselves as agents of social change as they participated in municipal housekeeping. Their presence alongside men in the public sector underscored the worth of women's contributions outside the home. The perception that women need define themselves primarily in relation to their husbands and children was beginning to change.</p>
+
+	<p>Peattie encouraged women to contribute to their evolving communities by developing informed political views. "I insist that women have a moral responsibility resting upon them to know [about political] things," she wrote in 1892. "The truth is that there is no subject which God has yet permitted man to mine from the vast mountains of knowledge that a woman cannot understand if she tries. It seems so pitiful that it should be necessary to say that!"<ref target="n05" n="5">5</ref></p>
+
+<figure entity="ep.owh.wom.0001.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>Carrie Chapman Catt, an educator who also organized the National American Woman Suffrage Association and later the League of Human Voters, described the emergence of the "New Woman" in a NAWSA presidential address in 1902:</p>
+</div2>
+
+<div2>
+
+	<p>"When at last the New Woman came, bearing her torch of truth, and with calm dignity asked a share in the world's education, opportunities, and duties, it is no wonder that [some] shrunk away in horror . . . the whole aim of the woman movement has been to destroy the idea that obedience is necessary to women; to train women to such self-respect that they would not grant obedience and to train men to such comprehension of equity that they would not exact it [sic] . . ."<ref target="n06" n="6">6</ref></p>
+
+</div2>
+
+<div2>
+<p>Peattie echoed Catt's beliefs, adding, "I'm not urging you to become agitators, and neglectors of babies, and loud-voiced harpers on tiresome and impossible reforms, but I'm asking you to formulate your ideas and not be so vacuous."<ref target="n07" n="7">7</ref></p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">Who is the "New Woman?"</head>
+<list>
+<item><xref n="ep.owh.wom.0002">Prairie Domesticity</xref></item>
+<item><xref n="ep.owh.wom.0003">Educating Children on the Plains</xref></item>
+<item><xref n="ep.owh.wom.0004">Bicycles, Bloomers, and the New Woman</xref></item>
+<item><xref n="ep.owh.wom.0006">Workplace of Women</xref></item>
+</list>
+</div1>
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Cutter, Martha J.">Cutter, Martha J.</author> <title level="m">Unruly Tongue: Identity and Voice in American Women's Writing, 1850-1930</title>. <pubPlace>Jackson</pubPlace>: <publisher>University of Mississippi Press</publisher>, <date value="1999">1999</date>.</bibl>
+
+<bibl><author n="Freeman, Susan K">Freeman, Susan K</author>. <title level="a">"The New Woman."</title> <title level="m">Clash of Cultures in the 1910s and 1920s</title>. <publisher>Department of History</publisher>. <publisher>Ohio State University</publisher>. Website accessed: 2/20/08 http://ehistory.osu.edu/osu/mmh/clash/NewWoman/opposition-page1.htm.</bibl>
+
+<bibl><author n="Johnson, Paul">Johnson, Paul</author>. <title level="m">A History of the American People</title>. <pubPlace>New York</pubPlace>: <publisher>Harper Collins</publisher>, <date value="1998">1998</date>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. <title level="a">"The Women and Politics: They are Too Proud to Worship a Name-Most are Republicans-They Should Understand the Rudiments of Politics for They Have Grave Responsibilities."</title> <title level="j">Omaha World-Herald</title>. <date value="1892-11-20">11/20/92</date>: 13.</bibl>
+
+<bibl><author n="Ravith, Diane">Ravith, Diane</author>. <title level="m">The American Reader: Words That Moved a Nation</title>. <pubPlace>New York</pubPlace>: <publisher>Harper Perennial</publisher>, <date value="1991">1991</date>.</bibl>
+
+<bibl><author n="Zinn, Howard">Zinn, Howard</author>. <title level="m">A People's History of the United States</title>. <pubPlace>New York</pubPlace>: <publisher>Harper Collins</publisher>, <date value="2003">2003</date>.</bibl>
+</div1>
+
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Gibson Girls." Courtesy Carrie Crockett.</bibl>
+
+<bibl>"Class of 1903." Courtesy Carrie Crockett.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Cutter, 23.</p>
+
+<p><note id="n02" n="2">2</note> "The New Woman."</p>
+
+<p><note id="n03" n="3">3</note> Johnson, 531.</p>
+
+<p><note id="n04" n="4">4</note> Zinn, 253.</p>
+
+<p><note id="n05" n="5">5</note> Peattie, 13.</p>
+
+<p><note id="n06" n="6">6</note> Ravitch, 371-372.</p>
+
+<p><note id="n07" n="7">7</note> Peattie, 13.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.rel.0006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Missionaries on the Frontier</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-15</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Missionaries on the Frontier</head>
+
+	<p>Clerics from all the major religions played central roles in the development of the American West from the 1830s to the end of the century.<ref target="n01" n="1">1</ref> These "central roles" notwithstanding, the clergy are seldom factors in the equations we mentally tabulate when we consider how the West was won. However, during the nineteenth century, every major church body "sent representatives to the frontier to preach, marry, baptize, bury, and comfort. The successful missionaries [joined] in a common effort to ameliorate the spiritual and social condition of the settlers."<ref target="n02" n="2">2</ref></p>
+
+<figure entity="ep.owh.rel.0006.01.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>In 1856 when Omaha was no more than a modest hamlet of forty homes, her settlers had already petitioned the town leadership for a resident minister. M.B. Newton's pioneer memoirs published in 1891 detail the pleasure with which Omaha's residents welcomed any minister to be found on one of the trains which stopped to rest over Sunday in Omaha. "We have read of ministers who preached standing on the stump of a tree," his record reads. "More than one minister preaching so to a crowd gathered in the open air to listen has seen a group of Indians on the outskirts of his congregation, watching in silence the strange proceedings of the white 'medicine man.'"<ref target="n03" n="3">3</ref></p>
+
+	<p>The first resident member of the clergy to arrive in the Territory of Nebraska was Reverend Reuben Gaylord, a Congregational minister, who crossed the ice with his young family on Christmas Day, 1855.<ref target="n04" n="4">4</ref> Gaylord had become interested in the religious climate in Omaha when he visited his ill nephew there earlier in the year. The young man had been one of the founding residents of Omaha, having built the second log cabin in the settlement in 1854. After preaching a sermon in the old state house, he returned to Iowa and wrote, "At the close of the meeting [Gov. Richardson] gave me an earnest invitation to come and make my home in the city that was to be. Without giving him a direct answer the seed lodged in my mind as a seed drops into the ground. That seed germinated&#8211;that thought grew in my mind all the way home. I was deeply impressed from what I had seen, with the feeling that Omaha was a point of great importance and that the Lord had a great work there for some one of his servants to do."<ref target="n05" n="5">5</ref></p>
+
+	<p>When Gaylord presented the idea to his wife, Mary Welles, her first response was, "If we ever move, let it be <hi rend="bold">toward</hi> the East."<ref target="n06" n="6">6</ref> However, after thinking the matter over, Mary agreed to move in order to further the Lord's cause. Mary wrote about the journey in her journal: "We traveled in a two-seated carriage with a span of horses&#8211;five of us in all. The youngest was the little boy who afterwards died in Omaha, then only sixteen months old. . . We crossed the Missouri on the ice at a point quite north of the town. The cold was so intense that we were nearly paralyzed on our arrival and had to be helped into the house. What there was of the dwelling stood on four blocks at the corners, with no other foundation and the floor was not remarkably tight. Of course there was no plastering, and for five weeks no thawing sufficient for water to drop from the eaves, except one day in February."<ref target="n07" n="7">7</ref> Gaylord and his wife organized the first Congregational church in Omaha in 1856 and continued their missionary labor until 1870 when poor health dictated that he resign his post. He died ten years later in 1880 and is buried in Omaha.</p>
+
+	<p>The lives of these early pioneers of the cloth were no easier than those of the settlers they sought to inspire. Peattie summed up their dedication: "a home missionary is a person who voluntarily resigns the easy things of life. Though he may have been, and generally has been, delicately reared, yet he turns his back upon the comforts of civilization . . .and goes to some frontier, where he wrestles with nature in its most primitive forces."<ref target="n08" n="8">8</ref></p>
+
+<figure entity="ep.owh.rel.0006.02.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>In the 1890s Peattie interviewed clergy of many different faiths. She spent time not only with Catholic sisters and Congregationalist missionaries but also with Free Methodists, soldiers in the Salvation Army, Theosophists, Lutherans, Unitarians, and more. The transcript that follows is of her interview of Father Secomb, one of the earliest Congregationalist missionaries to the Omaha Indians, who had consecrated his life to the Lord as a young man. He and his wife had arrived in 1873. "I promised the Lord," he related to Peattie, "that I would accept no easy work. I said I will not take a pastorate, with a salary attached, and live where I would be surrounded with ease. Whatever was hardest to do, was the thing I burned to do for the Lord."<ref target="n09" n="9">9</ref></p>
+
+	<p>An interesting tale was told by pioneer John Rush in his memoir, <hi rend="underline">A Pioneer's Reminiscences</hi>. In 1864 Catholic Sisters of Mercy arrived in Omaha to establish schools and support the Catholic ministry. Prayerfully they tried to match their good works to every need that they could find within the fledgling city. In 1866 a salesclerk in a dry goods store "foully murdered" the bookkeeper of the same firm. The young clerk, quickly convicted of first-degree murder and sentenced to be hung, was held alone in the basement of the County Courthouse. "His last months were spent in solitary confinement. The Sisters of Mercy called at the jail . . . and [Baker] repelled the dark-gowned intruders with words of vehement sarcasm. But they came again and again.</p>
+
+	<p>Finally Baker accepted from them some reading matter . . . he soon thereafter called for a priest. The rest was easy. Father Egan administered the sacraments, and thereafter, especially as the day of execution approached, Father Egan celebrated Mass every morning in the dingy little cell."<ref target="n10" n="10">10</ref> Baker was hanged in 1868, having returned the money he had stolen and having seen, in his last earthly days, himself anew.</p>
+
+<figure entity="ep.owh.rel.0006.03.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>Film and fiction depicting the American West rarely devote much time to the portrayal of the resourceful missionary or charitable clergyman. Perhaps this is why most Americans can easily identify at least the names of Daniel Boone, Billy the Kid, Sitting Bull, or Calamity Jane yet could likely not summon to memory the name of a single frontier bishop or minister. The clergy's lack of status in popular culture, however, does not indicate that their labors were half-hearted nor their good works in vain. To the contrary, the missionaries and clergy who spent their lives in God's service on the prairie found it appropriate to forego participation in the fanciful myth of the West; the calling cards that accompanied their efforts to link the frontier with the divine were signed anonymously. As one historian has written, "The western myth contains no such social hierarchy. It has no emperors, kings and queens, knight or nobles, princes or princesses. It involves no quests for the Holy Grail. Rather, the myth of the American West is a story of ordinary citizens, from every continent of the earth."<ref target=n11" n="11">11</ref></p>
+
+	<p>Viewed in this way, the story of the American West bears some resemblance to Paul's implication that each of us is as "a stranger and a pilgrim," sojourning in a strange land.<ref target="n12" n="12">12</ref> It seems, then, that no further defense of the essential nature of the clergy in the American West is necessary apart from these words of scripture: "Therefore, ye are no more strangers and foreigners, but fellow citizens with the saints, and of the household of God."<ref target="n13" n="13">13</ref> Perhaps a portion of  the farewell sermon Reverend Gaylord delivered to his Iowa flock before moving to Omaha would be the best witness to the character of the frontier minister: "The future, my dear hearers, we cannot penetrate.  I trust the Great Shepherd of the sheep will soon send you another shepherd, the right one, faithful and true . .  .it is now seventeen years since I began with all the ardor and enthusiasm of youth, to cultivate this new field. The great desire of my heart at all times has been the prosperity of Zion, especially of this church and people more particularly committed to my care. I have honestly sought to know the truth, and what I believed to be the truth I have not shunned to declare . . . follow me now with your prayers as I go to this new field, and may the God of love abide with and keep you all in His own perfect peace."<ref target="n14" n="14">14</ref></p>
+</div1>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><title level="m"><hi rend="underline">The Bible</hi></title>, Hebrews 11:13, New Testament.</bibl>
+
+<bibl><author n="Brown, Dee">Brown, Dee</author>. <title level="m"><hi rend="underline">The American West</hi></title>. <pubPlace>New York</pubPlace>: <publisher>Touchstone Press</publisher>, <date value="1994">1994</date>.</bibl>
+
+<bibl><author n="Gaylord, Mary Welles">Gaylord, Mary Welles</author>. <title level="m"><hi rend="underline">Life and Labors of Rev. Reuben Gaylord: Home Missionary for Iowa and Nebraska and Superintendent for A.H.M.S. for Nebraska and Western Iowa</hi></title>. <pubPlace>Omaha</pubPlace>: <publisher>Rees Printing Company</publisher>, <date value="1889">1889</date>. <http://books.google.com/ books?id=...ixrO3GcYn2fNXps3hjG8QfsQ#PPR1,M1>.</bibl>
+
+<bibl><author n="Newton, M.B.">Newton, M.B.</author> <title level="m"><hi rend="underline">Anecdotes of Omaha</hi></title>. <pubPlace>Omaha</pubPlace>: <publisher>Festner Press</publisher>, <date value="1891">1891</date>.</bibl>
+
+<bibl>"Another Line of the Gaylord Family." <<xref url="http://rootsweb.com/~neresour/OLLibrary/Journals/NMGR/Vol04/nmgrp002.html" rend="new">http://rootsweb.com/~neresour/OLLibrary/Journals/NMGR/Vol04/nmgrp002.html</xref>>.</bibl>
+
+<bibl><author n="Szasz, Ferenc M.">Szasz, Ferenc M.</author> <title level="a">"The Clergy and the Myth of the American West."</title> <title level="j"><hi rend="underline">Church History</hi></title> (<date value="1990-12">December 1990</date>): <biblScope ype="pages">497-506</biblScope>.</bibl>
+
+<bibl><author n="Rush, John">Rush, John</author>. <title level="m"><hi rend="underline">A Pioneer's Reminiscences</hi></title>. <pubPlace>Omaha</pubPlace>: <publisher>Burkley Envelope and Printing Co.</publisher>, <date value="1928">1928</date>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustration</head>
+
+<bibl>"A Midwestern Missionary." <<xref url="www.rootsweb.com/.../pscc/pages/pscc0001.htm" rend="new">www.rootsweb.com/.../pscc/pages/pscc0001.htm</xref>>. [permission pending]</bibl>
+
+<bibl>"Fr. Hogan, May 10, 1829-February 21, 1913: a hard-riding frontier missionary." <<xref url="http://www2.truman.edu/~adavis/mipages/MaryImmaculate%5B1%5D.htm" rend="new">http://www2.truman.edu/~adavis/mipages/MaryImmaculate%5B1%5D.htm</xref>>. [permission pending]</bibl>
+
+<bibl>"A 1908 Church." <<xref url="http://www2.truman.edu/~adavis/mipages/MaryImmaculate%5B1%5D.htm" rend="new">http://www2.truman.edu/~adavis/mipages/MaryImmaculate%5B1%5D.htm</xref>>. [permission pending]</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> Szasz, 498.</p>
+
+<p><note id="n02" n="2">2</note> Brown, 176-177.</p>
+
+<p><note id="n03" n="3">3</note> Newton, 45.</p>
+
+<p><note id="n04" n="4">4</note> "Another Line."</p>
+
+<p><note id="n05" n="5">5</note> Gaylord, 167.</p>
+
+<p><note id="n06" n="6">6</note> Gaylord, 167.</p>
+
+<p><note id="n07" n="7">7</note> Newton 46, 48.</p>
+
+<p><note id="n08" n="8">8</note> Peattie, undated.</p>
+
+<p><note id="n09" n="9">9</note> Peattie, undated.</p>
+
+<p><note id="n10" n="10">10</note> Rush, 30-31.</p>
+
+<p><note id="n11" n="11">11</note> Szasz, 505.</p>
+
+<p><note id="n12" n="12">12</note> Hebrews 11:13, New Testament.</p>
+
+<p><note id="n13" n="13">13</note> Ephesians 2:19, New Testament.</p>
+
+<p><note id="n14" n="14">14</note> Gaylord, 168.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

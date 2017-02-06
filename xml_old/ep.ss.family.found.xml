@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" []>
+
+<TEI id="ep.ss.family.found">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Family He Found</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2010</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.ss.family.found</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a">The Family He Found</title>
+<title level="j">The Youth's Companion</title>
+<biblScope type="volume">74</biblScope>
+<date value="1900-01-25">25 Jan. 1900</date>
+<biblScope type="pages">37-38</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+
+<change>
+<date>2010-03-10</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Validation</item>
+</change>
+<change>
+<date>2010-03-03</date>
+<respStmt>
+<name>Charise G. Alexander</name>
+</respStmt>
+<item>Converted from html</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="Page37" />
+<head type="main">The Family He Found</head>
+
+<byline>By Elia W. Peattie</byline>
+
+<p>His voice was nasal and resonant and it echoed and reechoed throught the claning iron&#8211;roofed station.</p>
+
+<p>"Train ready now for Wheaton!  Geneva!  Creston! Rochelle! Ashton! Round Grove!  Union Grove!  Camanche!  Lowmorr! Stanwood!  Lisbon! Cedar Radpids!  Norway!  Belle Plaine! Chelsea!  Tama!  Moingona!  Arcadia!  Arion!  Woodbine!  Loveland!  Honeycreek!  Council Bluffs!  Omaha!  Connections for the far West!"</p>
+<p>He has shouted it twice a day for deven years, and every time he had made a dramatic pause between each two names &#8212; so long a pause that unaccustomed listeners grew anxious lest he should not go one.  Had they known the full reason for this impressive hesitancy, they might have felt yet greater apprehension lest the list should not be made complete.  </p>
+
+<p>It was certainly not alone for the benefit of the patrons of the road that Lovejoy Jones paused till each syllable of every work had soaked through the grey matter of his listener's brains, and impressed itself upon their comprehension.  It was partly because the names of these towns suggested delightful things &#8212; old foreign cities, or mythical ones, or actual beautiful places, which anyone might behold who had the good fortune to walk through the iron gate, mount the steps of the coach, and follow the engine down the paths of the world.  </p>
+
+<p>The peculiarity about Lovejoy Jones was that it was only his tongue that travelled.  He himself was singularly stationary.  He had been born on Wells Street, opposite the station, and had grown up playing among the cinders on the switching&#8211;tracks, and his vast diversion had been to perch on the fence of the station&#8211;yard and watch the engines labor.  He knew the engines so well he could tell three miles away which one was coming by the smoke.  In time he also came to know the men who ran the engines, as wel as the men at the iron gates, and those who sold tickets, and the policemen who stood without the street doors, and the cab&#8211;drivers, and the pages who carried women's satchels to their carriages.</p>
+
+<p>These pages wore scarlet uniforms, and were pleasing to the eye, so that Lovejoy envied their estate, and wondered if, by some unheard&#8211;of piece of luck, he might join their busy company.  He expressed a desire to do do to a number of his friends, and one day, to his endless satisfaction, he was hired and put in scarlet and told to make himself generally useful to the suburban passengers.  And he did!  He was light of foot and had been born with a smile.  So portly ladies tugging home their bundles, young wives carrying their babies, and men laden with groceries all came to think well of Lovejoy, and to signal him out and rejoice when they secured his services.</p>
+
+<p>It was because he did this thing so well that the station-master selected Lovejoy for the vociferous duty of making known the departures of the trains &#8212; a duty which he performed with a vigor and deliberation which left nothing to be desired.  Ladies, listening to him, had been heard to remark:</p>
+<p>"Why, actually, you can tell what the man is saying!" and they were grateful and surprised.  But Lovejoy was making a discovery by the law of compensation.  He was learning that if you have a privilege, it is certain to be attended with a disadvantage.  In this case, it consisted of a discontent which began to stir in his heart, and to which he had been a stranger until he had begun to shout out that list of names ending with: "Omaha!  Connections for the far West!"</p>
+
+<p>The far West!  Plains, mountains, plains again, more mountains, rich valleys and the sea!  Beyond over, reaches of sea, the islands!</p>
+
+<p>But then, not to think of the islands, there was Lowmoor.  There was Honeycreek.</p>
+
+<p>As a boy, Lovejoy had been nowhere because there was no one to take him.  As a young man, he had been too busy to go anywhere and, moreover, there had been no one with whom to go.  For Lovejoy's family, which, at the outset of his career, had consisted only of his father and mother, had dwindled to nothing, literally to nothing.</p>
+
+<p>But of course, in a way, the men about the station seemed like his family.  He was interested in all they did, and usually knew when one of them got a new sweetheart, or was married, or lost any one near and dear, or exulted in the possession of a new little son or daughter.  But while the men told him these things, and were pleased with his sympathy, they never thought, somehow, to ask him to share their pleasures.  The babies were christened, but Lovejoy was not invited.  The Christmas dinners were served, but he was not bidden.  The slights were all unintentional.  It was merely that, in a city like Chicago, people forget to be neighborly.</p>
+
+<p>It seemed curious to Lovejoy that no sweethearts or girl friends ever came his way.  He knew no women, and had not the least idea how to get acquainted with them; and of course there was no trick by which he could devise a mother or a sister for himself.  How did men get a home, he wondered?</p>
+
+<p>So, with longings of one sort and another beating in his breast, insistently as the waves upon the shore, is it any wonder that he wore an abstracted look, or that he was glad when night came and he could walk down the pleasant paths of sleep in a beautiful country &#8212; Lowmoor!  Belle Plaine!  Arcadia!  Loveland!  Honeycreek! &#8212; and in those agreeable places find a whole family awaiting him.  From time to time the personnel of this dream-family changed.  Now he preferred one kind of sister and now another.  Sometimes he liked a little black&#8211;haired sister who sat reading a great deal; and another time he preferred a red&#8211;haired one who rode horseback.  But both of them were, in the dream conversations, very sweet and lovely to him.  So it mattered little.  He was happy with either.</p>
+
+<p>It is never quite possible to tell what the human brain is going to do.  Even the possessor of it knows little about its vagaries.  Therefore, when Lovejoy, after having called his list of Western towns, with the usual fervor, eneded with the always suggestive phrase, "Connections for the far West!" and then walked deliberately to the offices of the station and handed in his resignation, he was as much surprised as any one else could possibly have been.  He was surprised, too, to hear himself asking for transportation, and surprised when it was granted him.</p>
+
+<p>"I'd like to be carried as far as Omaha," he said, "but as likely as not I shall make connections for the far West."</p>
+
+<p>He took the train and was borne away into the windy blackness.  He took the train, and the station was left behind.</p>  <p>Chicago became a blur of light on the horizon.  Great wings of wind beat against him where he stood on the rear platform.  Above, a bird cried out that the solitudes of the air were hers.  Something in Lovejoy's heart swelled and surged, till he flung back a cry at the bird to let her know that he was as free as she &#8212; to let her know that he also could sweep through the wild blackness.</p>
+
+<p>The train went on, and he could not bring himself to sleep.  He has slept so many nights, dallying with the dreams!  Now the dreams were coming true, so there was no longer any need to sleep.</p>
+
+<p>He saw the dawn come up across the prairie and light up village homes.  The smoke came out of the chimneys, there was a stir in the yards where the women went out to the pumps with their pails, the chickens fluttered out for the feeding, and the dogs and children ventured out to smell the morning.  Lovejoy's heart was still big within him.  It actually seemed as if one of those families must belong to him &#8212; or as if they all belonged to him to pick and choose from.</p>
+
+<p>He let the towns sink behind him, rejecting them with a sense of richness because of what lay beyond.  He let the towns with the foreign names go by, and the towns with the Indian names, and even Lowmoor, which had pleased him so much.  He reflected that, as likely as not, he would make those connections for the far West.  But when he got to Honeycreek, he swung himself off the car almost without knowing it, nodded good&#8211;by to the conductor, the brakeman, the engineer and fireman, and with his satchel in his hand, went on down the street.</p>
+<p>Everything was propitious.  The morning was superb, and the sky had a splendor such as he had never seen in the city.  Perfumes of the earth saluted his nostrils.  Birds sung unabashed from the trees.  The houses looked hospitable, and the names he saw on the sign&#8211;boards seemed as familiar as if he had looked at them all his life.  </p>
+
+<p>"I've heard folks say," said he to himself, "that we live a lot of lives, and that when, in this one, we get back to the places we knew before, we can tell it."  And he looked about curiously to see if his memory responded to what he beheld.  Indeed, it seemed to do so.  Sam Barman kept the little tavern.  Of course!  Why, surely!  Any one would know the tavern was kept by Sam.  And Dennis Fraser was selling shoes just as he used to when &#8212; whenever the other time was.  Louise Duncan still made dresses.  Why, that was to be expected!  It was a thousand pities he could not remember just how Louise looked.  But anyway, it was comfortable to be back among the folks.</p>
+
+<p>He took his satchel around to Sam Barman's and got a handshake across the register when he told who he was.  This seemed just as it should be.  Undoubtedly, the dream was coming true.  Sam came in the dining&#8211;room later, and sat down by him at the table and talked.</p>
+
+<p>"Making yourself at home?" queried Sam.</p>
+
+<p>"You bet!  Felt at home ever since I got off the train."</p>
+<p>"That's good! That's the way they like folks to feel here.  Ever been here before?"</p>
+<p>Lovejoy evaded the question.  "What can I get to do here?" asked he.  "I want to stay."</p>
+<p>"There isn't much in the way of hiring, but there's plenty of openings for a man with a little laid by."</p>
+<p>"Hum!" said Lovejoy.  "What, for instance?"</p>
+
+<p>"Oh, a feed store's needed mighty bad.  And we haven't any laundry.  And we need some one to do draying.  There's lots of things."</p>
+<p>Lovejoy arose energetically.</p>
+<p>"Have my bag taken up to my room, will you, Mr. Barman?  I'm going out to look around."</p>
+
+<p>He walked miles and saw much &#8212; a rich country, well&#8211;wooded; the Missouri, lazy and sinuous, like a glutted snake; Honeycreek Lake, deep maber in color; alluring islands covered with brush; good roads, lazy&#8211;looking farmhouses.  He took dinner on the big island with an old hunter who had traditions of buffalo&#8211;hunting, and he fished all the afternoon, and caught a good string, which he carried over his shoulder as he walked back toward town.  It seemed to him that he simply must go in his own kitchen and toss them down on the table and say:</p>
+<p>"Mother, have Billy scale those for you, and we'll have them for tea."</p>
+<p>The pathos of not having "mother" or "Billy" or a kitchen began to weigh upon him, when he was interrupted in his thoughts by the sight of a little house that, of all houses he had ever seen, suited him best.  It was so low that at the rear, the roof actually ran into the side of the hill, and it had a porch supported on unbarked hemlock saplings &#8212; only Lovejoy did not know hemlock from beechbark.  There were pines all about the house, and the twilight breeze was noisy among the branches.  But the best of it was that the house stood on the edge of a deep and wooded ravine, and on the other side of the ravine stood another house, larger and with big windows, and between the two houses ran a rustic bridge, most obviously home&#8211;made, across which the inmates of one house could run to visit the inmates of the other.</p>
+
+<p>Great piles of wood were visible in the sheds of the houses, and a cloud of smoke issued from the chimney of the little one with the hemlock pillars.  As Lovejoy stood looking, a cry pierced the air, and a girl came flying out of the house toward the bridge.</p>
+<p>"Fire!  Fire!" she shouted.  "Uncle Jim!  Quick, quick!"</p>
+
+<p>Lovejoy waited for nothing, but rushed to the kitchen, and as he had dreamed, flung his fish upon the table.  The elbow of the stovepipe had become dislodged, and smoke and flame poured against the wooden ceiling.  Lovejoy had some thick, loose gloves in his pocket, and he put them on and boldly set himself to work, and in a few minutes had the pipe in place and himself unrecognizable with soot.</p>
+<p>"Good for you!" said a hearty voice, evidently belonging to "Uncle Jim."  "Much obliged, stranger."</p>
+<p>"Better get me a little wire," said Lovejoy, "and I'll fix it so it won't happen again."</p>
+<p>"All right," responded the little girl, and she went out in the shed and found the wire.  While Lovejoy was winding it about the pipe, he heard a gust of excited talking, and out in the yeard he saw a small women with two boys, hastening toward the door.</p>
+<p>"So that's the meaning of all the smoke!" the woman was saying.  "Well, when I got to the top of the hill and saw it, I ran as I never ran before!"  She sank into a chair and panted, and the boys stared, open&#8211;eyed at Lovejoy.</p>
+<p>"You're as kind as you can be!" she cried to Lovejoy, when he descended from the chair on which he had been standing.  "I don't know what Poppy would have done if you hadn't happened along.  Now take your coat right off and let Poppy brush it, and you go out to the shed and wash up and stay to tea with is.  Don't you say so, Jim?"</p>
+<p>"Why, of course," said Jim, but his voice had just a shade of dissent in it.  "Or let the stranger come over with us, Tilly.  Harriet will be glad to have him eat with us."</p>
+<p>But the little woman evidently had a will of her own.</p>
+<p>"No, Jim.  This is the house that is beholden to him, and this is where he's to take his tea.  Thank you just as much, Jim.  You and Harriet might run in after supper, you know."</p>
+<p>Then Lovejoy fulfilled the desire of his heart  He pointed to the fish casually. </p> 
+<p>"Couldn't one of the boys scale a few of those," he asked, "and we'll have them for supper."</p>
+<p>"Why, surely!" cried the little woman. "Here, Billy, you scale three or four of those and clean them, and I'll get the skillet right over.  You like them fried, don't you?" she asked of Lovejoy.</p>
+
+<p>Lovejoy nodded and went out to the shed to wash, afraid to trust himself to speak for the happy laughter that, surging within him, threatened to break loose and dismay everyone with its commotion.</p>
+
+<p>It was decided that Lovejoy ought to serve his own fish, so he sat at the head of the table and told stories of the city.  And after tea, while Mrs. Green and her daughter put away the tea&#8211;things, Jim Green &#8212; who was Mrs. Green's dead husband's brother &#8212; and his wife, Harriet, came in, and Lovejoy was urged to on with his entertainment.  He had never before thought of himself as a storyteller, but now he had an audience ready to listen till midnight.  And indeed it was well toward that hour when he became conscious of the necessity for saying good night.  Jim Green went to the door and opened it.</p>
+
+<p>"Why, see here!" he called.  "It's misting heavily.  Looks as blank as a slate with everything rubbed off it.  You can't find your way to Barman's to&#8211;night, Mr. Jones.  Better come over and bunk at our house to&#8211;night."</p>
+
+<p>Lovejoy looked out and chuckled to himself.
+"Thank you," said he.  "I will."</p>
+
+<p>So he did, and rising early the next morning, noticed that the wood&#8211;pile by the smaller house was low.  So he split wood till he had a dozen armfuls to carry into Poppy Green's kitchen.  And that was how it came that Mrs. Green made him stay to breakfast.  She said he must be how coffee tasted that was boiled over wood of his own splitting.  At breakfast the domestic topics held sway.</p>
+<p>"I hoped to get the front room tidied before Sunday,"  said Mrs. Green, "and I've got the carpet up and the pictures out and all, thinking Del Sparks would be down to paper.  But he's getting more unreliable every year.  There's no telling when it'll strike his fancy to come.  I do to be all torn up over Sunday!  Poppy's sure to have company if we get in a fix like that.  I'd be papering myself if I was as young as I used to be."</p>
+
+<p>"I might do it, ma," suggested Poppy.</p>
+<p>"You? Not a bit of it!  I won't have you reaching like that and climbing up and down step&#8211;-ladders.  You're not made for it."</p>
+<p>"Mother thinks I'm glass!" smiled Poppy, apologetically, the glow in her cheeks growing a trifle more vivid.  </p>
+<p>"Wouldn't you let me try, Mrs. Green?" broke in Lovejoy eagerly.  "I never did such a thing, but if you show me the trick&#8212;"</p>
+<p>"Oh, would you," cried Mrs. Green.  "I could show you just as easy as not!  And it's such pretty paper!  All poppies, in honor of daughter."  She laughed and turned tender eyes upon the dark&#8211;haired girl.  Evidently Poppy stood for Mrs. Green's romance.  So that was how it came about that Lovejoy stayed another day.  And after that he painted the woodwork to match the background of the paper, and then he laid the carpet.</p>
+
+<p>It seemed to him the most natural thing in the world to stay on at the twin houses, sleeping in the back room at "Uncle Jim's" and taking his meals at the hospitable table at the smaller house.  Sunday he put on his best suit of clothes and went to church with the rest,  And he carved the baked chicken at dinner.  In the afternoon Jim Green and Harriet came over, and they all sat in the poppy parlor and talked.</p>
+
+<p>"I suppose I'll have to be moving on," said Lovejoy, as lightly as he could.  "I must get out and hustle for work and I can't go on imposing on your kindness and longer.  I must seem like a mighty queer kind of a fellow to you, but I've had the happiest week of my life, and can afford to have you think me queer."</p>
+
+<p>This led to explanations, and Jim let them know of his life.  So kind were they, and so responsive was the look in Poppy's dark eyes, that he was even emboldened to tell them something of his dreams &#8212; those dreams which had led his feet into pleasant paths.  They all listened intently.  It was quite like a book to them.  When Lovejoy had finished, Uncle Jim arose and paced the floor several times with his hands in his pockets.</p>
+
+<p>"I just don't know," said he at length, letting out the words cautiously, "I don't know as it's best for any of us for you to move on.  Now, sister here," he pointed to Poppy's mother, "needs a man about the place in the worst way.  The boys aint big enough to be of much use yet &#8212; except to eat pancakes."  He smiled propitiatingly at the boys.  "And I've been thinking of opening a feed&#8211;store dowtown.  Sister and I, between us, have a big lot of feed, and we've never been able to get it just rightly placed on the market.  She and I was talking it over last night.  Now, what would you think, Mr. Jones, of taking charge of that feed&#8211;store for sister and me, and living here between us as you have been doing, and putting in an hour mornings and evenings doing any little odd thing that might be needed about the house?  Acting, so to speak, like the man of the house?"</p>
+
+<p>A deep flush spread over Lovejoy's face, and it was several seconds before he replied.</p>
+<p>"It's good of you," he faltered at length, "and I'm not blind to the &#8212; the business opening, so to speak.  I've a litle money I'd like to put in the feed store myself, and go partners, if you are willing."  Uncle Jim looked at Lovejoy respectfully.  He liked the man &#8212; decidedly.  This was not going to be mere "hired help."  He was going to express his satisfaction, but Lovejoy went on.  "But while all that is very well, and I am thankful, yet the thing that seems &#8211; that &#8211; seems important to me is &#8212;" he quite broke off, stammering and catching his breath.</p>
+<p> "Is what?" asked Poppy, softly.</p>
+<p>"Is having found a &#8212; well, sort o' found a family, you know."  The tears became visible in spite of heroic efforts.  And it was not alone in Lovejoy's eyes that they appeared.  Poppy's mother frankly wiped her eyes, and so did Jim's wife.  Billy, the bigger boy, came up close to Lovejoy.</p>
+
+<p>"I'll scrape all the fish you catch," said he.</p>
+<p>Then, because they had been so near crying, they laughed with undue hilarity.  </p>
+
+<p>Poppy went out to set the table for tea; but at the door she turned and smiled slowly at Lovejoy.</p>  
+<p>"I'd better bring in some fresh water for the kettle," said he. </p> 
+
+<p>A moment later he was heard at the pump.  Also the sound of voices was heard, so it was evident that Poppy had gone out to help him bring in the water.</p>
+
+<p>As for the fire &#8212; but there seemed no doubt that it would presently be lighted.</p>  
+
+</div1>
+</body>
+</text>
+</TEI>

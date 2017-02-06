@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.intro">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Elia W. Peattie: An Uncommon Woman (1862-1935)</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Elia W. Peattie: An Uncommon Woman (1862-1935)</head>
+
+	<p><hi rend="italic">"If a woman makes a success of anything from walking a tight rope to painting a picture, giver her credit for it. Do not call her a crank because she has ideas. Do not cut her because she knows enough to make a living. Try to get to a point where you can admit that she is nice in spite of the fact that she has opinions. It's this fighting shy of the women who are trying to march with the marching time that I most deprecate in women. I don't like them to be afraid of genius. Genius isn't necessarily disreputable. Make way for the uncommon woman as well as the common ones." (<hi rend="underline">Omaha World-Herald</hi> 21 August 1892: 16)</hi></p>
+</div1>
+
+<div1>
+<figure entity="ep.intro.01.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>As the Gilded Age in America shifted into the Progressive Era, journalist, novelist, poet, short story writer, and playwright, Elia Wilkinson Peattie stood out as an uncommon woman who used her pen to instruct, entertain, and enrich the lives of her readers.</p>
+
+	<p>After her marriage in 1883 to Robert Peattie, a reporter for the <hi rend="underline">Chicago Times</hi>, the couple spent their evenings writing stories together to supplement Robert's newspaper income. In 1886 Peattie began to write for the <hi rend="underline">Chicago Tribune</hi>. Her talent distinguished her, and she soon became the first woman reporter for the <hi rend="underline">Tribune</hi> and the second "girl" reporter in Chicago. Two years later, the couple moved to Omaha, Nebraska, where she and her husband both worked for the <hi rend="underline">Omaha World-Herald</hi>.</p>
+
+	<p>In Omaha Peattie found herself not on the cosmopolitan cultural and political stage of Chicago but on the edge of the evolving frontier, her new home a city which had been built just a few decades earlier with the construction of a single log cabin. Here Elia's prolific writing career blossomed, and she published short stories about the West, a travelogue, feature articles, editorials, and a daily column, "A Word to the Women," which was not limited to the concerns of her gender alone. Her keen power of perception paired with her indefatigable verbal skills enabled her to editorialize on many critical issues of the day, from women's suffrage and temperance to the need for firewood in the Baptist's children's home.</p>
+
+	<p>Peattie was no common journalist; to her, each issue was much more than just a story. Her legacy exists in her literary as well as in her personal and political contributions to society. Her writings depict not only the transformations of Omaha in the 1890s toward the progressive, just society that she envisioned but also reflect the passion of a woman convinced of each individual's ability to effect positive, lasting change within society. In artistically crafted prose, she challenged her readers to look within themselves to question their beliefs and then act upon them with passion and commitment. She expected nothing less of her self or of her readers; she expected everyone to rise to the level of uncommonness.</p>
+
+<!-- MENU:
+
+Omaha World Herald Writings
+	Omaha & Neighbors	 	Eyewitness to History		Religion
+	Women			Arts and Humanities			Politics
+	Philanthropy			Fiction					Education
+Short Stories about the West
+Ghost Stories (The Shape of Fear) & Others
+Memoir (Painted Windows)
+Journey to Wonderland
+Poems
+Children's Stories 
+Other Short Stories
+
+Biography
+Bibliography
+Timeline
+Quotables
+
+-->
+</div1>
+</body>
+</text>
+</TEI>

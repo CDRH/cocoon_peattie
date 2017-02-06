@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+
+<map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
+     <!--+ THIS IS THE PEATTIE SITEMAP
+                -->
+    <map:components>
+        <map:generators default="file"/>
+        <map:transformers default="xslt"/>
+        <map:serializers default="xhtmlutf8">
+            <map:serializer logger="sitemap.serializer.xhtml" mime-type="text/html" name="xhtmlutf8" pool-grow="2" pool-max="64" pool-min="2" src="org.apache.cocoon.serialization.XMLSerializer">
+                <doctype-public>-//W3C//DTD XHTML 1.0 Transitional//EN</doctype-public>
+                <doctype-system>http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd</doctype-system>
+                <encoding>US-ASCII</encoding>
+                <omit-xml-declaration>yes</omit-xml-declaration>
+                <indent>yes</indent>
+            </map:serializer>
+        </map:serializers>
+        <map:selectors default="browser"/>
+        
+        <map:matchers default="wildcard"/>
+        <!-- This is used to define what URI's the sitemap should handle eg: Peattie/** will maptch Peatie, no matter what follows. 
+        
+        If a URI is encountered, Cocoon is directed by the <map:mount> tag to pass the URI to a new sitemap for processing
+        
+        Example from preceeding sitemap:
+        
+        <map:match pattern="Peattie/**">
+        <map:mount uri-prefix="abc" src="Peattie/sitemap.xmap" check-reload="yes" reload-method="synchron"/>
+        </map:match>
+        
+        <map:mount> has several properties: 
+        uri-prefix - usually the same as the folder, but does not have to be
+        src - This is where the sub-sitemap is
+        check-reload - same as the parameter in cocoon.xconf. You generally set this to no for production, and otherwise to yes
+        reload-method - with asynchron (default) or synchron-->
+        
+        <!-- Automated Sitemaps
+        
+        Cocoon has a convention for automated sitemaps, so you don't walways have to go back and alter the main sitemap. 
+        
+        So if you put a sitemap in the main Cocoon directory, it will automatically be detected. this means you may not have to change anything unless you need to redirect the URL-->
+    </map:components>
+    
+    <map:pipelines>
+        <map:pipeline>
+            
+            <map:match pattern="^(index.html)?$" type="regexp">
+                <map:read mime-type="text/html" src="index.html" type="resource"/>
+            </map:match>
+            
+            <map:match pattern="about.html" type="regexp">
+                <map:generate type="file" src="xml/ep.about.xml"/>
+                <map:transform type="xslt" src="xsl/stylesheet.xsl"/>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="contact.html" type="regexp">
+                <map:generate type="file" src="xml/ep.contact.xml"/>
+                <map:transform type="xslt" src="xsl/stylesheet.xsl"/>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+               
+            <map:match pattern="^owh.html" type="regexp">
+                <map:generate type="file" src="xml/ep.owh.intro.xml"/>
+                <map:transform type="xslt" src="xsl/stylesheet.xsl"/>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="^ss.html" type="regexp">
+                <map:generate type="file" src="xml/ep.ss.intro.xml"/>
+                <map:transform type="xslt" src="xsl/stylesheet.xsl"/>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="^gs.html" type="regexp">
+                <map:generate type="file" src="xml/ep.gs.intro.xml"/>
+                <map:transform type="xslt" src="xsl/stylesheet.xsl"/>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="^nov.html" type="regexp">
+                <map:generate type="file" src="xml/nov.xml"/>
+                <map:transform type="xslt" src="xsl/stylesheet.xsl"/>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="^misc.html" type="regexp">
+                <map:generate type="file" src="xml/ep.misc.intro.xml"/>
+                <map:transform type="xslt" src="xsl/stylesheet.xsl"/>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="^childrens.html" type="regexp">
+                <map:generate type="file" src="xml/ep.child.intro.xml"/>
+                <map:transform type="xslt" src="xsl/stylesheet.xsl"/>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+         
+            <map:match pattern="*.html">
+                <map:generate src="xml/{1}.xml" />
+                <map:transform src="xsl/stylesheet.xsl">
+                    <map:parameter name="pagetype" value="content"/>
+                </map:transform>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <!--<map:match pattern="*">
+                <map:generate src="xml/{1}.xml" />
+                <map:transform src="xsl/stylesheet.xsl">
+                    <map:parameter name="pagetype" value="content"/>
+                </map:transform>
+                <map:serialize type="xhtmlutf8" />
+            </map:match>-->
+            
+            <map:match pattern="*.xml">
+                <map:read src="xml/{1}.xml"/>
+                <map:serialize type="xml" />
+            </map:match>
+            
+            <!--<map:match pattern="*">
+                <map:generate src="xml/{1}.xml" />
+                <map:transform src="xsl/stylesheet.xsl" />
+            </map:match>-->
+            
+            <map:match pattern="styles/**">
+                <map:read src="styles/{1}"/>
+            </map:match>
+            
+            <map:match pattern="images/jpgs/**">
+                <map:read src="images/jpgs/{1}"/>
+            </map:match>
+            
+            <map:match pattern="images/jpgs2/**">
+                <map:read src="images/jpgs2/{1}"/>
+            </map:match>
+            
+            <map:match pattern="images/figures/**">
+                <map:read src="images/figures/{1}"/>
+            </map:match>
+            
+            <!-- <map:match pattern="**.jpg">
+                <map:read src="{2}.jpg" mime-type="image/jpeg"/>
+                 <map:serialize type="jpg" />
+            </map:match>
+
+                
+               
+                map:generate and map:transform share a common set of attributes. 
+                
+                type - defines what type of components to use. 
+                src - defines the path for the xsl
+                label - optional, so we can access from a view
+                <map:serialize type="html"/>-->
+                <!-- map:serialize attributes
+                
+                type 
+                mime-type
+                status-code - for errors-->
+
+            
+           <!-- <map:match pattern="/**">
+                <map:generate type="directory" src="{1}"/>
+                <map:transform type="xslt" src="xsl/stylesheet.xsl"/>
+                <map:serialize type="html"/>
+                </map:match> -->
+            
+            <!-- Directory Generator - see page 153 in Cocoon book-->
+        </map:pipeline>
+    </map:pipelines>
+    </map:sitemap>

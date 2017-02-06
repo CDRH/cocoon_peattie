@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" []><TEI id="ep.ep.nov.scrip">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">With Scrip and Staff</title>
+<title type="sub">Tale of the Children's Crusade</title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2010</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="m">With Scrip and Staff</title>
+<biblScope type="volume"></biblScope>
+<publisher>Anson D. F. Randolph and Co.</publisher>
+<date when="1891">1891</date>
+<biblScope type="pages"></biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Book</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2010-02-25</date>
+<respStmt>
+<name>Charise G. Alexander</name>
+</respStmt>
+<item>Original encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="7" />
+<head type="main">WITH SCRIP AND STAFF:</head>
+
+<head type="sub">A Tale of the Children's Crusade.</head>
+<head type="sub">CHAPTER 1.</head>
+
+<div1>
+
+<lg type="">
+<l>Ye whose hearts are fresh and simple,</l> 
+<l>Who have faith in God and nature,</l> 
+<l>Who believe, that in all ages</l>
+<l>Every human heart is human;</l>
+<l>That in even savage bosoms</l>
+<l>There are longings, yearnings, strivings</l> 
+<l>For the good they comprehend not;</l> 
+<l>That the feeble hands and helpless.</l> 
+<l>Groping blindly in the darkness,</l>
+<l>Touch God's right hand in the darkness </l>
+<l>And are lifted up and strengthened,&#8212;</l>
+<l>Listen to this simple story.</l>
+<hi rend="right"><l>LONGFELLOW.</l></hi>
+</lg>
+
+<p>IT was a common thing for Reinhold and Barbara to be hungry. In A. D. 1212 the children of the poor, from dark Egypt to fair France, were hungry. War, plague, and drought &#8212; three faithful ser<pb n="8" />vants &#8212; collected their tithe of human souls for Death. The Western Empire was racked internally by the Guelph and Ghibelline factions, and continually harassed by the Church. It was thus little wonder that the demoralized confederations welcomed to the throne young Frederick, the seventeen&#8211;year&#8211;old grandson of the mighty Barbarossa. The Guelphic tyrant Otto had played fast and loose with the people and the Pope; and when he retired, defeated, before the young Hohenstaufer, the German princes were delighted to find that instead of paying Otto's heavy taxes they were to receive large sums of money from his successor.</p>
+<p>This was indeed the dark age for literature and all else. Education and literary pursuits were confined to the monastic orders, and, outside of these, few adults could be found who could write their own names. That accomplishment in a child was considered little less than sorcery. It was an age of rude, warlike ambitions; of<pb n="9" />
+greed, hypocrisy, and deceit. Laws there were, but they were for the nobles. The common freemen and serfs were ground down by miserable poverty and the extortions of the great. The freemen were so in name only. Their condition was little better than that of slaves. The people of every class were ignorant and superstitious. Great crimes and wrongs committed by the nobles went unpunished, while minions of the law spent days trying old women on the charge of witch&#8211;craft. Selfishness and cupidity under the cloak of religion fed themselves upon the ignorant faith of the people. Common folk herded together like swine in hovels that the lords would not have stabled their horses in. They wore the coarsest of clothes, and ate as if each meal consisted of the last food on earth.</p>
+<p>In spite of all this misery, however, the dominant feeling of the people &#8212; slave, noble, and freeman &#8212; was centred in Palestine. For two centuries Christendom had <pb n="10" />
+been drained of its manhood and treasure in vain attempts to recover the Holy Sepulchre from the hand of the Saracen. The thoughts uppermost in the minds of the people were the result of the last Crusade, and the prospects of the next. The scant literature of the Empire treated almost alone of this theme; and it is not surprising that the beggared and down&#8211;trodden people were only too glad when a crusade was organized, for it gave them a change of scene if not of circumstances, and afforded a vent for their pent up emotions.</p>
+<p>So Reinhold and Barbara, hungering, sat in the summer twilight eating berries. Now and then they paused to sing, or to float a pink petal down the Rhine, whose waters flowed past them to the sea. The moon arose before the last glow of the sunset had vanished, and "wove its bright chain" over the river.</p>
+<p>"That is the moon&#8211;path down which the elves dance, thou knowest," said Barbara, wisely.</p>
+<pb n="11" />
+<p>"I hope there be no goblins among them, then," remarked Reinhold.</p>
+<figure entity="ep.nov.scrip.11.jpg">
+<figdesc></figdesc>
+</figure>
+<p>"Hast ever seen a goblin, Brother?" asked Barbara, creeping closer.</p>
+
+<pb n="12" />
+<p>"Not I, little one."</p>
+<p>"And thou 'rt twelve years next feast day!" said the little girl, in lofty reproach. She would n't be called "little one" by a boy no larger than herself, if he were two years older. Reinhold felt injured.</p>
+<p>"I would an I couldst," he said.</p>
+<p>Barbara was relentless. "Thou mightst at least have <emph>heard</emph> one."</p>
+<p>"Hark!" They held each other fast. <emph>The goblins had heard them!</emph> They were coming! The sound of their voices swelled in the far distance, but grew every moment nearer and nearer.</p>
+<p>"The mother has spread the fresh straw ere this, and we should be sleeping on it, Barbara," whispered Reinhold, in a remorseful tone.</p>
+<p>"She will have done the milking, and our bowls will be waiting," moaned the little girl. "Oh, Mother! Mother!"</p>
+<p>"It would be of no use to run home," sighed Reinhold, after a moment's reflec<pb n="13" />tion, "for the goblins' voices rise from the path that leads from here to there."</p>
+<p>"I wish I could remember a prayer," Barbara cried, shaking from head to foot as the sound grew louder and louder. "They say all the elfish tribe be afraid of holy words."</p>
+<p>Reinhold rose to his feet and peered through the dimness with hot eyes.</p>
+<p>"Barbara!" he shrieked, "I see them!" and cowered again, holding her close in his arms. But Barbara had suddenly taken courage.</p>
+<p>"Listen ! " she said, raising her dirty little finger. "Their voices sound not wicked. Mayhap these be good spirits." </p>
+<p>The murmur rose to a melody full and strong, chanted by a multitude of voices. Reinhold could scarcely hear for the beating of his heart.</p>
+<p>"But they cover the earth like a rain&#8211;storm when it sweeps across the fields," he protested, still trembling.</p>
+<p>Barbara clapped her hand over her<pb n="14" />
+brother's mouth. "I can hear the words. List if they be of good omen!"</p>
+
+<lg type="linegroup">
+<l>"Fair is the sunshine,</l>
+<l>Fairer still the moonlight,</l>
+<l>And the sparkling starry host;</l>
+<l>Jesus shines brighter,</l>
+<l>Jesus shines purer,</l>
+<l>Than all the angels heaven can boast."</l>
+</lg>
+
+<p>Reinhold trembled no longer. "They sing of the good Lord; we need have no fear. Come out, Barbara." The two went hand in hand out into the roadway, and walked on unfalteringly. The moonlight wove a wavering halo in their yellow curls. Their faces were bright with that resolute courage born of conquered fear, which of all courage is the most enduring.</p>
+
+<p>What they saw was this: a compact multitude of children, no larger than themselves, dressed in uniform such as holy pilgrims wore, singing in weary voices and marching slowly to the rhythm of their song. Above their heads were crosses and floating banners; but though it seemed an<pb n="15" />
+army and had its leader, there was no gleam of sword nor flash of mail.</p>
+<p>"It is a band of little pilgrims," cried Reinhold, joyously. "How wonderful!"</p>
+<p>"Halt!" commanded the leader, turning and holding aloft the long&#8211;staved cross he bore in his hand. The word was repeated again and again down the far&#8211;stretching line. The ranks stood fast. "We shall camp here for the night," said the leader, "and may the peace of God rest on you!"</p>
+<p>His voice was sweet and childish, and his form was slight, but the multitude hung upon his words. Barbara and Reinhold now stood still in the shadow of the tree watching. They were on the border of a wide meadow which stretched from the Rhine to the vineyards of the distant village. The ranks broke. The children sank down upon the ground wherever they might, and dotted the field like violets in the spring. A few &#8212; a very, very few &#8212; spread blankets upon the ground; but the greater part of them threw themselves <pb n="16" />
+down with nothing between them and the dew&#8211;wet ground. Barbara and Reinhold crept nearer, that they might hear of what the others talked. A group of boys sat nearest them. They were looking in the leathern scrips they carried.</p>
+<p>"What hast thou left, Ernestine? " queried one of them, sadly.</p>
+<p>"A rind of pork, Ignaz, nothing more."</p>
+<p>"Here be some of my nuts, then. To&#8211;morrow, mayhap, we can fill our wallets in yonder village." A smaller boy who sat with them suddenly burst into sobs.</p>
+<p>"Why weep'st thou, Ansel? " tenderly asked the lad called Ernestine.</p>
+<p>"My feet are bleeding. See! I can keep silent no longer! I <emph>must</emph> weep. Ah," he cried out in pain, "how they hurt me!"</p>
+<p>"Here," said Ernestine, "let me bind them in my napkin!" He took a linen cloth from his pocket, tore it in two, moistened the lacerated feet with saliva, and bound them up with a gentle but awkward<pb n="17" />
+touch. The little Ansel dropped his head on Ernestine's lap.</p>
+<p>"I 'm so hungry!" he said, and burst into sobs again.</p>
+<p>"The greater shall be thy reward," responded Ernestine, gravely. "Endure, Ansel; it is for His sake! "</p>
+<p>"I care not what thou say'st, Ernestine. Could I find my way back, I would go.</p>
+<p>"What!" cried the elder boy, holding him from him with one hand. "Dost faint so soon? And the journey not well begun! Think on the deeds of thy father, who fell with the red cross on his breast, fighting against the Infidels! Art his son? Then doff thy present mien. Think'st thou if armed and true&#8211;hearted men cannot win the sepulchre of our Lord, a fat heart like thine will triumph? But thanks to Heaven, there be not many of your mould among us."</p>
+<p>Ansel checked the impassioned utterance with a cry: "Ernestine! Ernestine!<pb n="18" />
+Comrade, forgive! I meant it not. I am willing to die. Forgive!"</p>
+<p>Ernestine raised his hands to the tranquil heavens. "It is not for me to for-give, but for the crucified Christ, whose sacred body lies defiled among the heathen. Cry to Him for forgiveness."</p>
+<p>Reinhold listened with a tumult in his heart. What wonderful thing was this these children talked of? He stepped out into the bright moonshine, still holding Barbara by the hand.</p>
+<p>"Prithee tell us of what you talk and whom you be?" Ernestine glanced at the questioner, and replied, —</p>
+<p>"We are the army of the Lord going to Palestine to reclaim the Holy Sepulchre." </p>
+<p>"Are you soldiers?"</p>
+<p>"We are soldiers of peace. We fight not with the sword, but with the truth from on high."</p>
+<p>"How wilt thou find the way?"</p>
+<p> The Lord will guide. He speaks to Nicholas in a still, small voice."</p>
+<pb n="19" />
+<p>"Who is Nicholas?"</p>
+<p>"Our leader chosen by God."</p>
+<p>"Is Palestine far?" asked Barbara. </p>
+<p>"Across the great sea."</p>
+<p>"Cast thou reach it?" asked Reinhold. "Hast thou gold?"</p>
+<p>"He will put a path for us between the waters. They will stand like walls on this side and on that, and His faithful shall pass through."</p>
+<p>Reinhold drew nearer and sat down by Ernestine's side. Barbara followed, and let her wide&#8211;stretched eyes wander over the vast camp.</p>
+<p>"Tell me more," pleaded Reinhold. "How dost thou know that thou art chosen? Could I be chosen too?"</p>
+<p>"Listen!" cried Ernestine. "A shepherd&#8211;boy named Stephen watched his flocks on the hills of Cloies in far France, and there came a voice to him telling him to lead the innocents to the conquest of Jerusalem. That which resisted the sword should fall before prayers. Nathless he <pb n="20" />
+did not so, thinking it glamour; but again the voice came, and he obeyed, and the children from all France rose to follow him, knowing him to be the general who should lead to victory the new crusade. They are marching now to the Holy Jerusalem. The news came to our country, and the spirit prompted Nicholas to gather another band. The blessing of the Lord is upon him, and we will follow where he leads. One German army hath already gone by way of Swabia and through the land of the Huns, but we go straight up the beloved Rhine till we come to the great sea."</p>
+<p>He ceased. Reinhold sat silent, watching the clouds that skimmed across the face of the moon. All the tales of his childhood had been incidents of the Crusades. All the famous men of whom he had heard had been Crusaders. The glory of his country was in the warriors overseas, now, alas! in captivity. And these boys and girls (for there were many girls<pb n="21" />
+in the throng) were going to the Holy Land, — that wonderful country of romance, which rang with clashing arms and bugle-calls, to Reinhold's dreamy ears.</p>
+<p>"I doubt not Jerusalem has streets of gold," said he to the boys.</p>
+<p>"Oh, and gates of jasper," cried little Ansel ; " and a light from heaven shines around the Saviour's tomb!</p>
+<p>"We shall convert all the Moslems to Christianity," declared the dignified Ernestine; but he was silenced by the hymn which the childish host lifted,&#8212;</p>
+
+<lg type="">
+<l>"Oh, Saviour, while we sleep </l>
+<l>On the land or on the deep, </l>
+<l>Thou wilt guard</l>
+<l>From dangers all untold </l>
+<l>Keep thou thy little fold,</l> 
+<l>Shepherd true."</l>
+</lg>
+<p>Most of the children fell upon their knees, and crossing their arms upon their breasts sang with bowed heads. But others there were too weak and faint with fatigue to move now that they had ceased their march. Soft echoes crept<pb n="22" />
+back from the river and distant mountains. A night&#8211;bird answered with a wild strain. Reinhold had thrown himself upon his face, and lay there bedewing the grass with tears of enthusiasm.</p>
+<p>"Christ God," he sighed, "wilt thou take me, a poor little boy?"</p>
+<p>"Rise!" spoke a soft, authoritative voice. He did so. A maiden, dressed in a palmer's robe with staff and cowl, stood over him. Her face was very pale and sweet, and her manner extremely gentle; but the attitude of the boys expressed deep respect and obedience.</p>
+<p>" Shall I sew the red cross on thy shoulder, my son, and make you a soldier of the Crusade of Peace?"</p>
+<p>Reinhold lifted his arms in mute acquiescence and thanks. He could not speak. The maiden opened the large leathern scrip which hung at her side, and took from it one of the curious crosses of scarlet cloth which was the badge of comradery. She sewed it upon Reinhold's <figure entity="ep.nov.scrip.22a.jpg">
+<figdesc></figdesc>
+</figure>
+<pb n="24" />
+gown with a stout cord, and he stood very upright, trembling with pride. He was brought back to earth by a sigh. A cold little hand touched his. He turned, and there beside him stood Barbara weeping. As he smiled proudly at her, she seized his arm and clung to it with sobs and kisses.</p>
+<p>" Wilt leave me, Reinhold? I am afraid. Come home to the mother. She will be calling and watching for us. Reinhold, little brother! I shall <emph>die!"</emph></p>
+<p>"Sh! Barbara, little one, wilt thou not come too? There is no bread at home for us. We can do no good to any here. But if we march to do the bidding of the Christ, mayhap the curse of hunger at home will be stayed, and all the people will have bread. Come, we will go together, and I will care for thee."</p>
+<p>"Ay, Reinhold," said Barbara.</p>
+<p>And they sewed the red cross upon her little frock.</p>
+<p>Suddenly Reinhold grasped her hand hard. She looked up. Before them stood<pb n="25" />
+the young Baron Bruno. He was the owner of the country round about, and lived in the gloomy castle on the height. His father had died in the last Crusade, and he had been made keeper of his war&#8211;like fame and his possessions. He took but little interest in arms, however, &#8212; which was a great trial to the people, &#8212; and as an additional offence he had learned to read and write, though he was in danger. of being burned as a wizard for doing it. It must be remembered that the villagers were his vassals, and belonged to him as much as did his castle or his cattle. He had heard the brother and sister agree to leave the village! Would he restrain them?</p>
+<p>Terror and defiance swelled Reinhold's heart. He looked fiercely at the elegant young lord who stood with two other youths watching the scene with great interest. Then suddenly quailing as he remembered that it was in the Baron's power to punish him and even Barbara <pb n="26" />
+for this night's liberty, he seized his sister's little hand, and fled with her down the road through the shadowy moonlight, till they came to the hut on the outskirts of the village which they called home.</p>
+<p>Their mother stood at the door straining her eyes into the darkness. When she saw them she caught hold of their arms and pulled them into the house.</p>
+<p>"You deserve a good rating!" she cried angrily. "Gone sith the noon, and the father and I waiting, not knowing &#8212; " She dropped their arms suddenly, and with ghastly face and outstretched arms tottered back from them.</p>
+<p>"See, Father, see; it has come! The plague has reached our babies, our little ones! Behold, Garrett! The mark of this new madness!" She pointed to the red crosses, and burst into a torrent of lamentations. The father looked at them with a face of misery.</p>
+<p>"There is a track of childless homes from K&ouml;ln to here, Catherine; but may the <pb n="27" />
+curse rest on us <unclear>if we</unclear>&#8212; be such fools as to let this be one of them! Here, drink your milk!" He gave the bowls into their trembling little hands, and they forced the drink down their hot throats.</p>
+<p>"Here be a little barley&#8211;cake to each of you to&#8211;night," said the mother, trying to hide her fear.</p>
+<p>They took them silently, and crept away to their room. It was a sort of milk&#8211;shed back of the main room. They undressed and slipped upon the pile of fresh straw which served as a resting&#8211;place. They drew some rough blankets about them and clung to each other. Their father bolted the door, and their hearts sank within them when they thought that the army would march off in the morning without them. Reinhold wept many tears, and Barbara kept him company. In the morning the father awoke first.</p>
+<p>"I 'll look at the poor little snared birds, Catherine," he said tenderly. He unbolted the door. <emph>The children were <pb n="28" />
+gone.</emph> His cry brought his wife to the room.</p>
+<p>"The saints forgive me," she moaned, "and I never even kissed my babies last night!"</p>
+<pb n="29" />
+</div1>
+
+<div1>
+<head>CHAPTER II.</head>
+
+<head>REINHOLD and Barbara lay trembling in each other's arms when they heard their father slip the bolt into the door. How still the house was! The fields, too, how still! Not a sound from that vast host under the stars!</head>
+<p> They are very angry with us," said Barbara, thinking of her father and mother. </p>
+<p>"Anan," murmured Reinhold.</p>
+<p>"We shall be punished in the morning." </p>
+<p>"Nay," quoth Reinhold, "we will not." </p>
+<p>"What mean you?"</p>
+<p>"We are Crusaders, little one. Did a Crusader ever break his word? I have heard many tales of those that fight for the Holy Land, and they kept their word though they died for it. Dost know what I heard the father whisper to&#8211;night? He said: Catherine, the kings have made<pb n="30" />
+their edicts against it, and parents have prayed and wept, but not once have they been able to keep the children from following the red cross. Mayhap it is the will of the Lord, but whether or no we will keep ours if we can.' Thou seest they have been faithful everywhere, and shall we be the first to prove traitors?"</p>
+<p>"What then shall we do, Reinhold?"</p>
+<p>He raised himself, bent over his sister, and whispered exultantly: "We will follow the army of the Lord."</p>
+<p>"Brother, wouldst thou dare?"</p>
+<p>"I dare not stay. Would all the children have left home and friends if it had not been willed from on high? Barbara, we have been taught to do the bidding of the Lord."</p>
+<p>"But father and mother," sighed Barbara.</p>
+<p>" Did not good Father Mathai tell us only last week that the Devil came into our hearts unawares? Because they love us they will try to keep us; but we must listen to the voice of the Lord."</p>
+<pb n="31" />
+<p>"But I hear no voice," said Barbara.</p>
+<p>"Listen, then. It is because we are so wicked lying here while the brave march away. Barbara, we must pray."</p>
+<p>They lay silent for a long time, trying to fix their troubled little minds on prayer, till they fell asleep, &#8212; Barbara's breast still heaving with sobs.</p>
+<p>Suddenly Reinhold sat up and grasped his sister excitedly. "Barbara! I have seen Him. I have heard the voice."</p>
+<p>"You frighten me. Call the mother.</p>"
+<p>"Hush, hush! The light filled the room; and the cross, bright blue like the sky at mid&#8211;day, stood in yon corner, and the sweet Christ was on it, with the blood flowing from His side and hands, just as Father Mathai said. And He came down and walked toward us; and as He walked He became a little child like us. And He stooped over and kissed first me, then thee, and said in a voice like music, 'Thou art chosen to go with my little ones to the land where I suffered, to <pb n="32" />
+save my body from shame.' Put on thy frock, Sister!"</p>
+<p>Barbara no longer protested. She did as she was bid. She felt as if she were in the presence of angels. They found their garments in the dark and fastened them on as best they could, feeling of the crosses on the shoulder as they did so.</p>
+<p>"We must carry our shoon," whispered Barbara, with feminine prudence. They placed their bonnets on their heads, and Reinhold took from the wall a little cross&#8211;bow and arrows his father had made him.</p>
+<p>"Now!" The door was bolted, and the wee window was too high for them to reach, but Barbara no longer had any doubt. She waited for directions. Reinhold went to the end of the hut and lifted out a little board. It had been a door to a rude dog&#8211;kennel. Barbara slipped through easily by lying on her face, and with a little pulling she got Reinhold through. Barbara kissed the side of the hut.</p>
+<p>"That's for the poor mother," she<pb n="33" />
+whispered. Reinhold kissed the spot, too, and then they sped together toward the camp of the Innocents. A patrol kept watch about the sleepers, and as the children approached they were challenged with,&#8212;</p>
+<p>"Halt! Art friend to the Crusade of Peace?"</p>
+<p>"We are friends," returned Reinhold. We bear the cross upon our shoulder."</p>
+<p>"Give the countersign." Reinhold was at a loss, when a voice behind him said, "Jerusalem." He turned and saw the young Baron Bruno. In place of the rich dress which he usually wore, he was now enveloped in a pilgrim's gown and hood. A leathern bag hung at his side, and a long, supple stick assisted him to walk. Reinhold noticed the red cross upon the baron's shoulder. He repeated the countersign, and the patrol passed on.</p>
+<p>"Are you not the children of Garrett the bow&#8211;maker?" the baron asked pleasantly.</p><pb n="34" />
+<p>"Yes, Master," said Reinhold, "we are."</p> 
+<p>"We are," echoed Barbara, sweetly.</p>
+<p>"Have you come to join the new
+crusade?"</p>
+<p>"Ay," said the laconic Reinhold.</p>
+<p>"Come," the other said, holding out his hand. "We will seek the youths with whom we talked yester eve."</p>
+<p>Barbara went up to him and took his proffered hand quite naturally; but Reinhold held back abashed. The baron and the vassal&#8211;child clasp hands and wander together barefooted! for Bruno, true to his pilgrim's dress, wore no shoes upon his feet. Reinhold had seen Bruno many a time, and thrown up his little cap and shouted with the rest, as the young noble dashed by with his glittering train. It was counted an honor to be remembered if the handsome young lord but spoke to one. Reinhold's father had reared him to be a true vassal. If the baron had so far forgotten himself as to overstep the distance between them, Reinhold would re<pb n="35" />mind him of it. So he stood still, with doffed bonnet.</p>
+<p>"Come!" cried Bruno again, impatiently, "are we not comrades? "</p>
+<p>But they were interrupted. There was a change of sentries; and the salutation, "Remember the Holy Sepulchre," passed between the guards. In the east the golden dawn was breaking. Reinhold was moved again by these inspiring sounds and sights to that feeling of quiet joy which he had experienced since he saw the vision in the night.</p>
+<p>"I am your little comrade," he said, taking Bruno's hand; and the three children walked to that part of the field where they had met the night before. They found Ernestine and the other youths where they had left them, but they were sleeping soundly; so the three recruits sat down side by side without speaking, to wait till the weary marchers should awake. At last there came a bugle&#8211;call, and the camp burst into ac<pb n="36" />tivity; not as a camp of men might do, wearily and ill&#8211;naturedly, &#8212; they were children! Hope, unselfishness, devotion, filled their young bodies like wine. A voice started the morning hymn, and the vast congregation of fresh young voices swelled it into an exultant crescendo.</p>
+<lg type="">
+<l>"O watcher at the gates of the morning!</l>
+<l>We march toward thy golden&#8211;paved streets, </l>
+<l>All danger and sacrifice scorning:</l>
+<l>Our singing the weary way cheats."</l>
+</lg>
+<p>A party returned from the village laden with forage; and with them a company of eager boys and girls came, like Reinhold and Barbara, to follow the fortunes of the new crusade. While they were distributing the food, and the hungry children were devouring it, Bruno and his two little friends were renewing their acquaintance with Ernestine and his companions.</p>
+<p>In a short time the banners and crosses were again raised, the ranks formed, and the army of the Innocents <pb n="37" />
+was afoot. Reinhold walked with Bruno, and Barbara held tight to the hand of the maiden who had sewed the cross upon her shoulder; but ever Barbara looked behind her to see that her brother followed close on her heels, and now and again Reinhold reached forward and lovingly touched the bare shoulders of his little sister where they peeped above her homespun frock. They had feared lest their father and mother would come to seek for them; but Bruno pointed out that even if they did it would be well&#8211;nigh impossible to find them in such an assembly. Reinhold told the story of his flight from home, speaking with no pride and no shame, but as if it were destiny. Though he did not know it, that was the tone all the children employed.</p>
+<p>At first the marching was delightful. The army generally followed the course of the Rhine, now marching by its very edge, now leaving it and following the beaten roads over the mountains. Now <pb n="38" />
+they passed through a miserable hamlet of huts, now they avoided a city. Sometimes they marched over a stone bridge, but more frequently the whole army waded the shallow streams. The air was cool <figure entity="ep.nov.scrip.38.jpg">
+<figdesc></figdesc>
+</figure>
+with the dews of the night. The shouts and singing of the children woke the birds from their sleep, and they sang too. The sky overhead was "as blue and as clear <pb n="39" />
+as the eye of a child." Their young feet seemed to spring from the ground, and Jerusalem to lie just ahead.</p>
+<p>Ernestine pointed out the gloomy turrets of the Drachenfels, and told of the wild baron who dwelt within. More than that, the baron's retainers could be seen upon the distant shore peering across to discern if possible the nature of the army.</p>
+<p>Our little party of friends kept well together; and Reinhold and Barbara had an opportunity of learning many of the details of the Crusade. Bruno was in good spirits; in fact, his approaches to mirth were rather frowned upon by the more serious pilgrims.</p>
+<p>"When my father went to the Holy Land," he said in his ringing voice, "he had an Arab steed trapped with gold, and a suit of chain armor that glistened in the sun like silver. His esquire followed with another steed laden with suits of mail of various sorts, some inlaid with gold. The sword that he carried bore our arms upon<pb n="40" />
+the hilt in red jewels, and the motto of our house was engraven on the blade. He and sixty thousand other good knights rode here where we walk." He sighed. "They are dead or in prison. My father died in the sea with a dozen black Saracens clinging to his waist and plunging their daggers into him."</p>
+<p>The maiden who walked with Barbara turned her calm eyes on the baron, and murmured in a tone of reproof: "Hush thee, Comrade Bruno. Such tales of blood are not for the ears of the Crusaders of Peace."</p>
+<p>"Pardon, fair Mistress Theodosia, but I have been fed on such&#8211;like tales from mine infancy. My grandsire's dented helmet hung above my cradle. I have fought the Saracens in play ever since I could walk and talk; but fear me not. I shall learn to joust with words, not weapons; and, by the by, whence come these songs our comrades sing?"</p>
+<p>"They are born of the spirit and the<pb n="41" />
+hour," said Theodosia. "There be some among us that are very apt at the making of rhymes, though for my part I care not whether the words rhyme or no, so that they express devotion to our cause."</p>
+<p>"I make a hymn now and then myself," said Bruno, modestly. "Siegfried, the minstrel who has sung the glories of our house for more than sixty years, taught me the knack. I might weave a rhyme or two if 't would be well accepted."</p>
+<p>"The least thing is acceptable to the Lord," said Theodosia, with a quiet hint of humor.</p>
+<p>Bruno's laugh rang out heartily. "Thou hast a pleasant wit, Mistress. I'll sing my rhymes to thee first to punish thee."</p>
+<p>Little Barbara laughed too and clapped her hands, glad of an excuse to break the solemnity.</p>
+<p>"Young brother," said a voice beside him, "we are not here for idle gibes." It was a monk who bore in his hand a tall ebon cross.</p><pb n="42" />
+<p>"Good father," protested Bruno, "may not one laugh when bound on a good errand? Then, too, we warm our feet before we venture into the cold, and I do but warm my soul with gladness that it may withstand the trials that are to come."</p>
+<figure entity="ep.nov.scrip.42.jpg">
+<figdesc></figdesc>
+</figure>
+<p>So on they marched, while the sun climbed higher and higher till they were scorched with the mid&#8211;day heat, and their feet were blistered by the unkempt roads.<pb n="43" />
+Reinhold and Barbara would have had nothing to eat had it not been for their new friend. The baron was accompanied by a servant who bore changes of clothing, food, water, a sack of sour wine, and blankets. These things were slung across the back of the most ridiculous donkey that ever brayed. On top of all sat Gramercy, the servant, &#8212; a dwarf of an age not to be guessed at by mortal man, so wrinkled was his face, so discolored his teeth, so bright his eye. He was barely three feet high, but his arms and legs measured larger around than those of most full&#8211;sized men. He rode the donkey most of the time with his face toward its tail, and at the most unexpected moments he would suddenly fall to the ground in so comical a manner as to set all who saw him a&#8211;roaring. Several attempts were made to make him bear himself more properly; but through fear of him or his sharp wit, the lieutenants ceased trying to restrain him. He was one of those unfortunate beings who were <pb n="44" />
+attached to the households of the great during these times, to act as jester and body&#8211;servant. Gramercy made his living by quips. Jests were the price he paid for all regard. But though he laughed much, he laughed at no man's downfall; yet his sharp tongue kept all addlepates at a distance, and no one cared to test the mettle of their wits a second time with him.</p>
+<p>His wayward soul held one passion,&#8212;love for Bruno and all that belonged to him.</p>
+<p>There was a large following of grown persons with the army, &#8212; servants and monks, and, alas! all the offscourings of the country through which it had passed. Beggars and thieves, jugglers and mountebanks, and all who could extort or plunder, followed the children as inevitably as the darkness follows the light. For the most part marching order was preserved. The army presented a strange and picturesque sight with its gray ranks, relieved by the many&#8211;colored garments of those who had<pb n="45" />
+been unable to procure the uniform. Girls and boys alike wore the pilgrim's dress, with staff and scrip, the latter showing the scallop&#8211;shell upon the outside. The dress of all bore the red cross.</p>
+<p>The shadows of the afternoon were slanting, when Nicholas, bareheaded, excited and holding aloft his cross, led the army into Coblentz. He looked neither to the right nor left, but walked as if by instinct to the great church. From every door and window the people looked out upon them, but the town&#8211;children ran out and followed them. The fathers threatened, the mothers wept. "The curse is come upon us!" they cried. Some of them locked their children up; but a hot, nervous sickness came over those made captive, and a trembling of the limbs, so alarming that the parents feared they might die and were forced to release them. So, singing a hymn of triumph, the virgin army swept onward through the crooked narrow streets, closing about the new&#8211;<pb n="46" />
+comers and hiding them in its closely serried ranks. When they reached the cathedral, Nicholas entered and passed beyond the chancel&#8211;rail, and the multitude poured after him like water through a broken dike. Impelled by anxiety and curiosity, the townsfolk crowded in too, many of them in hopes of finding and re&#8211;claiming their strayed ones. They filled the nave, chancel, gallery, windows, and vestibule, and then swarmed about the cathedral on the outside, as if they thought some word might penetrate the walls and reach them. The army stretched far down the street, &#8212; a compact stream of gray in the midst of that sea of heads. Within the church the throng waited in hushed expectancy. Nicholas knelt before the altar, then arose, threw his arms up toward the sculptured Christ, and burst into an impassioned harangue:&#8212;</p>
+<p>"I stood in K&ouml;ln, where the bones of the departed saints lay coffined in gold caskets. The censers burned above them, <pb n="47" />
+flinging incense. Candles of wax flickered around about, and the music of stately Masses rose and fell. Upon the altar were laid jewels, chains, coins, and even crowns. The floor was furrowed by the feet of pilgrims, and day and night a procession of penitents passed.</p>
+<p>"The army of the Lord encamping above Jerusalem look upon a city whose splendor is its ruins, and whose holy place is the most scorned of all spots within its crumbling walls. The bones of the Saviour of men &#8212; the Transfigured, the Son of God &#8212; lie reviled and spat at by infidels. Think of it, comrades! Weep for it, citizens! For two hundred years men have died by war and pestilence, by sea and storm, wild beasts and famine, for the recovery of the Holy Sepulchre! They have failed, and why? Because they fought for the Man of Peace with swords. We go to carry good tidings of great joy, and the gates from which they have been driven shall open unto us.<pb n="48" />
+They went to slay bodies; we go to save souls. They carried death; we bring life. As did the Red Sea part for Moses, so shall the greater sea part for us. The Lord has spoken. Then why try with vain efforts to deter his will? We are the army of the Innocents. Give us the innocent ones. We are the babes and sucklings from whose mouths shall proceed great wisdom. We march to the conquest of the Holy Land; and I, a little child, shall lead."</p>
+<p>He ceased as abruptly as he had begun, and walked swiftly through the crowd, which parted to make way. At the door the burgomaster stood reading a formal edict against harboring the army within the town and forbidding the children of citizens to leave. Nicholas marched on never heeding, and not one of the burgomaster's men&#8211;at&#8211;arms dared detain him. In the street a sorcerer stood trying with frenzied incantations to cast the evil spirits out of the bewitched chil<pb n="49" /><figure entity="ep.nov.scrip.49.jpg">
+<figdesc></figdesc>
+</figure><pb n="50" />dren. Nicholas, with his black eyes lifted, his face white, his dishevelled, abundant hair uncovered, passed on and lifted the marching song of the army. Eighteen thousand children followed him. Bruno was burning with impatience to do something for his leader. He wanted to fight for him, to die for him, to strike down the insolent dignitaries with their tedious formulas and their harmless anathemas. Theodosia was beside him, filled with quiet self&#8211;contained pride and joy at their young general. She still held Barbara by the hand. Just as they were leaving the city Bruno turned to speak to Reinhold, and to his dismay, found his little comrade gone.</p>
+</div1>
+<pb n="51" />
+<div1 type="">
+<head>CHAPTER III</head>
+
+<p>BRUNO ran frantically among the children, calling "Reinhold! little comrade!" while Barbara clung to Theodosia's dress and wept in an ecstasy of grief.</p>
+<p>"We three would best keep side by side," suggested Theodosia, and then we can bring him and Barbara together again when he is found. He has lost sight of us in the throng."</p>
+<p>"I wish I could think it was only that," returned Bruno gloomily, consenting, however, to fall into the ranks. The column had formed four abreast, and Theodosia and Bruno held Barbara by the hand.</p>
+<p>"What else <emph>could</emph> it be?" asked Theodosia, with a feminine dislike for mystery.</p>
+<p>"Why, what with their doting burgomasters and their cursed sorcerers&#8212;"</p>
+<p>"Nay, curse not, comrade."</p>
+<pb n="52" />
+<p>"Save thee, good maid, I mean no harm."</p>
+<p>"Do none then," quoth the fair doctor of divinity.</p>
+<p>Barbara's eyes were blinded with tears. What naughty children they had been, and now see what had come of it! They would never see each other again. He would die of hunger and fright, and she would be carried farther and farther from home and her mother. Poor babe! she had not her brother's faith. Nature had given her a sturdy body and an affectionate heart. It had given Reinhold a genius for devotion. In appearance, it is true, the children were very similar. The brow that Reinhold's curls shaded was a trifle higher, with fuller temples. His eyes, though not so blue as his sister's, had a grave depth in them that made them like a clear pool on which the shadows lay, while Barbara's danced like the water with the sunlight on it. Her mouth was sweetly arched. His was firm, and his chin had<pb n="53" />
+not the saucy outward tilt of hers; but they were alike in their rosy, dimpled, flaxen beauty and their healthy grace.</p>
+<p>"Well," cried Bruno, suddenly, "there is my donkey, but that knave Gramercy is not to be seen." He ran and caught the donkey by the bridle. Wonderful to relate, the packs were undisturbed, though the army was accompanied by a gang of thieves who continually preyed upon the children, robbing them of their money and food and striving to corrupt them by vices. Doubtless the donkey had escaped under the natural impression that his master was just behind him. When Bruno saw him he was walking along beside the line, dexterously making room for himself, and carrying his ridiculous nose with a profound appreciation of his unheard&#8211;of freedom. Bruno vaulted on his back, and rode up beside Theodosia.</p>
+<p>"I verily believe Gramercy never let me out of his sight before since I left my mother's knee. I am sore perplexed."</p><pb n="54" />
+<p>He rode away. up and down the ranks searching for his lost friends, and Barbara and Theodosia walked on hand in hand, &#8212; the former silent through grief, the latter from sympathy; while all the rest of the children sang their songs and marched with arms crossed on breast.</p>
+<p>Reinhold had stood near Nicholas while the latter spoke, and caught the fire of his impassioned words. When the people pressed from the cathedral, the boy rushed with them to touch if he might the garment of his leader, to tell him that he, Reinhold, was his to the last, ready to live or to die for him and the cause. No helmeted warrior ever felt stronger or more full of power. He saw, in thought, the wardens of the gleaming city of Jerusalem marching out with drooping banners to yield them to this glorious young leader. Then the news would come back to the Rhineland, and all the people would say, "Hast thou heard how our children have won the Holy Sepulchre?"<pb n="55" />
+He pressed so near the young leader that his hand was outstretched to grasp his robe, when some one caught him roughly by the arm.</p>
+<p>"Let go!" screamed Reinhold, struggling.</p>
+<p>"Hi! young rebel! we'll have to take that spirit out of thy small body. I'm sorry it is but thou I have; I thought I had nabbed thy leader!"</p>
+<p>The man that held him was a stout fellow, clad in a suit of yellow curried leather and carrying a short sword at his side.</p>
+<p>"The Lord would not let thee do that!" protested Reinhold, proudly. "He lives for greater things!"</p>
+<p>"Say you so?" said the man with a laugh. "An' thou art like to be born for a very small thing, methinks."</p>
+<p>Reinhold made no reply; but he felt that the words covered a threat, and looked his captor proudly in the face.</p>
+<p>The man seemed vastly amused. "Art<pb n="56" />
+a plucky baby, at all events, thou flaxen&#8211;haired inch&#8211;long thing!" And with that he put him with a weeping company of his late comrades who were held in custody by a guard dressed like his captor. Near them, on a huge black horse resplendent in crimson housings, was a tall old man dressed in robes of Flemish cloth bordered with fur.</p>
+<p>"It is the burgomaster," said Reinhold to himself with awe. They stood the little captives in line, and the sturdy guards surrounded them. At this moment along rode Gramercy, the body&#8211;servant of the young Baron Bruno.</p>
+<p>"Hoity toity!" said he to himself, "here 's fresh trouble for these misguided babies. What can that old knave who welts under furs in midsummer to show his rank, want with these innocents? By my new toy, the cross, there is the chosen comrade of the baron among them. I swear I 'll see not one of his golden curls come to grief." He rode close to the<pb n="57" />
+guard, and making a mocking grimace, cried,&#8212;</p>
+<p>"Be those a litter of little pigs that ye lead to the slaughter, that they squeal so, friends of the yellow jerkins?"</p> <figure entity="ep.nov.scrip.57.jpg">
+<figdesc></figdesc>
+</figure>
+<p>"They be traitors against the king," answered one of the men, "and it becometh true men to scorn them."</p>
+<p>"Thy illustrious burgomaster must sorely<pb n="58" />
+need a chance to show his power if he captures these sparrows."</p>
+<p>"Best hold thy tongue, misshapen gnome, an thou wouldst not bear them company."</p>
+<p>The dwarf replied by suddenly tumbling backward over the tail of the donkey, which caused first an exclamation of consternation and then a roar of laughter amidst the bystanders. But as he did not rise, and lay on the ground writhing as if in torment, and twisting his face into the most horrible expressions, the people moved away from him with looks of fear.</p>
+<p>"He is possessed," they whispered. The sorcerer passing with his paraphernalia on his way to join the burgomaster, saw the contorted figure of the hideous little man and said, "Bind him, men, and take him with you. I will bleed and exorcise him." The sorcerer, most dreaded and revered of all men, waved his hand in a mysterious manner, and rode on, while two of the burgomaster's men bound the dwarf with<pb n="59" />
+thongs and carried him feet foremost toward the stadt&#8211;house. Gramercy recovered long enough to look after the donkey, who was placidly following the army as it marched in the opposite direction down the street.</p>
+<p>"The pack is safe enough," he muttered to himself. "He will nose out Master Bruno even in this multitude, and whoever else puts hand to his hide will feel his heels." Then he relapsed again into a worse fit than before. He was carried on behind the sad little procession of children to the residence of the burgomaster, &#8212; a huge edifice of gray stone with the first two stories as sparsely windowed as a prison, but above that breaking into gables, balconies, and towers as light and graceful as an Italian mansion. The lower part of the structure seemed to serve as a pedestal, as it were, to give the needed height to the remainder. Through the dark semicircular entrance and along a tiled corridor the children were marched; <pb n="60" />
+then, trembling and clinging together, were led by two men carrying torches down two flights of stairs to a low under&#8211;ground chamber, which appeared to the keen eyes of Gramercy to have been used at some time as a wine&#8211;vault.</p>
+<p>"Best be content," said one of the men in answer to the boys' imploring questions; "you may find worse quarters before you find better."</p>
+<p>Then the guards withdrew and left the prisoners in darkness. A cry of despair went up from the miserable company. Then followed a Babel of reproaches, which echoed back with hollow resonance from the wide chamber. Reinhold made no noise. His whole heart was one aching cry for Barbara! Barbara! And he had meant to care for her so tenderly. No one would think to give her anything to eat, and she was such a little girl she would never find anything for herself. How she would be crying for him! He sickened with the thought, and threw himself upon<pb n="61" />
+his face in unutterable longing and regret. As he did so, he felt fingers in his hair, and a deep voice whispered,&#8212;</p>
+<p>"I knew I should find thee by thy long curls. Art Reinhold?"</p>
+<p>"Ay," came most abjectly from the crouching figure.</p>
+<p>"I am the servant of Baron Bruno, thy comrade."</p>
+<p>No reply.</p>
+<p>"I feigned a fit that I might be beside thee. Fear not; we shall escape."</p>
+<p>"I do not fear. I weep for my sister, not myself. What is thy name, kind dwarf?"</p>
+<p>"They call me Gramercy. Hast thou a knife?"</p>
+<p>"No; why?"</p>
+<p>"I am bound hand and foot. I could barely touch thy head with my finger&#8211;tips. Put thy hand in the breast of my jerkin. You will find my dagger there. That's it. Now loose my hands &#8212; easy! The edge is keen, and I'd liefer have two<pb n="62" />
+hands than one; so be sure 't is the thongs thou cut'st. So &#8212; give it me. I'll free my anklets. Aha, my masters of the yellow coats! I 'll face as many of ye as care to try a throw. Beshrew me, what if the knaves be listening!"</p>
+<p>"The door is too distant for them to hear."</p>
+<p>"Thou <emph>art</emph> an innocent! Don't think there is no way to listen but by the door. These be not honest folk with honest ways that have shut us here."</p>
+<p>"Oh, Barbara, Barbara!" moaned Reinhold.</p>
+<p>"Hush!" commanded Gramercy, in a low voice. "If thou want'st Barbara, thou must work, not cry. Boys!" he continued, "listen to me. I am sure as if I saw it writ (ay, surer, for then I should not know it) that you have been put here for some foul purpose. Mayhap his Excellency the Burgomaster is out of favor with the young king Frederick (for he long espoused the cause of Otto), and fain<pb n="63" />
+would curry grace by sending fifty of your young heads to show how he can punish miscreants. For the young king, has by his edict forbidden the crusade. True, he understands not the cause, but he has by the same token forbidden it. But if they think to shut us up in a cellar like rats, we 'll show them that, like rats, we can burrow out. Half of you remain where you are and talk for the benefit of any that may be listening. The rest of you on your hands and knees creep about till you have felt every inch of this den. If there is a crack large enough for a cricket to get through, we 'll out at it and away."</p>
+<p>The boys followed the dwarf's directions. Gramercy was now here, now there, sometimes lending his wild laugh to the hubbub which the boys at the door sustained, and all the time searching on the floor and walls for some hope of escape. Several hours had passed. It was, as Gramercy said to Reinhold, certainly long past the feeding&#8211;time.</p>
+<pb n="64" />
+<p>"If only I were a good horse well stalled mid oats and hay and thou my young colt, how happy we should be!"</p>
+<p>But Reinhold had no replies for jests.</p>
+<p>"After one is buried I suppose there is no account of passing time," remarked Ludwig, a merry youth of the party, whose spirits nothing seemed to dampen. "But I'm sure the stars are out in the land of the living."</p>
+<p>"Sh!" said a cautious voice. "Where is the dwarf?"</p>
+<p>"Here!" said Gramercy below his breath. "What is it?"</p>
+<p>"I 've found the cricket&#8211;hole, General." </p>
+<p>"Where?"</p>
+<p>"In the far corner, toward the left. 'T is a ring half buried in the dirt. I tried to lift the stone, but I lack the strength."</p>
+<p>"Keep on with your clatter, lads," said Gramercy, and crawled like a snake to the spot the youth had indicated. The poor little company, their hearts on fire <pb n="65" />
+with anxiety and hope, sat making a nervous effort to talk as before. All was silent in the corner to which Gramercy had gone, till on a sudden there was a wrenching sound, succeeded by a fall. Then there was a half&#8211;repressed cry of exultation, which did not come from the dwarf, who was too old and too cautious for such an indiscretion, but from the boy who had discovered the ring. This was too much for the impatient spirit of the captives. With one accord they made such a bolt toward the place as only a company of boys can make.</p>
+<p>"Fools!" said the dwarf, "you will undo it all. Now quick, quick! It is your only road! Follow it, lead where it will." A frightful odor arose, sickening and choking them. They drew back in disgust and terror.</p>
+<p>"On, on with you, faint hearts!" cried Gramercy. "Is a soldier afraid of a smell? This is a passage our clever burgomaster has to save his skin, should his <pb n="66" />
+loving vassals get after him some day for hanging more of their number than suited their convenience. All true men in castles have these things. It suits their honesty. On with you! Don't turn craven if your feet kick a skull or two out of the way in your flight. A dead man never hurt any one. The rats may bite you, but they'll not be able to eat you alive if you run fast enough." He chuckled as he felt the shudder that spread through the horrified company. "Here 's a brave band of warriors!" cried he mockingly, then changed his tone. "Say a prayer, my lads, and away. I've other work to do."</p>
+<p>He put Reinhold's hand in that of the merry Ludwig, and sprang away from them to the door of the vault. He was not a moment too soon. The hall outside resounded with the tread of men, and the bolts on the outside of the door were removed. A heavy weight was thrown against it to push it in; but the dwarf's arm, stronger than a giant's, held it firm.</p>
+<p>"I thought the knaves would be here soon," he muttered to himself, "but I 'll match my arm, and my wits too, against their knavery." The heavy draughts swelling up from the passage poisoned even that foul atmosphere. Ludwig had swung himself down into the hole.</p>
+<p>"I'm tallest," he cried, "follow me. I'd tweak the nose of Death himself should I meet him." He reached up his arms for Reinhold and lifted him down beside him.</p>
+<p>"Where is Gramercy?" cried Reinhold, the true.</p>
+<p>"Gramercy," whispered one of the boys in a horror&#8211;stricken tone, "has stayed behind to hold the door against the burgomaster's men. They are come. Hasten, or we are lost!" The boys tumbled over one another like frightened sheep into the hole, and stumbled on wildly through its slime and darkness, shuddering at the touch of the foul walls, and crying out in terror at the unknown objects over which they tripped. Not the faintest ray of light <pb n="68" />
+showed them the nature of the place they were in. The passage seemed endless. The vault above, which the tallest could touch with their hands, dropped disgusting moisture upon them. Rats fled from their approach with shrieks, and noxious insects fell upon their garments.</p>
+<p>"I am plunged in purgatory sooner than my sins deserved," said the jaunty Ludwig, to hide his fear.</p>
+<p>"Nay," returned Reinhold, raising his birdlike voice, "it is the deliverance of the Lord. Shall we complain because it leads through unpleasant ways?"</p>
+<p>The others took heart and walked firmly on, held up by that strange faith which through trials, torments, and death sustained this wonderful army, &#8212; this army, ready to march to death for an idea.</p>
+<p>Meanwhile Gramercy, though hard&#8211;pressed, withstood the siege until the last boy disappeared, and the huge stone had fallen into its place with a resounding clash.</p>
+<pb n="69" />
+<p>"So much for my arm!" laughed he to himself; "now for my wits!" He gave a sudden spring backward, keeping behind the door as it burst open. He climbed like a monkey to the top and hung there by his fingers. Half&#8211;a&#8211;dozen halberdiers, who had been lending their united weight to the door, fell sprawling down the steps and ten feet into the vault, extinguishing the torch of the leader. Gramercy with one hideous laugh swung himself over the top of the door, and fell into the hall like an over&#8211;ripe persimmon, and fled away through the unguarded gate out into the star&#8211;lit night. Then like a frightful spectre, his huge head waving from side to side, his prodigious legs flying through the air, his arms pressed close, and his tusks set, he flew toward the river.</p>
+<p>His instinct told him the passage would most likely lead there. Few great houses of that day but had some secret means of escape which could be used in case of necessity, for in those wild times no man knew <pb n="70" />
+who might prove his enemy. Gramercy had a trying search among the rocky bluffs that skirted the river edge, veiled as they were by a tough network of vines; <figure entity="ep.nov.scrip.70.jpg">
+<figdesc></figdesc>
+</figure>but at last he found an opening that was barely large enough for a man to pass through. He cut away some of the foliage that obscured it, and then waited impatiently awhile. It was some time before the voices of the boys reached him. The fugitives emerged at last pale and weak, but Gramercy would allow them no time in which to recover.</p>
+<pb n="71" />
+<p>"Those dolts with the halberds will be after us," he said. "We must make the most of our time." So Gramercy hurried them on, fatigued and frightened as they were. In every sound that the wind brought them they fancied they heard their pursuers. Their indomitable leader gave them no chance for despair.</p>
+<p>"This is my army," he cried, waving his arms about his head. "I am Baron of The&#8211;Top&#8211;of&#8211;the&#8211;Earth. Follow me, vassals!" and he turned a series of a dozen somersaults in the star&#8211;lit road before the eyes of the astonished boys. "I'd sing you a song," he explained, "but our friends in the yellow jerkins back there might not like the sound of my voice. Hush!" cried he. "Halt and listen!</p>
+<p>The sound which was unmistakably that of several men running came faintly to them. Gramercy caught up Reinhold, who was the smallest of the party, and flung him across his shoulders.</p>
+<p>"Now, my lads, show them your heels!" <pb n="72" />
+and he set off down a steep hill with the swiftness of a deer.</p>
+<p>"Take to the grass!" he cried. "Keep off the sandy road. They'll track you neither by footprint nor sound."</p>
+<p>But the boys could not run fast. Every few moments one of them stumbled and fell. They were so weakened with hunger and fright that even the larger ones made poor progress. As for their pursuers they were not without their apprehensions.</p>
+<p>"Beshrew me if there be not witchery in this," one of the halberdiers gasped as he ran. "That misshapen imp is but half human. It must have been he who lifted the stone from its place. Why, it has not been lifted in the lifetime of two burgomasters. I would not have thought that less than a dozen good fellows with as many bars of iron could have pried it up."</p>
+<p>"Didst hear his laugh?" asked another, a cold chill running down his back<pb n="73" />
+at the remembrance." I thought I should have choked &#8212; there in the dark too."</p>
+<p>"No mortal could bar that door against us six," remarked a third in a tone of pique. "I tell you this is glamour."</p>
+<p>"They can't be far ahead. We 'll soon test their powers of magic."</p>
+<p>"Ha!" shrieked the foremost man, "what is this?" and he stopped as short as if he had been pierced with a shaft.</p>
+<p>The rest stopped, too, palsied by a sight which froze their blood, and made the hair on their heads prick like needles. A moving mass of fire swept toward them. It burned in mid air, and in the midst of it dancing on space was a monster of horrible shape. The halberdiers with ashen faces fled, howling that the devil was upon them for their persecution of the children.</p>
+</div1>
+<pb n="74" />
+<div1>
+<head>CHAPTER IV.</head>
+
+<p>GRAMERCY soon found that the distance was rapidly lessening between his band of fugitives and the pursuers. Further flight was useless. There was a cunning brain in the interior of his unsightly head, and he set it a&#8211;thinking. It did not fail him.</p>
+<p>"To the right, lads!" he cried, "to the right! Plunge into the grove and see if you can find a fallen sapling."</p>
+<p>This was an easy thing to do; and he set those with knives at work cutting off the dry branches of the dead limbs. When a dozen boys were provided with these, he bade them stand in line across the sandy road at the top of the hill. It was now pitch&#8211;dark, but the voices of their pursuers could be heard on the night air. Gra<pb n="75" />mercy set fire to a branch which he carried, and with it ignited all the others. The dry wood and leaves crackled in the fresh air, and formed a line of fire stretching clear across the road. Gramercy placed Ludwig in front of this, and sprang upon the lad's shoulders. Being thus raised to a level with the flames, he was plainly visible to the dismayed halberdiers. The wild antics which he cut, aided by the illusions caused by the leaping and fitful light, lent to him the unearthly size and aspect which froze the blood of the outwitted enemy.</p>
+<p>The boys discovering the flight of the halberdiers by the sound of their receding voices and footsteps, once more turned their faces toward the south. Their spirits were raised by their daring and successful escapade, and, led by the agile Gramercy, still chattering like a magpie, they caught up with the army just before dawn. They passed the sentinels, and then wound among the sleeping groups.<pb n="76" />
+Here and there were waking squads, where the sick were being attended. Now a prowler slunk past them to rifle the scrips of the weary children; and once or twice they came upon a vagabond, whom idleness had attached to this pilgrimage, teaching a group of boys the mysteries of dice&#8211;throwing, or giving them their first lesson in drunkenness.</p>
+<p>The tired fugitives, with brief expression in true boy-fashion of good-will, parted, each to search for some friend or comrade. Ludwig embraced Reinhold with fervor.</p>
+<p>"I 'll not forget thy shining curls nor thy brave words, my laddie," he said.</p>
+<p>Reinhold felt very manly and proud, but his eyes filled with tears too.</p>
+<p>"And thou, thou great&#8211;hearted monster," continued the youth to Gramercy, lightly,&#8212; "I 'd love thee, too, but I don't suppose thou 'dst permit it. Thou hast saved fifty lives this night."</p>
+<p>Gramercy scowled fiercely at the speaker, as if he had never done a kind act in his<pb n="77" />
+life, and taking Reinhold's hand, led him away in search of Barbara.</p>
+<p>"There they be!" cried the dwarf, at last.</p>
+<p>And sure enough, there lay Barbara and Theodosia wrapped together in the blankets, and the Baron Bruno lay near their feet. The hug he gave Gramercy when he awoke would have repaid that faithful servant for many more trials than those he had undergone. Reinhold bent softly over his sister. Barbara was rolled up like a kitten, as if she were trying to embrace herself for company. Every few moments her breast heaved with a tremulous sob. Reinhold could not endure that; and he bent over her with a cry, and clasped her head tightly in his arms.</p>
+<p>After this separation all troubles seemed light and easy to bear, &#8212; and troubles came to them in plenty. Gramercy and Reinhold found themselves the heroes of the hour next day; and the story of the capture and escape was borne from rank to rank, as the march progressed.</p>
+<pb n="78" />
+<p>The country through which the child army passed was not as thickly settled as it is now. Where now are populous towns, then existed nothing but wildernesses. Vast uncultivated fields and plains, now covered with dense forests, then lay along their path. The castles which so picturesquely crown the heights we now gaze at were then complete, impregnable, and inhabited. There dwelt rude barons and hereditary lords, owning no sway but their own will, and subsisting on the plunder of unprotected people who fell into the hands of their guerillas. These robber barons &#8212; for they were simply powerful bandits &#8212; were at war with the whole world and each other. The law offered peaceable people no protection, and might seemed alone to constitute right.</p>
+<p>The roads were sandy and muddy by turns, and the progress of the children was very tedious. Unused to such journeying, their little feet were swollen and bleeding ; and many a young wanderer, whose <pb n="79" />
+strength did not equal his faith, sank upon the wayside bank and waved a weary farewell to his companions. Still forward pressed the others, led by the tireless Nicholas. Though frail of frame, he seemed endowed with a giant's strength. His step never flagged, and his face never lost the look of firm determination and purpose. Hunger sore beset his band. They passed none of the teeming gardens of the present day, and the few fields they did encounter were but sparsely endowed with coarse vegetables. These they rifled, after the manner of soldiers in all ages. They ate the unripe fruit and vegetables raw, and with the indiscretion of children, which caused much serious illness among them. Every little way some child more delicate than the rest, sickening on such food, and overheated with the unwonted marching under a midsummer sun, lay down by the roadside and wept out his miserable little life. There was no mother beside him to alleviate the agonies of his death; no one<pb n="80" />
+to care even for the dust&#8211;stained body after the last impassioned sigh had been breathed. They fell martyrs' to a cause that devastated a world for centuries. And of all who fell in that cause these were the purest and the most devoted, and yet their story has been the seldomest told.</p>
+<p>But the living marched on exultant. Childhood is not given to reckoning the cost of things. Because a few were dead, did it therefore follow that more would die? Dismay was unworthy of them. If to&#8211;day was dark, they brightened at the thought of to&#8211;morrow. They seemed lifted above fear and despondency; and if for a moment some wave of sadness crept over the host of wanderers, one of their inspiriting songs won them back to their dreams and hopes. When they stopped to rest, the lieutenants of Nicholas would go among the squads into which the army was divided, delivering the leader's commands, advising and cheering them and repeating scraps of his sermons. Then, <pb n="81" />
+too, the elder pilgrims would relate to the youngsters the chronicles of the great Crusades as handed down from generation to generation by song and story. Others told tales of home, or legends of the country through which they passed, &#8212; the folk&#8211;lore of the Rhine, with its crags and castles, its emerald isles and its grottoes and rocky heights.</p>
+<p>No one was better at a tale of witchcraft or fairy&#8211;lore than Gramercy, who, though much older than his companions, seemed to have a mind which, like his body, had never grown beyond the stature of childhood. He made an especial pet of Barbara, and her little feet were saved many a weary mile's march on the back of the donkey Drumbo. At first Barbara had stood in unconcealed fear of the dwarf. She cringed every time he wagged his horrid head, &#8212; which he did very often, &#8212; and crouched close to Reinhold whenever he came too near. But after Reinhold's adventure at the burgomaster's, Barbara's loyalty tri<pb n="82" />umphed over her timidity, and she consented to be the dwarf's favorite plaything. To hold this beautiful little girl in his arms, to stroke her shining head, to know that in spite of his repulsive face and form she loved and trusted him, was one of the most delightful things Gramercy had experienced since he first carried Bruno pick&#8211;a&#8211;back.</p>
+<p>One day about two weeks after this, an accident cemented forever the love that was growing between these two warm hearts. The army had reached a burling stream to which no ford could be found. The feverish impatience which led on Nicholas's hurrying feet would not let him pause for more than a moment to search for one. In he plunged, and after him went his obedient followers. The muddy, turbulent flow of the river concealed the bottom, which proved to be full of unexpected holes and declivities. The taller and stronger could easily wade through these pitfalls; but the girls and the smaller
+<pb n="83" />
+boys were thrown into consternation on finding the water closing over them, and not a few lost their footing in the terrible crush, and were hurried down the swift current with the leaves which the summer wind blew upon the water. Ernestine, marching on in his steadfast, unwavering manner, paused when he came to the bank, and looked about for his friends. Little Ansel was always at his heels.</p>
+<p>"Here, Ansel," he called, "thou must cling to our comrade Bruno, and I will carry Reinhold upon my shoulder." He flung the little boy up to that seat, held him there firmly, and then stepped cautiously into the water.</p>
+<p>"But Barbara," cried Reinhold, in distress. "Where 's Barbara?"</p>
+<p>"She must be with Theodosia," returned Ernestine. "She is in good hands." But Reinhold was not so easily reassured, and from the high position which he occupied strained his eyes to catch a glimpse of the little sister. He saw her at last hold<pb n="84" />ing to Theodosia's skirts and stepping cautiously into the current. The girls, not knowing the depth of the river, had stopped to fasten their dresses up under their arms (for the woollen petticoats they wore below would scarcely take water at all). Reinhold sent out a piteous little cry, like a lamb that has lost its mother; but no one heard him in the midst of the shouting and screaming. The little bonnet which Barbara wore was blue, and Reinhold fixed his fascinated eyes on it. She had not taken twenty steps when he saw it disappear. The water had simply gone over her head. He raised his poor little voice then above all that din. It chilled even the heedless crowd. He shut his eyes and knew no more. But Theodosia, trembling with fright and remorse at her negligence, saw Gramercy let go of the bridle of the reluctant donkey on the other side of the stream, and dip like a hideous cat&#8211;fish into its native element. Fortunately Theodosia and her little friend had<pb n="85" />
+tried to cross the stream at a point several yards lower down than that taken by most of the children. In this way there was no danger of the drowning girl's being trampled by the eager throng. Theodosia was hurried on by the strong current while she waited for the dwarf to reappear. This in another moment he did, almost at her side; and over one shoulder lay the golden curls of his little friend. This was a sad morning for the poor pilgrims. By the time that Barbara and Reinhold had quite recovered and were journeying on again, the former on the back of Drumbo and the latter leading the donkey by the bridle, the lieutenants had estimated the loss to their ranks. Between one hundred and fifty and two hundred little soldiers had marched on to the New Jerusalem in the cruel waters of that fateful river. Jostling, hurrying, pushing, swimming, filled with haste and headlong terror, the stronger had pushed the weaker down; and once down, the current was so swift and the water so<pb n="86" />
+dark that it was difficult even for the clear-headed to rescue them. The marvel was that out of eighteen thousand no more were lost.</p>
+<p>After this Gramercy's wildest pranks could not dismay Barbara. Nothing more amusing could be imagined than the calm&#8211;eyed wonder with which she watched his fantastic antics. At last she grew to take a proprietary interest in him; and when the trials of the day seemed too great to endure, the little maiden would say,&#8212;</p>
+<p>"Cut us a caper, good Gramercy," whereupon the dwarf would proceed to coax the footsore, hungry children into a half&#8211;hour's merriment.</p>
+<p>The supply of food which Bruno had brought from home, and which he had generously divided from the first with Theodosia, Barbara, and Reinhold, was now exhausted, and our party began to feel the want which from the first had been the most crying trouble of the children. At last the day came when Reinhold and<pb n="87" />
+Barbara were too weak to walk for want of something to eat. Barbara was tied upon the back of Drumbo, and clung there with her head drooping and chilly tears of misery coursing unnoticed down her cheeks. Theodosia, white, silent, and stern, marched by her side. Bruno and. Gramercy helped on Reinhold between them.</p>
+<p>"An empty head is much less trouble than a full one," quoth Gramercy; "but when it comes to an empty stomach&#8212;" He gave his face a screw that made a smile come over even those pale faces. They marched on mile after mile without seeing either village or garden. The drought which that year had distressed Europe and depopulated a third of Egypt, had left little in the way of natural fruit for them. The stray animals which ran across their way were killed and divided as far as they would go, but these were not enough for such a multitude, &#8212; which, however, was daily growing less. For, disheartened by the perils and consumed<pb n="88" />
+by homesickness, squad after squad turned sorrowfully backward to plod once more with blistered feet the road which had brought them on this mad mission. The lieutenants of Nicholas went about haranguing the multitude alternately with threats and encouragements; but the eloquence of hunger was stronger.</p>
+<p>Not the least of their sufferings was the scurvy which tormented the robust and killed the debilitated. Amid all these horrors, when Ludwig's merriment disappeared and Ernestine's fervor became moroseness, the high&#8211;bred courage of Bruno developed. He had naturally great physical endurance, and to this was added a mind sympathetic and elastic. As he felt his, responsibilities growing, it expanded and strengthened. The dignity of the undertaking increased in his eyes with the trials that accompanied it. A proud ambition to be one of the faithful ones actuated his course. When the sad voices of the children sank, and they lost heart to <pb n="89" />
+sing, he composed and sang new songs in such an inspiriting voice that for a while they would catch the contagion of his enthusiasm. He sang now, as he limped along the road with the famished children about him,&#8212;</p>
+
+<lg type="">
+<l>"0 Shepherd! thy lambs are aweary,</l>
+<l>For the way is rugged and long.</l>
+<l>But those who drop by the wayside</l>
+<l>Thou wilt bear in thine arms, Shepherd strong.</l>
+</lg>
+<lg type="">
+<l>"The night with its peace is descending </l>
+<l>Guide thy wandering flock with thy love,</l>
+<l>Lead us on to the evergreen pastures,</l> 
+<l>To the fold of thy faithful above!"</l>
+</lg>
+
+
+<p>His voice, sweet and solemn as a prayer, died upon the quiet air. Nicholas gave the order to halt and camp for the night. The children were on the edge of a narrow grove. It offered an agreeable shelter, of which they were not slow to avail themselves. Roots, leaves, last year's nuts and ground&#8211;berries were all they could find for their supper. Theodosia gathered a quantity of leaves of a long, narrow, and tender<pb n="90" />
+sort; and while Gramercy built her a fire, she cleaned them as best she could, and put them in the little kettle which belonged to Bruno's outfit. She seasoned them liberally with pepper and salt, of which they still had plenty. Then she wrapped Barbara first in her cloak and then in a blanket, and laying her where she could watch the leaping flames, told her to sleep till the greens were cooked. The little girl kissed her gratefully, and then lay still. Gramercy went to feed and tie up the donkey.</p>
+<p>"Drumbo is the only contented one of us all," said he, "for he has never heard of the Holy Sepulchre."</p>
+<p>There was no use in Theodosia's shaking her head reprovingly; the dwarf was privileged to say whatever he chose.</p>
+<p>Bruno could not stay still. The gnawing at his stomach was too terrible, and his heart was filled with sorrow at the sight of all the suffering about him. He wandered on into the whispering gloom of the grove. Unseen by him, Reinhold fol<pb n="91" />lowed. The poor little boy had become possessed with the idea that if he let his beloved comrade out of his sight he would lose him; so, dizzy and ill as he was, he crept softly along in the shadow, instinctively feeling for his bow and arrows on his shoulder.</p>
+<p>Bruno walked on slowly, pausing now and then to look up at the one brilliant star which had blossomed in the early evening sky. In his hand he carried the heavy staff which was the companion of his marches. Once he stopped and struck it passionately against the side of a tree.</p>
+<p>"I will <emph>not</emph> die!" he cried. "Have I no destiny to fulfil? Are all my dreams of glory and renown to come to naught? Is Gramercy right? Are we a company of fools? Or is Barbara right, and are we simply disobedient children who are reaping the consequences of our own wrong&#8211;doing?" He stood gloomily cast down for a moment, then raised his head again proudly. "No," he said simply; "it must be God."</p>
+<pb n="92" />
+<p>Reinhold's eyes were filled with tears, and that was why he could not rightly see what followed. There was a rushing sound, a flying of dead leaves and twigs; he saw Bruno laying about him wildly with his stick, heard him cry for help, and then saw him fall. A cruel commingling of groans from Bruno and inarticulate howls from the unknown foe followed. Reinhold leaped forward, unslinging his bow and fixing an arrow as he did so. Without pausing for aim, in his desperation he shut his eyes and let the arrow fly. There was a savage snort and silence. He crept cautiously up to the spot. A young boar lay dead, pierced through the heart, on the top of his beloved comrade, whose face was covered with blood and who did not reply to Reinhold's cries.</p>
+</div1>
+<pb n="93" />
+
+
+<div1 type="">
+<head>CHAPTER V.</head>
+
+<p>FRANTIC with fear, Reinhold stood calling for help. He dared not leave his comrade, lest further harm might come to him. The hangers&#8211;on about the camp, desperate with hunger, yet loath to return, were taking the last possessions from the children that they could make use of; and Reinhold knew that should he leave Bruno in his unconscious state, he might find him stripped of his very gown on his return, and perhaps the last spark of life crushed from him in the bargain. Fortunately Gramercy, the alert, heard and came puffing.</p>
+<p>"Thy whistle is well&#8211;fashioned, Master Reinhold," he said, as he ran up. "What's to be done?"</p>
+<p>Reinhold told him in three ominous words; and Gramercy, cursing, praying,<pb n="94" />
+protesting, and imploring all in a breath, bent over the prostrate boy.</p>
+<p>"Here 's no dead man," he cried to Reinhold, with anger and joy mingling in his tone. "Why couldst thou not have felt his heart, lad, before thou freezeth me with such tidings?" He raised Bruno into a sitting position, poured the contents of a flask which he drew from an inner pocket down the lad's throat, and waited for him to recover; which he presently did, and began asking at once in a tremulous tone for Reinhold. That brave slayer of wild beasts broke into piteous sobs at this, and threw himself beside his comrade to clasp him about the neck; but Gramercy offered a timely interposition.</p>
+<p>"Hold, hold!" he cried, setting Reinhold on his trembling little legs and twisting him about like a top. "Once a day is enough for even a cat to die!" He bent over Bruno, seized him in his arms, and, short as he was, threw the youth over his shoulder and marched off with him. "You<pb corresp="95" n="" />
+stay with Master Boar till I find a fit convoy for him." So the little boy, somewhat apprehensive as he looked at the dark, wavering trees and the mysterious recesses of the forest, strung another arrow, and putting his back to a tree, stood on the defensive till Gramercy returned for him. Between them they escorted his boarship back to camp with great pride and honor.</p>
+<p>Then they had a supper! The dwarf, singing all the time, dressed and spitted the tender young beast, while the little brother and sister bathed and bound Bruno's bleeding hands and face. They did all this very quietly, lest their feast should be observed, &#8212; for the instinct of self&#8211;preservation was beginning to crush out that of generosity. But each in his or her own way showed their gratitude that the trials and dangers of another day had ended in safety and plenty. Theodosia said a short grace with her arms crossed on her breast; Bruno lay with one arm encircling his little benefactor, watching the group in <pb corresp="" n="96" />
+the way of quiet, graceful contemplation which was frequent with him; Gramercy was as full of tricks as a monkey, now feigning to swallow his cap, &#8212; which seemed actually to disappear down his capacious throat, to reappear marvellously on Reinhold's head; now making comical faces with his loose, pliable visage, and even indulging in quips at the sweet and decorous Theodosia.</p>
+<p>As for Barbara, she watched her brother with proud and thankful eyes, and ate like any other hungry little girl. She was very glad of a good meal, but she wished it had been eaten on her own wooden stool at home by the chimney. How warm it must be there by the crackling fire! The early autumnal frosts were no doubt coloring the leaves of the lindens by the door. Was it worth while, after all, to be cold and hungry and sick, to die perhaps for this strange thing, the Holy Sepulchre, which Barbara could not quite understand about? Ah, well ! the little brother knew almost every<pb corresp="97" n="" />thing, and he must know this. She looked up to feast her timid little soul on his enthusiastic eyes; but he had slipped from Bruno's grasp and was hurrying away in the gloom. She jumped up and scampered after him. She saw him going here and there about the groups of children, searching for some one whom he could not find. A woman dressed in a torn silken gown bedizened with dirty lace came up and caught him by the shoulder.</p>
+<p>"Here, my little lad, what nice thing is that you carry in your hand?" she asked with a sort of fierce pleasantry. Reinhold drew back his firm but very harmless fist, and gave a blow at her straight from the shoulder.</p>
+<p>"You thief!" he shrieked, "you thief! robbing the Lord's chosen."</p>
+<p>"Why, hear the baby," she sneered, "poor infant! The Lord's chosen, eh? The Lord has made a poor choice!" She made a sudden spring at him. "If that is aught to eat thou carry'st, I 'll have <pb corresp="" n="98" />
+it if I have to strangle the breath out of ye!"</p>
+<p>Barbara flung herself forward; but before she could reach them a form came between Reinhold and his enemy and pushed the woman back.</p>
+<p>"May your sins, which are many, be forgiven you!" said the stranger. "Pass on, soldier of the Cross!"</p>
+<p>It was the voice of Nicholas. He walked on with his arms folded behind him, and his eyes fixed upon the stars. The woman slunk away, and Reinhold hurried on, with Barbara still following. At last he found the object of his search in a group of boys who sat on a fallen log. They were talking about one of their comrades who had died that day.</p>
+<p>"Poor little lad! he cried for his mother," said one.</p>
+<p>"He had no faith," responded the grave voice of Ernestine, "but a warm and lovely heart. May his soul rest!"</p>
+<p>"Oh, barley&#8211;cakes of my mother, it is<pb n="99" />
+for thee I sigh!" groaned a mocking voice from the other end of the log. "I feel like a sack that the meal has been poured out of." Barbara saw her brother creep up to this speaker, and slip something under his gown and run away. He ran right against his sister.</p>
+<p>"Oh! why!" he cried in surprise.</p> 
+<p>"What was it, Reinhold?"</p>
+<p>"A little of my meat I saved, little one, for the merry Ludwig who was so kind to me."</p>
+<p>"Who was it that died that they spoke of?"</p>
+<p>"Ansel, poor Ansel! The boy we heard crying the first night we saw the army when we listened in the dark. Dost remember, Barbara?"</p>
+<p>"Remember, Brother? We thought the children's singing was the voice of goblins! Ha, ha! Oh, Reinhold!"</p>
+<p>"Art sorry thou art come, little sister?"</p>
+<p>" I am never sorry to be with thee," said
+Barbara the loyal. When they got back<pb n="100" />
+to the bivouac they found Theodosia packing whatever remained of the meat into the scrips for another day's need.</p>
+<figure entity="ep.nov.scrip.100a.jpg">
+<figdesc></figdesc>
+</figure>
+<p>The country through which they next passed was different in aspect from that which they had already traversed in their weary march. A succession of exquisite hills and valleys gladdened by broad and<pb n="101" />
+clear rivers delighted the eyes of even the homesick. The spirit of devotion quickened under the inspiring influence of these placid solitudes; and when at last they passed Lake Leman and camped without the walls of Geneva, the army was purged of all that was vile. Before them lay the pass of the Alps. The mountains with their eternal snows frowned upon them.</p>
+<p>These passes, for all of their perils, were much used at this period. The pilgrims to Rome, from peasant to prince, passed over them by thousands yearly; merchants used the roads for their commerce, and the soldiers of a country whose chronicles were but records of wars here passed to and from their forgotten battle&#8211;fields. There were, of course, no constructed thoroughfares, but only narrow bridle&#8211;paths picked out wherever a foothold could be had. They ran along the verge of precipices, they shot down frightful chasms and icy slides, they crept beside cataracts where the senses reeled at the sights and<pb n="102" />
+sounds, and mounted above the snow&#8211;laden clouds into the realm of everlasting winter.</p>
+<p>The prospect of these hardships was the crucible which tried the metal of the army. It had for the last few weeks become much disorganized. Ambitious enthusiasts had arisen in the ranks who aspired to authority, and each of whom collected his own faction about him. As intimacy increased among the children, personal spite and enmities were engendered; and, afflicted by disease, distressed with suffering, the army whose banners had waved so bravely over the Rhineland, moved through Switzerland a discontented and disorganized concourse. The evil element, &#8212; the city scum, the avaricious, the plunderers, the traders in vice, &#8212; now in the face of the terrors of the mountains, turned back. The fearful, the insincere, the weak, and the homesick among the Crusaders likewise deserted, and bent their steps upon the homeward road. Little wonder! They looked upon their shoeless feet and<pb n="103" />
+at the icy Alpine roads. They looked at their empty scrips, and considered the wilderness they must traverse without food. So by threes and fifties they took farewell of the banners of Nicholas, and waved an adieu to the martyrs who remained. These latter were, of course, the flower of the host. They were those whose faith was stronger than their fear, or whose traditions held them to an oath for honor's sake.</p>
+<p>Nicholas showed no chagrin when he saw his followers leave him by hundreds. He said with a dignity at once stern and gentle, "Ye are going where ye belong, &#8212; to the rear." Theodosia was not so patient. She had been filling the water&#8211;sacks preparatory for the mountain journey, when she met a large party of the deserters. Their pitable appearance might have moved her to compassion; for they were ragged, covered with dirt, sore&#8211;footed, and hungry. They had lost their inspiration. Their dream of glory was fled.<pb n="104" />
+They had outlived their ideal, and their faces bespoke the bitterness of acknowledged failure. But Thedosia's uncompromising loyalty could find no excuse for the recreants. She set down her sacks of water, and placed herself in the road before them, raising her hand with an impassioned gesture.</p>
+<p>"Halt!" she cried. "Are ye soldiers of the Cross? "</p>
+<p>They hung their heads and made no answer.</p>
+<p>"Can any here give the countersign?" </p>
+<p>"Jerusalem," cried one little girl, from force of habit.</p>
+<p>"Does it lie there?" cried Theodosia, pointing in the direction of the Rhinelands. "Dare any here raise our battle&#8211;cry, 'We march to the conquest of the Holy Land'? Oh, weak and wayward ones!" she burst forth, stretching her arms toward them in eloquent appeal, "must ye be fed on the fat of the land? Must ye sleep on down and wear fine raiment? Then go!Ye<pb n="105" />
+have your homes, the foxes of the fields their holes, the birds their nests; but the Son of Man had not where to lay his head!"</p>
+<p>Her hood had fallen back, and her dark hair streamed about her. Her eyes, flashing with excitement, darted anger upon the abashed company. "What presumption," she continued, "to think that you could save the tomb of the Saviour from demolition by the Infidel! On with you! The suffering will be ours, and the glory!"</p>
+<p>She pointed down the road with a noble scorn, and the heavy&#8211;hearted company passed by her in its slow and mournful retreat. She heard a chuckle behind her, and turning saw Gramercy sitting cross&#8211;legged under a bush.</p>
+<p>"Hey!" laughed he, "they have not lost all sense, at any rate. They are going home to their mothers and their dinner; but we &#8212; we march to the conquest of the Holy Land." He pointed mockingly to the icy mountain&#8211;passes above them, and<pb n="106" />
+with another laugh sprang to his feet and hurried off with the water&#8211;jugs.</p>
+<p>Theodosia struggled to keep back the tears that rushed to her eyes. With her, as with many another womanly heart, absolute belief in her ideal was necessary to her happiness, and anything that shook her confidence in the wisdom of the present undertaking, in which her loyal heart was engrossed, filled her with grief and chagrin.</p>
+<p>Bruno saw these tear&#8211;drops when she reached the place where the friends were encamped together, but laid them only to weariness and homesickness. Tears were too common for comment in this band of martyrs. "I have been begging," he cried gayly, to dissipate her melancholy, "and have got a treasure, mistress."</p>
+<p>"What may it be, comrade?"</p>
+<p>"Good barley meal, from as kind an old soul as ever reminded a homesick lad of his mother. Now I will build the fire, and thou shalt mix the meal with water,<pb n="107" />
+and fashion us some crisp cakes for the journey that is before us."</p>
+<p>So Bruno blew and fanned at a reluctant blaze, while Theodosia rolled the sleeves of her pilgrim garment up, and mixed the barley meal. Reinhold and Barbara sat side by side playing at a game with pebbles, which they tossed in the air and caught on the backs of their hands.</p>
+<p>" I am glad, Brother, that we did save our shoes till now. Our feet would have frozen else. There, thou hast missed!"</p>
+<p>"Few of the rest have them," said Reinhold, tossing the pebbles to his sister. "We could have done as they do. Thou must pick up two stones, Barbara! What art thou thinking of?"</p>
+<p>"I am thinking," said Barbara, making a brilliant effort to grasp four stones while the fifth was still in mid air, "that Bruno and Theodosia will have none to wear."</p>
+<p>"That they will," protested Bruno. "Gramercy carries two stout pairs of mine<pb n="108" />
+in that pack, and I shall wear one pair and Mistress Cook the other."</p>
+<p>" Nay," gently objected Theodosia, with cheeks as red as roses from standing over the fire. "That will I not, Friend Bruno. I thank thee none the less; but who am I that I should go shod, while the Lord's deliverers march in bare feet?"</p>
+<p>"Theodosia," said the young baron, in the tone of authority which now and then broke through his gentleness, " to&#8212;morrow thou wilt put on the shoes which I shall give thee, and wear my extra cloak."</p>
+<p>This was the last comfortable evening the children had for many a terrible day. The next morning Nicholas, holding aloft the cross and singing as he went, led the intrepid host into the dangers of the mountains. Few of the soldiers had been so well provided as our company of friends, and their scrips contained but little. They were clad in their summer clothing; for most of them had left home in May, June, and July, and the icy winds sweeping down<pb n="109" />
+from the glaciers blew through their scanty garments. Ah, the fearful march! Shuddering, they looked down shadowy chasms into whose icy gloom the sunlight never <figure entity="ep.nov.scrip.109a.jpg">
+<figdesc></figdesc>
+</figure>
+penetrated; now they slid down a sheet of ice, or sitting down worked along on their hands and feet. Now dizzy and fearful, they crept along a bridle&#8211;path overhanging a precipice; and many a poor<pb n="110" />
+boy or girl light&#8211;headed with hunger or illness toppled headlong down the abyss. The first night they camped in a dark forest of firs. A few built fires and crouched about them; but most of them clasped a comrade for warmth and laid on the snow. When the morning sun shone on the fields of ice above, and darted its prismatic hues upon these sleepers, how many pairs of arms there were that did not unclasp, how many frozen bloody feet that had ended their march! Disorganized, despairing, silent with horror, bent like old men with cold and suffering, these youths crept on. Visions of home tormented them as dreams of water tantalize men perishing of thirst. Recollections of the proud day at K&ouml;ln, when with exultant songs and waving banners they marched down the crowded streets, irritated their morbid sensibilities. Each day brought fresh terrors, and the pine&#8211;trees each night soughed over more unmade graves. The third day of the terrible<pb n="111" />
+march Bruno hurried to Gramercy with a white face.</p>
+<p>"Ernestine has gone mad!" he whispered.</p>
+<figure entity="ep.nov.scrip.111a.jpg">
+<figdesc></figdesc>
+</figure>
+<p>"Humph! We 're all that, Baron!"</p>
+<p>"Silence, fool! Thou wilt do well to forget thy trade, for there is no use for thy
+jests here."</p>
+<p>Gramercy saw that he had gone too far and offended his beloved master. " I am thy fool, it is true, but I am also thy friend.<pb n="112" />
+Forgive the fool for the sake of the friend. What wilt thou that I should do?" he murmured humbly.</p>
+<p>"Go stay near him! See that he harms neither himself nor others." The dwarf obeyed with an alacrity born of his hasty repentance. When he found Ernestine he was walking apart, and looking like one inspired. The children fled from him in awe and fear. His eyes were bent on an overhanging glacier that stretched its crystal beauty on the mountain beyond them.</p>
+<p>"See!" he called exultantly, "where the troops of white&#8211;robed Moslems come to kneel at the tomb! They chant the songs of the holy Crusade. They have been won by the love of the Redeemed! No swords have the conquerors, yet now the haughty infidels bow to them. Lower! lower! Ah, Lord, dost thou behold? We, the least of thy little ones, have done this thing! Forget us not in the day of thine awards! "</p>
+<p>He seemed bent in silent prayer for a few moments, and then burst again into<pb n="113" />
+a shout. "Ha! comrades, dost hear our imprisoned sires who rot in heathen prisons calling for their sons? Dost see the plains of Palestine white with the bones of the Christian dead? Dost hear the shrieks that die away in the mountain fastnesses, wrung from the tortured and the butchered? The streets of the Sacred City are hideous with trunkless heads. These were the Knights of Christendom. On, on to the rescue! There are none left but us!"</p>
+<p>Through the slow hours of the afternoon Gramercy followed close behind him, his muscles tightened ready for action should the youth attempt any violence. Twilight lingers long in the snow&#8211;capped mountains; and Gramercy, heavy with drowsiness from the fatigue and the bitter cold, could scarcely follow the dim figure with his half&#8211;closed eyes. Ernestine seldom ceased his ravings; and at length the children grew used to them, as they had grown used to many another horror. Suddenly he gave a fierce cry.</p>
+<pb n="114" />
+<p>"They are at us with their bloody swords. Shout for the Holy Land! Up the walls, into the city! Cry the sepulchre of the Most High!" He plunged forward with that proud challenge on his lips, and fell sheer down a chasm as black as night and as pitiless as the grave. But perhaps it became the light and the resurrection for this devoted spirit. The fast&#8211;dwindling concourse, though sadly familiar with death, were greatly disheartened by the loss of this intrepid and influential youth. Nicholas preached the first funeral oration of the journey. He was pale, weak, with traces of suffering in his face; but still the light of an enthusiasm akin to inspiration shone from his countenance. He stood under a blasted pine&#8211;tree, and said a few eloquent words in memory of the perished soldier, while the broken ranks stood about him and sobbed and cried. Some yielded to the bitter misery within them, and threw themselves upon the snow in a frenzy of grief. Others, terrified by the vastness of<pb n="115" />
+the world about them, with its awful heights, its eternal snows, its unpitying heaven, its merciless cataracts, knelt in passionate prayer for death. Nicholas finished, and gave a calm order to march. To Bruno's nature, which held less of God than of human sympathy, there seemed something heartless in the heroic self&#8211;poise of this young general. Each day's journey had widened and beautified the soul of the young Baron. A tenderness, natural to him but formerly kept in abeyance by a too prosperous life, developed as sweetly as rose under the southern wind. But Theodosia, who had begun to care for him with the disinterested fervor of a sister, noticed also another change. It was difficult for her to define it. His faith had deepened. He had entered the army because his fathers for centuries had been knights whose proudest boast was that they were Crusaders to the Holy Land. It was not an ignoble vanity; but even this trace of worldliness had disappeared<pb n="116" />
+from the motives which now guided him.</p>
+<p>"God will reward us," he said with a sort of fierce enthusiasm at the close of one terrible day when more victims than usual had perished on the march. "He will give us a sign; I am sure he will give us a sign."</p>
+<p>"If the sea opens," said Barbara.</p>
+<p><emph>"If!</emph>" he interrupted passionately; "it <emph>must</emph> open, it will. Will God see his little ones perish for no end? He will give us a sign, my sister." In these dark days Bruno concentrated all his natural energy on sustaining and encouraging his dejected comrades. One of his greatest charms was a sparkling and polished vivacity, the outcome of a kindly heart and an elegant life. This vivacity, chastened by the suffering which he saw, became a steady cheerfulness, which was not a mood, but a religion. When the others were silent and crept along with chattering teeth and trembling limbs, he sang. His voice &#8212; a boy's clear<pb n="117" />
+contralto, yet thrilling with the passion of opening manhood &#8212; reverberated through the mountains like a trumpet. He sang joyful hymns of triumph, often extemporized as to tune and words, but comforting as a mother's voice to the homesick ears that heard. He slid with a boyish shout down declivities at which the others shuddered. He leaped down heights which lay in the pathway, with a manly daring that aroused the mettle of his comrades.</p>
+<p>But one day as they crept along their toilsome road, Nicholas became indisposed, and two of the boys carried him; so Bruno was delegated to take the white cross and walk at the head of the army. With Barbara's hand clasped tight in his, he marched sturdily on, singing a hymn which they all knew; and Barbara's silvery little voice joined his now and then in a word which she could remember. Even these worn ones smiled at her funny snatches of song. Suddenly the two voices came to a stop. The silence was ominous. The line was<pb n="118" />
+just going around a curve in the mountain path. Bruno and Barbara were ahead. The foremost ran forward. There in the path which narrowed the curve till it was barely wide enough for a man to pass, sat a huge bear. Its forefeet were planted firmly. It rolled its bloodshot eyes with hungry ferocity, and showed its white teeth. In front the bear; on the right a precipice; on the left a precipitous incline of frozen snow. Barbara and Bruno stood fascinated.</p>
+</div1>
+<pb n="119" />
+
+<div1 type="">
+<head>CHAPTER VI.</head>
+
+<p>AMONG the first who beheld the peril in which Bruno and Barbara stood was Ludwig.</p>
+<p>"Stand still!" he commanded Bruno in a penetrating voice. "Don't move or you are lost!"</p>
+<p>Then with what agility fear could bring to his weak limbs he ran back, shouting for half&#8211;a&#8211;dozen fellows to follow him. He led the lads who obeyed him back for a hundred rods, to where a sort of natural path climbed up the rocky side of the mountain. They scrambled up as well as they could for the slipperiness, and reached at last a perpendicular descent where the path between the boulders terminated. Ludwig pointed silently below. There sat the bear still. The action of the other children in retreating<pb n="120" />
+had distracted his attention, and kept him from making an attack upon Barbara and Bruno, who still stood spellbound in the narrow path. Now, however, a low inward growl betokened his impatience at a delayed meal. Bruno and the little girl stood stanchly side by side, &#8212; she with one hand in his and the other resting against the rocky wall, her sweet blue eyes bent unwinkingly on the terrible beast; he, determined, fierce even, his legs firmly placed, and his head bent a little forward. There was not a second to be lost, as Ludwig and his companions realized. Plenty of boulders lay about, but they were so large that they could not be moved. Ludwig gritted his teeth in despair when he saw one wedged in between two others, but at least three feet from the snowy ground. The united efforts of the boys at last dislodged it, and it fell forward striking another stone and bounding over the edge of the precipice. If more strength had propelled it, it would<pb n="121" />
+have fallen clear of the path below; but its momentum was only sufficient to cause it to drop plumb downward, and, with the best of luck, it landed squarely upon the form of the bear, crushing it flat, and then bounded off into the space below. The bear lay dead without a groan. The stone had crushed the creature's shoulders and head to a bloody mass. When Bruno saw the brute was dead, he ceased to be intrepid and began trembling. He put his hand to his head, and crept back along the narrow path till he was on safer ground. Then he turned sick, and lay white and panting, with no strength to thank Ludwig except by tearful smiles. This was at the spot where Ludwig had taken the road up among the boulders. The path was wide there, and dozens crowded about to look at Bruno, to praise Ludwig, and to peer at the body of the dead bear. A great portion of the army had witnessed the whole adventure, for the path they were trav<pb n="122" />ersing was serpentine, and hundreds had stood spellbound on the other side of the chasm. As for Barbara, she had found Reinhold, and was telling him everything she thought and felt and feared and hoped in those dread moments.</p>
+<p>The ravenous children had already dragged Bruin back to a convenient spot, and were skinning him. They saved the skin whole, with the head attached, and gave it to Nicholas for a covering. The beast had seemed a huge one when it sat showing its ferocious teeth at Bruno; but now it was all, all too small. It was roasted in pieces, and distributed as well as might be; still many had only the bitterness of hunger for their portion. The march was resumed. The air grew more and more rarified; every breath they drew was painful to the lungs. A terrible snowstorm set in upon them, and the evening fell like a pall. It was no fall of dancing flakes, this storm, but a pelting of handfuls heavy with moisture.<pb n="123" />
+To march was impossible. They were so blinded that they could not see the ground at their feet. They crept together in speechless endurance, and waited and prayed. Gramercy laid Barbara against the reclining warm body of the donkey for heat; Reinhold cowered under Bruno's cloak; and Theodosia and Gramercy sat side by side while the snow fell from the hidden sky and heaped itself upon them. From time to time they took stinted draughts of the wine of which a supply was still left. They were not cold, but a frightful drowsiness hung over them, which they bent all their efforts on subduing. Twice or thrice the voice of Nicholas pierced through the air, saying,&#8212;</p>
+<p>"Have faith; the Lord will deliver!"</p>
+<p>"What is that?" cried Bruno, suddenly. From the heaven above them rose a concourse of solemn voices chanting. It was sweet, yet stern, &#8212; such a song as the angels might sing. Their blood ran cold.</p>
+<pb n="124" />
+<p>"It is heavenly voices calling us," spoke Theodosia.</p>
+<p>"Doubtless we're dead already," suggested Gramercy. "I hope we are, an here's an end to't."</p>
+<p>"The devil may get you an you say such things!" said Reinhold, timidly.</p>
+<p>"Yes," added Barbara, in a terrified whisper, "he does get folk."</p>
+<p>Bruno stood up and shook the billows of snow from him. "I shall go mad!" he cried wildly. "Is it the sign from heaven that I have looked for? Or does this come from the throats of living men?" He listened in silence for a moment to the swelling harmony, then cried, "By the Holy Sepulchre, I can do no less!" and broke into a stirring song of the Crusade.</p>
+<p>The awed host joined him. The atmosphere of daily expectation of miracles in which they lived made supernatural things familiar. So, after the first shock of terrified surprise had passed, an exult<pb n="125" />ant enthusiasm possessed them which triumphed over fear and distress. They joined Bruno's song. It was as if a bird beaten by a tornado had found a voice. In the silence that followed the song there arose again the answering chant. Then the voice of Nicholas was heard.</p>
+<p>"Sing!" he commanded; "these are Latin hymns we hear. I think they are the voices of true men and monks. Sing, if you would be saved." How heartily, how hopefully, and joyously they sang now! No longer with the solemn accent of consecrated martyrs, but with the wholesome energy of children. Half an hour passed. The storm was abating somewhat. Still led by Bruno's unfaltering voice, they sang song after song. Then they were interrupted by an unearthly cry from Gramercy,&#8212;</p>
+<p>"Look! &#8212; look yonder toward the east! There be men with torches, or the devil with breath of fire, an' I care not which. I'd be on good terms with anybody to&#8211;night."</p>
+<pb n="126" />
+<p>Through the mist of the lessening storm there shone a dozen dim lights. The shout which the children set up now was as wild and uncontrolled as any escaping band of school&#8211;boys ever uttered. The children were encamped upon a plateau, and the lights were approaching from the narrow end of this small space. They hurried in that direction. An answering shout from unmistakable human voices came to them. Nicholas was borne forward to meet them.</p>
+<p>"What art thou?" he asked when the first light approached within hailing distance.</p>
+<p>"Monks from the Hospice of Mt. Cenis," they returned, "which for four hundred years has opened its gates to all who knocked in the name of the Lord."</p>
+<p>"Open then to us," returned Nicholas, "for we are his Army of Innocents, and we march to deliver his tomb from the infidels."</p>
+<pb n="127" />
+<p>"How many be you?" the monks inquired.</p>
+<p>"We were twenty thousand when we left the Rhine, holy fathers; we are barely seven thousand now."</p>
+<p>"What we can we will do. Give the order to march. Part of us will stay behind to see if any lie in the drifts."</p>
+<p>"Let us offer thanks first," said Nicholas.</p>
+<p>"Nay, nay," returned the monks, " get some food into your stomachs and shelter over your heads, and then there will be time enough for thanks. The Lord is in no haste. He will wait."</p>
+<p>"By the Cross!" whispered Gramercy to Bruno, "these be sensible fellows. They make no coil about the Lord."</p>
+<p>"Hush!" said his master, sternly; "thou art a fool, but even a fool should know gratitude."</p>
+<p>Gramercy made no answer, but picked up Barbara in his arms, helped the struggling donkey to his feet, and dragged his short legs through the drifts with heroic<pb n="128" />
+determination. The news spread even in the darkness, and gradually the whole army was informed of the adventure and the rescue. Great was the rejoicing; and those on the plateau pressed eagerly forward in the wake of Nicholas and the friendly lights. This was the bulk of the Crusaders; but there were hundreds who had been unable to gain foothold on the safe and level ground, and who were encamped upon the narrow and precarious footways which the others had lately traversed. These crouched in drowsiness and misery close to the sheer walls which shot upward into the darkness at their backs, and others were farther still in the rear out of sight and hearing of the main body. The kindly monks, however, persevered in attracting their attention until all that were able arose and followed the lead of Nicholas. All that were able! for they came upon more than one group in the snow who had succumbed to the privation of the situation, and whose souls had flown ere earthly aid had come to their bodies.</p>
+<pb n="129" />
+<figure entity="ep.nov.scrip.136a.jpg">
+<figdesc></figdesc>
+</figure>
+<p>A toiling half&#8211;hour's walk brought the army to the gates of the monastery. It was a dark and forbidding place at best, but the children thought they had never seen such a heavenly edifice. They filed in straggling groups, weeping for joy through the huge gates which two astonished monks held open for them. The wide corridors of the hospice, the vast refectory, the many cells, the chapel, the courts, and the very cellars were thrown open to the host of children. All of them found a shelter either in the huge building or some of the outhouses. They were fed from the supplies of the monastery which were, even at that day, almost inexhaustible. They ate as they had not eaten before in all the weary months since they had left home. When the tired children had dropped in squads upon the bare floors and fallen asleep, the fathers asked Nicholas whither he and his followers journeyed.</p>
+<p>"To Jerusalem," he replied. The monks<pb n="131" />
+looked at each other in amused surprise. They had heard remotely of the new Crusade, but did not suppose their guests were on a greater journey than a pilgrimage to Rome. Nicholas briefly recited the story of Stephen of Cloyes, and his own heavenly inspiration. Bruno and Ludwig told of the terrible march up the Rhine and across the Alps; and Nicholas in turn told of their intention to reach Genoa and from thence cross the sea. The monks smiled; and an aged father said,&#8212;</p>
+<p>"I do commend thy faith, noble youth; but I have sailed the sea and I have seen Jerusalem, and I fear that what ye go to battle for will not be won by anything less than good broadswords and trusty lances. While I cannot but praise thy courage, I must deplore the sacrifices ye have made and will make."</p>
+<p>Nicholas did not reply to this, and a deeper shade of thought settled upon the faces of the listening boys. The monks accompanied Nicholas and his lieutenants<pb n="132" />
+over the entire establishment, seeing that the sleepers were made comfortable, and showing the workings of the institution. So interested in Nicholas was Father Clement, the aged monk, that he kept them up far into the night, telling them stories of the last Crusade. He had gone with the army, and had passed through all the desperate campaign. He told, too, of the Greek revolt, the disastrous siege of Adrianople, the defeat, capture, and lamentable death of Baldwin at the hands of the fierce Bulgarian king. He spoke of the terrors of the sea, and the wonders of far&#8211;off Palestine and Egypt, where such horrible famine had existed. He told them of the founding of the monastery, and of the many pilgrims who had lingered within its walls. He related how Henry IV., going to Canossa to beg the Pope's forgiveness, had traversed the icy passes clad in a rough woollen garb and wearing no shoes upon his feet; while his wife and babe, similarly dressed, had followed him.</p>
+<pb n="133" />
+<p>The next morning Bruno and Reinhold were among the first stirring. They found Nicholas in the hands of two young monks, raging with fever. The monks made a decoction of herbs and gave him to drink, and he was much relieved, but very weak and pale. A heavy cold had settled on his lungs, his frame was much emaciated, his appetite gone, his eyes dull and glassy. By a supreme effort he gathered his energies, arose, and gave the order to march. The weary soldiers awoke, stretched, and got upon their feet. The monks protested against the early start; but Nicholas was firm, and after each child had been given a small quantity of food, Nicholas took his staff and led the way out of the convent. The children left the hospitable walls with some regret, but they were inexpressibly refreshed and encouraged. A couple of the fathers accompanied the army for a mile or two on the journey, giving Nicholas explicit directions and much valuable advice about the mountains his army would<pb n="134" />
+have to pass through and also the country beyond. At last even they were obliged to turn back and bid the Innocents fare&#8211;well. They stood on a small elevation and waved their good&#8211;by till the last of the Crusaders disappeared in an Alpine gorge. Nicholas found the directions of infinite service to him, for by the landmarks they had given him he was enabled to save both time and trouble. Had he not had them, he would certainly have missed the pass for which he searched, and taken a way which would have led him into the very heart of the mountains and hidden him forever from the world.</p>
+<p>Three days of careful travelling brought the army to the foot&#8211;hills, and on the morning of the fourth day they debouched into a fertile plain and left the Alps behind them. The air here was balmy and pleasant to the chilled and suffering soldiers. and gladness suffused the hearts of all. A luxuriance of beauty of which these children of the North had never dreamed<pb n="135" />
+blossomed before them. Silver rivers wound through the pleasant Piedmont fields, past villages and vineyards. The radiant sky looked upon groves of trees whose graceful foliage was new to them. Everywhere was plenty and cultivation and beauty. Enchanted they hurried on, with the feeling that their dangers were past, and that only triumph and joy were in store for them now.</p>
+<p>"Now," they said, "we are surely among friends. No more privations. We are in the land of the Church which sanctions such movements as ours."</p>
+<p>Misguided children! The country through which they passed was dependent upon the Duke of Savoy, one of Germany's bitterest foes. The constant wars between the German and Italian factions of the empire had filled the Italians with a passionate hatred for the intrepid and cold&#8211;blooded warriors of the North; and upon these defenceless children they heaped, with the inhumanity of the age, every form<pb n="136" />
+of cruelty and deception. The army found bridges guarded so that streams had to be forded; and towns closed against them where they expected a helping hand. Savage bodies of men descended upon them, and abducted them by the score, to serve as slaves to the nobles of the country. Even the peasants scoffed at them, and preyed upon them when they could.</p>
+<p>Nicholas had grown very weak, and was unable now to sit up. A rude litter was constructed, and in it he was carried upon the back of Drumbo, who was placed at his service by Bruno. The country afforded the army some little sustenance, though this was not procured without considerable trouble and risk. But the climate was warm, and even the barbarity of the Italians was not so hard to bear as that of the Alpine passes. The army now marched in tolerable order again. Once more the words of Nicholas were listened to and revered, and with hopeful hearts they crossed the pleasant plains. Then came <pb n="137" />another obstacle, for a precipitous mountain range again barred the way. The hearts of some quaked as they thought of the dangers they had passed through, but they plucked up courage when they beheld Nicholas supported by two attendants, again on foot and painfully but determinedly picking his way up the rough road. Those who were near the leader observed his movements with alarm; for he was very ill, and it was plain that he was keeping up entirely upon the excitement of the situation. His face was pale and bloodless, his nose pinched, with long, narrow nostrils, his eyes sunken, and his jaw firmly set. This mountain journey was but a holiday jaunt compared with that across the Alps; and suddenly, when they least expected it, they turned a sharp bend in the road, and Genoa, with its amphitheatre of hills, its smiling bay, and its glittering palaces, lay before them. The setting sun threw a warm glory upon the towers and steeples of the stately city. <pb n="138" />They camped for the night upon the hills, turning their faces lovingly toward the sea which was to roll apart and make way for their devoted steps. Eyes long used to tears shone with happiness that night. Heart and limbs were filled with a new strength. They ate their evening meal, chanted the hymn before rest, and with thankful and proud hearts lay down to sleep beneath the bland sky. They slept lightly, for the excitement which accelerated their pulses made them restless, and the cry which broke upon the air at midnight roused the multitude to wakefulness. That shout was no watch&#8211;cry of the sentinels. It was a cry of keenest agony. It was taken up and repeated over the camp with growing horror; and the burden of it was,&#8212; </p>
+<p>"Nicholas is dead!"</p>
+</div1>
+
+<pb n="139" />
+<div1 type="">
+<head>CHAPTER VII.</head>
+
+<p>LIKE a second Moses in sight of the promised land died Nicholas, the leader of another army of the Lord. Naturally frail and now much reduced from sickness, the excitement of the day and the expectations which the morrow held, had proved too much for his weak nerves. He had fallen asleep, but started up suddenly with a cry of distress, and when they reached him he was quite dead, with his hands clasped over his heart. It was a sad army that camped upon the hills above Genoa that night. When the morning broke they buried him with many tears beside a beautiful stream which sped on to the sea, as Nicholas's impatient feet would have done had it been in their power. It was Bruno who averted the disorganization which threatened the band.<pb n="140" />
+He represented to the children, with all the eloquence of which he was master, that their loyalty to their dead leader could best be proved by carrying out his designs. He formed them in orderly array, choosing a lieutenant for every hundred, and then, nothing doubting that they should be received with honor within the walls of Genoa, marched with songs and waving banners to the gates of that proud city.</p>
+<p>Here, after a march of seven hundred miles, stood all that remained &#8212; less than seven thousand &#8212; of the twenty thousand children that had gayly marched from the city of K&ouml;ln. They were the flower of the Rhinelands. The vicious had deserted them when their trials began. Those who had joined them to escape paternal rule, the wavering, the vain, and the insincere had returned to their homes or found new homes in some of the many cities through which they had passed. Every ravine, every vale and hill, every forest and wide <pb n="141" />
+meadow marked the graves of those who had died upon the way; and strewn along the mountain passes lay the unburied dead. It was a tragic instance of the survival of the fittest. So, inspired by as profound a hope as ever swelled human breast, flushed with enthusiasm, inured to hardship, yet chastened and subdued by sorrow, the Army of the Innocents waited before the city, petitioning for admittance.</p>
+<p>Their clothes hung in tatters about them, their shoes were worn from their feet, their hair was unkempt, and their faces tanned; but the determination of spirit and the robustness of frame which had sustained them so indomitably through their trials marked them with a picturesque strength and fearlessness. Genoa was at the zenith of her power. The ships which rode upon her exquisite bay found harbor in every clime of the then civilized world. Her streets were lined with palaces, and the luxurious life of her citizens showed in countless evidences of prosperity and forms of
+display. The city was then an independent republic, owning a territory which extended far into the interior, and colonies from which she drew her supplies and soldiery. Before the august body of senators which governed this arrogant city, came the petition of the little army, begging to be allowed to remain within the walls but one night, and informing the amazed senate of the mission of the waiters without the gates. They assured them proudly that Genoa was the city chosen for the Lord's great miracle, and that on the morrow they should behold the sea part to make way for the triumphant Crusaders; and the senate was warned not to forbid the request of those chosen and protected by the Most High. In mingled amazement and commiseration permission was granted them to remain within the city six or seven days, when, the senators reasoned, the infatuated youths would realize the futility of their expectations and return to their homes.</p>
+<pb n="143" />
+<p>With exultant songs the children defiled through the stately streets. Bruno, bearing aloft the cross of Nicholas, led the ranks with a high&#8211;bred dignity. Behind him <figure entity="ep.nov.scrip.143a.jpg">
+<figdesc></figdesc>
+</figure>
+rode Barbara, a vision of innocence and beauty, with her floating flaxen hair and mild blue eyes ; and beside her walked Gramercy. On Reinhold had fallen a great honor, &#8212; that of bearing the first<pb n="144" />
+colors. It was a silken banner bearing on a red ground the symbolical letters I. H. S. The pole was held to his body with a leash to keep it in balance; and though he sometimes staggered under the weight of it, he walked with the pride of a general who leads his hosts into a surrendering town. Next marched the divisions led by their lieutenants; and the first of these was the maiden Theodosia. Oblivious to the splendor about her, with hands crossed on breast, eyes bent in devout concentration upon the ground, and a face serene with steadfast faith, she marched on, keeping unconscious time to the rhythm of the songs. Very different was the leader of the second division! It was Ludwig, with eyes aflame with excitement, hardly able to restrain the overflow of animal spirits within him. Here was a city to live in! What palaces, what a sky, what a bay! At that he remembered the miracle to be performed on the morrow, and prattled a hasty prayer for pardon <pb n="145" />
+for his wandering thoughts, and strode on merrily.</p>
+<p>The people of the city had never been so diverted. They converted the day into a festa, and gave themselves up to this new entertainment. The practical merchants wagged their heads facetiously.</p>
+<p>"These youths recover the Holy Sepulchre? They must be a company of mad&#8211;folk!"</p>
+<p>The gay Italian women laughed and gesticulated merrily as the army passed; but some of the mothers sighed, remembering other mothers in the far Rhinelands who were bereft of their daughters and their sons. "How silly it was!" thought the children of Genoa. "To expect the sea to open! Well, what next? "But when all was said, the youths envied them a little for the dangers they had passed, and the maidens pitied them, &#8212; such a fate; and they were brave, comely youths, though they <hi rend="italic">were</hi> Germans. For the Genoese detested the Germans and feared them.<pb n="146" />
+Otho, the late German emperor, had long been at war with the Pope, and the Genoese in these troubles sided with the Guelph or Papal party; and the frightful wars of Barbarossa still lingered in the minds of the people, and aided their distrust of Germany. The successful prowess of that nation had crushed Milan, and Genoa constantly feared that she might share her fate. So, on the very day that the senate granted them permission to enter the gates, some of the more discreet senators. decided that such action might offend the Pope, and concluded to rescind their decision. Besides, who could tell what such a host of wild German youths might do if turned loose in the city! Then, too, Genoa was always poorly provided with food, and this was indeed a brave number of guests to feed. However they consented to allow them to be fed and housed for the night in the homes of the citizens, and defer their departure until the morning; and they added an<pb n="147" />
+invitation to those who wished to remain and become citizens of the city to do so. For the enervated and nervous Southerners saw the value of the stanch German phlegm which had carried these blue&#8211;eyed Northerners through such hardships; and they felt that the city would be greatly benefited by the introduction of it into their luxurious and indolent society.</p>
+<p>The Crusaders received this message with scorn and amusement. Of what were the senators talking? They could stay one night? Well, that was all they wanted. On the morrow, when the sea rolled thundering back and the victorious pilgrims rushed through to Palestine, they would show these unbelieving foreigners! But for the night they were being treated royally. The Genoese listened to the extravagant stories of their mission with pitying smiles. They heard it from the lips of the senators, to whom, of course, it had been conveyed through the medium of Latin; but with graceful hospitality every door of the city <pb n="148" />
+was thrown open to these travel&#8211;stained children, and that night they slept in palaces.</p>
+<p>For Bruno there was no rest. He paced to and fro in the luxurious room which had. been allotted to him as the leader of the expedition, and gave his mind up to perturbed thoughts. What if it were all a delusion, &#8212; a presumptuous, boyish escapade with which the Lord had naught to do! Then he reproached himself for lack of faith, and prayed passionately for forgiveness. At the back of the apartment ran a balcony which looked upon the bay. From this Bruno gazed upon the sea, which he saw for the first time, and which held the destiny of so many beneath its calm bosom. There was a gentle swell on it, and the wind brought to his ears the melancholy swash of the waves. The smell of the salt sea air, and the odor of sandal&#8211;wood from the merchant&#8211;ships at anchor there, came to him. For the first time he shuddered at the responsibility he<pb n="149" />
+had assumed in taking the place of Nicholas. In the dead leader had been the natural instincts of a commander, which, added to his fanatical and undeviating belief in the sanctity of his mission, made him seem inspired to his followers. But Bruno realized that he himself would make but a weak substitute. To begin with, he was too sensitive to defeat. If on the morrow he led his forces down to that sounding beach in sight of all the city and those waves failed to obey his words, he felt the shame would be almost past endurance. In such a case it might even be best to die. Then he blushed for these unmanly and unchristian thoughts, until the golden dawn broke, and the shouts of the boys were heard upon the streets. He could eat nothing, but drained a glass of wine which the host pressed upon him, dashed some water from the fountain upon his face, and with an inward cry for help went into the crowded streets. Early as it was, down each side was a gay stream <pb n="150" />of the Genoese, laughing, jesting, full of graceful courtesies and elaborate salutations. Dividing them were the gray ranks of the Crusaders. When Bruno appeared, they became silent and waited for his commands. In a short time he had the divisions formed.</p>
+<p>"The day of rejoicing is at hand," said Theodosia, the first lieutenant. Reinhold, with his curls freshly combed and his eyes shining, carried the unfurled colors.</p>
+<p>"We 'll soon be in Jerusalem now?" he inquired.</p>
+<p>"If 't is the will of God," said Bruno. Barbara was elate and full of glee, but Gramercy wore a very scornful visage.</p>
+<p>"We'll eat fish till we're as dry as a well in midsummer, and then just walk to the wall on either side and take a drink, no doubt," he said to Ludwig. "I hope the sea&#8211;serpents will stay at home, and not come out to see what the coil is about." But for once the merry Ludwig was not merry, and his tongue had no retort.</p>
+<p>A hush of expectancy pervaded the ranks. Even the jaunty Genoese felt it. Some of them began half to believe. On the sea rode a thousand galleys of war and innumerable pleasure&#8211;boats, and great merchant&#8211;men frescoed the perspective with their masts. The diamond&#8211;like spray dashed on the beach, which gleamed yellow in the morning sun. On the sky and on the water were soft tints of blue and silver and pink. The caressing air of the Italian morning stroked their cheeks like velvet palms. None of the songs that had cheered them for seven hundred miles enlivened their slow march now. Once Reinhold asked, &#8212;</p>
+<p>"Shall I not sing 'O watcher at the gates of the morning'?" but Bruno sternly shook his head.</p>
+<p>"Halt!" he commanded at last. From the sea to the city stretched the crowd. Along the uttermost edge of the beach stood the children, and their devotion lent a dignity to them in their rags that did <pb n="152" />
+<figure entity="ep.nov.scrip.152a.jpg">
+<figdesc></figdesc>
+</figure><pb n="153" />
+not belong to the brilliantly costumed Italians. Bruno's face was pale and set. He lifted his cross high in the air.
+"Sea," he cried, "in the name of the Most High, I, the leader of the Crusade of the Innocents, command you to part and make clear the way to the Holy Land, that we may redeem the sacred sepulchre!"</p>
+<p>The vast crowd scarcely breathed. The mellow break of the waves alone replied. The moments passed. Terror or chagrin began to take the place of confidence on the faces of the children. At length Bruno spoke.</p>
+<p>"Kneel and pray!" he said. They knelt upon the sand so close to the sea that now and then an advancing wave broke over them. Bruno's prayer was short and passionate. When he had finished he stood looking out on the sea immovable for what seemed to him an age. The Genoese began to jeer and hoot. Bruno turned on them fiercely as if to resent their cruelty, but suddenly collapsed <pb n="154" />
+and sank upon the sand weeping and hiding his face in the agony of disappointment.</p>
+<p>A low bewildered murmur ran through the ranks of the little Crusaders. Gramercy was furious. He leaped upon one of the stones which stood by the shore and a little way from the quay, and poured forth a torrent of boisterous vituperation. He wagged his frightful head from side to side, and his cheeks seemed bursting with the indignant blood that rushed to them. His clothes hung about him in tatters, and through the rents showed his uncouth arms and legs. He was at once hideous and mirth&#8211;inspiring.</p>
+<p>"Fools and madmen!" he suddenly burst out. "Behold the end of this fantastic escapade! Had ye not better stayed at home? Didst think I was the only fool among ye? I 've often seen a fool in a company of sane men; but, by my faith, I 'm the only sane man in this company of fools! See to what ye have brought him!" and he pointed with quivering<pb n="155" />
+finger to Bruno. " With your silly lies ye have brought him to this shame. None of his house ever bowed head in the dust before."</p>
+<p>At every word he uttered, the Italians, not understanding his speech and knowing only that he was a fool, laughed louder and louder. This wrought Gramercy into a frenzy. He tore at his long, unkempt hair.</p>
+<p>"Some one strangle those gibing monkeys!" he yelled, and showed his discolored fangs at them to the uncontrolled amusement of the crowd.</p>
+<p>"Excellent! excellent!" they cried. "Lanciotto, the Doge's jester, is a funeral mourner compared with this droll rogue. Stop him, ere we die of laughter."</p>
+<p>Barbara slipped from the donkey, ran to Gramercy, and seized him by the hand. "Dear Gramercy," she said, "I'm sorry for thee. Has some one ill&#8211;treated thee? <emph>I</emph> love thee, Gramercy." A wave of inexpressible pity for the deluded children swept over Gramercy's soul.</p>
+<pb n="156" />
+<p>"Have we neither man nor God on our side?" he groaned. Then he went to where his master lay, and lifted him up. The tongues of the children were loosed now.</p>
+<p>"If Nicholas had lived it would have been different," said some. "This young baron could not have been one of the chosen."</p>
+<p>To some the bitterness of the disappointment seemed almost unendurable. They cried out, as did the sailors of old, that there must be a sinful one among them upon whom the wrath of God was visited. But to others there came a reaction. They had come from poverty and hunger, a country oppressed by tyranny, and a climate cold and uncongenial. The religion which had been the only education of their lives, suddenly seemed to revolt them with its stern asceticism. They thought shudderingly of the dangers to be encountered in regaining their homes. Here in this caressing climate, this sump<pb n="157" />tuous city, why should they not stay? The madness of their scheme which had led them on for so many weary weeks burst upon them overwhelmingly. Then who could tell what punishment might not await them if they should return defeated from an enterprise upon which the king had set his ban and their parents their prohibition. Those who thus easily solved the problem went back to the city and secreted themselves, to escape the reproaches of the comrades more faithful to their vows, and remained hidden for the night; but the greater number wandered aimlessly about the sea-shore in great dejection.</p>
+<p>Theodosia sought out Bruno. </p>
+<p>"Brother," she said, "dost thou lead the army no more? "</p>
+<p>"No more," he replied sadly. "I shall return to the Rhinelands and take with me such of my comrades as will go."</p>
+<p>"Recreant!" she cried; "then yield me thy cross!" She seized the cross of<pb n="158" />
+Nicholas from his hands, and raising her clear contralto voice above the soft swell of the waves, shouted, "I lead you on, &#8212; I, Theodosia of K&ouml;ln. All who are still faithful to their vows, follow me! In two hours we march. Let the lieutenants cry it through the city. To Rome! On to Rome!"</p>
+<p>Two hours afterward Theodosia led the last remnant of the Crusade out of the brilliant city on the way to Rome. More than three thousand followed her. Her eyes were no longer downcast, her step no longer faltering; but she walked like the leader who guides his men to certain victory. Barbara and Reinhold wept sorely; but they had not the courage to follow her, for a homesickness as bitter as death had seized upon their hearts.</p>
+<p>"There 'll not be one of those young fools left to tell the story," quoth Gramercy; "and if any of them live to reach the Pope, he 'll make an end of them anyway. They say he dines on heretics' livers,<pb n="159" />
+and I've not a doubt he'd as lief eat naughty little girls and boys;" and he made a face at a group of Italian ragamuffins that made them fly from him shrieking with terror.</p>
+<p>Bruno touched him on the shoulder. "Gramercy," he said in a dejected voice, "I go to search for a friend, a rich noble who dwells in this city. Keep thou a watch over the little ones!" and he pointed to Barbara and Reinhold.</p>
+<p>"Oh, I'll watch them," returned Gramercy; "but to try to keep these innocents in your grasp is like clutching water. By the Pope himself, if there 's not Drumbo marching after the army!" and sure enough the complacent donkey was jogging along with a gentle swing on his way toward the Eternal City.</p>
+<p>Bruno, wrapped in his own melancholy thoughts, neither saw nor heard, but walked hastily toward the town ; and Gramercy set off with such strides as he might after the devout donkey.</p>
+<pb n="160" />
+<p>So the crowd tossed Barbara and Reinhold here and there as bits of bark upon the waves, and somehow they found themselves separated from every one they knew; and while they wandered the streets in search of Bruno the brilliant summer afternoon passed, and the windows of the mighty stone palaces gleamed red with the sunset, and the heavy dew of the southern twilight began to fall.</p>
+<p>"Barbara," sobbed Reinhold, "we must run from the city as fast as we can, for if we are found here to&#8211;morrow morning we shall have to stay here all our lives."</p>
+<p>And the two little things ran as fast as their blistered feet would let them through the narrow and devious streets and out beyond the walls of the city.</p>
+<p>"If we 're caught we 'll be sold for slaves," said Reinhold; "that's what all these cruel people do with German children, and then we'd be whipped to death, maybe."</p>
+<p>"I don't care," said Barbara, desper<pb n="161" />ately; "I think I 'd like to be whipped to death."</p>
+<p>"Sh!" whispered Reinhold, "who 's this?" It was an old woman carrying a <figure entity="ep.nov.scrip.161a.jpg">
+<figdesc></figdesc>
+</figure>
+basket on her head. When she saw the children crouching by the wall, she placed the basket on the road and took out a luscious melon, and tossed it to them with a queer chuckle and some words which<pb n="162" />
+they could not understand. When she had gone away a few steps, she came back and drew a piece of dark bread from her pocket and added it to her gift with another chuckle.</p>
+<p>"Oh, thank you, thank you!" cried the children; and they watched her with cheerful eyes as she waddled down the road toward the sweet&#8211;smelling country. Their shoes had long since been worn out, and the stone pavements of the street and the hot sea sands had burned their feet fearfully. They found a little pool of rain&#8211;water, and sat and dabbled their toes in it while they wept and talked of their mother, and the bed of straw in the little milk&#8211;shed, and their playground under the lindens, until it seemed as if they would die of longing. They knew not the way home; the army had left them; they were afraid to stay in that strange city, where no one understood what they said. Ludwig and Bruno and Gramercy had all forgotten them, and neither in heaven nor on earth could these<pb n="163" />
+broken&#8211;hearted little ones find a ray of hope. At last they fell asleep, arm in arm, with their heads pillowed on a grassy hillock. And the gleaming stars of the Mediterranean shone on these poor babes seven hundred weary miles from the arms of their mother.</p>
+</div1>
+<pb n="164" />
+
+<div1 type="">
+<head>CHAPTER VIII.</head>
+
+<p>BRUNO'S soul was in revolt. He felt it intolerable that such frightful sufferings had been incurred to no end, yet he had sense enough to see that the ill&#8211;fated Crusaders had brought the trouble on themselves, and had no right to reproach Heaven for not listening to prayers which it would have been unwise to grant. He put all of his mad dreams behind him, and bent his energies toward extricating himself and his little friends from the trouble in which their misdirected enthusiasm had involved them. He knew that his name &#8212; one of the most princely of which Germany boasted &#8212; would be sufficient guarranty to procure him means for easy return; and he carried in his scrip a letter which his mother had written to a distinguished noble of Genoa who had<pb n="165" />
+been a friend of the dead baron, his father, and who had visited at that frowning castle upon the Rhine, whose lichen-covered towers Bruno's heart now ached for.</p>
+<p>He received a courteous reception from the noble, who concealed any surprise he might have felt at seeing the wealthy young baron at his door in rags. Besides, the Italians love romance, and he doubtless found the youth a very great diversion; for a picturesque sight was Bruno, with his stately carriage, his proud head, with its flowing golden brown curls, his flashing eyes, and his stained and torn palmer's dress.</p>
+<p>"Thou hast come at the best of times," said the lord; "for I go with a large party not two days from now to pay knightly allegiance to the young King Frederick, and to share in the festivities of his coronation. Thou and what friends thou wilt shall have safe convoy with us. In the mean time stay thou here. I count myself honored thus to repay the hospitality of<pb n="166" />
+thy father's house. Wilt rid thee of this palmer's robe now?"</p>
+<p>"I should blush to wear it longer," said Bruno; "for if I have proved faithless to a good cause, then were it a shame and disgrace, and if I have been but a madman, then the sooner I clothe me in garments that sane men wear the better. But I must not part from two little comrades who are now with a certain foolish trusty servant of mine who has followed me all this weary road."</p>
+<p>"I am not the man," returned the noble, with the elaborate courtesy of the South, "to tempt thee to break with a comrade. Bring thou them here. We will show them how the Genoese live." He waved his hands proudly toward the luxurious rooms that lay beyond in perfumed shade.</p>
+<p>With many thanks and a promise to return as quickly as possible, Bruno withdrew. He had not traversed a mile of the dirty streets before he met Gramercy gesticulating wildly and hurling a torrent of<pb n="167" />
+excited German at a group of amazed Italians.</p>
+<p>When the dwarf saw Bruno he leaped at him like a huge dog, and held him almost by the throat, while he poured forth the tale of how he had lost Reinhold and Barbara, heaping every objectionable epithet upon himself, and pounding the side of his head with one huge hand as he talked.</p>
+<p>Bruno calmed him as best he could, and together they searched the city through the long afternoon and until it became so dark that they could no longer distinguish faces. Then Bruno took Gramercy with him to the house of the noble. That night he ate a delicious supper of fruits and meats and wine. The bathroom in which he refreshed himself was gorgeous with different&#8211;colored marbles. He slept between sheets of finest linen, and the walls about him were beautiful with tapestry; but he was more miserable than any night when he had pillowed his head upon his<pb n="168" />
+arm under the dark firs of the ice-bound Alps. The morning had barely flushed the east when he was up. Beside his bed lay an elegant costume of dark red cloth with linen underwaist and yellow shoes, and the graceful small&#8211;sword which all gentlemen carried. When he had put it on and tied the last silken lace, his courage and his hope returned, He felt strong and young and glad again. But with the renewed pride in his position came a hundred beautiful dreams of all he would do for those whose fate had been given into his keeping. Hundreds of vassals were his, back there in the quiet vine&#8211;clad hills of the Rhine. For generation after generation their state had been abject, till it had grown to seem almost right and proper that it should be so. But in the light of all the goodness that had come into Bruno's heart since he left his home, he saw what power lay in him to bless and benefit.</p>
+<p>So a right royal young gentleman he<pb n="169" />
+looked as he hurried down the luxurious streets of that ancient city, seeking everywhere and inquiring in broken Italian for his little friends. The gates of the city were already opened, and swarms of peasants and slaves were bearing baskets of fresh produce. Bruno mechanically put his inquiry to an old woman so laden with baskets that nothing but the top of her head was visible.</p>
+<p>"Heh? heh?" she cried, &#8212; "a boy and girl, say you? Barefooted and ragged, who speak a foreign tongue and bear a red cross upon their shoulders? I saw the very same last night, and by the same sign I gave them my supper. They sat just outside the western gate of the city." And she set her baskets down, and shook her sunburned head at Bruno. He understood but a very small portion of what she said, except by her gesticulations. He took the course, however, which she directed. He found many a straggler from the ranks of the Crusade lingering about the gate of <pb n="170" />
+the city, but his little friends were not among them. He walked on down the road, till at last his eye caught sight of an elevation in the dusty grass, and hastening to it he found Reinhold and Barbara still sleeping. The tear&#8211;stains were on their dirty little faces, and they held each other tightly. Bruno's eyes moistened.</p>
+<p>"Dear little comrades!" he cried, "there shall be no more hunger for you while I live." They awoke startled, and looked about with frightened eyes. When they saw an elegantly dressed young lord standing above them, they were sure that the dreadful moment had arrived when they would be carried into captivity; and when the noble put an arm about each of them and lifted them bodily from the ground, and then cried in the well&#8211;beloved voice, "Poor little soldiers!" why then they were so filled with fear and rejoicing and love that they could not tell what to do first, and so laughed and cried together, and kissed him, and stroked his beautiful<<pb n="171" />
+new garments, and poured out their woful little history all at once.</p>
+<p>How safe and proud they felt as they walked back through the streets of the city, holding fast by his hand! How filled with wonder they were at the palace to which he took them, with its swinging lamps, its fountains, and its marbles! Never in their lives had they dreamed of such splendid robes as were now put on them. Their shoes were red, and, marvel of marvels, they had heels to them! Barbara wore a waist of broidered linen and a skirt of taffetas cloth, blue as the sky ; and Rein-hold wore doublet and hose of green, slashed and laced like those of any little prince; and on the following day they started with a magnificent cavalcade of lords and ladies across the beautiful mountains that hem in Genoa.</p>
+<p>If Reinhold sighed for his vanished dream of glory, Barbara did not. But as they journeyed on, and encountered on every side the evidences of their fruitless<pb n="172" />
+march, she wept at the thought of all that those perished comrades had suffered. And Bruno grew stern and moody often&#8211;times when they halted at night, remembering other nights when the multitudes of starving children had bivouacked on the same spot where he now lay surrounded by needless luxuries.</p>
+<p>But no regrets came to trouble Gramercy. He would turn a dozen somersaults at a time in very exuberance of delight; and he tried to banish his young master's sadness by every fantastic device in his power.</p>
+<p>Barbara persistently refused the offers which the ladies made to her of riding in the chairs in which they were conveyed, and rode proudly upon the back of Drumbo, while Gramercy rode behind her or led the stubborn little animal over the icy passes of the Alps. The journey was attended with many dangers; but everything that money and power could do to obviate them was done, and with safety and speed it was at last accomplished.</p><pb n="173" />
+<p>Bruno often entertained the noble travellers with tales of the stirring adventures of the Crusade, and he and his little comrades were great heroes in the eyes of the enthusiastic Italians. At last they passed Rhinestein, where lived the weird Siegfried, and stopped at the lordly castles of Stahleck and Gutenfels. How Bruno's heart bounded as he passed the exquisite isle of Novenwerth! How he exulted as they passed stately Drachenfels, and at every step neared his home! And when at last Bruno and his little company bade farewell to their genial protectors and took their own road, how they urged forward their horses till they saw the gray towers of the familiar old castle looming up above the snow&#8211;covered hills! Reinhold and Bruno rode side by side; but when they reached the little hut by the roadside they parted, and Gramercy lifted down Barbara, and two of the friends rode on up the hill to the castle, and two of them softly opened the door of the hut and crept in;<pb n="174" />
+and in the castle and in the hut there was a mother with loving heart; and whether the returned wanderers slept that night on straw or down, they neither knew nor cared.</p>
+<p>But the next day Bruno, once more the princely young baron, with hundreds of vassals to do his will, rode down to the hut of the crossbow&#8211;maker. It quite took away the breath of that humble man; and when he actually saw the children run to meet him and throw their arms about his neck, he gasped. But this was a sight he was destined to grow used to, for the friendship which Bruno bore for Reinhold and Barbara was no empty profession. As the years went by, it deepened. Every day at a certain hour the children climbed the hill to the castle, and spent a portion of the time studying with Bruno under the instruction of a learned monk. The study&#8211;room of the castle was a high, stately room, panelled from floor to ceiling in dark carved wood. Massive high&#8211;backed<pb n="175" />
+chairs, so heavy that Reinhold could not move them, and a long, many&#8211;drawered table of pear&#8211;wood, with frightful griffins for legs, completed the furniture of the room, except, of course, the immense fire&#8211;place, in which one could stand upright and look at the sky through the wide chimney.</p>
+<p>A grand and stately library! The modern visitor would have made but one criticism on it, &#8212; it held no books! Slip the fingers through the rings that hang from the lions' noses, and draw open the drawers of that odd table; here are found huge parchment manuscripts, written in tolerable Latin and barbarous German by the patient hands of monks; scraps of the classics, folk&#8211;lore and legends, learned dissertations on religious subjects, the chronicles of the Crusades, the writings of Godfrey of Cologne and other learned men, treatises on the virtues and sciences, on learning and agriculture. From these did the three friends learn many wonderful <pb n="176" />
+and beautiful things. To be sure, these were grave text&#8211;books for such young, happy minds; but they taught them the value of application, and opened the gates for imagination and poetry to enter and do their subtile work.</p>
+<p>But Bruno had much other business besides this. He had awakened to the recognition of a great duty. He saw that it devolved upon him to rescue his vassals from the mire of superstition and ignorance into which the blind selfishness and arrogance of his ancestors had plunged them. He began by introducing the agricultural implements which he saw used in Italy, which, rude as they were, were a great improvement on those of his own country. He investigated methods of farming and stock&#8211;raising in vogue in other countries. He cast off the foreign fabrics which the nobles wore, and donned the homespun made by his own people. He freed his serfs. Then with pride and deep thankfulness he saw hunger stalk like a baffled<pb n="177" />
+monster from his domains. He saw his vassals able to buy shoes of the shoemaker, and the shoemaker's hut become a cottage, with some of the comforts of life. He saw his peasantry lift their heads and work like freemen. The farmers won good crops from the places that had hitherto yielded little, by the sheer force of energy and the strength that hope puts into men's arms.</p>
+<p>At length the fame of this prosperous freehold came to the ears of the young King Frederick; so when Bruno came of age, and entered into the formal possession of his estate, and went to pay his allegiance to the king, he was received with great distinction. He became one of the most trusted advisers of the king, and the fame of his princely house rose higher under his gentle government than it had ever done under the tyrannical and feudal administration of his fathers.
+At length he carried into execution an idea which the short&#8211;sighted government of that day had always opposed. He<pb n="178" />
+instituted a free school, which he sustained in the village belonging to him. To this he compelled all the children of his peasantry to go; and over it he placed his well&#8211;beloved friend Reinhold, now grown into a pensive and gentle youth, of great learning for the age, and of wonderful skill in writing.</p>
+<p>Over the cottage of the crossbow&#8211;maker Barbara ruled with a maiden's bewitching tyranny. The patronage which Bruno's influence had brought to her father made every simple comfort possible to them. The hut had been enlarged, and a porch had been built out under the lindens. Neat, substantial furniture now graced the rooms that were once almost empty. Rows of polished dishes shone from behind the dresser. By the window stood Barbara's spinning&#8211;wheel, and above it hung her bird in a wooden cage. A cloth of bleached linen covered the table, and armchairs for the father and mother stood by the hearth. Where the low shed had been, with Rein<pb n="179" />hold and Barbara's pallet of straw, were rooms with beds, whose snowy coverings were the pride of the housewife's heart. Still unselfish, still loving, still the chosen companion and dearest friend of her brother, is Barbara as we leave her. In all the mysteries of brewing and baking and weaving she is as skilled as her mother's care can make her. Her courteous manners, learned from her friends at the castle, and her learning, added to the womanly beauty of her pleasant face, make her a maiden accomplished beyond her time. Word often comes from Ludwig, who settled in Genoa, and became by his genial and magnetic disposition and his strong physique &#8212; a thing highly prized among the enervated Italians&#8212;one of the most popular and prosperous young men of Genoa. He was adopted by a rich merchant, who made him as his own son.</p>
+<p>Theodosia led on the army to Rome, &#8212; Rome, crumbling into ruins, distracted by feuds, afflicted with famine! This city,<pb n="180" />
+once the proudest of Europe and again to become the most interesting, was at this time the most abject. Pope Innocent III. had a stern and politic nature. Before him the children were brought. He
+<figure entity="ep.nov.scrip.180a.jpg">
+<figdesc></figdesc>
+</figure>
+showed them with unfeeling abruptness the vanity of their undertaking, and commanded them to return to their homes. But he told them that they could not be released from their vows, and that whenever he called upon them to redeem<pb n="181" />
+the Holy Sepulchre they must obey him. Even this could not subdue Theodosia's enthusiasm. She entered a convent at Rome, and prayed out her peaceful life there.</p>
+<p>Often when the quiet of mellow twilight by the Rhine has come, Barbara and her brother and the baron, walking on the terraces by the castle or sitting under the lindens by the cottage, talk of the strange dream&#8211;like days of the Crusade, when their hearts were lifted beyond the realm of childish feeling into that noble madness which has made the world's great men and women; and silence falls on them as they remember the comrades who marched with them to lonely and uncounted graves.</p>
+</div1>
+
+<pb n="182" />
+<p>NOTE.</p>
+<p>The French army under Stephen encountered fewer hardships than the Germans, yet they reached Marseilles greatly diminished in numbers. There they waited long for the sea to open for them, and were as grievously disappointed as their German brethren. At length two men, who are spoken of in the chronicles of the time as Iron Hugh and William the Pig, procured seven ships and induced the children to embark under the pretence of taking them to the Holy Land. On the way the fleet encountered a storm, and two of the vessels were wrecked on the Isle of Falcons and went down with all on board. A chapel known as the Church of the Holy Innocents was afterward erected on this island to commemorate the disaster. The other ships proceeded on; and Iron Hugh and William the Pig sold into slavery at Tunis and Alexandria the Crusaders who were to have rescued Palestine from the hands of the infidels.</p>
+<p>The third and last of the child armies was led by a boy whose name has not been handed down in history. A portion of it found its way, after great privations, to Brindisi, a seaport of Southern Italy. From thence two boatloads sailed, as a writer says, "into oblivion and silence; for where they died &#8212; whether in the hour of shipwreck on some lone rock in the sea, or in slavery in heathen lands, or yet in battle with the Saracen &#8212; shall not be known to mortals until the day when 'the earth and the sea shall give up their dead.'"</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18960528 SYSTEM "ep.owh.18960528.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18960528">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18960528</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1896-05-28">28 May 1896</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-12</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-05-06</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Transcription, Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<figure entity="ep.owh.18960528">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+
+<!--  <head type="main">A WORD<lb/>
+WITH THE WOMEN</head> -->
+
+<head type="main">A WORD WITH THE WOMEN</head>
+
+<byline>(By Elia W. Peattie.)</byline>
+
+	<p>A little girl wrote in a letter the other day:</p>
+
+	<p>"I am now convinced that feathers can think. You know I always have feathers for my fairies&#8212;white feathers for the good ones and black feathers for the bad. The other day I found a sweet little white feather, and I put it on the dining room table and said to it: 'You are my dear little white fairy. You must stay there till I come back. You belong to me.' When I came down from upstairs the feather must have seen me, for it came floating out to meet me as fast as ever it could, and when I ran away from it, in fun, it followed right after, and lit on my head when I stopped!"</p>
+
+	<p>Is it not a fair world of fantasy in which children live?</p>
+
+<milestone unit="smallbar"/>
+
+	<p>Apropos of this, it is amusing to see what frantic alarm some persons take when the boys build a cave. Now, what are the clay banks of Omaha for, if not to give the boys a chance to build caves? Grown-up people, who are apt to be pretty wicked themselves, are of the idea that boys build these caves for illicit purposes. They suspect direful things, though they would be at a loss to make direct and explicit accusations. Perhaps they suspect the boys of building them that they may smoke the surreptitious cigarette, or opine that they wish to have a covert poker game or acquire a taste for intoxicating liquors. There may be boys who do these things. But the chief fun in digging a cave is the digging of it. The normal boy is not worrying a bit about poker, cigarettes or liquor. He is simply plumb full of mystery. He wants to know of a place of which nobody else knows, save the choice band of congenial spirits who have sworn eternal secrecy. He wants to feel like the fine old hero-ruffians of romance, and to imagine that he is to have "plunder"&#8212;whatever that may mean&#8212;and a place to put it. He wants the ineffable joy of talking a new acquaintance along a deserted road, of lifting up a tangle of wild vines, unlocking a hidden trap door, crawling in an earthen passage on hands and knees, and of leading his friend to a capacious chamber deep in the earth, in which the indications of human habitation were visible in the rude fireplace, the simple benches and the musical instruments and weapons which hung upon the wall. That is the kind of thing a boy wants. He wants the delicious pleasure of lighting this fire underground, and of wondering about the astonishment that this thin volume of smoke will cause, arising from the solid ground. He wants to imagine himself a brave outcast, a patriot, forgotten by his country, a king of noble sea robbers, a guide of mountain insurrectionists. These are the things that make the days of youth such long, long days, and the thoughts of youth such long, long thoughts.</p>
+
+<milestone unit="smallbar"/>
+
+	<p>Really, we have no right to expect children to be as stupid and dull as we are! We certainly have no right to suspect them of being so vicious and material. It is the airy figment of the brain which is their delight and entertainment. Only our coarser natures need the entertainment of material things.</p>
+
+<milestone unit="smallbar"/>
+
+	<p>There is a tradition to the effect that it is the women who talk about their children. But the truth is, the men are just as prolix on the subject as women. I know two editorial writers on a newspaper, who appear to be the most matter-of-fact men, and who certainly would not be suspected of sentimentality. Yet those two men never get together of a morning to preface their work with smoking their cigars, that they do not talk about their babies. They swap astonishing yarns. They make dramatic themes out of baby incidents. They chuckle over their respective youngsters, and courteously exchange compliments and congratulations till their cigars are ashes. Then, gravely, they turn to their work, assume a front of war, and&#8212;look forward to the next morning's indulgence in their favorite recreation.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

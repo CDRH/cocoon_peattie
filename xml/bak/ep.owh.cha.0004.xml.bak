@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.cha.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Role of the Public in Works of Benevolence</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">The Role of the Public in Works of Benevolence</head>
+
+	<p>The experience of the American pioneers, all of whom had at one time immigrated to the country from other shores, bore some likeness to the experience of the European colonists who sought to extend the empires of their homelands, such as the British in Africa and India and the French in Southeast Asia. Unlike the French and English abroad, however, settlers to the United States' Western plains lacked the established support systems that had been available to colonists in other parts of the world. American pioneers were largely on their own in the West, believes Harvard University historian Frederick Jackson Turner, mapping and building according to their own self-reliance, creating and recreating American frontier democracy.</p>
+
+	<p>To tell the story of how the country's liminal zones successfully unfolded, however, is to recall the great sacrifice of those who witnessed the event. Most settlers to the plains paid for their independent lifestyles in wages of initial poverty. Because of this, part of the story of American expansion westward was the opportunity&#8211;even the assumed public responsibility&#8211;of  aiding each group of settlers in becoming established within new territories.</p>
+
+	<p>In Omaha, Peattie issued frequent calls to charitable service via her column in the <hi rend="underline">Omaha World-Herald</hi>. Sometimes she encouraged Omahans to become affiliated with deserving organizations of benevolence while on other occasions she offered ideas as to how they might take matters into their own hands in ministering to the prairie's poor. Her September 6, 1893, column reflects this: "Dr. Reilly was called yesterday afternoon to see a sick man at the corner of Fifteenth and I streets. When he got there he found not only a very sick man, but two sick children, all down with the typhoid fever, and in addition to this illness the mother is about to be confined and hardly able to get about . . . the family lives in a tar shanty near the sand pits back of Syndicate Park and is in absolute want . . .in the family there are six children, all under the age of eight years, and all of them are hungry."<ref target="n01" n="1">1</ref> Peattie encouraged anyone able to aid this family and commended the butcher for already having sent ten pounds of meat.</p>
+
+	<p>In December 1893, the <hi rend="underline">Omaha World-Herald</hi> similarly described the benevolent actions of the Associated Charities on Christmas Day. "Through the generosity of a few very kind and benevolent friends," the column ran, "the Charities were able to provide about 180 families with dinners and provisions. Our only regret was that we had not the means at our disposal to supply the remainder of the 500 or 600 deserving poor families upon our register. We hope, however, that many of these were attended by the churches and kind-hearted citizens."<ref target="n02" n="2">2</ref></p>
+
+	<p>The Associated Charities, an inter-denominational group committed to helping the poor, had been formed "with difficulty, and as the result of much thought" in Omaha a few years earlier.<ref target="n03" n="3">3</ref> One thousand "memberships" had been sold to financially well-off members of the community for five dollars each; funds raised were then passed along to the needy. The Associated Charities was unique in that it promised a "system" for determining levels of need, investigating every case presented so that no money be wasted. "If placed in the hands of the Associated Charities [funds] will be expended wisely, because every case is investigated that comes within its reach . . . everyone applying for aid [should] earn what he or she gets, if possible. Its object is not to encourage beggary, but to help the unfortunate, the discouraged and the inefficient to help themselves," reported the <hi rend="underline">Omaha World-Herald</hi> in 1892.<ref target="n04" n="4">4</ref></p>
+
+	<p>Indeed, to participate in settling the American prairie was to share in the responsibility of undertaking charitable causes. This ethic was exemplified by a young lady who voluntarily changed the direction of her life to work in an orphanage in Council Bluffs, Iowa after having read in a newspaper that it had not enough staff. Reported the <hi rend="underline">Omaha World-Herald</hi>, "The young woman who left her friends to voluntarily take on her shoulders the heavy burden of assisting in the care of these little homeless youngsters had heard of the place through the papers. 'And I could not get rid of the idea, she said simply, 'that I ought to go and help.' So she has come. And she is helping."<ref target="n05" n="5">5</ref></p>
+
+	<p>Omaha, which in the 1890s had no welfare system,<ref target="n06" n="6">6</ref> was the home of a myriad of charity projects and homes, including rescue halls, soup kitchens, a daycare center, the Omaha City Mission and the Nebraska Society for the for the Prevention of Cruelty to Children and Animals, the Child Saving Institute and the Home of the Good Shepherd. Employers often continued to look after the needs of employees even after they had been laid off, and hospitals maintained charity wards.<ref target="n07" n="7">7</ref></p>
+
+	<p>One of the city's homes for children, called the Creche, was founded in 1877 as a daycare for the children of single, working parents although it was later changed into a boarding home for children. Mrs. T.L. Kimball, its founder, and the wives of Omaha businessmen who ran the institution, found that their patrons were mostly "young mothers or widowers who could only find low-paying jobs such as waitressing, clerking, or working in factories."<ref target="n08" n="8">8</ref> These types of jobs often required that the children's parents work unusual hours, making it difficult for them to care for their little ones at night. The Creche organizers therefore began to take children as boarders for $1.25 per week.<ref target="n09" n="9">9</ref></p>
+
+	<p>Peattie knew that this home was funded mostly by the charitable contributions of its workers and others in the community, and she knew that sometimes&#8211;as with many benevolent operations in Omaha&#8211;funds ran low. She appealed to her readership in 1892, "The ladies have always been hoping for an endowment, however modest. Not that they are expecting it…the chief reason why they continue to hope for such an undeniable blessing is that every little while some children are brought here whose parents cannot or will not pay for its keeping. The sums given to the Creche are so meager that it is simply impossible to keep children under such circumstances."<ref target="n10" n="10">10</ref> Of this organization, exemplary of the determined spirit of frontier philanthropy, the <hi rend="underline">Omaha World-Herald</hi> wrote: "The Creche has sometimes been hard-pressed to provide for the children. There is no definite income. The institution depends upon voluntary contributions. The ladies of the board do their work very quietly. They love the labor of providing a home-like place for these little ones, and only regret that they cannot care for more."<ref target="n11" n="11">11</ref></p>
+</div1>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Bloomfield, Susanne George">Bloomfield, Susanne George</author>. <title level="m"><hi rend="underline">Impertinences: Selected Writings of Elia Peattie, a Journalist in the Gilded Age</hi></title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2005">2005</date>.</bibl>
+
+<bibl><title level="a">"Brother Lemen's Work: The Christian Home of Council Bluffs and What It Does For Children."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. <date value="1891-11-15">15 November 1891</date>: <biblScope type="pages">5</biblScope>.</bibl>
+
+<bibl><title level="j">"Caring for the Children at the Creche."</title> <title level="j"><hi rend="underline">The Omaha World-Herald</hi></title>, <date value="1909-01-31">31 January 1909</date>: <biblScope type="pages">3M</biblScope>.</bibl>
+
+<bibl>"Help the Associated Charities." <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. <date value="1892-10-03">3 October 1892</date>: <biblScope type="pages">4</biblScope>.</bibl>
+
+<bibl>"In the Christian World: Work of the Associated Charities Among the Poor on Christmas Day." <title level="j"><hi rend="underline">The Omaha World-Herald</hi></title>. <date value="1893-12-30">30 December 1893</date>: <biblScope type="pages">5</biblScope>.</bibl>
+
+<bibl><author n="Larsen, Lawrence">Larsen, Lawrence</author>, <author n="Cottrell, Barbara J">Cottrell, Barbara J.</author> <title level="m"><hi rend="underline">The Gate City: A History of Omaha</hi></title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1997">1997</date>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. <date value="1893-09-06">6 September 1893</date>: <biblScope type="pages">6</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;</author>. <title level="a">"A Word With the Women."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. <date value="1896-07-05">5 July 1896</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;</author>. <title level="a">"Work of the Day Nursery: The Creche and What It Does for Women Who Must Work."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title>. <date value="1892-02-07">7 February 1892</date>: <biblScope type="pages">13</biblScope>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Emigrants at the Gates P.O., Custer County." Solomon Butcher. <xref url="http://memory.loc.gov/cgi-bin/query/D?psbib:1:./temp/~ammem_Vh4C" rend="new">http://memory.loc.gov/cgi-bin/query/D?psbib:1:./temp/~ammem_Vh4C</xref><!-- broken link -->:: <!-- (permission needed.) --></bibl>
+
+<bibl>"Immigrant Children." <xref url="http://www.omaha.lib.ne.us/earlyomaha/buildings/tenements.html#3" rend="new">http://www.omaha.lib.ne.us/earlyomaha/buildings/tenements.html#3</xref> <!-- (Permission needed) --></bibl>
+
+<bibl>"First Ladies Aid of Highland Church, Nekoma N.D." Photo taken from American Memory. <title level="m"><xref url="http://memory.loc.gov/ammem/award97/ndfahtml/ngphome.html" rend="new">The Northern Great Plains, 1880-1920: Photographs from the Fred Hultstrand and F.A. Pazandak Photograph Collections</xref></title> <xref url="http://memory.loc.gov/cgibin/query/D?ngp:27:./temp/~ammem_Kezq" rend="new">http://memory.loc.gov/cgibin/query/D?ngp:27:./temp/~ammem_Kezq</xref><!-- broken link -->:: digital id: ndfahult b441</bibl>
+
+<bibl>"Rev. Joseph Lemen's Chrisitian Home." Permission needed from (Christian Home Association-Children's Square USA [Council Bluffs]).</bibl>
+
+<bibl>"Saint James Orphanage 2600 North 60th." Omaha Public library. <!-- (permission needed) --> <xref url="http://www.omahapubliclibrary.org/galleries/slides/ls_00035.jpg" rend="new">http://www.omahapubliclibrary.org/galleries/slides/ls_00035.jpg</xref>
+</bibl>
+
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Peattie, 6.</p>
+
+<p><note id="n02" n="2">2</note> "In the Christian World," 5.</p>
+
+<p><note id="n03" n="3">3</note> "Help the Associated Charities," 4.</p>
+
+<p><note id="n04" n="4">4</note> Ibid.</p>
+
+<p><note id="n05" n="5">5</note> "Brother Lemen's Work," 5.</p>
+
+<p><note id="n06" n="6">6</ntoe> Larsen, 113.</p>
+
+<p><note id="n07" n="7">7</note> Ibid.</p>
+
+<p><note id="n08" n="8">8</note> Bloomfield, 42.</p>
+
+<p><note id="n09" n="9">9</note> "Caring for the Children."</p>
+
+<p><note id="n10" n="10">10</note> "Work for the Day Nursery."</p>
+
+<p><note id="n11" n="11">11</note> "In the Christian World," 8.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

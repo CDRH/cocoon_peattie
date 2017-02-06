@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18941111 SYSTEM "ep.nov.foy.18941111.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18941111">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-11-11">11 November 1894</date>
+<biblScope type="pages">18</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.nov.foy.18941111">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p18"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By. Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+	<p>"Why not go then," I naturally asked. "Is it so difficult?"</p>
+
+	<p>"It is difficult," he admitted. "But that is not why I hesitate. We who live yonder have taken an oath never to leave it. I, who am one of the chief of them&#8211;a leader they trusted&#8211;have broken that oath. Those who were my friends will no longer be so. I dare not return."</p>
+
+	<p>I turned from him and walked down the path, crushing the crisp hammock under my feet. I seemed suddenly to see through the mist of the future. I felt that the inexplicable rapture which had intoxicated me since the beginning of my journey was explained. Bridges was right. Each man is cut out of a different destiny. My destiny was before me. I would become a great man. Instead of returning to the government a commonplace description of the scattered Seminole tribes, with a lexicon of their limited language, I would give them a book setting forth the annals of an unknown and successful people. It would be the sensation of the age. It would make me famous. And it would be life. I am sure I reeled as I walked back to where the men were, for Bryan put out his arm and put it about me.</p>
+
+	<p>"You're not ill, I hope, Shadwin," he said in his gentle manner.</p>
+
+	<p>"No," I said, "but I am drunk&#8211;drunk, with plans. That man is going back from whence he came, and I am going with him!"</p>
+
+	<p>You'll do nothing the sort," said Bridges. "No one knows what might become of you, and besides you are out on a mission."</p>
+
+	<p>"I shall be fulfilling that mission," I said. "I have been sent out to learn what I could about a few Seminole. They are, as you see, a fast decreasing, rather broken lot. The majority of them are old. They have more men than women, and in a polygamous community that means extinction in a few years. Therefore their language will be but an interesting relic to the government when it is procured. But here, fellows, is a tribe of people utterly unknown. It is a lost tribe of the Seminole nation perhaps. These are the Indians that Ponce de Leon and Caobt and Lopez saw. These are the noble savages that won the admiration even of country adventurers. I am going to see them."</p>
+
+	<p>Bridges looked at me disdainfully.</p>
+
+	<p>"You're pretty young yet, Shadwin," said he, "And you take sophomorish views of things. And you talk in a sophomorish manner. Be a man can't you. It's too late in the day for you to fall to dreaming."</p>
+
+	<p>"I've never had any dreams yet," I said sulkily. "And any way, this is no dream. Here is the proof before you that it is not so. Here is this man in flesh and blood&#8211;a man of a nation of which you and I have never heard. He is no savage. He is high born. You can see that. He thinks. He suffers. He is intellectual. How do we know but this people actually has a literature. Think of that, Bryan! For God's sake, let us not judge this thing by petty standards. Let us go out in search of this new land. Think of finding a new land in this old world! This is the opportunity of our lives. It is not my reason alone that says so. It is something else more mysterious, but more convincing I have a presentiment. I was sent here for this purpose. I am going with this man if he will take me."</p>
+
+	<p>Bridges was carving on the bark of a tree, seemingly absorbed in his occupation, and quite indifferent to my eloquence. But when I had finished he turned around and said languidly:</p>
+
+	<p>"Well, if you are going, I'd just as soon go along. It's all one to me."</p>
+
+	<p>"Bravo," I cried. "I knew you would. Now, Bryan!"</p>
+
+	<p>But Bryan would not commit himself. We persuaded the stranger to come with us to our tents. Such hospitality as we could, we offered, and Bryan quite matched the guest in ceremony. We exchanged names. The name of the stranger was pronounced with Indian accentuation&#8211;that is, in a staccato manner. And it appeared to be His-a-kit-a de le Vega.</p>
+
+	<p>"Heavens!" cried I, when I heard this name. "I have an idea!"</p>
+
+	<p>"No one seemed surprised, and it was some time before Bridges asked what it might be.</p>
+
+	<p>"It isn't formulated yet," I said. "but I will let you know what it is when it gets in shape. And in the meantime, I will tell you that I am more determined than ever to go on this mission."</p>
+
+	<p>The night wore away, and in time the stranger, in spite of his melancholy and his politeness, fell asleep. But the three of us sat and talked.</p>
+
+	<p>"I cannot leave my work," said Bryan.</p>
+
+	<p>"It would be different if this was a common thing," I protested. "You will more than compensate to Uncle Sam for your neglect, by what you bring back with you in the way of unsuspected riches."</p>
+
+	<p>"Besides," said Bridges, "there is Dickie Berlin. He's a rough customer, but he can do this job every bit as well as you can, if he didn't get his education in quite so systematic a manner. Give him the pay that would be coming to you, and come along with us."</p>
+
+	<p>So we left it. Bryan said he would think it over. But I knew how it would come out. It wasn't in human nature to resist such an opportunity as this. The sun was pretty high when we awoke, but De Vega was still sleeping. We got breakfast ready before we awoke him, and then when we were enjoying an excellent chowder and a steak of venison, I made the proposition that we should go back with him to his native land, and that in return we should give him some gift which would be of value to him, and we would remain his friends and stand by him in the event of any ill-nature on their part.</p>
+
+	<p>At first I was greeted with a perfect storm of protestations.</p>
+
+	<p>"I must return myself," De Vega said. "That is true. I was unhappy there, but it is nothing to my unhappiness here. I have made up my mind that I will return, no matter what my friends may say. And it is true that I would be glad of companions, for the silence is terrible for days, with nothing but a snake to shoot across one's path, or a bird to fly above one. You speak to all these things, so great is your desperation. I have been very cowardly. But I am going back to my people to prove that I am not such as they think me. But you&#8211;no, no! I cannot take others there."</p>
+
+	<p>"Why, why?" I asked. "Give me a reason."</p>
+
+	<p>"For one thing," he said, "my people would be angry. They would not like it that men of another race should invade their home. But that is not the chief reason. There is one much stronger. You would yourself meet with misfortune and disappointment. You would be confronted with a great temptation. You would yield to it, as others have, and you would live to regret it&#8211;as I do."</p>
+
+	<p>The man could do have chosen words which would more certainly have confirmed three young men to do the thing he wished to keep them from. This was evidently life that offered.</p>
+
+	<p>"I am going," said Bryan, slowly. Bridges and I gave a hurrah.</p>
+
+	<p>"We are going," I said to the man. He arose and extended his hand to each of us in turn&#8211;not as an Englishman would do it. The act had in it more significance.</p>
+
+	<p>"I will be your friend," he said. "But I beg that you will never come to me with reproaches for what may happen." I promised for my friends that we would take the responsibility upon our heads. Then I offered to show De Vega something of the country. I suggested that he should visit one of the cities, while we went on with our work, and waited for his return. But he said he was mad with desire for his home. He cared to see no one. But all the same he was glad to have seen us. He was glad to talk with us. And he said he had many things that he wanted to say to us. He was very anxious to know some things about our lives. He had questions to ask.</p>
+
+	<p>So it was settled. Bryan had to go off to see him men, and we did not hear from him for two days. I do not know just what arrangement he made with the indomitable Dickie Berlin, but even Bryan's conscience seemed at rest, so I felt sure that everything had been attended to. He told me he was going to let Dickie have the credit for everything that might be done. When he decided to go with us he realized the risks that he was taking. He was aware that he might be sacrificing his reputation. But the temptation offered was too great to be resisted. We got together such supplies as seemed necessary for our journey. We took one good-sized boat with us well laden with the things which were most requisite, and large enough for us to sleep in.</p>
+
+	<p>At the close of the third day I went in search of De Vega, to tell him that all was in readiness. He had hardly moved from our camp during these days of waiting. He was recuperating. He said he had only one thought. It was to return to the spot from which he had fled. He terrible exhaustion had made it necessary that he should take all the rest possible before repeating his journey. I found him lying under a palmetto, in a scrap of shade singing to himself a wild love ballad. His eyes were half closed; his strong form stretched at length, his hands outspread on the grass in an abandonment of passionate thought.</p>
+
+	<p>"What are the words of your song?" I asked him. He repeated them to me several times till it had caught the full significance of them. Later I learned them better and made a lame translation.</p>
+
+	<p>"Who wrote them?" I asked.</p>
+
+	<p>"Opaka," said he.</p>
+
+	<p>"And who is she?"</p>
+
+	<p>The man arose and looked at me.</p>
+
+	<p>"If you are going with me as you say," he replied, "you will learn who Opaka is. She is a woman of our people. It is because of her that I left my home. It is because of her that I return."</p>
+
+	<p>As I walked away from him I heard him singing again that wild love song:</p>
+
+
+
+<lg type="poem">
+
+<lg>
+<l><seg>There's a purple dye on your screen of</seg>
+		<seg>skins,</seg></l>
+	<l rend="indented2">And the palmetto bough are above you.</l>
+<l>The night has come&#8211;it is night that wins,</l>
+	<l rend="indented2">And you shall know how I love you.</l>
+</lg>
+
+<lg>
+<l>I've a scarled orchid bud for your hair,</l>
+	<l rend="indented2">And a guava to moisten your lips, love.</l>
+<l><seg>So spread out your myrtle boughs with a</seg>
+		<seg>prayer,</seg></l>
+	<l rend="indented2">And wait till the red moon dips, love.</l>
+</lg>
+
+<lg>
+<l><seg>Hanging with mosses and dripping with</seg>
+		<seg>dew,</seg></l>
+	<l rend="indented2">I leap through the lush, clinging grasses.</l>
+<l><seg>The spice on your hammock guides me to</seg>
+		<seg>you,</seg></l>
+	<l rend="indented2">And I wait while the slow moon passes.</l>
+</lg>
+
+</lg>
+
+
+</div1>
+
+<milestone unit="smallbar"/>
+
+<div1>
+<head type="sub">CHAPTER V.</head>
+
+	<p>The moon had set, and the silence was palpable. We three, Bryan, Bridges and I, stole out to where the boat lay concealed by the edge of the saw grass in a tangle of wild cucumber vines. De Vega was waiting for us there.</p>
+
+	<p>"You do not repent," I whispered, laying my hand on his arm. "You said once that you dared not go back, but I know those words were spoken on impulse. You do not repent that you are really going to return?" He looked at me with his passionate eyes.</p>
+
+	<p>"I do not repent," he said.</p>
+
+	<p>"Very well," I returned. "Then we start now. We have confidence in you. We have kept your secret. Neither the Indians nor our friends know of our intention to go with you. And we want to say before we start, that always in the land we are going to, wherever or whatever it may be, we will be your friends."</p>
+
+	<p>He signified that he understood me, and we pushed the boat out into the liquid horror of the Everglades, and started southward. For a time we followed no path at all. Then, with his eyes fixed on the southern cross, De Vega went this way and that, till at length he seemed satisfied, and told us to feel safe. He knew his way. He had found his path. He was following not a path. He was following not a path in the sea of wire grass, but a path through the heaven.</p>
+
+	<p>"This path is written in a book," he said, "and I spent many weeks learning it before I went out. I wished to start on no journey of death. I did not want to rot for the black vulture to pick my bones. Death for me would been too hideous that way. For I suppose even I could have died of hunger."</p>
+
+	<p>"Why should you not die of hunger like any other man?" I asked. But he shook his head, and would make no answer.</p>
+
+	<p>But for the boat I think we three Americans could not have made our way through the muck. A warm, reeking mass of decaying vegetation and water reached half way to our knees. Frequently we sank above our knees. But our rubber protectors reached to the waist, and gave us great protection.</p>
+
+	<p>"After the first day," De Vega remarked, "the hardship will not seem so great." We did not spend much time in conversation. The water was seldom more than six inches deep, and the boat had to be pulled over the saw grass by main strength. This made a sufficient demand upon our strength. It was our idea to get so far beyond the reach of our friends that there would be no danger of being overtaken. We acted like culprits.</p>
+
+	<p>"That is part of the interest of it," said Bridges. "I never did anything forbidden before in my life, and I like the sensation of it." We looked wan and <sic corr="unkempt">unkept</sic> in the early dawn. A gray vapor hung over the marsh lands, and in this we walked about like ghosts. De Vega begged us to stand with patience the labor for two hours longer, when, he said, we would reach a bit of wild hammock land. With this assurance we struggled on, and at length, as our strength seemed really gone, we did, indeed, reach a high hammock, rising like a paradise out of that slimy hell in which we struggled and slipped. We threw ourselves upon it with sighs of exhaustion. It was then the superior strength of De Vega showed itself. He felt it no hardship to gather the dry myrtle boughs and prepare a fire. Before this he turned a fine venison steak, while I, stimulated by a little liquor, busied myself picking some wild blueberries, and Bridges mixed and baked a corn cake. Bryan, at the direction of De Vega, took his musket and wandered about the hammock in search of game. He got a couple of squirrels, which we put by carefully in the boat. Bryan was performing this task, when I heard him give a shout of astonishment. Then he indulged in language which even my friendship for him can call nothing but profane.</p>
+
+	<p>"Look here," he shouted, "do you see this devil's brat"&#8212;</p>
+
+	<p>"'Sin!" I exclaimed.</p>
+
+	<p>"Original Sin," grasped Bridges. There the dusky little villain certainly was! He had crawled under the blankets and other stuff in the end of the boat, and laid there, safely hidden from our sight, while we hauled the rascal all night through those infernal marshes.</p>
+
+	<p>We all swore. Even De Vega said some resonant things that I think must have represented the same idea. But suddenly the funny side of it struck me. The little fellow was so brown, so hopelessly stolid, so very, very wise, so deliciously ancient, that I could not resist the temptation to laugh. He took heart at this, and grinned in a boyish sort of way.</p>
+
+	<p>"We may as well make the best of it," I said. "We cannot let him go back now, and perhaps it is best that we have him with us. You know what those Indian boys can stand."</p>
+
+	<p>He was a splendid sample of his race, was 'Sin. He could run and leap, climb trees, kill birds, and stand more fatigue than the grown men of most nations. The Seminole has never been weakened by pernicious conveniences. He is not even acquainted with the horse. He has no animal of burden. The consequence is that he retains all his primitive activity.</p>
+
+	<p>'Sin sat down to breakfast with us. Bridges was the only one who was not able to conceal his hostility. He threw sour plums that he picked up from the ground at the naughty little savage all meal time, but the deftness with which 'Sin dodged these finally won his heart, and he admitted that 'Sin was only an adventurer like the rest of us, and that we might as well receive him with courtesy. So he gave him a second helping of venison, and peace was restored.</p>
+
+	<p>It was decided that we should push on to an island about ten miles distant&#8211;a good day's journey in the Everglades, and that we should rest there until the following morning. We prepared some koonti cakes to eat at mid day and pushed on. 'Sin kept close to my side. He had an odd frog-like way of leaping forward lightly which made progress with him much easier than with the rest of us. We were going on at a fairly comfortably pace when a sudden blow on the arm almost knocked me down. I had been bending over to push the boat from a stubby knoll of grass roots, when I received it, an thought for a second that we must be near some hidden stream, and that it was an alligator tail. Then I saw what it was&#8211;nothing less than a stump-tailed cotton-mouthed snake of enormous size. He was so hideous that I actually stopped to look after him in detestation as his four feet of loathsomeness rapidly took itself away. I was right as to the water, for in standing on the boat edge to watch the disappearance of the reptile, I saw him swim into a sluggish amber flow of weed-strewn liquid.</p>
+
+	<p>Bryan looked at me, and I looked at him.</p>
+
+	<p>"Old fellow," he said, "we've got whiskey. Do you think that will do the job for you?"</p>
+
+	<p>"I don't know," I replied as staunchly as I could. "I have heard that the poison works slower than that of the rattle snake. Perhaps it may do. Give me the flask. The sooner I begin the better."</p>
+
+	<p>De Vega got me in the boat and dragged my shirt off. It was not five minutes since the bite occurred, and the skin already began to wear a greenish tint where the stab had been. 'Sin looked on in contesternation. Suddenly he began shouting something. It was several minutes before I could make out what he wanted. It was onions. His aged little eyes had not held the mysteries o the ages for nothing. We had some onions and 'Sin pounded them to a pulp and put them on. Then, little by little, the pain got worse, and after a time I went off into dreams in which I eternally unlocked twining serpents from my body. Now I was a man, with serpents, scaled and glittering about me, and now I was a tree with those writhing vines&#8211;but always I was unwrapping the frightful clasp of some hideous thing.</p>
+
+	<p>When I at last was aroused to actual things I was lying where the fragrant bloom of a holly tree reached my nostrils. The place seemed very silent. A black vulture flew somewhere above me, and swung ominously around two or three times, and as large as nature intended it to be, and swathed in strong smelling poultices. Not far away Bridges, Bryan and 'Sin lay sleeping. Near me, under the shade of a gumbolimbo tree sat De Vega. He approached with his fingers on his lips.</p>
+
+	<p>"You are doing well," he said. "Lie still. Do nothing to excite your blood. The onion poultices the boy made have saved your life. You will get well. But you must not move." I sank back dizzily on the fragrant boughs spread for my head, and gazed above me indifferently at the languid sky.</p>
+
+	<p>"Should you have cared," asked De Vega, fixing his splendid eyes on me, "should you have had grief if I had told you that you must take the journey of death?"</p>
+
+	<p>"No man likes to die," I said. "And I have seen nothing of life. I want to live long enough to test the knowledge I have. I want my day&#8211;like any other dog?"</p>
+
+	<p>He looked at me with a gaze so piercing that I shrank from him. The delirium returned for a moment to my excited brain. "Do not," I cried, madly; "do not fix your eyes on me so. You will turn into a serpent like all the rest. And I am so tired unwinding them. I am so tired of having their fangs in my heart." He came over and laid a soothing hand on my head.</p>
+
+	<p>"I am no serpent," he said, softly. "I am your friend. And I see that you hate death. I had forgotten how dreadful death was, and how men hated it. In the way that your companions have fought for your life I have learned how great a thing men esteem life. I had almost forgotten."</p>
+
+	<p>"What," I cried, soothed back by the touch of his hand into semi-sense, "do you not care for life in your country?"</p>
+
+	<p>"We care for it more than anything, for we have given up other joys that we might retain it. But you will know all when you are there. I will tell you many things on our journey. And you remember that I have many questions to ask you." He put a fresh poultice on my arm, and as it soothed the throbbing, I begged him to ask some of his questions then.</p>
+
+	<p>"It will make me forget the pain," I said.</p>
+
+	<p>"But I do not know whether or not your friends would like me to talk with you. I have grown to be so careless of life that I have forgotten how a sick man should be treated." But I insisted, and he sat closer to me, but carefully avoided fixing a gaze on me as before.</p>
+
+	<p>"When you love a <sic corr="woman">women</sic> in your country," he said, "do you sometimes tire of her? Is it possible for love to die and life last?"</p>
+
+	<p>I told him that it was.</p>
+
+	<p>"Do you not think that death is better when love is dead?" he said. I told him I thought that depended on what opportunity there was for action.</p>
+
+	<p>"Love is not all of life," I said. He opened his eyes a trifle, and then suddenly broke into a brilliant smile.</p>
+
+	<p>"But you have never loved, I think," he said. I confessed that I never had.</p>
+
+	<p>"Do you think," he went on, "that life is sweeter because you know that it will soon end? Do you enjoy life more because there is such a little time to enjoy it in?"</p>
+
+	<p>"I couldn't give him a good answer to this. I told him death always seemed terrible to me. It was like a threat, not a promise of rest.</p>
+
+	<p>"Ah yes," he said again, "but you have never loved!"</p>
+
+	<p>"If I loved I should not want to die," I cried. "I should want to live. Death would certainly be hideous then, unless I were sure of immorality. There is Bridges, sighing his life out, and here is you."</p>
+
+	<p>"Bridges has the advantage of me," he said, adopting my manner of speaking to my friend. "He may succeed in sighing his life out. I can not." A groan more of impatience than pain caused him to renew his attentions to my arm. Then he gave me a bitter drink, and under its influence I dropped into a semi-conscious doze, very delightful to the senses. Near me De Vega sat and softly sang. And these were the words of his song:</p>
+
+
+
+<lg type="poem">
+
+<lg>
+<l>Now death is dead and we may not sleep,</l>
+	<l rend="indented2">Save in the pauses between the suns.</l>
+<l><seg>Through the harvest is ripe yet we may</seg>
+		<seg>not reap,</seg></l>
+<l><seg>Though our eyes are heavy we may not</seg>
+		<seg>weep,</seg></l>
+	<l rend="indented2">Save in the pauses between the suns.</l>
+</lg>
+
+<lg>
+<l>Our loves are old, yet our lips must meet,</l>
+	<l rend="indented2"><seg>See how our dead joys jostle and</seg>
+		<seg>throng!</seg></l>
+<l><seg>The children we bore us no longer are</seg>
+		<seg>sweet;</seg></l>
+<l><seg>The hours of the <sic corr="summer">sumer</sic> no longer are</seg>
+		<seg>fleet.</seg></l>
+	<l rend="indented2"><seg>See how our dead joys jostle and</seg>
+		<seg>throng!</seg></l>
+</lg>
+
+<lg>
+<l>A song needs an ending, however sweet&#8211;</l>
+	<l rend="indented2"><seg>The silence that follows is half the</seg>
+		<seg>song.</seg></l>
+<l><seg>In the still of the night the pent streams</seg>
+		<seg>beat.</seg></l>
+<l><seg>And throb for the ocean they may not</seg>
+		<seg>meet.</seg></l>
+	<l rend="indented2"><seg>The silence that follows is half the</seg>
+		<seg>song.</seg></l>
+</lg>
+
+<lg>
+<l>A song needs an ending, however sweet&#8211;</l>
+	<l rend="indented2"><seg>The silence that follows is half the</seg>
+		<seg>song.</seg></l>
+<l><seg>In the still of the night the pent streams</seg>
+		<seg>beat.</seg></l>
+<l><seg>And throb for the ocean they may not</seg>
+		<seg>meet.</seg></l>
+	<l rend="indented2"><seg>The silence that follows i half the</seg>
+		<seg>song.</seg></l>
+</lg>
+
+</lg>
+
+
+</div2>
+
+	<p>"Ah," I whispered dreamily, "where did you get those <sic corr="mysterious">mysterions</sic> words? I do not know the meaning of them."</p>
+
+	<p>"Opaka wrote them" he said in his beautiful voice, "and you will sometime know the meaning of them."</p>
+
+	<p>"It cannot be that you are weary of Opaka," I said, half to myself. "One would not tire of a woman who wrote sweet songs."</p>
+
+	<p>"I am only tired," he answered, "of loving and loving when I have no love given in return. Sleep!</p>
+
+	<p>"Your friends are near. I am also your friend. I will take the poison from your blood with the sweets of my love songs." He gave another drink to me of that bitter fluid, and as I sank to sleep with rosy visions I heard him still murmuring the refrain: "The silence that follows is half the song."</p>
+
+	<p>Two days later I was well, though still weak, and we left the fragrant hammock with its siren flowers, its blossoming trees, its myrtle trees, its wild berries and plums, and started once more on our arduous journey.</p>
+
+	<p>"I feel as if I had been given a present of the earth," said Bridges to me as we set out, "and here's a drink to better luck. Take a glass, boys&#8211;it's good stuff, and an enemy to shakes."</p>
+
+	<p>Bryan said nothing at all to me, but several times during the day he grasped my hand and wrung it silently, and I had hard work, sentimentalist that I was, to restrain my feelings at this tribute of friendship. And so we journeyed on. Now try swamp, no on hammock, the days and nights sped. I lost count of time, and did not care. What was time to me in this new, fantastic life? As for care&#8211;the hammocks were heavy with sleep and with perfume, and the blue heron that hung from the pepper tree had not more care than I.</p>
+
+	<p>"Ah, you are going in search of happiness," cried De Vega in fierce mirth one day. "Do you not know that you have it?"</p>
+
+<p rend="center">(To Be Continued Next Sunday.)</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

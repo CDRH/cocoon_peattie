@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18900824">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Vale, the Departing Man</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Vale, the Departing Man</title>
+<title level="a" type="sub">How He Is Mourned Over by the Women at the Summer Resorts</title>
+<title level="a" type="sub">An Englishman in Search of the American Girl&#8211;What the Omaha People Are Doing&#8211;The Babies.</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1890-08-24">24 August 1890</date>
+<biblScope type="pages">9</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb corresp="ep.owh.18900824.jpg" n="p9"/>
+
+<head type="main">VALE, THE DEPARTING MAN</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">How He Is Mourned Over by the<lb/>
+Women at the Summer<lb/>
+Resorts.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">An Englishman in Search of the American Girl<lb/>
+&#8211;What the Omaha People Are<lb/>
+Doing&#8211;The Babies.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>H<hi rend="smallcaps">OTEL</hi> O<hi rend="smallcaps">RLEANS</hi>, S<hi rend="smallcaps">PIRIT</hi> L<hi rend="smallcaps">AKE</hi>, Ia., Aug. 18.&#8211;[Special Correspondence.]&#8211;There are tragedies even at the Hotel Orleans.</p>
+
+	<p>They occur when the train goes out and carries off all the best men. This is not meant as an insinuation that the men left behind are not nice. There are degrees in diamonds, in angels and in men. And the man who vanishes into the twilight on the rear platform of the train is always the best man. It is just a case of realizing one's blessings after one has lost them.</p>
+
+	<p>This seems funny, doesn't it? People who have plenty of work and other mercies like that think the idea of feeling bad over the Departing man is very humorous. But it isn't. It has its serious aspect. Dear me, it has nothing but serious aspects! For up here there is a great black cloud with ragged edges continually hanging over the community and likely to settle down at any moment and obliterate the sun and the day and even the dinner. The cloud is Ennui. To keep it from sinking it is necessary to prop it up with poles, and blow at it and run away from it. So far it has been kept from trailing its black fringes over the verandas of this hotel, but then there is the constant dread of it. It is likely to fall and envelope the place at any time.</p>
+
+<figure entity="">
+<figDesc>THE FIRST DIP.</figDesc>
+</figure>
+
+	<p>The Hotel Orleans is nothing if not sociable. I never was a summer resort where people really had a better time. But they are morbidly afraid that the good time may give out. That is why the Departing Man is so serious. The girls actually grow heavy hearted as they see some elegant and ingratiating fellow vanishing in the shades of evening, and reflect that they may never more in the course of their lives hear his insinuating voice or listen to his complements. And <unclear></unclear> many of them are young, and youth is greater than virtue or wisdom or fame. Youth is simply beautiful. You don't realize it when you have it. But after it has gone, and you realize that its absurd exaltations, its exhilarating triumphs, its mighty ambitions are all vanished, and that you are sitting amid the dead leaves of your once blooming hopes, you being to think about it, and, of course, if you have any sense, you laugh. At least, when any one is looking, you laugh.</p>
+
+
+	<p>In life you imagine that after you reach a certain point in your career you will forever after wander in a garden of orchids. The truth of the matter is that, instead, you walk among potato vines, and have to spend all you time picking the bugs off to keep even them alive.</p>
+
+	<p>But it doesn't matter. Nothing does matter much-except the Departing Man.</p>
+
+	<p>One of these departed men worked all the women most successfully. I mean he worked them sentimentally. He looked as if he were going to the dogs. And nothing so entertains a woman as to reflect that one of her intimate acquaintances is going to the dogs. He had that sort of a face-what I call is devil driven face. He was handsome and sensitive and well born and proud, and very delicate in his discriminations and perceptions, and yet he had that kind of a fatal, fated beauty that Poe used to have, only in a lesser degree. He was pale. He was blasé. He told each woman that she had given him a glimpse of real purity and that he was better for having known her. He told them that they were strains of sweet music which would rise above the jangles and dischords of his life. That sort of thing is so insidious. It is like sewer gas. It gets in your system before you know it, and it takes years to get it out.</p>
+
+	<p>Few of the men here are so artistic.</p>
+
+	<p>There is another young man here who has very recently come from England, and who is looking for the American girl.</p>
+
+	<p>"I suppose," he said, designating the young ladies who in the airiest of costumes were whirling before him in that very unrestrained dance known as "dancing in a barn," "that if you really want to find the American girl you must go further east. This is not the American Girl, I should say?"</p>
+
+	<p>I confessed that in many cases it was the American girl.</p>
+
+	<p>"Does," said the Englishman shyly, "the American Girl usually chew gum?"</p>
+
+	<p>I said that she frequently did, and that you couldn't judge of the rest of her breeding by that one thing. In Spain the ladies smoke cigarettes. In American they chew gum. It's healthier, but not so picturesque.</p>
+
+	<p>"Should you say," went on the young man with a desire for information, "that these girls would be likely to settle down?"</p>
+
+	<p>It really didn't look it just then, but I told him that they might. There was nothing so uncertain as the American Girl. In one day she might give up summer resorting and gum and gaiety and turn into a housewife and everything useful.</p>
+
+	<p>"Ah," said the young man wearily, "she is very complicated&#8211;the American girl. I think I prefer my own country women."</p>
+
+	<p>Poor lad! He's sure to have an American wife sooner or later. It's just as certain as that a frog, sitting on a log will jump into the pond sooner or later. He may not expect to jump, and may even have ideas against <unclear></unclear>. He may prefer the log. All the same he will jump into the pond.</p>
+
+	<p>There is a word in vogue here which has been coined, like all very graphic words, to suit a condition. It is born of necessity. The word is "snook." A definition seems superfluous. It means a semi-flirtation. Or at least it means a conscious flirtation&#8211;one in which no deceit is intended, but which has the poses, the manners and the words of real sentiment. It is, in short the plagiarism of the real thing. To "miss a snook," is to suffer a catastrophe. For all the ladies expect an evening "snook" just as they expect an afternoon nap.</p>
+
+<figure entity="">
+<figDesc>WHAT DID YOU SAY?</figDesc>
+</figure>
+
+	<p>A great many of the Omaha people have gone home. Mrs. Falconer, who has been very ill here, has been taken home by her husband. Mrs. William Redick, Mr. And Mrs. Cowin, Mr. Saunders, Mr. Thurston, Mr. Charles Wilson, Colonel and Mrs. Eddy, Mr. And Mrs. Thomas Swobe, Mr. Barker and his son Joe, have all returned to Omaha.</p>
+
+	<p>Mr. Dudley Smith, Mr. T. E. Alexander, Mr. And Mrs. Kemp, Mrs. Windsor, Mr. Henry Windsor[,] Mr. W. J. Cartan, Mr. Harry Cartan, Mr. Charles Pitkin, wife and child, Mr. L. Raapke and two children, Mr. D. F. Food[,] Mr. And Mrs. S. W. Sears and Dr. Griffiths of Omaha, are among those who have recently come. Mr. Arthur Guiou has his friend Mr. Hills of Hartford, Conn., here with him, and the two are the leaders of the party of young men, who come from Omaha, Cedar Rapids, Sioux City, etc. Mr. Hills has lately come into $500,000. Which is interesting-but which is said not to be his chief attraction. Mr. John Schoentgen of Council Bluffs is the latest arrival from the city across the Big Muddy. A number of the nicest St. Louis people have gone and left an undeniable blank.</p>
+
+	<p>The grocer's association of the Missouri valley have had delegates here to the number of 500, and Saturday a company of United States troops and some state militia went into encampment not far distant. The weather is warm again, and camping is a pleasanter thing than it was last week. The lawn and mull gowns have replaced the flannel, and the girl with the thin neck mourns, while the girl with the plump neck rejoices.</p>
+
+	<p>The ladies having wearied somewhat of howling, have taken to shooting at a mark, and Mrs. <unclear></unclear> has done the beat work thus far. This little woman is a born marksman <unclear></unclear> anything that requires a correct eye and a steady aim.</p>
+
+	<p>The prohibition amendment is a dead letter here, and no one has any respect at all for such common place things as legislative restrictions. Mumm's extra dry is as much a feature of Spirit Lake as is the afternoon bath. The hotel will be quite given up now to sir knights and soldiers and other important persons. There will even be some militiamen here. The society people will have to take something of a back seat-although, like truth, they will rise again.</p>
+
+	<p>By the way, nothing has been said about the babies! The babies are numerous and they are nice. They are kept in the back ground of course and some of the mothers who arise late and put in the day busily do not see much of their darlings. The babies eat early in the nurse's dining room, play heaven knows where all day, and go to bed when the sun plunges red and round into the little lake. Then you can hear the nurses cooing to their charges in several languages, and now and then catch a funny sweet little voice piping up a scrap of song, or shrilling out a question. This is accounted an excellent place to bring children, for it is cook, safe secluded and without deep water.</p>
+
+<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

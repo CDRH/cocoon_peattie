@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.biography.01 SYSTEM "ep.biography.01.jpg" NDATA jpeg>
+<!ENTITY ep.biography.02 SYSTEM "ep.biography.02.jpg" NDATA jpeg>
+<!ENTITY ep.biography.03 SYSTEM "ep.biography.03.jpg" NDATA jpeg>
+<!ENTITY ep.biography.04 SYSTEM "ep.biography.04.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.biography">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Biography of Elia Wilkinson Peattie, 1862-1935</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.biography</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note></note>
+</notesStmt> 
+
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2007-11-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Biography of Elia Wilkinson Peattie<lb/>1862-1935</head>
+
+<figure entity="ep.biography.01">
+<figDesc></figDesc>
+</figure>
+
+    <p>Elia Wilkinson Peattie, born in Kalamazoo, Michigan, in 1862, grew up in a home without books and had to drop out of school at age thirteen to help her father in his job-printing office, then at fifteen go home to assist her mother with the children and housework. However, she had been attracted to writing and publishing all of her life. After her marriage in 1883 to Robert Peattie, a reporter for the <title level="j">Chicago Times</title>, the couple spent their evenings writing stories together to supplement Robert's sporadic newspaper income. In 1886 Peattie officially joined the staff of the <title level="j">Chicago Tribune</title> when editor R.W. Patterson asked her to report for the Art and Society pages. Peattie's talent distinguished her, and she soon became the first woman reporter for the <title level="j">Tribune</title> and the second "girl" reporter in Chicago.</p>
+
+	<p>In 1888 the family, along with Elia's sister and Robert's mother, moved to Omaha, Nebraska, where Robert had accepted the position of Managing Editor of George L. Miller's <title level="j">Omaha Daily Herald</title>, partly because Elia would also be hired as Staff Correspondent with the promise of bylined articles. When Gilbert Hitchcock decided to buy the <title level="j">Herald</title> and merge the two newspapers into the <title level="j">Omaha World-Herald</title>, he asked Robert to continue as Managing Editor and Elia as columnist and editorial writer.</p>
+
+<figure entity="ep.biography.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>By 1890 Peattie was given her own column, one of the most sought after assignments on a newspaper. Throughout the Omaha years, Elia made her voice heard and proved that not all of the women of the West were "gentle tamers." As one of the first Plains women to write editorial columns in a major newspaper that addressed public issues, Peattie's often irreverent remarks show us a side of the frontier often overlooked. An avid newspaper reader, not just of local papers but of news around the world, some of Peattie's most interesting articles and columns dealt with stories and issues that made front page news. Priding herself on the editorial nature of her features as well as her daily columns, Peattie's voice became stronger and stronger as she grew in experience and maturity. She became more outspoken on controversial current issues, such as the Wounded Knee Massacre, capital punishment and lynching, prostitution, the Omaha stockyards, beet-field workers in Grand Island, schools and child-rearing, and the need for orphanages, shelters for unwed mothers, and charity hospitals. Her views often conflicted with majority opinions, especially with those she considered to be of the materialistic, self-righteous, upper class. However, she always maintained a sense of humor, or at least a witty sarcasm, about human nature.</p>
+
+	<p>As an Omaha citizen, she worked tirelessly for philanthropic causes, was a founding member of the Omaha Woman's Club, and was active with the Rev. W. J. Harsha, who began the practice of collecting and delivering Christmas donations to the homes of poor families. As a writer for the <title level="j">Omaha World-Herald</title> for eight years, she published over eight hundred editorials, feature stories, and daily columns as well as over three dozen works of fiction, including two serialized novels, "The Postmistress of Weeping Willow" and "The Fountain of Youth: A Romance of the Supernatural." Her years in Nebraska also afforded her material for some of her best short fiction, especially her stories about the Great Plains, the West, and the Southwest. She collected eight of them in <hi rend="italic">A Mountain Woman</hi> published by Way and Williams in 1896.</p>
+
+<figure entity="ep.biography.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>After Peattie and her family left Omaha in 1896, they returned to Chicago, where she served as the literary critic on the <title level="j">Chicago Tribune</title> until 1917, served actively in the Chicago Woman's Club, the Little Room literary club, and wrote and acted in plays performed at the settlement houses. Because Peattie's husband was often ill, she wrote commissioned works or rapidly produced stories in order to maintain the family income. At one point she wrote one hundred short stories for the <title level="j">Chicago Tribune</title> in as many days to finance home remodeling. Her work appeared in such prestigious journals as <title level="j">Atlantic</title>, <title level="j">Century</title>, and <title level="j">Harper's</title>, as well as in journals such as the <title level="j">Woman's Home Companion</title> and <title level="j">The Youth's Companion</title>. Many of her stories were collected in anthologies, such as <title level="m">The Mountain Woman</title>, <title level="m">The Shape of Fear</title>, and <title level="m">The Edge of Things</title>, and she penned a series of children's books about the Blue Ridge mountains starring a young girl, Azalea. Many other stories, poems, and essays also appeared in newspapers and in unindexed journals. She based <title level="m">The Precipice</title>, her 1914 suffrage novel about a social work pioneer, on the life of Katherine Ostrander, a woman who lived with the Peatties.</p>
+
+	<p>The Peatties had four children, Edward, Barbara, Roderick, and Donald. Barbara, a poet and mother, died in 1915. Robert and Elia retired in the early 1920s and moved with Elia's mother to "Dunwandrin'," their home in Tryon, North Carolina. Robert died in 1930 in Tryon at age 73, and Elia died of heart failure, also at 73, in 1935 at the home of the eldest of her three sons, Roderick, at Wallingford, Vermont.</p>
+
+	<p>The Peattie tradition continued in their children and grandchildren. Their eldest son Roderick became a professor of geology and a long-time faculty member at Ohio State who authored a number of books on human geography. Donald Culross Peattie became a world-renowned author and naturalist, and Edward a successful New York businessman. Donald's sons continued the Peattie writing tradition; Noel was a poet and librarian at the University of California&#8211;Davis, and Mark is an author of numerous books on modern Japanese history.</p>
+
+<figure entity="ep.biography.04">
+<figDesc></figDesc>
+</figure>
+
+	<p>Born in the Gilded Age, Elia W. Peattie stood at the door of the Progressive Era and held it open for a new generation of women who would continue to seek careers, gain universal suffrage for women, promote birth control, and fight vice, filth, corruption, ugliness, ignorance, and exploitation. Her intellectual background, her use of irony and humor, her ability to employ various genres and literary approaches, and her undaunted "impertinence" produced a strong voice on the Great Plains. As a result, she became a vital catalyst for social change and a successful role model for promoting personal and professional independence for women. A loving and beloved mother and wife and a successful journalist, Peattie proved that a woman, if she wanted it, could have it all.</p>
+</div1>
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Bremer, Sidney H.">Bremer, Sidney H.</author> <title level="a">"Elia Wilkinson Peattie."</title> In <title level="m">American Women Writers: A Critical Reference Guide from Colonial Times to the Present</title>. <pubPlace>New York</pubPlace>: <publisher>Frederick Ungar Publishing</publisher>, <date value="1979">1979</date>: <biblScope type="pages">360-362</biblScope>.</bibl>
+
+<bibl><author n="Bremer, Sidney H.">&#8212;&#8212;&#8212;</author> <title level="a">"Introduction."</title> <title level="m">The Precipice: A Novel</title>. <author n="Peattie, Elia W.">Elia W. Peattie</author>. <pubPlace>Urbana</pubPlace>: <publisher>University of Illinois Press</publisher>, <date value="1989">1989</date>: <biblScope type="pages">ix-xxxvi</biblScope>.</bibl>
+
+<bibl><author n="Falcone, Joan">Falcone, Joan</author>. <title level="m">The Bonds of Sisterhood in Chicago Women Writers: The Voice of Elia Wilkerson Peattie</title>. <pubPlace>Normal, Ill.</pubPlace>: <publisher>Illinois State University</publisher>, <date value="1992">1992</date>. [DAI]</bibl>
+
+<bibl><author n="Limprecht, Hollis J.">Limprecht, Hollis J.</author> <title level="m">A Century of Service 1885-1985: The World-Herald Story</title>. <pubPlace>Omaha</pubPlace>: <publisher>Omaha World-Herald Company</publisher>, <date value="1985">1985</date>.</bibl>
+
+<bibl><author n="Peattie, Elia Wilkinson">Peattie, Elia Wilkinson</author>. <title level="a">"Star Wagon."</title> Ed. <editor n="Falcone, Joan">Joan Falcone</editor>. Unpublished manuscript.</bibl>
+
+<bibl><author n="Peattie, Robert Burns">Peattie, Robert Burns</author>. <title level="m">The Story of Robert Burns Peattie</title>. Ed. <editor n="Peattie, Mark Robert">Mark Robert Peattie</editor>, <editor n="Peattie, Noel Roderick">Noel Roderick Peattie</editor>, and <editor n="Peattie, Alice Richmond">Alice Richmond Peattie</editor>. N.p.: n.p., <date value="1992">1992</date>.</bibl>
+
+<bibl>Raftery, Judith. <title level="a">"Chicago Settlement Women in Fact and Fiction: Hobart Chatfield-Taylor, Clara Elizabeth Laughlin, and Elia Wilkinson Peattie."</title> <title level="j">Illinois Historical Journal</title>  <biblScope type="volume">88</biblScope> (Spring <date value="1995">1995</date>): <biblScope type="pages">37-58</biblScope>.</bibl>
+
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Elia Wilkinson Peattie." A Woman of the Century. Eds. Frances E. Willard and Mary A. Livermore. 1892.</bibl>
+
+<bibl>"Robert Peattie in the 1880s." Chicago Historical Society.</bibl>
+
+<bibl>"Elia and Donald, ca 1904." Courtesy Cleary Family Scrapbooks.</bibl>
+
+<bibl>"Elia Peattie, ca. 1930s." Courtesy of Peattie Family.</bibl>
+</div1>
+
+</body>
+</text>
+</TEI>

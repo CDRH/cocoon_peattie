@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+
+]>
+<TEI id="ep.ss.0010">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The McCulloughs of the Bluff</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.ss.0010</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a">"The McCulloughs of the Bluff"</title>
+<title level="m">Youth's Companion</title>
+<editor></editor>
+<pubPlace></pubPlace>
+<publisher></publisher>
+<date value="1898-06-16">June 16, 1898</date>
+<biblScope type="pages">285&#8212;286</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2007-11-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="ep.ss.0010.01.jpg" n="285"/>
+
+<head>The McCulloughs of the Bluff</head>
+
+<head type="sub"><hi rend="italic">Orignally published in the <title level="j">Youth's Companion</title> June 16, 1898: 285-86</hi></head>
+
+	<p>For the McCulloughs, the long, severe winter of 1880 was particularly depressing, as Pa McCullough was then at the worst of his "coal crankiness." He was an amiable man with red hair and a genius for chess-playing, whose family loved him dearly, though bound to confess that he was not a good provider; and had it not been for the coal discoveries near Ponca, there would have been no happier family in the country.</p>
+
+	<p>These discoveries were made at Great Bend, where the McCulloughs lived, on a bluff above the Big Muddy, at the foot of which certain sulphur-charged layers of lignite unhappily appeared. Pa McCullough became drunk on dreams of prosperity, and sent East for experts, who came and tested the stuff in a stove. It smelled to heaven and made just enough fire to spoil the corn bread which Ma McCullough was then baking.</p>
+
+	<p>"It may be," said the experts, looking as expert as possible, "that this slight outbreak of lignite may indicate the proximity of a more combustible material, free from sulphuric sediment, within the heart of the bluffs. It might pay you, Mr. McCullough to mine your bluffs."</p>
+
+	<p>This piece of amiability was the undoing of the McCullough family. From that day they went without the necessaries of life that shafts might be sunk in the potato patch; they shivered for the lack of clothes that the back yard might be blown up, and at length actually saw the house crack and settle because of the tunnelling underneath it&#8212;a domestic disaster which did not particularly arrest the attention of Pa McCullough.</p>
+
+	<p>He, poor man, grew more abstracted every day, and spent most of his time in the shafts, working like a fiend; or in a fit of discouragement he would lie on the sofa with broken springs, back of the wood stove, and stare at a cardboard manikin which sawed wood on the stovepipe.</p>
+
+	<p>Hugh, Myrtle, and the two little boys, Ernest and Tuppin,&#8212;such a restless family!&#8212;must have revolted against pa's immolation of them had they not made up for their sufferings by jollity. There was a banjo in the house, and as every McCullough could sing as naturally as breathe, the old bluff used to ring with melody. Ma McCullough liked the fun as well as any one, and had a big, beautiful contralto that would break your heart in a negro melody, such as the McCulloughs were given to singing.</p>
+
+	<p>They all danced, too, and though ma would utter many warning about shaking the roof down over their heads,&#8212;it being so insecure since the tunnelling,&#8212;yet, if the jig was not gay enough, ma had to join in herself, showing, as she did so, a perfectly bewitching foot, which even her old shoes could not altogether disguise.</p>
+
+	<p>"Your grandfather, my dears," she used to say to the children, "had the finest shaped leg in the province of Ulster, and in black velvet smalls he was one of the finest gentlemen you would care to see. When I was a little girl I used to unwind his stock for him, and cross my heart! If I didn't use to run around the blessed man twelve times and a half before it was done, and him standing all the time, like a May-pole in a field, for me to do it."</p>
+
+	<p>It may have been from Grandfather O'Connor that all the McCulloughs inherited their remarkable agility; at any rate, it was well known that nobody in that part of the country could compare with them in running, skating, dancing, throwing of quoits or leaping. Myrtle, of course, discreetly concealed her abilities, as became a maiden, excepting in dancing and skating. It must not be thought strange that, in their poverty, the McCulloughs were all the possessors of skates, for they were people who managed to have those things which were necessary to their happiness. Wearing patched clothes did not worry them, and they did not look upon whole shoes as essentials; but when the broad Missouri showed a glare of ice it was necessary for the McCulloughs to have skates.</p>
+
+	<p>Every one of the McCulloughs&#8212;except pa&#8212;had bright blue eyes and long, black lashes, and brows that almost met above their straight noses. Their hair curled softly and was black as a crow's wing, and their bodies, erect, slender and firm, seemed calculated to endure almost any fatigue.</p>
+
+	<p>Some said that they were not industrious, but the word industry seems not quite the right one to use in connection with this family, which, though capable of fierce spurts of work, had moments&#8212;and these were always arriving at the most unexpected and inopportune times&#8212;when the pursuit of the joy of life was all there seemed to be for them.</p>
+
+	<p>At such times they gave themselves up to a festival of mirth, and it is probable that all of them, save pa, thanked God every night for being alive. The McCulloughs forgot many things, but never their prayers, and, in fact, they showed such hearty and happy devotion that many of their more serious-minded neighbors looked at them in disapproval. They couldn't quite understand why the McCulloughs took their religion so naturally and without any accompaniments of depression or spleen.</p>
+
+	<p>As the cruel winter went on, however, even the cheerful faith of the McCulloughs was tried. They didn't like to admit it, but they felt the lack of hearty food, and if it hadn't been for Hugh's rifle, they would have been more inconvenienced than they were.</p>
+
+	<p>Myrtle kept on with her studies, hoping there would be a vacancy some day, in some school near home, which she would be asked to fill. She watched the bitter days go by without unnecessary fretting, and rose rather late in the morning because she went to bed late at night. Indeed, when the McCulloughs got around their fire, talking, singing, or story-telling, the night might slip away like a thief, and no one be any the wiser.</p>
+
+	<p>In spite of all this good nature, things began to grow desperate. There came a morning when Myrtle forgot to twist up her hair after braiding it, but with the massive plaits falling down her back sat dejectedly by the fire.</p>
+
+	<p>"If there was anything to do 'round here I'd be doing it," Hugh said, as he had said fifty times before. "Of course, I might go off and try my fortune somewhere else, but the truth is, Myrt, I'm afraid to leave you and ma. Suppose pa should get worse about the coal! Oh, if only something would wipe those lignite beds out of existence! Then pa might come to be as well as ever. But the question is, Myrt, How are we to take care of the family?&#8212;for we've got to do it somehow!"</p>
+
+	<p>Myrtle was dejected as only a high-spirited person could be. Her imagination, usually Hope's faithful handmaiden, was now running numbly after Despair. The sky without was low and gray. The wind got a fierce sweep up there on the bluffs, which stood out on one of the largest bends along the whole Missouri.</p>
+
+	<p>It seemed as if the gales and the sullen waters fumed at this obstacle in their path, while Hugh and Myrtle sat down together that morning to face the problem of existence. Pa had gone to the village for dynamite bombs for blasting, and the little boys were at school, and ma was in the kitchen making bread.</p>
+
+	<p>"Look at this room!" cried Myrtle at last. "Did you ever see such a place for sheltering humans?"</p>
+
+	<p>Hugh's eyes followed the dramatic gesture of her arm. The room was peculiar. The plastering was so cracked that it had fallen in many places. Yet some of Frederick Remington's Western sketches were pasted over the places of ruin, and a picture of Angelica Kauffmann and the Muse, in a tarnished frame, hung above Myrtle's desk.</p>
+
+	<p>Two brick supplied the place of one of the legs of the stove. The old oak table in front of the fire was surrounded by a number of chairs in a greater or less state of dilapidation. The broken-backed sofa was behind the stove, and the big wood-box at its foot. Ma's embroidery frame hung on the wall with Hugh's rifle and Myrtle's guitar and the family skates.</p>
+
+	<p>"Well, I say," said Hugh, who had never before looked at the place with such observing eyes, "it is a queer hole, isn't it? I can't tell for the life of me whether it seems more like the retreat of decayed gentlefolk or the home of confirmed cranks!"</p>
+
+	<p>Just then there was a knock at the door, and Hugh opened it to Donald Bain, the sheriff of Yankton County in South Dakota, across the river.</p>
+
+	<p>"Ha!" cried Hugh, the glow coming back to his face, "come in, you minion of the law! Come in, you constable, you gendarme, you cop! How're the heathen at the north? How are the folk in Dakota?"</p>
+
+	<p>The sheriff was a big fellow with a wilderness of black beard and hair, and eyes as soft as those of an ox. His coonskin coat reaching to his heels, and his cap and gloves of the same material, gave him the appearance of an interesting savage. He divested himself slowly of his wraps, and shook hands respectfully with Myrtle.</p>
+
+	<p>"I'm thinkin' they'll all be well," he said, replying to Hugh's question. "But chilly. Folk are chilly, thereabout, Hugh, my boy."</p>
+
+	<p>"Chilly! I'll challenge them to be any chillier than we are, Bain; and the worst of it is that our hearts are getting cold, too. Yes, by Jove, they are!"</p>
+
+	<p>"That'll no go doon with me, Hugh, man. The heart of a McCullough of the bluff does not grow cold&#8212;till the best has gane oot o' it; but what's the matter, eh?"</p>
+
+	<p>"Matter? Why, no clothes, no food, no prospects, no work, no books, no anything but 'wind and weather!' Isn't it so, Myrt? Nothing but 'wind and weather!'"</p>
+
+	<p>"'Poor Tom's acold,'" said Myrtle, with a mock shiver. Her fit of despondency had vanished.</p>
+
+	<p>"It grinds me sore," said Bain, holding his feet to the fire, "to have you folk wantin' work when it's in my power to gie it to ye, if you only belonged to my&#8212;"</p>
+
+	<p>"Clan," put in Myrtle.</p>
+
+	<p>"To my state. Now you reached your majority last month, Hugh, as you told me, and if you were in my county I'd make you deputy. Hinman died last week, and I've his place to fill, and you're the lad with the brawn and the grit for it. As for your sister,"&#8212;his voice took on a tone of greater consideration&#8212;,"as for her, if she were in Yankton County I could get her a school up Adelia way. I have friends there who could manage it for me; and they need her up there!"</p>
+
+	<p>"You would send her as a Roman priestess to the northern hordes, I suppose," suggested Hugh.</p>
+
+	<p>"Precisely, man! Precisely! A Roman priestess to the northern hordes."</p>
+
+	<p>They all laughed at this so much that ma heard them, and came in with a loaf of hot bread under her arm and a cup of molasses in her hand. As she greeted her guest she cut big slices of the soft loaf, and distributed plates around the table.</p>
+
+	<p>"Here's a welcome warm and sweet for you," she said. "Draw up, Donald Bain, and eat such fare as we have."</p>
+
+	<p>"Any fare would have a good taste that you gave, madam," said the gallant Scotchman, placing a chair for her, "and I'll eat it with a grand appetite if you'll eat with us."</p>
+
+	<p>So they all drew up their chairs, and as they dipped the hot bread in the molasses, they told their stories and cracked their jokes. But while this lightened the hours of the day, it didn't make the prospects of the McCulloughs any brighter.</p>
+
+	<p>"If you were only on the other side of the Big Muddy, Hugh, man," said the sheriff, in parting, "I'd straighten things out for ye! And remember, if things come to the worst, I've a shack that's no so bad, where you and all your kin are welcome."</p>
+
+	<p>"Oh, go along, Bain!" cried Hugh, furious with himself for the tears that came over their barriers, "get along home with you! I know that! We all know that! But that isn't what we want!"</p>
+
+	<p>After this the sheriff of Yankton County came often to see the McCulloughs. He brought some fine cocks for the little boys to put in their poultry-yard, got the poems of Clarence Mangan and Allan Cunningham for Myrtle, made Hugh a present of "Treasure Island," kept ma supplied with Ceylon tea, and would, perhaps, have brought pa some dynamite bombs&#8212;pa's favorite luxuy&#8212;had it not been that he could not approve the "coal crankiness."</p>
+
+	<p>However, at the first of April, the young sheriff was forced to discontinue his visits. The ice was breaking up on the river. There was nothing for him to do, but wait till the chinook winds and the abundant sunshine had done their perfect work.</p>
+
+	<p>Never was such a breaking-up as that of the Missouri in 1881. The river widened into an <pb id="ep.ss.0010.02.jpg" n="286"/> inland sea, and submerged the richest farms in Dakota. The great ice-gorge reached for seventy-five miles up-stream, solid to the sandy bed of the river, and rose twenty feet above its usual surface.</p>
+
+	<p>The water, thus obstructed, rushed upon the country, carried away every building on Green Island, took the church of the Santee agency down the river, its bell ringing all the way, and put Vermillion under fifteen feet of water. The community became suddenly aquatic.</p>
+
+	<p>Hugh McCullough was up to his eyes in exploits, and his blood was running faster than it had ever run before. He rescued men from floating trees, took a whole family off the roof of a nearly submerged building, and enjoyed himself better than ever before in his life. Every one he rescued he took to the house on the bluffs, where ma had, most fortunately, a bag of corn-meal and a keg of pork, saved against a rainy day.</p>
+
+	<p>Meanwhile, events were on the heels of the McCulloughs&#8212;and events, as Hugh had many times complained, were among the many things of which they stood in need.</p>
+
+	<p>One night Pa McCullough stood at the foot of the bluff,&#8212;or as near the foot of it as the hurrying waters would permit,&#8212;and by the light of a wild moon, watched the frenzied water forcing its way past the ice-gorge, and taking with it, inch by inch, the fatal coal beds. By his side, with her arms around him, was Myrtle, indefinably anxious. The picture before them was a terrible one, yet in the midst of all the tumult, pa seemed quieter than he had for months.</p>
+
+	<p>It seemed as if the roar grew louder every moment; it sounded subterranean. Myrtle tried to think that her senses were becoming confused, but such consolatory thoughts were banished by Hugh, who came leaping down the bluff, white-faced.</p>
+
+	<p>"The river's at its old tricks!" he yelled. "She's making a new channel, and she's making it at the base of the bend!"</p>
+
+	<p>"Get mother," cried Myrtle, realizing in a second all this might mean. "Get the boys! Let us go together!"</p>
+
+	<p>But more words were impossible. A deafening roar, a wrenching as if the earth were being torn apart by the elements, and the Missouri had made an island of the Great Bend. The determined waters had tunnelled a place for themselves, and rushed through, sweeping along the solid earth, which collapsed and became part of the debris.</p>
+
+	<p>Hugh and Myrtle dragged their half-conscious father up the bluff and made for the house. Its weak walls had fallen, but the inmates stood safe, and the ground round about was firm and at a secure distance from the cavernous path of the wild river.</p>
+
+	<p>"The house is gone," yelled Ernest, as if that fact were not quite obvious.</p>
+
+	<p>"And the coal's gone," shouted Myrtle. "Hooray!"</p>
+
+	<p>"And the farm's gone!" shrieked Tuppin, who stood clutching his favorite cock under his arm.</p>
+
+	<p>"And the river," concluded ma, "is still going!"</p>
+
+	<p>Well, they got through the night not so badly, what with big fires, and the wildness of the scene around them, and the comforting reflection that thus far no lives had been lost.</p>
+
+	<p>In the morning the McCulloughs roasted potatoes in the coals, and fed their guests, who were presently taken off in boats; but the McCulloughs stayed where they were. Their friends urged them to leave, but Hugh had a bee in his bonnet, and would not go.</p>
+
+	<p>"We shall see what we shall see," he said, kissing his mother. So they utilized one of pa's old coal chambers for a residence, and put up the remnants of their stove there, and made themselves as comfortable as they could.</p>
+
+	<p>The Missouri flowed along its new bed, while the ice melted with much groaning. Where the old bed had been were wide bottom lands, still submerged, of course, where, in course of time, the aspen and willow would grow.</p>
+
+	<p>At the earliest possible moment Sheriff Donald Bain came rowing across this lowland, and Hugh and Myrtle rushed down to the jagged and wave-eaten foot of the bluff to help him land.</p>
+
+	<p>"Well," he said, as he shook them both by the hand, "I was trying to devise some way of making you Dakotans, but Providence has taken it oot of my hands. Do ye realize that your territory is forever severed from Nebraska?"</p>
+
+	<p>"We realize," responded Hugh, "that we belong to the northern hordes."</p>
+
+	<p>"I came over to tell you that you're to be my deputy as soon as the law can make you such."</p>
+
+	<p>"All right," said Hugh. "What next?"</p>
+
+	<p>"Get oot your boat and put part of the family in. I'll take the ladies, and you look after the others. You are to come to my shack till your own house is ready."</p>
+
+	<p>"Done! We've nothing to carry, so there'll be no time wasted. My boat is in slivers, but you take ma and Myrtle, and in an hour we'll knock a raft together and be with you."</p>
+
+	<p>"Isn't this wonderful?" said Myrtle to the sheriff, as Hugh went plunging up the bank after his mother. "To think we are going to be free from coal, and to have work and be respected citizens! I do hope we'll enjoy it!"</p>
+
+	<p>"Enjoy it! Why not?"</p>
+
+	<p>"Oh, I don't know! We've been irresponsible so long! I suppose you can get a school for me."</p>
+
+	<p>"Why, yes," he said, slowly, "if you really think you want it, I believe I could get it for you, Miss Myrtle."</p>
+
+	<p>"Of course I want it," cried the girl, shaking back her wayward curls. "Hugh can't take care of the family alone."</p>
+
+	<p>"Oh," said Donald, growing quite red, "I didn't say that I wanted him to do it alone."</p>
+
+	<p>But just then ma appeared at the top of the bluff. "Hulloa," she called to the sheriff, "what are you doing on my principality!"</p>
+
+	<p>"Come to ask for your abdication," shouted back Donald. "Wait a moment and I'll assist you down," which he did, gently, and placed her in the boat. Myrtle leaped lightly in without assistance.</p>
+
+	<p>As the sheriff seated himself and rowed off across the muddy waters, he could see the two little boys tossing boards over the edge of the bluff to Hugh, who stood below. Pa McCullough waved a saw and hammer at them in farewell.</p>
+
+	<p>"We'll have a raft in an hour," he shouted.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

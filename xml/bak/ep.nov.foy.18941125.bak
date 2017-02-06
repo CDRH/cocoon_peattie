@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18941125 SYSTEM "ep.nov.foy.18941125.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18941125">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-11-25">25 November 1894</date>
+<biblScope type="pages">18</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.nov.foy.18941125">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p18"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By. Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">CHAPTER VII.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>The ground rose rapidly from the edge of the marsh to a swelling hill, and this we mounted with lighter feet. I had not yet spoken to my friends. But I felt sure of their forgiveness. We were all too much spent to waste strength on speech.</p>
+
+	<p>"The people live beyond y the hills," said De Vega. "Climb the hill, and they will see us and come to our aid."</p>
+
+	<p>Above and beyond the hills, we could see a vast red mountain rising, its head swathed in folds of fleece. Down its bare sides hung trailing mists clothing it in evanescent beauty. A path led through the thicket we were penetrating, and there were no obstacles in our way, or I think we could none of us have mounted that hill.</p>
+
+	<p>De Vega almost ran on before us. His limbs were trembling. His face was beautiful with rapture. All of his fears were forgotten in the delight of returning to his beloved home. As we reached the brow of the hill he gave a shout of joy.</p>
+
+	<p>"The ceremony of the sun and the moon," he cried. "You must see it. Come, come!" He ran down and dragged first one and then another of us to the top of the hill, and we looked down on a sight such as few men have ever seen.</p>
+
+	<p>We were looking into the tropics, if one were to judge by the vegetation. The palms, the banana plants, the fern trees, the pepper trees with flower and fruit and frond-like leaf, the paradise tree, with its heavy bloom, the trailing vines, the fields of maize were such as I had never dreamed of.</p>
+
+	<p>And in the midst of the valley stood a city&#8211;a city built after the hint that nature had given. But I will describe that later. What fastened my eyes was a procession of men and women, carrying myrtle boughs, who moved majestically down the valley, chanting and swaying as if drunk with the rapture of the morning and the joy of life. They wore belts and wreaths of flowers, and leading the procession were four young girls, who seemed to be garmented in magnolia blossoms, while with straps of deer skin there dangled from their shoulders a swinging basket, in which lay a babe buried in lilies.</p>
+
+	<p>"They take the child," said De Vega, "to bate him in the fountain of youth. This is the ceremony with which all the young are given their right of eternal life. It can only occur when the sun and the moon are at once visible."</p>
+
+	<p>We looked toward the west. There, though the sun was rising splendidly, and arms of purple and red stretched up to the zenith, the moon was yet visible, though pale and far spent. The chant which arose to our ears as the procession neared us in the windings of the road, was such as man never before heard, with its endless repetitions, its strange abrupt choruses, its intermingling of phrases. From out the majestic perplexity of the interweaving harmonies, I caught a part of the words. As for the music, it seemed the natural outpouring of inexpressible exaltation, and not like any melody that could be devised, or transcribed, or remembered. It was <sic corr="as">a</sic> natural as a smile or a tear, and was no more invented by man than either of these things. Now the chant was full of gloom. Now it was as glad as deathless voices could make it.</p>
+
+<lg type="poem">
+
+		<l rend="indented2">See death loom!</l>
+		<l rend="indented2">Death is a doom!</l>
+<l>Here by the light of moon and of sun,</l>
+<l>Stay inthe glass the sands as they run.</l>
+		<l rend="indented2">Stay them, stay!</l>
+		<l rend="indented2">Dawn and day,</l>
+<l>Lighten a life that is rescued from death.</l>
+<l>Fix in this body the unceasing breath.</l>
+<l>Out of the mystical heart of the earth,</l>
+<l>Heedless alike of the rains and the dearth.</l>
+<l><seg>With the shining and scintillant soul of</seg>
+	<seg>the sun,</seg></l>
+<l><seg>Ensnared in its myriad streams as they</seg>
+	<seg>run,</seg></l>
+		<l rend="indented2">Flows the Fountain of Youth.</l>
+<l>Drink!</l>
+	<l rend="indented2">Death is dead!</l>
+		<l rend="indented3">Death is doomed!</l>
+			<l rend="indented4">Drink!</l>
+				<l rend="indented5">This is truth.</l>
+					<l rend="indented6">Death is dead.</l>
+
+</lg>
+
+
+	<p>The procession moved on to where my eye could catch the flash of water leaping down the mountain.</p>
+
+	<p>"There is a basin," said de Vega, "which is lined with the marvelous green light and where the bathers go, and yonder through the valley flows the stream."</p>
+
+	<p>So enfeebled were we in body and in mind by our long hardships that it was not in nature that we should look upon such a scene unmoved. Bryan lost all control of himself.</p>
+
+	<p>"They have eternal life," he cried, "and we here are watching youth die. Already my limbs feel aged. Already my heart has known sorrow. That fountain is mine. It is mine." He started to rush down the hillside, into the valley, but De Vega caught him and held him in a firm grasp.</p>
+
+	<p>"Friends," said he, solemnly, that high gaze of his fixed on Bryan's delirious eyes, "wait. I bid you pause, because I love you. Wait, and think." Bryan looked at him like a weary child. Then his head dropped forward. He fell in De Vega's arms, and the Spaniard dragged him down the slope, while we followed.</p>
+
+	<p>I was dimly conscious of passing by long avenues, lined with palms and gardens, above which rose the roofs of houses. We met no one on the street. The place was deserted except for some pink birds, large as peacocks, that flew with a slow and pretentious movement from palm to banana tree. Our progress was slow, for none of us had power to help De Vega, and he alone bore the burden of Bryan's body. And, besides, the street was steep and we grasped at the trees and shrubs to help us along. De Vega, not more than a quarter of a mile from the beginning of the avenue, turned into one of the gardens.</p>
+
+	<p>"I shall be able to give you abut a poor welcome," he said, "for my hearth will be deserted. My people think me lost, or mad."</p>
+
+	<p>But he was mistaken. In the shade of a pepper tree lounged a young man, brown and comely as a statue of bronze, and almost as naked, except for a crimson loin cloth. His fine arms were flung above his head, and he lay looking up at that dazzling sky with the unblinking glance of an eagle. I cannot tell why a little thing like that should have attracted me in the midst of my suffering&#8211;but I noticed his eyes and the curling hair on his brow, and his arched feet and beautiful hands. He saw us and sprang to his feet, staring. Then after a moment of hesitation, he threw himself forward and wrapped his arms about De Vega's neck.</p>
+
+	<p>"Master," he cried, "I knew if I waited you would come. They said to me, go. But I said I will keep the fire on the hearth. Some day my master will return."</p>
+
+	<p>"Go before, Juan," said De Vega, "and make ready a couch to lay my friend on."</p>
+
+	<p>"Your <unclear><!-- about four letters --></unclear>h is read," said the servant,  an <unclear><!-- about three letters --></unclear> lifted the limp body of Bryan from <unclear><!-- about two or three letters --></unclear> master's shoulders, and walked <unclear><!-- two short words? --></unclear> it, swaggering along in the very <unclear><!-- one word --></unclear>do of perfect strength.</p>
+
+	<p>De Vega <unclear>c</unclear>ounted the steps of his house, and then turned and held out a hand to each of us. "Enter," he said. "And welcome. This roof is yours and all beneath it. There is no difference between those things which are mine and those which are yours. We are brothers."</p>
+
+	<p>Bridges looked up giddily. "Forgive me," was all he said. Then we were led into a spacious room, and seated on a couch of skins, and I remember little more save dimly. I know that I felt warm. Deft hands passing back and forth over my body, that streams of warm water seemed to be pouring over me, soothing me deliciously, that I had drinks and delicate food, and that at last a pipe was placed in my mouth, and I smoked for a moment and it was withdrawn, and then there came over me a sleep so profound that for and hours I lay without motion, yet with a strange happy consciousness of sleep haunting the dulled perceptions of my brain.</p>
+
+	<p>When I awoke the starlight was shining in the room. I arose, stiffly, and looked about me. The apartment was a long, low one, with rafters of unhewn palmetto trunks for a roofing. A quaint arrangement of bark, paneled with no small degree of art, composed the sides of the room. The floor seemed to be a sort of cement, in which millions of sea shells of many colors formed the base. Several small casements opened on the garden, and from before these, curtains of skins were drawn. On these curtains was a wealth of embroidery in threads of dull gold and of some wooden thread that seemed like the split root of the cedar. Others were decorated with a curious and very beautiful embroidery of minute shells. Skins of various sorts were on the floor, and on the couches, and over the carved chairs were thrown squares of fabric that resembled raw silk, coarse in texture, but beautiful in color, and very strong. A few particularly fine skins hung on the walls, and above a fire place there was a carving in ebony for Christ on the cross.</p>
+
+	<p>In the center of the room stood a long table, with a top of some polished stone. On it was a dish of fruit, a bowl of some pleasant distilled juice, a plate of meat and some koonti cakes. I sat down and ate my fill. Then I wandered out on a broad porch, held by firm uncut pillars, twisted 'round with vines on which grew a star-like purple flower, not unlike the clematis, and having a delicious odor. Great foliage plants of red and amber and many shades of green sat round about the porch, all looking dark and dim in the starlight. Beyond, a fountain splashed faintly and fitfully, and an orange tree poured out its fragrance on the night air. The world was slumberous. The languor, the silence, the perfume, the passionate heavens, seemed a part of the world in which sorrow and sin and death had no place.</p>
+
+	<p>And death was indeed banished. But, I asked myself, did sorrow and sin remain? I had heard of those occult philosophies which claim that disease is sin, and now before me lay the power to test their theories.</p>
+
+	<p>Like an answer to my question came the figure of De Vega from behind a thicket of dark shrubs. He walked with his head bowed on his breast, singing to himself that love song I had heard him sing before, in a far distant hammock:</p>
+
+
+<lg type="poem">
+
+<l><seg>Hanging with mosses and dipping with</seg>
+	<seg>dew,</seg></l>
+<l>I leap through the lush clinging grasses.</l>
+<l><seg>The spice on your hammock guides me</seg>
+	<seg>to you,</seg></l>
+<l>And I wait while the slow moon passes.</l>
+</lg>
+
+
+	<p>The words are those of a triumphant lover. The tone was that of a hopeless one who feeds in fancy on the joys that must forever be denied him, as a starving man feeds on visions of luscious foods.</p>
+
+	<p>This was sorrow. There was no question about that. But was there sin?</p>
+
+	<p>I determined to ask De Vega the question. He came nearer and I called his name. He came to me and held out his hand.</p>
+
+	<p>"No," he said suddenly, withdrawing his hand. "Let me kiss you on the cheek, as dear friends may in this country. I like your friends, but not as I like you. For you have trusted me from first to last. I shall have no secrets from you. In all that may come of trouble to you and me, I will be by your side."</p>
+
+	<p>"There is trouble here, then," I said. "It seems strange that in a land so beautiful there can be suffering."</p>
+
+	<p>"There is torment," returned De Vega, "wherever men and women live and think. For the mind struggles ever upward. It continually grows. And the struggle is a pain, and knowledge is grief."</p>
+
+	<p>"De Vega, answer me one thing. Have you sin here, too. Or shall we escape sin here, and all temptation?"</p>
+
+	<p>The Spaniard turned on me fiercely. His eyes were electrical.</p>
+
+	<p>"Thank God, who rewards all goodness, that sin is present here as elsewhere. We have sin because we have life. To take sin from life, my brother, would be like taking the color from the flowers, or the bitter from food. How would we know the orange flower was white if the oleander were not red? Or how could we tell that the sappadillo were sweet if the guanavana were not sour? It is necessary to have sin that we may have innocence." He walked with his arm thrown about me. His magnetic presence seemed to control my very will. I should have thought anything he thought at that moment, no matter what it might be. If I had thought him handsome before, I thought him kingly now, dressed in fresh and fine garments of dun colored rude silk, embroidered with the yellow lotus flower, and perfumed with the scent of orange blossoms. On his hand were rings with red jewels in them, and on his feet moccasins of deer skin, dressed with pointed beads. His manner was free and friendly, but elegant. His speech was prouder than before. He had established his truth. He stood among his own possessions. He was as much a gentleman as any that ever wore the garments of civilization and quoted the books of scholars.</p>
+
+	<p>"Tomorrow," he said, "I shall go before the council, and lay before them my conduct and if necessary for the sake of my honor, I will tell the reason of it. I shall take you and your friends with me, if you are willing, and we will know what they may decide concerning our future."</p>
+
+	<p>I cried out in consternation: "But you do not mean that you will tell these men that you left the country because of your love for a woman."</p>
+
+	<p>"Why not?" he said simply. "We do not conceal our loves. Do you so in your country? We look on unfortunate love as one would look on a man born with a crooked back. It is a misfortune which all must pity&#8211;even she who inspires the love."</p>
+
+	<p>"In my country," I replied with shame, "we often make a jest of it. And we always conceal it if we can."</p>
+
+	<p>"Do you so?" he cried in astonishment. "Neither man nor woman hides love here. If a woman loves she says she does, and the man she loves gives her his love in return if it is possible for him to do so. If he cannot, he tells her so, and after that all men look on that woman as a wife, and leave her to her sorrow until it is healed. Many know how I have loved Opaka. But many men have loved Opaka."</p>
+
+	<p>"And has she loved none yet," I asked.</p>
+
+	<p>"None. She loves other things. She spends nights under the stars. She has a name for each of them, which she keeps in a book. She knows when every flower should blossom, and every bird brings out its young. She tames the turtles. She has even taught a bird to speak. And she reads the hearts of the people, and writes out the secrets of the soul, so that no man who knows her well can choose but love her."</p>
+
+	<p>"Poor friend," I said, leaning against his strong side, "I grieve for you. I feel the passion of your love. I have never loved in all my life. And now I rejoice, for should love ever come to me, I will look on it as you have taught me to look, without shame, and with great thankfulness."</p>
+
+	<p>He threw himself on the bench that stood near the fountain that spouted up in his garden, and motioned me to follow his example.</p>
+
+	<p>"Tell me something of your life," I said. "How do you live? Your fortune seems great. Has each man a following of his own here? Have you makers of garments and of bows and houses?"</p>
+
+	<p>"We have all those things," he said. "And I have a mine in the side of the Red mountain, over toward the southern swamp. And I have a sluice of cedar, the only one in all the country, and it carries water for many miles. It was my own invention, that sluice. Have you any such thing in your own land?" I told him we had, and described mining to him as well as I could. He was profoundly interested, and he told me he would take me to see the furnace where he smelted his gold.</p>
+
+	<p>He told me much of the island, of its industries, its government, its customs. The government and the church were one, and the Christian faith was universal among the people, only there were old Indian superstitions which they had all come to believe in. As to law, that was also Christian. Aside from land laws, and the prohibition against leaving the island the laws appeared to be insignificant. Marriage was solemnized much in the manner that it is in other countries, but treachery to the marriage vow was punishable with death. The penalty of death appeared to be inflicted for all serious offenses.</p>
+
+	<p>"It would be difficult to have any other sort among people who have no need to die," explained De Vega. "We could not keep a dangerous or a very wicked man imprisoned for life, for that would be too inhuman. The wretch could never look forward to release by death. But though our laws seem harsh they are not so, for the very harshness defeats itself. It prevents crime. There have been but few executions in the history of the country.</p>Suddenly there came a thrice repeated scream out of the dusk&#8211;it seemed the very voice of the gloom.</p>
+
+	<p>"The day bird," said De Vega. "Day is coming. Let us in and rest. I will awaken you when your friends arise."</p>
+
+	<p>"Is Bryan well," I asked.</p>
+
+	<p>"Your friends are well," said the Spaniard, and we parted. I laid on the couch and fell into a gentle and dreamful sleep, and only awakened when 'Sin, with a blue loin cloth about his bronze body and a string of scarlet beads about his neck, came to awaken me that I might see his new finery.</p>
+
+<p rend="center">(To Be Continued.)</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18960806 SYSTEM "ep.owh.18960806.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18960806">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18960806</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1896-08-06">6 August 1896</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-11-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18960806">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+
+<div1>
+
+<!-- <head type="main">A WORD<lb/>
+WITH THE WOMEN</head> -->
+
+<head type="main">A WORD WITH THE WOMEN</head>
+
+<byline>(By Elia W. Peattie.)</byline>
+
+	<p>There had always been strange stories about the house, but then, it was a very sensible neighborhood and no one paid much attention to them.  It was commonly remarked, however, that considering what a lot of money the Henrys had spent on the place, it was curious they did not live there more. As a matter of fact they were nearly always away, and when they were home, it was only to entertain a number of guests from the city. The place was either wrapped in desolation or plunged in gaiety. A good part of the year, however, the people were either off to summer seas or to winter operas, and the gardener who lived in a little cottage well back in the shady yard had things his own way.</p>
+
+	<p>Dr. Block lived next door, and he and his wife, who were absurd enough to be very happy in one another's company, had the benefit of the beautiful yard. They walked there in the evening, and early in the morning, when the leaves were silver with dew. The doctor's wife moved her room over on to the side of the house that commanded a view of the yard, and so made the greenery quite her own. She could command a view of the front door; she could enjoy the flowers; she could speculate about the mystery which hung impalpably, yet undeniably, over the house.</p>
+
+	<p>It happened one night, whom she and her husband had gone to their room, and were congratulating themselves on the fact that he had no very sick patients and was likely to have a good night's rest, that a ring came to the door.</p>
+
+	<p>"If it's anybody to take you out," she said, "just tell them to go for someone else. You have been out every night this week. Let someone else do some of the hard work." The young physician went down stairs. A man stood at the door whom he had never seen before.</p>
+
+	<p>"I live next door to you," he said, "and my wife is very ill&#8211;so ill I fear she will not live till morning. You must come."</p>
+
+	<p>"You live next door!" exclaimed the doctor. "Why, the Henrys are away, are they not? When did they return?"</p>
+
+	<p>"I live next door," reiterated the man, "you must come. My wife is dying."</p>
+
+	<p>The doctor went up stairs to complete his toilet.</p>
+
+	<p>"How absurd," cried his wife when she heard of it all, "you must not go. No one has gone in the house today. I have been sewing by the window since early morning, and no one has entered. It is a plot. Some stranger has designs on you. I will not let you go."</p>
+
+	<p>But he went. As he left the room his wife placed a revolver in his pocket.</p>
+
+	<p>The strange man led the way up the outer stairs, opened the door and ascended to the front room. On the sofa lay a beautiful woman, apparently dying of consumption. She was silent, only following the doctor's motions with longing eyes, and now and then turning a glance of mingled despair and affection upon the other man. He asked such questions as the doctor asked. She seemed incapable of the exertion of speech. The doctor gave her some remedies which would stimulate her over night, and wrote a prescription which he placed on the shelf above the fireplace.</p>
+
+	<p>"The drug store is closed tonight," he said, "and the druggist gone home. You can have that filled the first thing in the morning and I will be over before breakfast."</p>
+
+	<p>He told his wife when he reached home, but she only shook her head and turned her face to the wall.</p>
+
+	<p>The next morning the doctor crossed the yard before breakfast, intending to enter it. He tried the door, but it was locked. The old <sic corr="gardener">garnener</sic> came around from behind the house and looked at him in amazement.</p>
+
+	<p>"I want to get in," explained the physician. "I was called to see a very sick woman here last night. I promised I would call again before breakfast."</p>
+
+	<p>"Why, doctor, there ain't no sick woman in thar! There ain't no one t'home," complained the gardener. The physician insisted. The gardener unlocked the door, and the two men went up stairs. In the room where the physician had stood the night before the dust lay thick over everything&#8211;lay thick over the sofa where the beautiful dying woman had lain.</p>
+
+	<p>"There now!" said the gardener with an accent of disgust. But the doctor walked to the shelf above the fireplace. On it lay his prescription. He folded it up mechanically and put it in his pocket.</p>
+
+	<p>"All right," he said to the gardener, and they descended the stairs together. Then the doctor told his wife.</p>
+
+	<p>"Well!" she said. Then she and her husband were silent a long, long while.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

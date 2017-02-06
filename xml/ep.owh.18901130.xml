@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+]>
+
+<TEI id="ep.owh.18901130">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">What the Women are Doing</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18901130</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">What the Women are Doing</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<biblScope type="volume">26</biblScope>
+<biblScope type="number">61</biblScope>
+<date value="1890-11-30">Sun. Nov. 30, 1890</date>
+<biblScope type="pages">unknown</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-09-04</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="unknown"/>
+
+<div1>
+
+<head type="main">What the Women are Doing</head>
+
+
+	<p>Please excuse the impertinence, ladies of Nebraska, but have you ever been obliged to go without stockings? Did you ever know what it was to go through the winter without any flannel underclothing and only a calico dress very faded and inclined to treacherously display your elbows?</p>
+
+	<p>You ladies who draw on soft silk stockings, daintily colored, and enjoy the warmth and elegance of the pink silk garments that hide themselves beneath linen and lace; or you who take the comfortable and simple garments, stop for a moment, right in the present embarrassing but probably picturesque condition to which I have reduced you, and do not finish your toilet until you have thought about those other women in the western part of this state who need the garments which you impatiently throw into the waste bag.</p>
+
+	<p>You  who have always been warm and well fed and dainty, you who have considered perfume and cherry lip and complexion powder necessities of life; wait for a moment and try to reason out what the necessities of life really are.</p>
+
+	<p>Fire, you will grand, is a necessity here in Nebraska. Try to fancy one of those bleak storms sweeping from the west, white and frightful, made up of prongs, infinitely fine and sharp, or bleakest ice, the wind curving and sweeping, twisting the ice in terrible spirals up to the sky, and sending it down in a blinding cloud. You have seen storms like that.  You know one may come here, any moment, right out of this perfect sky and October mildness. Then fancy having no fire. Think of not knowing where a stick of wood or a scuttle of coal, or even a cob of corn, is to come from.</p>
+
+	<p>You know very well where there are women in just this plight&#8212;women who might have to watch their children freeze if one of those storms came.</p>
+
+	<p>Tonight when you are undressing the baby, as you drop its fine and comfort-giving garments on the floor one by one, and kiss the warm pinkness of its glowing little body, perhaps you will not forget those other babies that have grown thin for want of food, and purple for want of warmth, and coarse skinned for want of covering.</p>
+
+	<p>It depends very largely on the women whether or not these families in the western part of the state shall be relieved. Everything does depend largely on the women. It is the women who will send the clothes; it is the women who will make sacrifices that coal and food may be sent; it is the women who will have hearts to pity and the tact to inspire relief.</p>
+
+	<p>There should not be a superfluous garment left in any home in Nebraska while there are other homes without garments enough to keep their inmates from suffering. Remember that. You have no right to six or eight comfortable dresses, and a half dozen suits of warm flannels, and a dozen pairs of stockings; and shoes for a score of occasions.  Your own heart will tell you this&#8212;they have told you so already, no doubt, in hundreds and hundreds of cases. I never think it is necessary to beg women to give. It is only necessary to make them understand that some one needs their help. I have known a great many men who were indifferent to the sufferings of others; but I have only known two or three women who were so. And I somehow think those women had been badly treated. That is, in the distribution of souls, they had been overlooked. I am sure every one will agree with me that there have not been quite souls enough to go around, and that a number of most unfortunate persons have had to drag through life without one. It seems like an oversight&#8212;but then even the best cook will occasionally make more tarts than she has jelly for.</p>
+
+	<p>But that is another story, as Mr. Rudyard Kipling would say,  "The point is here: We women are morally responsible for the comfort of those other women who have not had a good meal; who have not sat down by a glowing fire; who have not been warmly clothed; who have not cease to dream at night of seeing their little ones die before their eyes of the privations they were powerless to remedy; and from whose heart the leaden loads of misery has not lifted for many, many days. It is we who must see that money gets to them. Supposing each of us send 50 cents&#8212;every prosperous woman in Nebraska can send 50 cents, and go without a bottle of olives, or a couple of ruches for her neck. And the aggregate of half dollars will mean salvation for the suffering people in the western part of the state.</p>
+	
+<p>Then go to your bureau drawers; go to your overflowing closets; go to your trunks in the attic. Pick out what you can spare and box it up. You have read in the papers again and again how these things can be transported. The railroads will carry them free for you. Do not hesitate. Go now, while the recent day of Thanksgiving has left its glow of gratitude in your heart, and show your appreciation for the comforts you enjoy by relieving those who are not so fortunate.</p>
+</div1>
+</body>
+</text>
+</TEI>

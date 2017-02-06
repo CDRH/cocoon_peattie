@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.oan.0003.01 SYSTEM "ep.owh.oan.0003.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.oan.0003.02 SYSTEM "ep.owh.oan.0003.02.jpg" NDATA jpeg>
+<!ENTITY ep.owh.oan.0003.03 SYSTEM "ep.owh.oan.0003.03.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.oan.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Doane College</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.oan.0003</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2007-11-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Doane College</head>
+
+<figure entity="ep.owh.oan.0003.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>Because of a disagreement on the route that the Union Pacific Railroad should follow through Montana, surveyor Thomas Doane lost his job. Fortunately, the Burlington and Missouri Railroad hired him as their chief civil engineer.  Within four years, Doane completed 241 miles of railroad&#8212;establishing a steam ferry at Plattsmouth and building a telegraph line the full length of the road. In addition, he surveyed and completed the thirty-mile branch line from Crete to Beatrice in ninety days, alphabetically naming ten towns on the line between Plattsmouth and Kearney with New England names, such as Dorchester, Exeter, Harvard, and Lowell.<ref target="n01" n="1">1</ref></p>
+
+	<p>The dream of Doane, however, was to establish a Christian liberal arts college on the prairie to provide leadership and spiritual values to the new communities being founded by immigrants flooding into the state to homestead. He envisioned the school to be a "Harvard of the Plains" that would educate the state's teachers, doctors, lawyers, and business people.</p>
+
+	<p>Doane was accustomed to thinking on a grand scale. He had received national recognition when he served as chief engineer in 1863 for the five-mile long Hoosac tunnel in Massachusetts. He pioneered the use of compressed air in America, and "he built a dam across the Deerfield River to furnish power for the turbine wheels to operate his air compressors. The successful use of nitro-<sic corr="glycerin">glycerine</sic>, drilling by machine drills operated by compressed air, and 'simultaneous blasting' by electricity were here established for the first time in the United States." His tunnel was considered one of the engineering marvels of the world.<ref target="n02" n="2">2</ref></p>
+
+<figure entity="ep.owh.oan.0003.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>While working in Nebraska, Doane saw the possibilities for the future, and even before the railroad reached Crete, he had secured six hundred acres from the Burlington Railroad for the site for his college. He also founded the first bank in Crete and served as its president.<ref target="n03" n="3">3</ref> On 11 July 1872, with the combined efforts of Doane and the local Congregational preacher, the General Association of Congregational Churches established Doane College, formerly the Crete Academy.</p>
+
+	<p>Doane hired a young Yale College and Theological Seminary graduate, David Brainerd Perry, to create the new college. Perry not only had to devise the original curriculum, but he was also the first president, the only teacher, and the janitor.<ref target="n04" n="4">4</ref> In addition, Perry assumed the fundraising, and his charge was to match the $10,000 that Doane had donated with $5,000 from Nebraska patrons and $5,000 from out-of-state supporters.</p>
+
+<figure entity="ep.owh.oan.0003.03"></figure>
+
+	<p>That first year, the college boasted fifteen students which Perry tutored to enter the freshman class. In 1973 Mary W. Merrill joined the faculty to become the principal of the preparatory department as well as the German and French teacher. Forty students enrolled that year, and by 1874 the school added another teacher for the sixty students in attendance. The school newspaper, <title level="j">The Doane Owl</title>, the oldest in the state, began circulation that year and is still publishing today. Perry's ties to the college strengthened when he married Helen Doane in 1876.<ref target="n05" n="5">5</ref></p>
+
+	<p>An important part of the history of Doane College was the erection of Merrill Hall in 1879, funded by the contributions of over two thousand donors, including the $20,000 that Thomas Doane contributed.<ref target="n06" n="6">6</ref> Overlooking the city of Crete and the Blue River valley, "We Build on Christ" is engraved on its tower. While Perry was president, he oversaw the building of Boswell Observatory in 1883, the first observatory west of the Missouri River, Gaylord Hall in 1884, and Whitin Library, Whitcomb Conservatory, and Carnegie Science.<ref target="n07" n="7">7</ref></p>
+
+	<p>By 1882 Doane College had nearly one hundred and fifty students with seven teachers and offered four courses of study: Classical, Scientific, Literary, and Normal (Education). The Arts were represented by the Musical Department, and students could take courses in free hand drawing.<ref target="n08" n="8">8</ref> Nor were sports neglected. Doane played football against Nebraska University in the 1890s and sponsored track and field teams. The college even had two fraternities, both still active today.</p>
+
+	<p>Perhaps the greatest legacy of Doane College is its goal to educate the immigrant population. In 1876 Professor Perry reported: "In less than five years in Nebraska I have met the representatives of sixteen different languages. In this number I do not include various Indian tribes of discordant tongues, nor the African, whose speech, like his nationality, has been merged in our own; nor certain of American parentage, who were born in Asia and first learned to speak Mahratta; and I am reckoning respectively as one, Englishman and American, Hollander and Frisian, Dane and Norwegian. The rest are Swede, German, Pole, Bohemian, Russian, French, Italian, Portuguese, Irish, Scotch, Hungarian, and Jew. Within a radius of twelve miles of Doane College I can count the representatives of more than twelve different nationalities."<ref target="n09" n="9">9</ref></p>
+
+	<p>Perry's deepest concern, however, was to keep education Christian.  He believed that by making the Christian college a success, teachers would go forth "who are to shape and fashion the minds of the young people all over our great state. They who mould these young people determine the destinies of the next generations."<ref target="n10" n="9">10</ref></p>
+
+<p>Deprived of formal schooling beyond the eighth grade, Elia Peattie understood the value of education and respected those who worked selflessly to bring the light of knowledge to others, especially the less fortunate and the "new" Americans. She especially admired Doane for College promoting spiritualism above materialism. In this, she declared, it rose above the "commonplace."</p>
+
+</div1>
+
+    <div1 ><head type="sub">Read Peattie's Writings</head>
+        <list>
+            <item>
+                <xref n="ep.owh.18900824">Vale, the Departing Man</xref>
+            </item>
+            <item>
+                <xref n="ep.owh.18900817">They Were From Missouri</xref>
+            </item>
+        </list>
+    </div1>
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Andreas, A.T.">Andreas, A.T.</author> <title level="a">"Saline County."</title> <title level="m">Andreas' History of the State of Nebraska</title>. <pubPlace>The Chicago, IL</pubPlace>: <publisher>Western Historical Company</publisher>, <date value="1882">1882</date>.</bibl>
+
+<bibl><author n="Brown, Fred D.">Brown, Dr. Fred D.</author> <title level="m">Doane College: A Newcomen Address</title>. <pubPlace>New York</pubPlace>: <publisher>The Newcomen Society</publisher>, <date value="2003">2003</date>.</bibl>
+
+<bibl><author n="Bullock, Motier A.">Bullock, Motier A.</author> <title level="a">Congregational Nebraska</title>. <pubPlace>Lincoln</pubPlace>: <publisher>Western Publishing Co.</publisher>, <date value="1905">1905</date>. <xref url="http://www.rootsweb.com/~nechurch/Congregl/congrNE/pages/ccne0220.htm" rend="new">http://www.rootsweb.com/~nechurch/Congregl/congrNE/pages/ccne0220.htm</xref>.</bibl>
+
+<bibl><title level="a">"History and Facts."</title> <publisher>Doane College</publisher>. 6 October 2007 <xref url="http://www.doane.edu/About_Doane/Info/" rend="new">http://www.doane.edu/About_Doane/Info/</xref>.</bibl>
+
+<bibl><author n="Sylvester, Ben F.">Sylvester, Ben F.</author> and <author n="Sylvester, Ruth M.">Ruth M.</author> <title level="m">A Man and His College: The Butler-Doane Story</title>. <pubPlace>Crete</pubPlace>: <publisher>Doane College Press</publisher>, <date value="1954">1954</date>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Colonel Thomas Doane." <author n="Bullock, Motier A.">Bullock, Motier A.</author> <title level="m">Congregational Nebraska</title>. <pubPlace>Lincoln</pubPlace>: <publisher>Western Publishing Co.</publisher>, <date value="1905">1905</date>.</bibl>
+
+<bibl>"President D.B. Perry." <author n="Bullock, Motier A.">Bullock, Motier A.</author> <title level="m">Congregational Nebraska</title>. <pubPlace>Lincoln</pubPlace>: <publisher>Western Publishing Co.</publisher>, <date value="1905">1905</date>.</bibl>
+
+<bibl>"Crete." <author n="Andreas, A.T.">Andreas, A.T.</author> "Saline County." <title level="m">Andreas' History of the State of Nebraska</title>. <pubPlace>Chicago, IL</pubPlace>: <publisher>Western Historical Co.</publisher>, <date value="1882">1882</date>.</bibl>
+</div1>
+
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> Bullock, 223.</p>
+
+<p><note id="n02" n="2">2</note> Bullock, 222.</p>
+
+<p><note id="n03" n="3">3</note> Bullock, 224.</p>
+
+<p><note id="n04" n="4">4</note> Brown, 7-8.</p>
+
+<p><note id="n05" n="5">5</note> Andreas.</p>
+
+<p><note id="n06" n="6">6</note> Andreas.</p>
+
+<p><note id="n07" n="7">7</note> Brown, 9.</p>
+
+<p><note id="n08" n="8">8</note> Andreas.</p>
+
+<p><note id="n09" n="9">9</note> Bullock, 232.</p>
+
+<p><note id="n10" n="10">10</note> Bullock, 235.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

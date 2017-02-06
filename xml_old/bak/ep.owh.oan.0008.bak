@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.oan.0008.01 SYSTEM "ep.owh.oan.0008.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.oan.0008.02 SYSTEM "ep.owh.oan.0008.02.jpg" NDATA jpeg>
+<!ENTITY ep.owh.oan.0008.03 SYSTEM "ep.owh.oan.0008.03.jpg" NDATA jpeg>
+<!ENTITY ep.owh.oan.0008.04 SYSTEM "ep.owh.oan.0008.04.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.oan.0008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Omaha Street Car Rides</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Included additions</item>
+</change>
+<change>
+<date>2008-01-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Omaha Street Car Rides</head>
+
+<figure entity="ep.owh.oan.0008.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>Although the Nebraska Territorial Legislature held in Omaha City in January 1867 granted the Omaha Horse Railway Company a fifty-year franchise to build and operate street cars in the community, construction did not begin until November 13, 1868. The first Omaha street car, a used Omnibus from Chicago, began operating on a trial basis by the end of December 1868, and by the end of January 1869, two of the four new doubled-ended streetcars had begun their one-mile route from the intersection of Ninth and Farnam at the Herndon House hotel to a residential area at Eighteenth and Cass and back again. The route would serve the approximately 16,000 citizens of Omaha. However, the sixteen-foot-long cars pulled by two horses could not exceed the speed limit of five miles per hour, and passengers had to pay ten cents for the short ride.<ref target="n01" n="1">1</ref> Because many of the stockholders believed that they should ride for free, as did friends of the conductors, and because the costs for wages as well as feeding and stabling the horses was expensive, the company did not see much initial profit. They had to sell more shares as well as charge businesses to post advertisements in the interiors of the cars to make ends meet. That summer the line was extended north to twenty-first and Cuming, and in early 1870 it headed south from Farnam on Ninth to Jones.<ref target="n02" n="2">2</ref></p>
+
+<figure entity="ep.owh.oan.0008.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>By 1896 when Elia Peattie penned her last known street car article, the horse lines had been discontinued and replaced by electric railways. Over one hundred electric cars travelled over sixty-five miles of ever-increasing track and utilized the service of approximately six hundred employees. Although the cars now sped through the city at twenty-nine miles per hour, the fare remained at ten cents.<ref target="n03" n="3">3</ref></p>
+
+	<p>Peattie travelled from her home on 3224 Poppleton Avenue near Hanscom Park to her work at the <title level="j">Omaha World-Herald</title> building at 1412 Farnam Street. On her daily commute as well as her outings to interview people about local events, she passed the time enjoyably by observing people and the picturesque scenery of the city. She wrote at least four separate descriptions of such expeditions between 1891 and 1896. On July 19, 1891, she published "Seen with One's Eyes Open: What Is To Be Seen from an Open Motor Car in Omaha" which described a street car excursion beginning near her home by Hanscom Park and travelling along the river, through the downtown area and the various ethnic neighborhoods, and ending in the "aspiring and mortgaged" suburbs, probably Benson Place or Dundee Place.<ref target="n04" n="4">4</ref></p>
+
+<figure entity="ep.owh.oan.0008.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>Five years later, in her column "A Word with the Women," Peattie described another pleasure ride on the streetcars, this time on the Thirteenth Street route&#8211;a part of the over ninety miles of street railway in Omaha&#8211;which ran south from Webster to the turntable and car house at Vinton.<ref target="n05" n="5">5</ref> On this excursion, Peattie begins downtown in the wholesale district, crosses the railroad tracks, and travels through Little Bohemia, ending at Riverview Park, south of another heavy Czech settlement between Tenth, Thirteenth, and Atlas Streets. This neighborhood, called Brno after the capital of Moravia, was three fourths immigrant population, mostly Germans and Bohemians who belonged to the laboring class and were either unskilled laborers or owners of small businesses.<ref target="n06" n="6">6</ref> Riverview Park, located at the south end of Tenth Street and "several blocks of hard walking" from the end of the streetcar line, was yet undeveloped and offered visitors high bluffs, winding gullies, and groves of old trees to explore in their natural state.<ref target="n07" n="7">7</ref></p>
+
+<figure entity="ep.owh.oan.0008.04">
+<figDesc></figDesc>
+</figure>
+
+	<p>Interestingly, although about one-third of Omaha's population in 1880 was immigrants (and one fourth in 1890), many were widely dispersed throughout the city. However, several neighborhoods grouped together by nationality, like Greek Town, in the middle of South Omaha, Chinatown, Little Poland, and Little Italy. The Bohemians clustered in an area south of downtown Omaha near their two churches, St. Wenceslaus and Bohemian Presbyterian.<ref target="n08" n="8">8</ref> Their neighborhood was bounded by South 10th Street on the east, South 16th Street on the west, Pierce Street on the north, and Martha Street on the south. Czech businesses were located between South 13th and South 14th along Williams Street, but most of the early immigrants worked at the Union Pacific shop and the American Smelting and Refining Company, or for the meatpacking industry.</p>
+
+	<p>Riverview Park on the Missouri River, which was once the starting point for the California Trail and had a small zoo, was created as a result of a $400,000 bond issue in 1891 that allowed Omaha to purchase land for parks. This "City Beautiful" movement followed the example of other municipalities across the United States and was lead by two Omaha developers, Andrew J. Hanscom and James G. Megeat. They began the beautification of Omaha by donating seventy-three acres for Hanscom Park that contained two lakes, a fountain, a waterfall, numerous flowerbeds, a pavilion, a bandstand, a greenhouse, and winding macadamized roads throughout.</p>
+</div1>
+
+<div1 type="file references"><head type="sub">Read Peattie's Writings</head>
+<list>
+<item>
+<xref n="ep.owh.18951002">A Word with the Women</xref>
+</item>
+<item>
+<xref n="ep.owh.18960821">A Word with the Women</xref>
+</item>
+<item>
+<xref n="ep.owh.18960830">A Word with the Women</xref>
+</item>
+</list>
+</div1>
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Chudacoff, Howard P.">Chudacoff, Howard P.</author> <title level="m">Mobile Americans: Residential and Social Mobility in Omaha 1880-1920</title>. <pubPlace>New York</pubPlace>: <publisher>Oxford University Press</publisher>, <date value="1972">1972</date>.</bibl>
+
+<bibl><title level="a">"Historic neighborhoods in Omaha."</title> <title level="m">Omaha Wiki Encyclopedia</title>. Creighton University. <date value="2007-09-28">28 September 2007</date>. <xref url="http://www.omahawiki.org/Historic_neighborhoods" rend="new">http://www.omahawiki.org/Historic_neighborhoods</xref>.</bibl>
+
+<bibl><author n="Larsen, Lawrence H.">Larsen, Lawrence H.</author> and <author n="Cottrell, Barbara J.">Barbara J. Cottrell</author>. <title level="m">The Gate City: A History of Omaha</title>. Enlarged Edition. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1997">1997</date>.</bibl>
+
+<bibl><title level="a">"Little Bohemia"</title> (Omaha, Nebraska). <title level="m">Amazines</title>. <xref url="http://www.amazines.com/search_results.cfm" rend="new">http://www.amazines.com/search_results.cfm</xref>.</bibl>
+
+<bibl><author n="Orr, Richard">Orr, Richard</author>. <title level="m">O &amp; CB: Streetcars of Omaha and Council Bluffs</title>. <pubPlace>Marceline, MO</pubPlace>: <publisher>Walsworth Publishing</publisher>, <date value="1996">1996</date>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl><title level="a">"1891 Map of Omaha and Its Environs."</title> Courtesy Omaha Public Library. <xref url="http://www.omahapubliclibrary.org/galleries/maps/map_1891.jpg" rend="new">http://www.omahapubliclibrary.org/galleries/maps/map_1891.jpg</xref>.</bibl>
+
+<bibl>"Street Car 1892-M15." From <author n="Orr, Richard">Orr, Richard</author>. <title level="m">O &amp; CB: Streetcars of Omaha and Council Bluffs</title>. Bostwick-Frohardt collection. Owned by KMTV. On permanent loan to Western Heritage Museum. (Permission pending.)</bibl> 
+
+<bibl>"Street Car 1892-M16."  From <author n="Orr, Richard">Orr, Richard</author>. <title level="m">O &amp; CB: Streetcars of Omaha and Council Bluffs</title>. Bostwick-Frohardt collection. Owned by KMTV. On permanent loan to Western Heritage Museum.  (Permission pending.)</bibl>
+
+<bibl>"Street Car 1898." From <author n="Orr, Richard">Orr, Richard</author>. <title level="m">O &amp; CB: Streetcars of Omaha and Council Bluffs</title>. Bostwick-Frohardt collection. Owned by KMTV. On permanent loan to Western Heritage Museum.  (Permission pending.)</bibl> 
+
+<bibl>"Street Car Interior." From <author n="Orr, Richard">Orr, Richard</author>. <title level="m">O &amp; CB: Streetcars of Omaha and Council Bluffs</title>. Smithsonian Photo No. 625.  (Permission pending.)</bibl>
+
+<!-- [Street Car Photo here] -->
+</div1>
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Orr, 3-6.</p>
+
+<p><note id="n02" n="2">2</note> Orr, 6-7.</p>
+
+<p><note id="n03" n="3">3</note> Orr, 121-122.</p>
+
+<p><note id="n04" n="4">4</note> This article is reprinted in <title level="m">Impertinences: Selected Writings of Elia Peattie, A Journalist in the Gilded Age</title> edited and with a biography by Susanne George Bloomfield (Lincoln: University of Nebraska Press, 2005): 23-29.</p>
+
+<p><note id="n05" n="5">5</note> Chudacoff, 15.</p>
+
+<p><note id="n06" n="6">6</note> Chudacoff, 33.</p>
+
+<p><note id="n07" n="7">7</note> Orr, 194.</p>
+
+<p><note id="n08" n="8">8</note> Chudacoff, 65.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

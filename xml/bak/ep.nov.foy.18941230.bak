@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18941230 SYSTEM "ep.nov.foy.18941230.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18941230">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-12-30">30 December 1894</date>
+<biblScope type="pages">10</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.nov.foy.18941230">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p10"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By. Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">CHAPTER XII.</head>
+
+	<p>I was not ill. My capacity for physical suffering seemed really to have gone. I arose in the afternoon filled with strength. I seemed indeed to have a surplus of vigor. But my spirit was sick. It bled for my departed friend, known so slightly, but under circumstances so wonderful! A friend nearer to my soul than any I ever had had&#8211;for as Opaka says, We were not friends. I longed to go to her for comfort. The sight of her face would have banished the horrible visions that arose in hideous succession before my eyes. But I could not bring myself to delight in the glances of the woman whom my friend had loved and whose favor would have been sweeter to him than life. No, I could not do it. So I spent the rest of the day wandering about the garden that Hisakitma had planted and tended, and as my feet trod the path where he had so often walked, I mused on the pathos of his life.</p>
+
+	<p>Bridges, whose soft heart could not bear to contemplate sorrow, was already trying to forget the scene of the morning. He went off up the street, and I saw him hastening as if from some memory. He did not come home till night, and then he wore a mysterious look.</p>
+
+	<p>At the evening meal Bryan and I sat silent, thinking of the giver of the gifts we were enjoying, and haunted still by that last fearful cry, but Bridges evidently had better food for thought.</p>
+
+	<p>"Boys," said he finally in that homely American tongue which always gave me such a shock when I heard it in this land of mystery, "There is no use in thinking over what cannot be helped. If De Vega was here this minute he would tell us to cheer up. He never moped&#8211;at least when he was not thinking of that girl. Of course there is something about a Girl that knocks us out. Now I have missed terribly not having any paper here."</p>
+
+	<p>"I never thought of that," I responded, trying to shake off my melancholy, "Of course you haven't been able to write a letter to the Girl since you came."</p>
+
+	<p>"No," said Bridges gloomily. "No, I haven't. Just like me, getting in hell's own hole, isn't it? What I've got to do is to forget. Here I am fixed in eternal adolescence. I have never grown up. You know you've often told me that. And now I never will. I will always be a large and awkward kid. And here is a new difficulty. It wouldn't be polite for me to marry the Girl now even if she would have me. For the Girl, it is obvious, would grow older. And though she would always be lovely to me, might she not"&#8211; he hesitated and helped himself to some strained honey&#8211;"might she not, I say, resent my never growing older? Would it be pleasant for her, at 60, say, to be united to a man of 30? Obviously, it would not. I should be rude to subject her to such an experience, and I will not." This was said with convincing determination.</p>
+
+	<p>"Who is the new love?" asked Bryan, languidly, looking at Bridges thro' his half shut eyes. Bridges turned red.</p>
+
+	<p>"Why&#8211;why, really"&#8211; he protested. Bryan laughed a little mournful laugh. "Oh, I'm not reproaching you," he said. "I think you have a perfect right to fall in love. But I know you want to tell us about her. Why don't you do it?"</p>
+
+	<p>"You won't go back on me?" stuttered Bridges.</p>
+
+	<p>"What for?" asked Bryan. "For falling in love? Well no.' Bridges looked at him suspiciously for a moment, but he gleaned no information from those drooping lids, and he gave the trial up. Bryan kept his own secrets. All the use that Bridges had for a secret was to divulge it.</p>
+
+	<p>"Well then," began Bridges, "she is a little silk-weaver. She is a dyer too, and today her hands are a vivid red, like old coral. Tomorrow I suppose they will be purple. The next day blue. And she is adorable. She blushes till she is almost as red as her reddest dyes. I've known her, I am obliged to confess, since the first day we came. She raises her own silk worms, you know, and I pretended to understand silk culture. She does some wonderful weaving."</p>
+
+	<p>"Do you mean to say she carries on this extensive industry all alone?"</p>
+
+	<p>"Well, no, her father and mother, and, in fact, her brothers and sisters, all work at the same thing. Her father could not have got into that celestial bath tub over there by the mountain till he was very old, for he says he is 250 years old, and I swear he looks it. But his daughter! But she is young! They call her the Oriole. You never saw such eyes! Talk of a gazelle! A gazelle has a brazen stare compared with my Oriole. When I first went there I told her I wanted her to make me a wonderful silk robe, such as the most beautiful woman she ever saw would like to wear. She asked me if it was for my wife. She is shy, is my Oriole, and sly, too. Then I told her what I really believe she wanted to know, that I had not wife. So she is making the gown. When it is done, and all embroidered with stones, I shall give it to her for a wedding gown."</p>
+
+	<p>"Oh, Bridges!" cried I, "and the Girl!"</p>
+
+	<p>"Well, I know," said my friend, folding his pudgy arms, "it does look fickle. But I have thought it all out. I could not marry the Girl. Therefore, I marry whom I can. And the Oriole is very sweet."</p>
+
+	<p>"I am sure," said Bryan, slowly, "that is what De Vega would call good philosophy. You must not confuse our Anglo-Saxon prejudices with truth. Shadwin. 'Let the boy be happy. He has nothing else to do. Let him wed his Oriole in peace. Happiness is elusive enough, God knows. If it comes to any man, let him not be defrauded of it be any foolish superstition." We arose. I returned to the garden. I saw Bryan wrap himself in a long coat, to keep off by any foolish superstition." We arose. I returned to the garden. I saw Bryan wrap himself in a long coat, to keep off the dew, and disappear down the avenue of palms. As for Bridges, he candidly confessed that he was going in search of the Oriole. I paced the garden walks, and tried to think of my new duties at the mine.</p>
+
+	<p>I cannot tell how long I stayed there, wandering back and forth. Never had I felt so strong, never so manlike, and never so very human. I t was as if all the primitive desires and forces had come back to take possession of me, as they did of the old nation makers, now dead&#8211; me, the weak offspring of an attenuated people! And on my lips I seemed to feel the pressure of a woman's lips! Adorable sensation, delicious, as novel, to me. So the hours passed, while I in wanton strength shook the great trunk of some tree as I passed it, or, falling in deep reverie, sank on the long grass under a melancholy cypress and dreamed exquisite dreams of future joy. A quaint verse of Opaka's which De Vega had once repeated came back to me, and I understood its meaning by the light of my new thoughts:</p>
+
+<lg type="poem">
+
+<l>Put some clouds in the sky, oh God!</l>
+	<l rend="indented1"><seg>I am blinded with blue-piercing <sic corr="brightness">bright-</sic></seg>
+		<seg>ness.</seg></l>
+<l>Put a sin in your soul, my dove;</l>
+	<l rend="indented1">I like not its unshadowed whiteness.</l>
+<l>Keep in wing with your flock, little swan,</l>
+	<l rend="indented1">Do not outfly us so fleetly.</l>
+<l>Ah, kiss me! That is a sin&#8211;</l>
+	<l rend="indented1">And one you could sin so sweetly.</l>
+
+</lg>
+
+	<p>I wondered if there were any sensation that Opaka had not experienced, or any hope, or temptation, or crime, or heroism which she could not comprehend. She was like a prophetess. She seemed to have looked into the heart of man. She knew all the passions without having been subjected to their torments of their <sic corr="ecstasies">ecstacies</sic>, just as she knew nature without eh aid of learning.</p>
+
+	<p>It was just then that a company of young men and women passing down the public avenue in decorous fashion, attracted my attention. They walked with quiet haste, as if they were bound for a common destination, and prompted by curiosity and a sudden desire for companionship, I followed them. I overtook them in a moment, and they, recognizing me, made me welcome, and I walked with a fine fellow called Miruleo by his companions.</p>
+
+	<p>"We are students of the lady Opaka," said he. "And we go now to attend her lectures, which are delivered at this hour every day."</p>
+
+	<p>"Do you also study under her?" I asked.</p>
+
+	<p>"We do. There is none other to study with, except the Padre Anton, and teachers not the course of the seasons, nor the computation of figures, nor the secret of poetry and of happiness. How to follow happiness is one of the things that our instructress most speaks of. The Padre talks of the Christian faith, but he does not make us happy, for as he teaches it, he makes us shudder. But the lady Opaka, though a Christian, teaches us not so. And she also instructs us in the science of conveying our thoughts by signs and letters."</p>
+
+	<p>"Does she use the Spanish tongue?"</p>
+
+	<p>"In part she does, and in part the Seminole tongue, and she thinks that the sign language of the Seminole tongue is better in some ways than the letters of the Spaniards, which are often laborious. And for this belief and teaching Padre Anton is very angry with her. And he is also angry with her for other things."</p>
+
+	<p>"What are those other things?"</p>
+
+	<p>"I must not say. It is not talked of except in secret."</p>
+
+	<p>"But I beg you to confide in me. The lady Opaka has no follower, though he has studied with her for many years, more devoted to her interests than I. I have heard that you teacher says that life without sin, is not the life intended for man. Is it because of this that the Padre is angry?"</p>
+
+	<p>"It is partly because of this. For while the Padre contends that man in rediscovering eternal life has returned to the condition he was in before the fall of Adam, Opaka believes that he is the creature of misfortune. Anton believes that we may live without sin. And he has made many laws, very arbitrary, which he desires us to follow, but some of which it seems necessary to break. He does not believe in love, for example, and desires that all men shall live as he does himself. But the lady Opaka puts us with the maidens, and desires us to converse with them, and teaches us to love them, that our children may be born of love, and come into the world with affectionate hearts. For this reason, too, she desires us to cultivate our minds, and to think on the changes of the moon, the growth of the flowers, the truths implanted in the heart, and all the arts of scholars. For she says it is not for ourselves alone that we work. That were a small thing. But it is for Bimini, and for the children which will yet be born to us. And the things which the Padre counts a sin, the lady Opaka counts but nature; and she continually preaches against the law. Make no laws, says she, and then they cannot be broken. Educate the heart of man, and he will not do evil. Teach him that he cannot injure another without injuring himself, and he will then be careful not to sin. It is for such teachings that Opaka is hated by our priest."</p>
+
+	<p>By this time we had reached Opaka's house, and here in the beautiful court where I had first seen her, was a large gathering of men and women, of youths and maidens. Some half reclined on the couches. Many sat on the edge of the basin. Others flung themselves on the floor, and some standing, hung about the pillars. Opaka appeared on the gallery above, coming from her chamber, and rapidly descended the stairs. She saw me, sent one splendid glance of happiness and power, of love and promise toward me, and then turned to her pupils.</p>
+
+	<p>"Because of the death of one who is very dear to us," she said in her low and thrilling voice, "I wish to speak today of the hope that is born in the heart of man that a reward will be given him in some vague future state for the sacrifices made in the flesh; and also on the arrogance of the law in committing crimes which it forbids to the citizens who are supposed to be the beneficiaries of the law."</p>
+
+	<p>She paused a moment, and looked at her listeners with a confident and winning smile. A low murmur of applause bade her proceed. Then she drew herself up and proceeded in musical paragraphs, speaking with the decision of conviction. The first part of the lecture was calculated to soothe and comfort. The last part was fierce, bitter, accusatory. In the midst of it I heard a sudden movement without the door. Opaka's stormy eyes were fixed on the entrance and I saw her smile. Another moment and the body of councilmen headed by the Adelantado entered. Opaka did not pause. She continued her denunciations of killing by law. Her graphic pictures cra<unclear>v</unclear>ed themselves on the memory; her dramatic fire electrified her listeners.</p>
+
+	<p>The Adelantado raised a forbidding hand and commanded silence. I and the rest of the lady's friends moved toward her, as if instinctively to shield her from danger.</p>
+
+	<p>"Lady Opaka, you have often been suspected, and you are now detected in the preaching of sedition. You will be arraigned before the council of Bimini tomorrow."</p>
+
+	<p>Opaka still looked smilingly at the intruders.</p>
+
+	<p>"I will be there at the hour. It is the same hour as usual? Permit me to continue my address."</p>
+
+	<p>"You are forbidden to speak more in public. <sic corr="Hereafter">Hrerafter</sic> you are restricted to speaking with not more than two persons at one time."</p>
+
+	<p>"Ah! Is it indeed so? I do your bidding, noble Adelantado. But where is the Padre Anton?"</p>
+
+	<p>The Adelantado flushed. "He is not present. Do you wish to ask for him absolution?"</p>
+
+	<p>Opaka threw back her head and laughed. "I thought I saw something black without the door? Or was it the shadow of a palm? I am not certain. Only this am I certain of, and that is that your words and acts this day are the promptings of that unholy 'man of God.' Enough. My pupils are dismissed."</p>
+
+	<p>The council and the Adelantado departed. Her pupils gathered about her with rich, inarticulate murmurs of sympathy and love. But she motioned them away. Only I lingered. And when the rest were gone, I followed her as she mounted the stairs, and when in a room behind a delicate lattice of wood, and there I held out my arms to her, and she fell in them sobbing, and calling on me to help her keep her courage, as if she were the weakest of women. And she moaned that our love was too beautiful to come to so untimely an end, and that she did not know why it had been given her to lead the people; she had no desire to teach, only it was put into heart to do it, and she had obeyed fate. But she would have much rather have lived with me somewhere unknown to everyone else.</p>
+
+	<p>"I cannot understand," she sobbed, her cheek on mine, "why in so large a world, there is not room enough for us to be happy together!"</p>
+
+<p rend="center">(To Be Continued.)</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

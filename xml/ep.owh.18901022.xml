@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+]>
+
+<TEI id="ep.owh.18901022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Farmers' Wives]</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18901022</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Untitled [Farmers' Wives]</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<biblScope type="volume">26</biblScope>
+<biblScope type="number">4</biblScope>
+<date value="1890-11-30">Wed. Oct. 22, 1890</date>
+<biblScope type="pages">3</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-09-04</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb n="unknown"/>
+
+<div1>
+
+	<p>There is a general impression among those who do not know that life on a farm is one continued flow of placidity and that in consequence men and women live longer there, think more calmly, and work with slower pulses. Now the truth of the matter is that there is a terrible pressure in farm life. The duties are imperative. They cannot be put off. Their success often depends upon rapidity of action and sustenance depends upon success. Therefore, the nerve pressure is high and men and women do not live longer. Indeed, many of them appear to be much older than they really are. There is always something going on at the farm.  It may be haying time, which admits of no delay, especially if the air be heavy with a promise of rain. Or it may be corn husking time and that takes many days and very early rising. Or the hogs may have to be killed and that with all of its incidental duties is a formidable task, especially on a Nebraska farm where the number of hogs is usually very large.</p>
+
+	<p>It is quite the fashion to talk about the exhausting effects of society, but moralists may rest assured that the most exciting round of balls and parties cannot use one up as will the very virtuous occupations of looking after the milk of five or six cows, cooking for four or five farm hands, doing one's washing, sewing, baking, scrubbing, pork salting and chicken feeding. It is not a picturesque fact, but it is a true one, that the performance of duty is often more deadening tot he soul and the sympathies and more destructive to beauty than the idle pursuit of pleasure. And that is why farmers' wives and daughters, who along with other American citizens, have a right to life, liberty, and the pursuit of happiness, should do everything in their power to prevent the unfortunate effects of too hard work and too great concentration. For the principal reason why the city woman looks and feels younger than her country sister of equal age, is because she has more diversity of thought and action.  Concentration may be the secret of success, but it is certainly the most exhausting thing in the world. Therefore, good women of the farms, as you would preserve your right to be beautiful, happy, and young, and as you would keep the admiration of your husband and win that of your son, take life as easily as possible. Gently insist that you have as much right to labor saving machinery as has your husband. He will argue that labor saving machinery is with him a necessity, while with you it is a luxury. He is mistaken. Farmers once went without machinery, and therefore, it is not a necessity. He will reply that farming is not as it used to be and that machinery is essential. Reply to him that henceforth housework is not what it used to be, and that in the future labor saving machines for women will also be essential. For it was man who deliberately made the difference in the method of farming and it can be woman who will bring about a change in the manner of doing housework.</p>
+
+	<p>However, a great deal lies with the woman's own ingenuity as regards to ease with which her tasks are performed. A rattle beaded woman will never make a good housekeeper, no matter with what conveniences she may be surrounded. Think out the day's work in the morning, farmer women. Get up without excitement and begin your work. Make yourselves physically comfortable to begin with. It will pay you. See that your clothes are in order and comfortably adjusted. Comb your hair carefully; look to all the finer details of the toilet. You have a right to this. It is just as important as that the men should get to the field the moment they desire. Mind, this is no suggestion to be ill-natured. Far from it, it is a suggestion to maintain your peace of mind and poise of temper and not become disturbed and confused with the day's task. Set an example of courtesy at the table, and have the breakfast agreeable served. There is no need of "bolting."  Really, if one cannot have time to eat with some courtesy and refinement, he may as well go out and run his own pitchfork through himself, in imitation of those over-scrupulous Japanese gentlemen who do similar things when they feel that they have been insulted. Take the trouble to bid the men good morning when they go afield. If they answer gruffly, you have the right to gently reproach them. A woman who takes such a position, all the same. They go to you working without a feeling of "rush." This is a purely nervous sensation and can be largely controlled.  it is a good plan, by the way, to have a small towel, a holder, and any other convinces greatly need in your particular work, fastened to the apron band, so that it will not be necessary to be continually looking for them.</p>
+
+	<p>Then be sure and have your house well-aired. That keeps one in much better trim for working. And have one neat, pleasant corner for resting. Do not let the whole house be a work room. That wears on one and seems to reduce everything to a hopeless commonplaceness. It is always possible to have a place where there are a couple of easy chairs, a handy book, and a pot of flowers. These bright corners inexpressibly rest one. In short, you have a right to live. Avail yourself of it, and many of the liens will go out of your face. If you have lost your vanity, resuscitate it. If you have lost your courage, try to find some new hope, no matter how foreign to your present course of life that hope may be. If you have hidden your individuality, reassert it. Remember that whatever your duties may be, your chief duty is the preservation of your own soul.</p>
+<closer><signed>Elia W. Peattie</signed></closer>
+</div1>
+</body>
+</text>
+</TEI>

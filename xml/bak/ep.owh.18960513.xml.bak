@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18960513">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1896-05-13">13 May 1896</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb corresp="ep.owh.18960513.jpg" n="p8"/>
+
+<div1>
+
+<head type="main">A WORD<lb/>
+WITH THE WOMEN</head>
+
+<byline>(By Elia W. Peattie.)</byline>
+
+	<p>This is the season of the year when Omaha people wish they lived at Council Bluffs. In very truth, Council Bluffs is a peculiar and fascinating place. It does not seem like a western town&#8211;certainly not like a prairie town. As a general thing, prairie towns are monotonous. But there is nothing monotonous about the streets of Council Bluffs. On the contrary, they are full of surprises. They lift themselves up in acclivitous, they have strange windings and unexpected endings. Some of them bury themselves in the very heart of a hill. Actually, it is possible to follow a populous street till it ends in a clay cut full of swallows nests&#8211;curious, snug little homes of the cliff dweller variety. Nearly all of the streets are shaded with umbrageous trees. Mind, I do not say trees, but umbrageous trees. We all have trees&#8211;scared looking saplings, beating into tatters by the west winds, and standing like poles about our dwellings. But in Council Bluffs are real trees, with music in their branches. In storm or in sun they afford a shelter. The birds build safe nests in them. The squirrels make free in them. Rich scents come from their leaves and bark. Then all about the Bluffs are hills, save toward the river, where there are long stretches of bottom land, on which the aspens flutter. The people are not afraid of their hills. They have built in them, and clothed the sides of many of them in vineyards. Some have been terraced. Others rise in nature beauty skyward, and lilacs, snow balls and rose bushes often make beautiful this back ground to the houses. Really, it is possible to look out of the back windows of some of the houses and see a beflowered and grassy hill seemingly hanging from invisible rollers, like an exquisite curtain. It is true that there are not many modern houses in Council Bluffs. Some enterprising men have erected modern and fashionable houses on the hills, and tamed the wilderness of the ravines and gullies, and converted the whole into popular dwelling districts, where people who have carriages find it convenient to live. But usually the houses at Council Bluffs are old fashioned. Some of them stand poised on terraces which rise fifty or sixty feet above the level of the street. Some are dropped away in the solitude of the dells, and half hid amid vines and tress. You do not know what you are going to find when you enter a Council Bluffs house. The rooms are not so usual and conventional as they are in Omaha houses. When you have looked in astonishment at the capacity of a quiet parlor, wandered through a comfortable library, discovered a quaint living room, and looked into a hospitable-seeming dining room, you will come, very likely, to more retired rooms beyond, which you will reach by mounting or descending three or four steps. The bed rooms are apt to be low, roomy, and filled with odd corners. In some places may still be seen reminiscences of the Mormons, in the low, long cottages, with their numerous doors, behind each of which dwelt a Griselda-like wife.</p>
+
+	<p>As for the park in Council Bluffs, it is one of the loveliest spots. I am not one of those who prefer outlook point, where the view of two cities may be obtained. To look at chimneys never seemed to me anything very inspiring. But sometimes, when a silver mist lies over the town, so it can only be seen indistinctly, and when the towers of our smelter, our churches and High school show faintly beyond the river and in the far west a sunset burns, then the scene is indeed beautiful. But I am best pleased to stand elsewhere in the park, and look over the seriate hills, each one shaded into a different tint by sun, shade and mist, then indeed I think it one of the most charming of spots. As for the country beyond the town, it is most inviting. The farm houses look so comfortable! Flowers grow in the front yards. There are vines on the porches. The vineyard is a part of every farm. The fields are rich in grain. Orchards flourish. The country seems clothed and decorated. When Omaha becomes, as it almost certainly will, in time, a great and populous city, there is no doubt but that Council Bluffs will be the chosen home of many of those who have the most wealth, as well as the retiring place of the less wealthy, who will find in the dells and on the hills, the quiet and rest which will solace them for their long day's toil.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

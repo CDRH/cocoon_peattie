@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18950113 SYSTEM "ep.nov.foy.18950113.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18950113">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.foy.18950113</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1895-01-13">13 January 1895</date>
+<biblScope type="pages">10</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Serialized Novel, Part 12</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-25</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-03-05</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.nov.foy.18950113">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p10"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+	<p>It may have been a week later, or a month&#8212;I have no means of knowing&#8212;when I again came to a consciousness of life. I listened for the groans, the cries of the fighting and dying men, and the tumult of the waters. But no such sound came to my ears. There was no sound, in fact, except the dull buzzing of bees, languorously inviting me to slumber.</p>
+
+	<p>The room in which I lay was the one I had been accustomed to since I lived in the house of De Vega, but the twilight and the sound of those buzzing wings in the sun told me that it had been darkened by artificial means.</p>
+
+	<p>The dull hours passed and no one came to disturb me. I had no wants. I suffered no pain. Now and then I took a draught from the pitcher which stood near me, swathed in wet cloths, to keep the water cool. I felt no impatience, for it look me a long time to remember all that had happened, and all that I had feared. It was even some time before I remembered what I feared for my love. When at last that stinging thought did come I leaped from the bed and called aloud. My head felt strange and light, but I had no pain, and I managed to reach the press where my clothes were kept. A minute later the curtains at the doorway were pushed back and Bryan entered.</p>
+
+	<p>For a moment I did not know him. His face presented to me a baffling paradox. It was younger and handsomer than I had ever seen it before, and yet it wore a look of profound melancholy&#8212;and something more&#8212;perhaps it was despair. For a moment I could not think where I had seen anything like it. Then I recollected that marble runner which stood within the door of Opaka's house, with his beautiful young face turned toward the sun, yet clouded with an unquenchable distress.</p>
+
+	<p>"Bryan," I cried, and I put force enough into my words to make them a shout, though they seemed to come from my lips with faintness. "Tell me how it ended. Tell me what has become of&#8212;of"&#8212; For some reason, the name which was so familiar and dear could not be spoken. I choked over it, and felt my throat fill up. Bryan moved toward me with that elastic step, and putting his strong arm around me, led me back to the couch. I sunk on it and gazed up at him, my eyes, I am sure, pleading for the information for which I dared not ask again.</p>
+
+	<p>My friend straightened himself and looked down at me. That fine body of his seemed to protest some way against its strength. Those powerful shoulders stoped under the weight of a sorrow. All the sick soul in him cried out palpably against the detested physical vigor which kept that soul in the encasement it had grown to loathe. I realized this as fully then, before he spoke a word, as I did afterward when I knew all.</p>
+
+	<p>"We were defeated," he said, "Bridges is dead, and he bade me go back to the Girl and take her word of how it happened. Our cause was lost, and that black priest sits grinning in the state house this moment, planning a punishment for us."</p>
+
+	<p>He knew he was not telling me what I most wanted to know. He saw my helpless, suffering anger in my eyes. And yet he went on:</p>
+
+	<p>"Our friends died by the score, Shadwin&#8212;those splendid fellows&#8212;and the sour followers of the priest met with victory everywhere. There seemed to be a fatality in it." I could stand no more. A wave of terror swept over me and turned me into a mad man.</p>
+
+	<p>"Bryan," I shrieked hoarsely, "I can wait no longer. I can stand no more! Tell me"&#8212;</p>
+
+	<p>"I will tell you," shrieked back Bryan, hardly more sane than myself. "She is dead. They dragged her from her home. I followed with the rest. She was taken to that hideous plane, and struggled up the whorls of that fowl flower with her sweet hands; and put her lips&#8212;her dear lips, Shadwin&#8212;to that deadly syrup, and then the leaves writhed up, and her white body was within. She did not cry out. I saw nothing more. But believe me, Shadwin, if I suffered for myself, I suffered more for you."</p>
+
+	<p>That was all he said. And I had the courage to ask no more. We sat together for hours in silence, brooding. At night he gave me a book, a strange and antique palimpsest of parchment, originally the monkish record of uncouth miracles, but written over in ancient Spanish by the hand of my dead love. The faded brown ink of the original was barely visible beneath the fresh markings of the purple mangrove stains in which Opaka had written her fancies.</p>
+
+	<p>I dare not say what madness might have followed for me, but it turned out fortunately enough, under the circumstances, that as soon as my recovery from my wounds was learned of, we were summoned to the state house. We knew very well what that meant.</p>
+
+	<p>"There is only one thing for it," I said to <sic corr="Bryan">Shadwin</sic>, "and that is escape. I care little enough for life now, God knows, but I will not die at the hands of these savages."</p>
+
+	<p>"Esc&#225;pe is impossible," Bryan protested. "Do you imagine for a moment that we would be able to find our way back through that interminable slough. And now, how hard would we die! Fancy, if you can, with these staunch bodies what the torments of starvation would be! Health rioting in us, and we starving! No man living was ever subjected to torture such as that. No fable of sufferings, not even that of Prometheus, can equal it. I dare not try to return. Neither of us know where lies that mysterious path by which we entered this accursed island."</p>
+
+	<p>The sky was a melting blue. It seemed to hang over the mountain and valley caressingly. The air was luscious with the scent of orange blossoms. Birds, silent, but of exquisite plumage, swept down slowly on the flowering trees. The scene was fair as paradise. It might have been a deathless paradise, if death had not been introduced by the barbarity of man. But because death came in that way, because it represented revenge and hate and unholy love, the paradise became accursed.</p>
+
+	<p>Bryan was right in calling it so, and yet I knew that was not what Opaka would have thought.</p>
+
+	<p>"The uses of sin," Opaka used to say, "are apparent only to the wise. It is sin which makes innocence. It is sin which makes heaven possible."</p>
+
+	<p>We were sitting together in the garden, in one of those melancholy bowers that the cypresses can make when the moss and the vines droop from them.</p>
+
+	<p>"There is something creeping under that bush," I said to Bryan, "and I think it is a serpent. Move cautiously. Rise, but not suddenly."</p>
+
+	<p>The sounds which had attracted my attention ceased, but I felt there was something breathing near me, and, arming myself with a stick I pried into the thicket. And I found something. It was 'Sin, thinner than I had seen him before, and with a mournful look in his pretty animal eyes<sic corr="."></sic> I dragged him out with some roughness, and, setting him on his feet, shook him till his tough little teeth clattered in his head.</p>
+
+	<p>"Are you a serpent that you crawl on your belly?" cried I angrily, speaking in his tongue. "Men of the Tiger tribe walk erect before other men. If you are a Tiger and not a snake, speak out! Where have you been for these long days? What do you know, listening and creeping like a coward?"</p>
+
+	<p>The shapely bronze head drooped on his breast, but pride made the slight body rigid. A negro of this age would not have twisted, and fawned, and sulked. But a young hawk could not have been fiercer and more haughty than 'Sin. When he did raise his head his eyes met mine with a stare that would have done credit to an English prince.</p>
+
+	<p>"I know where lies the road through the swamp. I will lead you to the hammock land of the Tigers. I will be the guide of my white brothers to the Big Cypress swamp." He grew in height as he spoke. I could not tell whether my admiration or my amusement predominated.</p>
+
+	<p>"Do you mean what you say, little brother?" cried Bryan. "Can you really take us through the swamp? Remember it is many suns' journey."</p>
+
+	<p>"A Tiger," replied 'Sin, "never forgets the way over which he has once walked. I can guide you in safety. Will you come?"</p>
+
+	<p>"We will come, replied Bryan, mournfully, "this very night."</p>
+
+	<p>I could say nothing. Now that the opportunity offered I hesitated to leave the spot where I had found the joy of life. That joy seemed still to encompass me. The intoxication of Opaka's love lingered with me. Yet my reason told me it was but death to stay. And I was no morbid creature. I did not desire death, even though the sweetest part of life was gone.</p>
+
+	<p>Bryan and I went together, at dusk, through quiet ways, to Opaka's house. The beautiful court, where the marble runner lifted his longing face, stood silent. The fountain was not playing. The pool lay in the shadow. I went for a moment to the room where I had spent those hours of poignant suffering and exquisite delight with Opaka. The couch with its purple coverlet was disturbed, and it bore the imprint of my dear love's form. On the chair lay a long white mantle which she wore often on the street. A pair of quill-trimmed moccasins rested near. I picked them up and kissed them. No servants were to be found, though I wandered over the house and through the garden; but I did find, weeping by a magnolia bush, one of the little maiden's who used to follow in Opaka's train.</p>
+
+	<p>"For whom do you weep?" I asked.</p>
+
+	<p>"For the Lady Opaka, who was my friend," she answered, sobbing.</p>
+
+	<p>"Let me kiss your hands," I said. "For I also weep for her."</p>
+
+	<p>She put up her hands, and I kissed them on the palms. I saw they were red as if they had been strained with blood. For a moment I drew back from them. Then I cried:</p>
+
+	<p>"Are you not called the Oriole?"</p>
+
+	<p>"It is my name."</p>
+
+	<p>"You know that my companion is dead&#8212;he whom we called Bridges? I do not know what name you called him by."</p>
+
+	<p>She lifted up a pair of mournful and beautiful eyes.</p>
+
+	<p>"I know that he is dead. He died for the Lady Opaka. I weep also for him."</p>
+
+	<p>I made no answer. Bryan and I walked away together.</p>
+
+	<p>"He was a merry fellow&#8212;was Bridges. It was hard to think that he should have had to become so terribly serious at last."</p>
+
+	<p>"But he never was serious," interposed Bryan. "When he found that death faced him, he looked quite as merry as we have seen him many a time since we met him first. 'I want to do the proper thing," he said. 'I want to send my love to somebody. It ought to be to the Oriole. She was my last love. But somehow, my heart goes back to the Girl. I got in such a habit of loving the Girl, that it is hard to break it off. You know where she lives and who she is. If ever you get out of this land of mysteries to a place where men die when they get through living, just hunt her up and tell her that all of my efforts to be false to her were futile. And tell Shadwin that I do not grudge dying for his love. That is dead earnest,' he added. 'I am glad I did what I could for Shadwin.'"</p>
+
+	<p>The words were so obviously those of Bridges that I seemed to hear his voice in my ears. The badinage especially, was his, beyond a doubt. I could not speak. We walked to the house in silence.</p>
+
+	<p>We were afraid to make any farewells, lest the most faithful of our friends should betray our intention to depart. We put our affairs in order as well as we could, but there was little we could do. We knew very well that being, as we were, practically under the ban of the law, no directions that we might give concerning the estate which we had held in such brief possession, would be paid any attention to by the government. So, after sending gifts to those who had aided us in our ineffectual struggle, we saw to securing the proper boats, weapons and provisions for the journey before us.</p>
+
+	<p>Could we have remembered with perfect distinctness the full terrors of that journey, I think we should not have found the courage to undertake it. But there is a fortunate provision of nature which makes one forget sufferings which have past. Else women would never bear willingly more than one child. But nature, in self-defense, provides forgetfulness of pain.</p>
+
+	<p>The night was, fortunately, a dark one. At midnight, as we judged, we slipped form the house, and keeping always in the shade of the undergrowth that fringed the avenue, went over the brow of a hill, from which, a few weeks before, we had observed the ceremony of the Bestowal of Youth. This festival, then so beautiful, would have seemed little less than iniquitous to us now. Even Bryan, who had been so eager to drink of those mystic waters which should confer on him life and youth eternal, paused to look down on the valley and the pool and to say: "I took willingly the gift those waters gave, Shadwin. But, if by bathing in them once more, I could restore that gift, and regain my old liability of death, believe me, I would rush for that pool more frantically than I did before."</p>
+
+	<p>'Sin, in silence, gilded on before us, and led us to a place where in beggarly array of tattered moss the cypresses went trooping to the flood. Here were the boats which we had provisioned; here was the invisible path, which the wonderful eyes of 'Sin saw. We, Bryan and I, trusted to this ignorant lad. He was the straw at which we, drowning, clutched.</p>
+
+	<p>There was a certain compensation to be found in the frightful labors which we now endured. The brain, with its torturing reflections, the heart, with its terrible longings, were subordinated by the body. It was our salvation. In many respects the journey did not differ from our former one, except in the fact that we now had no anticipation to buoy us up. But 'Sin was an inspiration to us, so gay was he, so brave, and so sacrificing. His affection of superior strength would have been very amusing considering our relative sizes, if it had not been based on fact. And day by day his spirits rose as we neared home. He made up a little song about his mother, who pounded at the Koonti log in the morning while the children threw jack-stones on the hard shell floor of the palmetto hut. The words rhymed in an irregular fashion, and they had enough of homesickness in them to betray the longing of the poor little boy, who after all, was only a baby at heart, and whose mother-longing we had quite failed to realize.</p>
+
+	<p>There is a spot where the gum trees grow rank, and the mistletoe mingles with the moss. Dark and noiseless, the current of the languid swamp streams flow about this, and to penetrate it one has to cut his way through the strangling vines that make a wall of evil beauty about its margin. Within, the orchids flaunt from the pits of trees, from which dead limbs have fallen, and deep in frondescence, one sinks in the sleep of exhaustion, while the miasmatic warmth soaks the moisture from the clothes, and strange, unfamiliar things, slimy and rapid, shoot over the face and startle one from weary slumbers.</p>
+
+	<p>We slept here&#8212;we three. So weary were we with fording streams and plunging through saw grass, that we cared not for the many days journey yet before us. To sleep here was all we wished. Had the delights of heaven been offered us we would not have taken them unless they included sleep.</p>
+
+	<p>It was twilight when we laid down and it was twilight when we awoke, but whether the twilight of sunset or sunrise I could not at first determine. I sat up and looked around stupidly. Bryan lay near me, his head forward on his breast. 'Sin, stretched out at full length, his shapely brown arms above his head, was never more beautiful.</p>
+
+	<p>"How are you," I called out with a great affection of lustiness. "Wake up and look around you. We have taken a nap as long as&#8212;" but I got no further, for something in the immovability of Bryan's attitude startled me. 'Sin had already responded to my summons and was on his feet rubbing his great eyes.</p>
+
+	<p>"'Sin," I said, with a chill in my veins, pointing to Bryan, "he is hard to waken." I did not move toward him. I had not the courage to touch him. 'Sin, up to his <sic corr="knees">knes</sic> in that wild <sic corr="florescence">floresence</sic>, moved toward him as an enchanted squirrel moves toward the open mouth of a serpent. He stooped over him and listened with those finely educated ears of his. Then he raised a pair of terrified eyes to mine for one second, and then, with an effort, turned the body over, with the face to the sky. That face was not recognizable. It was swollen, and purple and hideous, and the open eyes seemed to be filled with blood. The teeth were set, and gleamed out frightfully from that discolored face.</p>
+
+	<p>"He is dead," said Sin.</p>
+
+	<p>"How can he be dead," I cried with an oath, "when he has been given eternal life? How can a man who"&#8212;</p>
+
+	<p>"The arrows of the islanders killed your other friend. Some serpent of the swamp killed this one. They could not die by disease, noble brother, but they can die from arrows and serpents."</p>
+
+	<p>"But 'Sin, he must have lived a long time after a serpent's bite. And he would have called us. I do not believe he is dead." Yet my hand on his heart told me he was. His relaxed muscles told me he was. And his hands were cold in that hot and humid atmosphere. I sat down beside him and let black despair seize me. It ran through my veins like opium and I grew drunk on misery. The hours passed. 'Sin cooked food, but I could not eat. My throat was too swollen with sorrow.</p>
+
+<lg type="poem">
+
+<l>How the slime festers under the sun;</l>
+	<l rend="indented1">My friend has laid down to die.</l>
+<l>But I know where the streams of the<lb/>
+		piney woods run,</l>
+	<l rend="indented1">And it is not my day to die.</l>
+
+</lg>
+
+	<p>Opaka's wild rhymes haunted me. I wondered if her book was safe in the boats&#8212;that book which was the most precious of my possession. But I did not have the will to go for it. I sat still where I was, and the lizards did not fear to run over my hands, nor the bees to light on my garments,</p>
+
+
+<lg type="poem">
+
+<l>Ecah-esah-ah-lee-lee.</l>
+<l>Ecah-bosah-ah-lee.</l>
+<l>The voice of the fates will make itself<lb/>
+	heard.</l>
+<l>And a man may die but to fatten a bird.</l>
+<l>Olick, lo-wah-ah-la-lee.</l>
+
+</lg>
+
+	<p>Night fell! 'Sin besought me to go on. But I lacked the heart. In my limbs there was no <sic corr="diminution">dimunition</sic> of strength. I was full of a splendid vigor, but my heart lay dead in me, like a stone in the bottom of a sea.</p>
+
+	<p>The next day I got Opaka's book, and spent the hours slowly reading it. The ancient Spanish puzzled me a little, and gave me action enough to keep me from sinking into unconsciousness. As for the verses, they lulled me.</p>
+
+	<p>They brought up a series of pictures of the island life. For they were impregnated with the atmosphere of that strange people. And they revealed the heart of Opaka.</p>
+
+	<p>Sometimes the strain was gay and jaunty. This was one of them:</p>
+
+
+<lg type="poem">
+
+<l>Ho there, my Titeta!</l>
+<l>You at the koonti log!</l>
+<l>You little know what a grist will be<lb/>
+	ground;</l>
+<l>For 'tis not the flour from the pulp you<lb/>
+	pound.</l>
+<l>'Tis my heart that you hit with those<lb/>
+	swift little blows.</l>
+<l>And the pain that is piercing me, nobody<lb/>
+	knows!</l>
+<l>Ho there, my Titeta,</l>
+<l>Up at the koonti log.</l>
+
+</lg>
+
+
+	<p>The long koonti logs, with their many delicious hollows for pounding this delicious arrowroot, which is to the Seminole what wheat is to the American, rose before me, as it looked on sunny mornings, when the maidens with bare arms stood in a row, swinging the light mortars and singing; their lovers, on their way a'field, pausing to shout a good morning or to set the group fluttering with some affectionate impertinence. Opaka, who was incapable of lightness in love, or even or jesting concerning love, had caught the spirit of this coquettish badinage. She was a mirror in which might be reflected nature, truth, humanity, and even evil. She knew the hearts of others by a sort of genius. She realized the power of temptation which she herself could never be subject to. She, who was always full of love, of life, could even appreciate the sufferings of the cynic.</p>
+
+	<p>The varied subjects jostled each other, now tender and true, now philosophical and full of simplicity, now false with sophistical reasoning. The book had been intended for no other eye, and she had not hesitated to write in it even that which she must have known was unworthy of her.</p>
+
+
+<lg type="poem">
+
+<lg>
+<l>You've seen a bear at the wild bees' nest?</l>
+	<l rend="indented1">And a man in search of some other<lb/>
+		sweets?</l>
+<l>Stings can be cured&#8212;and as for the rest,</l>
+	<l rend="indented1">Why the honey is honey to him who<lb/>
+		eats.</l>
+</lg>
+
+<milestone unit="asterisks"/>
+
+<lg>
+<l>Like the jar of a jangled and untuned<lb/>
+		bell,</l>
+	<l rend="indented1">A discord with which the blank silence<lb/>
+		is torn,</l>
+<l>Will clamor, and clangor, and throb and<lb/>
+		swell;</l>
+<l>While sweetness will perish as soon as<lb/>
+		it's born.</l>
+	<l rend="indented1">So sing harsh, little sister,<lb/>
+		They are not close to you.</l>
+	<l rend="indented1">Sing harsh, little sister!<lb/>
+		Then they will hear you.</l>
+</lg>
+
+<milestone unit="asterisks"/>
+
+<lg>
+<l>I walked alone in the world with hate,</l>
+<l>In swamp or on hammock I'd none other<lb/>
+	mate.</l>
+<l>I stumbled and fell in the tangled path,</l>
+<l>And I found what comforting arms love<lb/>
+	hath.</l>
+</lg>
+
+<milestone unit="asterisks"/>
+
+</lg>
+
+
+	<p>Many of the verses were untranslatable. Many of them seemed obscure to me. But all breathed the brave spirit of my dead love, who was never afraid of her own thoughts; who could not live in twilight; who was born to lead&#8212;and to love. It was thinking long on her courage that finally gave me courage to go on. But my life was now a completed book. Blank pages of an indefinite number there might be, but the storied pages had been written. Only for 'Sin's sake I pressed forward and we reached the big cypress swamp in safety.</p>
+
+	<p>'Sin was not believed when he told his tale to his kin, sitting by the fire in the palmetto shed. I reported to the government my inability to complete the researches they had contracted with me for, and I explained the disappearance of Bryan. I visited the home of the Girl and talked with her.</p>
+
+	<p>"What do you tell me," she said, sorrowfully, "is the tale of a madman. I do not believe that he died so. I do not believe your other companion died as you say. And if I were a man, sir, I should have these mysterious deaths investigated."</p>
+
+	<p>"Great God," I cried, stung with a new apprehension, "you do not mean that you suspect&#8212;" But she interrupted me, and, standing before me with white lips, said these terrible words:</p>
+
+	<p>"I believe that you are responsible for the deaths of these men. I do not believe that you are telling me the truth. There is no inhabited island in the heart of the everglades. I do not believe in your story of the Fountain of Youth. How could you expect me to&#8212;or expect anyone to, for the matter of that?"</p>
+
+	<p>I had no answer. What answer, indeed, could I make? There was Opaka's book. That was my only proof. Alas, it is the only proof that remains to convince me that I have not been the victim of some wonderful fantasy. But as I handle this dim palimpsest, I know that it is palpable, and convincing.</p>
+
+	<p>Yet&#8212;yet, could these things which I have written down, be true? Am I not the victim of a gigantic illusion?</p>
+
+	<p>On the other hand, is it not now conceded that what was once thought miraculous is only the development of hitherto unknown law? Like the tangle of weed in the sea, the network of awaiting benefits&#8212;so called laws&#8212;lie under the surface of human life. Complex and subtle are they. But they are tangible. They are mighty. They are true.</p>
+
+	<p>Years have passed since then, and I wandered over earth, seeking death in many lands, and finding it in none. My youth begins to be remarked upon. The years take the strength from the limbs of other men, and whitens their hair; it dims their eyes and clouds their perceptions. But I grow no older. No, and shall not, 100 years from now. I am remarkable among men, and they shrink from me as from something unnatural. And I have some way come to feel that I have committed a sin against nature. So I make no friends, and I have no lovers. But always I go from city to city looking for Death which shows her white, cold mercy to others; but not to me. And she has come to seem to me like a wife, for whom I am seeking, and whom I may some day find. Her arms are icy, but they bring rest, and I shall be glad when they are about me.</p>
+
+<p rend="center">THE END.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

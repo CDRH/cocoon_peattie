@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+
+]>
+
+<TEI id="nov">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Novels</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>nov</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-04-01</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+
+<head>Short Novels</head>
+
+
+<div2 type="boxed">
+<head>The Fountain of Youth</head>
+
+<list>
+<item><xref n="ep.nov.foy.intro.html">Introduction to The Fountain of Youth</xref></item>
+<item>Related Material
+	<list>
+		<item><xref n="ep.nov.foy.ghb.html">Geographical and Historical Background Essay</xref></item>
+		<item><xref n="ep.nov.foy.fba.html">Biblical Allusions in Elia Peattie's "The Fountain of Youth"</xref></item>
+	    <item><xref n="ep.nov.foy.pa.html">Utopian Pullman Allusions Essay</xref></item>
+		
+	</list>
+</item>
+
+<item>Novel
+	<list>
+		<item><xref n="ep.nov.foy.18941028.html">October 28, 1894</xref></item>
+		<item><xref n="ep.nov.foy.18941104.html">November 4, 1894</xref></item>
+		<item><xref n="ep.nov.foy.18941111.html">November 11, 1894</xref></item>
+		<item><xref n="ep.nov.foy.18941118.html">November 18, 1894</xref></item>
+		<item><xref n="ep.nov.foy.18941125.html">November 25, 1894</xref></item>
+		<item><xref n="ep.nov.foy.18941202.html">December 2, 1894</xref></item>
+		<item><xref n="ep.nov.foy.18941209.html">December 9, 1894</xref></item>
+		<item><xref n="ep.nov.foy.18941216.html">December 16, 1894</xref></item>
+		<item><xref n="ep.nov.foy.18941223.html">December 23, 1894</xref></item>
+		<item><xref n="ep.nov.foy.18941230.html">December 30, 1894</xref></item>
+		<item><xref n="ep.nov.foy.18950106.html">January 6, 1895</xref></item>
+		<item><xref n="ep.nov.foy.18950113.html">January 13, 1895</xref></item>
+</list>
+</item>
+</list>
+
+</div2>
+
+<div2 type="boxed">
+<head>Journey through Wonderland</head>
+<list>
+<item><xref n="ep.nov.jtw.intro.html">Introduction</xref></item>
+<item><xref n="ep.nov.jtw.html">Journey through Wonderland</xref></item>
+</list> 
+</div2>
+
+<div2 type="boxed">
+<head><!--<xref n="ep.nov.tap.intro.html">-->The American Peasant<!--</item>--></head>
+<list>
+<item>Related Material
+	<list>
+		<item><xref n="ep.nov.tap.pwa.html">Post-Civil War America</xref></item>
+		<item><xref n="ep.nov.tap.bfa.html">Beginnings of the Farmers' Alliance</xref></item>
+		<item><xref n="ep.nov.tap.cpa.html">Classical and Political Allusions in The American Peasant</xref></item>
+		
+	</list>
+</item>
+<item>Novel
+	<list>
+		<item><xref n="ep.nov.tap.html">The American Peasant</xref></item>
+	</list>
+</item>
+</list>
+
+</div2>
+</div1>
+</body>
+</text>
+</TEI>

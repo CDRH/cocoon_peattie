@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.cha.0001.01 SYSTEM "ep.owh.cha.0001.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.cha.0001.02 SYSTEM "ep.owh.cha.0001.02.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.cha.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Role of Women in Charitable Societies</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<div2>
+<head type="main">The Role of Women in Charitable Societies</head>
+
+	<p>The lives of the women who settled the West were far more complex than the "simple lifestyle" that is often depicted in Western art and fiction. From the earliest days of settling the prairies, throughout the Civil War and Reconstruction, and during the final decades of the 1800s, women played essential roles in maintaining the wellbeing of society by becoming involved in "public housekeeping" wherever they lived. Those who moved to the plains brought with them the experience of having participated in both the Civil War and also Eastern organizations, and they applied their knowledge to their new surroundings. Historian Glenda Riley writes, women "held a firm conviction about the validity and worth of their public-housekeeping role for themselves and for society. Thus, thousands of women continued to engage in the voluntary associations that proliferated on the prairie during the postwar years."<ref target="n01" n="1">1</ref></p>
+
+<figure entity="ep.owh.cha.0001.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>Voluntary charitable associations assumed two basic forms: those that were affiliated with a religious organization and those that were linked to civic bodies. Regardless of structure or origin, however, these groups strove to counteract social ills that arose within prairie communities. Committees of women, sometimes under the supervision of a few men, designed and administered programs for the poor, the homeless, the disadvantaged, and for children. They took "the poor who would soon be a boon to society and fit them to be useful. . . members of the body politic."<ref target="n02" n="2">2</ref> By the turn of the century, Omaha was home to a number of diverse shelters: orphanages, homes for unwed mothers, residences for working girls, daycares for the children of laborers, shelters for prostitutes, and even a home for indigent, elderly citizens.</p>
+
+	<p>These organizations were primarily the realm of women, who were regarded as more pure and benevolent than men, according to Victorian ideology. In 1836 before a meeting of the Ladies Benevolent Society at East Cambridge, the Reverend C. Gayton Pickman stated, "It is to female influence and exertion that many of our best schemes of charity are due."<ref target="n03" n="3">3</ref> In February 1818 the <title level="j">Salem Gazette</title> similarly described the strengths of women:</p>
+</div2>
+
+	<div2>
+	<p>In bondage they are not sordid; under persecution they are still generous; . . . in suffering they lose not benevolence; in the most afflictive trials, they possess magnanimity; . . . excluded from power, privilege and distinction, they have enthusiasm for every great design, for every splendid achievement; their affections are purified from selfishness; they rejoice in diffusing joy, and are grateful for blessings in which they are not allowed to participate.<ref target="n04" n="4">4</ref></p>
+	</div2>
+
+<div2>
+	<p>As moral emblems, women bore the responsibility of elevating the rest of society through benevolent works and deeds. This point of view was rather convenient for men, as it released them from the obligation of living according to a strict moral code. It also put men on the receiving end of women's forgiveness and charity, freeing them to pursue their vocations without being encumbered with community service. Of course, members of the clergy and social workers served devotedly within their churches and charitable organizations, such as in the Salvation Army. Social attitudes did allow, however, for the justification of male indulgence in vices such as drinking, gambling, and visiting houses of prostitution.</p>
+<!-- 
+<figure entity="ep.owh.cha.0001.01">
+<figDesc></figDesc>
+</figure>
+-->
+	<p>"There is a certain class of benevolent deeds," wrote Lydia Sigourney, "which falls so peculiarly within the province of females, as to have obtained the name of feminine charities. I allude to the relief of the famishing, and the care of the sick."<ref target="n05" n="5">5</ref> In reality, women's involvement in public housekeeping yielded more than the improvement of their frontier communities. Some historians have argued that women actually had more "personal authority than they might [have] otherwise" had they remained confined to the singular realm of the home.<ref target="n06" n="6">6</ref>  Because women became involved in charitable causes, they were able to open the avenues of dialogue with men in the workplace and, thus, begin to re-negotiate their place within society.</p>
+
+	<p>During the 1890s, Elia Peattie raised Omaha's social consciousness via her "Word to the Women" column, which often described the living conditions of the underprivileged and lauded the efforts of those who sought to help them. Her pleas for donations of time, talents, money, castoff clothing, and even old magazines as well as her ceaseless efforts to change public attitudes toward the less fortunate, elevated her to the rank of Omaha's leading public housekeeper.</p>
+</div2>
+</div1>
+
+<div1>
+<head type="sub">The Role of Women in Charitable Societies</head>
+<item><xref n="ep.owh.cha.0002">Homes for "Fallen" Women and Girls</xref></item>
+<item><xref n="ep.owh.cha.0003">"Does Anyone Want a Boy or Girl"</xref></item>
+<item><xref n="ep.owh.cha.0004">The Role of the Public in Works of Benevolence</xref></item>
+<item><xref n="ep.owh.cha.0005">The Open Door</xref></item>
+</div1>
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Ginzberg, Lori">Ginzberg, Lori</author>. <title level="m">Women and the Work of Benevolence</title>. <pubPlace>New Haven</pubPlace>: <publisher>Yale UP</publisher>, <date value="1990">1990</date>.</bibl>
+
+<bibl><author n="Jeffrey, Julie Roy">Jeffrey, Julie Roy</author>. <title level="m">Frontier Women: Civilizing the West? 1840-1880</title>. <pubPlace>New York</pubPlace>: <publisher>Hill and Wang</publisher>, <date value="1998">1998</date>.</bibl>
+
+<bibl><author n="Riley, Glenda">Riley, Glenda</author>. <title level="m">The Female Frontier</title>. <pubPlace>Lawrence</pubPlace>: <publisher>University Press of Kansas</publisher>, <date value="1988">1988</date>.</bibl>
+
+<bibl><title level="j">Salem Gazette</title>, <date value="1818-02">February 1818</date>.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<!-- 
+<bibl>"Madonna of the Prairie." by Koerner, W.H.D., 1921. Buffalo Bill Historical Society, Cody, Wyoming. (Permission pending.)</bibl>
+-->
+
+<bibl>"Women's Auxiliary of the Woodmen's Lodge. Ansley, Nebraska." Photograph by Solomon D. Butcher, ca. 1890. Digital ID: nbhips 13247 <xref url="http://memory.loc.gov/award/nbhips/lca/132/13247v.jpg" rend="new">http://memory.loc.gov/award/nbhips/lca/132/13247v.jpg</xref>. Courtesy Nebraska State Historical Society.</bibl>
+</div1>
+
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Riley, 163.</p>
+
+<p><note id="n02" n="2">2</note> Ginzberg, 124.</p>
+
+<p><note id="n03" n="3">3</note> Ginzberg, i.</p>
+
+<p><note id="n04" n="4">4</note> Ginzberg, 14 n.9.</p>
+
+<p><note id="n05" n="5">5</note> Ginzberg, 15.</p>
+
+<p><note id="n06" n="6">6</note> Ginzberg, 8.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

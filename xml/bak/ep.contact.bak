@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+]>
+
+<TEI id="ep.contact">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Contact</title>
+<title type="sub"></title>
+<author></author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2009-04-27</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+
+<div1>
+<head>Contact Information</head>
+
+<p>If you have information to share about the contents of this digital archive, please contact:<lb/>
+Dr. Susanne George Bloomfield<lb/>
+Professor of English<lb/>
+109D Thomas Hall<lb/>
+University of Nebraska at Kearney<lb/>
+Kearney, NE 68849-1320<lb/>
+Phone: 308-865-8867<lb/>
+E-mail: <xref url="mailto:bloomfields@unk.edu">bloomfields@unk.edu</xref><lb/>
+</p>
+
+<p>Comments about web design or functionality may be addressed to:<lb/>
+Center for Digital Research in the Humanities<lb/>
+University of Nebraska–Lincoln<lb/>
+319 Love Library<lb/>
+P.O. Box 884100<lb/>
+Lincoln NE, 68588-4100<lb/>
+Phone: 402-472-4547<lb/>
+E-mail: cdrh@unl.edu<lb/>
+</p>
+
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

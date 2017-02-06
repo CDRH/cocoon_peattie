@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.oan.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Tabor, Iowa</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-13</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Tabor, Iowa</head>
+
+<figure entity="ep.owh.oan.0005.01.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>Mosquitoes, floods, and malaria nearly destroyed the dreams of George Gaston, S.A. Adams, and Reverend John Todd when they first came to western Iowa in 1852 to found a Christian College. They moved to higher ground, however, and established their city, naming it after Mount Tabor near Nazareth where Jesus grew to manhood. After establishing themselves each on a quarter of land, the following year the men constructed a building to house a church and school: the Tabor Literary Institute to be modeled after the Christian College in Oberlin, Ohio. The object of their school was "to harmoniously develop the moral, mental, and physical powers of those who enjoy its privileges. The privileges of the Institution shall be alike free to both sexes and all classes."<ref target="n01" n="1">1</ref> In 1860 the Chapel became the first official building on campus, and in 1886 the Institute was renamed Tabor College.</p>
+
+	<p>As with all colleges on the frontier, money problems plagued the institution, and Gaston, Tabor, and the faculty all pledged everything they had in addition to teaching three years without salaries. By the summer of 1869, the college secured enough funds to build its first dormitory and begin offering courses in three departments: classical, scientific, and literary. Gaston Hall, built in 1887, furnished students with classrooms, a library, and offices for teachers and administration. A Music Conservatory was added in 1898 and a gymnasium in 1911; however, the college continued to struggle financially, and it closed in 1927 after the spring graduation ceremony.<ref target="n02" n="2">2</ref></p>
+
+<figure entity="ep.owh.oan.0005.02.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>Another of Tabor's claims to fame is the construction of the world's shortest standard-gauge railroad. To increase the enrollment at the college and the population of the town, the Dean, Professor Thomas McClelland, proposed that Tabor build a railroad spur to the Burlington tracks about eight hilly miles north in Malvern. The Tabor & Northern served the farmers, merchants, and students well for 39 years.<ref target="n03" n="3">3</ref></p>
+
+	<p>Tabor's founders had hoped to make a name for themselves in the field of higher education, but, ironically, the town became famous for the role it played in supporting abolitionists. Although "Bleeding Kansas" became the battleground for the nation-wide conflict over the spread of slavery into the western territories, Iowa, as the nearest free state to slaves escaping Missouri, served as a major station for the Underground Railroad in the transportation of slaves to freedom in Canada, in the release of free blacks wrongfully arrested, and as a stronghold for John Brown, who made at least four trips to Tabor between 1955 and 1859.</p>
+
+<figure entity="ep.owh.oan.0005.03.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>Although aware that he was disobeying the Fugitive Slave Act of 1850, Reverend Todd, who expressed his strong anti-slavery views in his sermons, not only calling upon Biblical reference to support the cause but also the Declaration of Independence, strongly supported the underground movement. The general route of the Underground Railway in Iowa ran from Tabor through Lewis, Fontenelle, Winterset, Lynville, and Grinell to Iowa City and then to the crossing of the Mississippi River at Clinton.<ref target="n04" n="4">4</ref> Todd's parsonage, a two-story, clapboard home, today a National Historical site, harboured runaway slaves in the attic, which had two small windows to serve as lookouts points. He also stored clothing, ammunition, and two hundred Sharp's rifles in his cellar, and his barn and wagon shed hid brass cannons.<ref target="n05" n="5">5</ref></p>
+
+	<p>Todd had no knowledge that these arms would be used in the notorious raid on Harper's Ferry in Virginia. When Brown and his men stopped in Tabor to drill and load the rifles into their wagons, Todd believed that the men were going to Kansas; instead they traveled northeast to plan their invasion into Virgina where Brown intended free the slaves single-handedly. No slaves showed up, but soldiers did, capturing Brown and hanging him and his brother for treason.<ref target="n06" n="6">6</ref></p>
+
+	<p>Elia Peattie was obviously charmed by the almost utopian nature of Tabor, with its dedication to learning and its spiritual ideals, as well as with the inhabitants who unselfishly took matters into their own hands to build the college, the city, and the railroad without help from outsiders. That they supported human rights and participated in the underground railroad and the anti-slavery movement was a bonus that not only added glamour to their history but helped make it a good story.</p>
+</div1>
+
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Cole, Cyrenus">Cole, Cyrenus</author>. <title level="m"><hi rend="underline">Iowa Through the Years</hi></title>. <pubPlace>Iowa City</pubPlace>: <publisher>State Historical Society of Iowa</publisher>, <date value="1940">1940</date>.</bibl>
+
+<bibl><author n="Haek, Herbert V.">Haek, Herbert V.</author> <title level="m"><hi rend="underline">Iowa Inside Out</hi></title>. <pubPlace>Ames, IA</pubPlace>: <publisher>Iowa State University Press</publisher>, <date value="1967">1967</date>.</bibl>
+
+<bibl><author n="Sage, Leland L.">Sage, Leland L.</author> <title level="m"><hi rend="underline">A History of Iowa</hi></title>. <pubPlace>Ames, IA</pubPlace>: <publisher>Iowa State University Press</publisher>, <date value="1974">1974</date>.</bibl>
+
+<bibl><author n="Schwieder, Dorothy">Schwieder, Dorothy</author>. <title level="m"><hi rend="underline">Iowa: The Middle Land</hi></title>. <pubPlace>Ames, IA</pubPlace>: <publisher>Iowa State University Press</publisher>, <date value="1996">1996</date>.</bibl>
+
+<bibl><author n="Shull, Carol">Shull, Carol</author>. <title level="a">"Todd House."</title> <title level="m"><hi rend="underline">Aboard the Underground Railroad</hi></title>. National Park Service, U.S. Department of the Interior, in cooperation with the National Conference of State Historic Preservation Officers. 7 October 2007 <<xref url="http://www.nps.gov/history/NR/travel/underground/ia1.htm" rend="new">http://www.nps.gov/history/NR/travel/underground/ia1.htm</xref>>.</bibl>
+
+<bibl><title level="a">"Tabor College."</title> Tabor Iowa Historical Society. 8 October 2007 <<xref url="http://community.heartland.net/tabor-library/historical.htm" rend="new">http://community.heartland.net/tabor-library/historical.htm</xref>>.</bibl>
+
+<bibl><title level="a">"Tabor and Northern Railroad."</title> Tabor Iowa Historical Society. 8 October 2007 <<xref url="http://community.heartland.net/tabor-library/historical.htm" rend="new">http://community.heartland.net/tabor-library/historical.htm</xref>>.</bibl>
+
+<bibl><author n="Todd, John">Todd, Rev. John.</author> <title level="m"><hi rend="underline">Early Settlement and Growth of Western Iowa, or Reminiscences</hi></title>. <pubPlace>Des Moines</pubPlace>: <publisher>Historical Department of Iowa</publisher>, <date value="1906">1906</date>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustration</head>
+
+<bibl>John Todd. from <author n="Todd, John">Todd, Rev. John</author>. <title level="m"><hi rend="underline">Early Settlement and Growth of Western Iowa</hi></title>. <pubPlace>Des Moines</pubPlace>: <publisher>Historical Department of Iowa</publisher>, <date value="1906">1906</date>. Courtesy Tabor Historical Society.</bibl>
+
+<bibl>"Todd House." Courtesy National Park Service. from <title level="m"><hi rend="underline">Aboard the Underground Railroad</hi></title>. National Park Service, U.S. Department of the Interior, in cooperation with the National Conference of State Historic Preservation Officers. 7 October 2007 <<xref url="http://www.nps.gov/history/NR/travel/underground/ia1.htm" rend="new">http://www.nps.gov/history/NR/travel/underground/ia1.htm</xref>>. [Permission to National Park Service granted]</bibl>
+
+<bibl>"Tabor College." Tabor Iowa Historical Society. <<xref url="http://community.heartland.net/tabor-library/historical.htm" rend="new">http://community.heartland.net/tabor-library/historical.htm</xref>>. Courtesy Tabor Historical Society.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> "Tabor College."</p>
+
+<p><note id="n02" n="2">2</note> "Tabor College." The college briefly housed German prisoners of war during World War II, but today only Adams Hall remains, serving as an apartment house.</p>
+
+<p><note id="n03" n="3">3</note> "Tabor & Northern Railroad."</p>
+
+<p><note id="n04" n="4">4</note> Schwieder, 69-70.</p>
+
+<p><note id="n05" n="5">5</note> Shull.</p>
+
+<p><note id="n06" n="6">6</note> Hake, 140-142.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

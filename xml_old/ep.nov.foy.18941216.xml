@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18941216 SYSTEM "ep.nov.foy.18941216.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18941216">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.foy.18941216</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-12-16">16 December 1894</date>
+<biblScope type="pages">18</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Serialized Novel, Part 8</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-23</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.nov.foy.18941216">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p18"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">CHAPTER X.</head>
+
+	<p>The next two days were so full, that I shrank from attempting to even outline what happened. Confusedly, the scenes troup through my mind. That afternoon Padre Anton and three of the councilmen were present as required by law, while De Vega made his will.</p>
+
+	<p>"My son," I overheard Padre Andton saying to himself in a peculiar penetrating whisper which he possessed, "how shall the church remember you when your soul needs absolution, if you remember not the church?"</p>
+
+	<p>"Father, I shall not forget the church. She shall have what she deserves at my hands," he said. "And I trust that you will remember that I paid my debts, and more&#8212;I bespeak your clemency toward my friends."</p>
+
+	<p>I heard a satirical laugh from the padre. Evidently he believed only in De Vega's anxiety for us. Late in the afternoon, with the miners, who had come to the valley, we ascended the mountain, to where the shaft was sunk deep in the gold mine&#8212;the mine which in future was to furnish us with bread, and give us power. It was even to be, as I surmised, the one excuse for tolerating us.</p>
+
+	<p>The mountain was wonderful. About the base the land was wonderfully rich, and on it grew the most <sic corr="beautiful">beautifull</sic> grapes I have ever seen. They were as large and as luscious as plums. As a matter of fact the whole island was the base of the mountain.</p>
+
+	<p>Southern Florida is built on a coral reef. The mountain, elevated some day by a tremendous volcanic upheaval had burst through this airy and enduring structure, and elevating it above the rest of the country, had made it the resting place of every floating bit of richness that the sea carries on her bosom. The rich decay of centuries had by this means produced an incomparable soil. However, owing to drift of ancient ocean currents, or to some other cause, this sediment had gathered in much greater quantities on one side of the island than on the other, and there was but a comparatively narrow strip of hammock land on one side of the mountain, while on the other there were several miles of it. This was the land of <sic corr="Bimini">Brimini</sic>. This was the home of the Fountain of Youth.</p>
+
+	<p>More than one outpouring of volcanic power had startled the little island<sic corr="."></sic> for I have discovered when we had got well into the mine, which was entered by a shaft about 15,000 feet above the general level of the island, that the great gold bearing portion of the mine was an old river bed. To reach the gold it was necessary to penetrate first a bed of lava, then a quantity of gravel, and below this was found gold in astonishing quantities. The mountain had grown till its proportions were nearly doubled from the time that the buried stream plunged down its side to the present, when it lay deep imbedded in its heart.</p>
+
+	<p>The shaft dipped at a keen angle, and the mining, though primitive in many particulars, and capable of improvements which I felt sure I could make, was really very intelligently carried on. There was a force of no less than 100 men employed about the mine, but many of them were smelters. These lived yet higher on the mountain than the miners, at an altitude which they considered favorable for the smelting of their gold. The miners had cabins clustered near the mouth of the shaft, and I could not but marvel when I saw what a contrast they presented to cabins of miners in my own land. They were shapely little sheds, surrounded by exquisite scenes, and having within an air of pride if not elegance. The women, comely and coy, avoided me, but even as it was I caught a glimpse of some of them sitting at their looms, spinning a long brittle thread, which somewhat resembled linen, but which was really a sort of a product from a wild cotton plant.</p>
+
+	<p>De Vega had the men called together, and he made them a quiet little speech. I did not really hear what he said, for he stood apart from us, but I saw that most of the men were weeping. He told us that he had explained matters to them. The four of us had a long talk afterward concerning the method of conducting the mine. De Vega insisted that this talk was really necessary for various reasons, but I am sure we three Americans found it distressing enough. The night had settled when we returned to the town. Pale lights gleamed out through the fragrant gardens. A soft breeze played gaily among the flowers. The stars burned like living gold in the deep sky. I felt as if I had received a benediction from on high.</p>
+
+	<p>"God is good," I whispered to De Vega as we walked down the perfume laden avenue.</p>
+
+	<p>"Who would dare say otherwise," returned the Indian. "God made the world and each day of every year through all the ages. I question not. I obey."</p>
+
+	<p>"But," I urged, not altogether pleased with his answer, "I think you are not much of a Christian, in spite of all you say. Your ideas do not seem quite Christian to me&#8212;not that I know much about what constitutes Christianity."</p>
+
+	<p>"Brother, in my heart there are thoughts. I cannot tell from whence they came. My mother was an Indian woman. My father was a Spaniard and a Christian. I know what I feel within. Perhaps I nursed it from my mother. Perhaps I learned it from my father."</p>
+
+	<p>"But tell me what Opaka teaches that should rouse the anger of the Christians. Evidently they fear and distrust her, and you are also under their displeasure because you are her pupil."</p>
+
+	<p>"What does Opaka teach? That will I not tell you, because I would not deprive you of the pleasure of learning from her own lips."</p>
+
+	<p>I said no more. We walked on in silence. The fire-fly showed us the way with his flickering lantern. At the door De Vega left us, and I heard a slight rustling in the bushes, as if some one hid there. It was, as I guessed, 'Sin; but I did not know what errand these two could have together till much later.</p>
+
+	<p>The companionship of my two friends seemed intolerable. I fancied they must be reading my thoughts, and for the first time since I had joined them I had thoughts which I did not care to share with them. To tell the truth, there was s sort of fever in my blood such as I had never felt before. I had been conscious of it from the hour that I had met the Lady Opaka. The day had been the longest of my life&#8212;not because I had been unhappy, but because of the wealth of emotion with which I was burdened.</p>
+
+	<p>Free and by myself, I walked with exhilaration under those splendid stars. I sucked in the soul of the flowers through my nostrils. I trod the earth tenderly and proudly, glad of the privilege of life. Now and then figures glided by me, the skin shoes falling noiselessly on the ground. Once I saw a pair of lovers, walking as they walk in lands all over the world, with their arms entwined. This filled me with a sort of vicarious joy. I walked on dizzy with delight. At the moment a voice reached my ear, coming from somewhere out of the fragrant darkness, and singing words with which I was familiar:</p>
+
+<lg type="poem">
+
+<l>A song needs an ending, however sweet&#8212;</l>
+	<l rend="indented2">The silence that follows is half the song.</l>
+<l>In the still of the night the pent streams<lb/>
+		beat.</l>
+<l>And throb for the ocean they may not<lb/>
+		meet.</l>
+	<l rend="indented2">The silence that follows is half the song.</l>
+
+</lg>
+
+	<p>I recognized the words and the voice. They were those of Opaka. I turned toward the voice as naturally as a flower turns its face to the dawn. Among the citron trees I found a little lodge, made of white bark. Beyond the door I saw a sort of court with a pool of water in the center, square of shape, and dusky now with streaks of red light across it where the torches threw their gleam. Above, dimly outlined, was a light gallery running about the apartment midway and dripping with flowering vines. A tracery of pink shells on the gray stucco floor, wreathed in and out, like a wild cucumber. Long low seats, draped with skins and other fabrics, were about the apartment, and near the door was a figure carved from some dull gray stone, of a man, swiftly running, with his face lifted to the sun. The limbs were strong and fleet, the chest filled and beautiful, but about the lips was a look of torment, and on the brow there hung the shadow of some great dread.</p>
+
+	<p>I knocked at the entrance, and almost at my feet there rose up the slight figure of Opaka, who, as she bid me enter, seized a torch from its socket, and skillfully threw its light upon my face that she might see her visitor.</p>
+
+	<p>"You are one of the friends of Hisakitma de Vega?" said she.</p>
+
+	<p>"I am his friend," I returned, trying to adopt the Indian phraseology, "and yours."</p>
+
+	<p>"You are welcome," she said, "though my maidens are gone and I am alone."</p>
+
+	<p>"I do not know the customs of the country. Shall I therefore withdraw?" She was about to reply, when suddenly there came over me the determination to exercise the right my manhood gave me. I had never wooed a woman. I determined to woo this one. Before she could reply I spoke again. "Yet," I said, "I have heard you were a woman who had the courage to act for yourself. Do not send me away. It is no man who visits you tonight. It is a soul, virgin, for your teaching. I give you, beautiful teacher, a mind clean as a page of all belief and all philosophy. It is yours. Write on it what you will. But I beg you, if it be consistent with truth, write no black lines there, for tonight I am happy."</p>
+
+	<p>"If you are my student," said she smiling, "sit you down. I do my duty by all men." Though she made this last remark with the utmost gravity, and though I feigned a confidence in this avowal, I swear I think her smile had something of self-consciousness in it. She was so lovely, and my rapture at seeing her was really so thinly disguised that she could hardly have been human and a woman if she had not seen something of it.</p>
+
+	<p>"Why," asked the lady, "are you happy?"</p>
+
+	<p>"Because," I cried, incoherently, "this land is so beautiful. Because I am alive, because you live and we have met. Because God seems so good."</p>
+
+	<p>"And your friend&#8212;your friend, who must die? Are you also happy when you think of him? Or have you forgotten him so soon?"</p>
+
+	<p>I sprang from the seat which I had taken, the hot blood rushing over my face.</p>
+
+	<p>"Great God! I have gone mad! What&#8212;what can you think of me? What have I drunken or eaten in this wonderful land that has stolen away my sense?"</p>
+
+	<p>"Friend," softly replied Opaka, "listen while I sing. I think you will make a good Indian. I think you will understand our philosophies. Do you know the words of the Seminole death song? They are contained in the song that I will sing." She threw herself back on the long seat, a tawny skin for background, and the red torches stained her white dress with quivering patches. Her eyes black and dramatic fixed themselves on me. Then she sang in a voice mournful and fu<unclear>ll</unclear> of wild gradations:</p>
+
+<lg type="poem">
+
+<lg>
+<l>The curlew calls from the mangrove<lb/>
+	marsh.</l>
+		<l rend="indented2">Wah-luck-luck-luck&#8212;</l>
+		<l rend="indented2">Wah-luck-luck-luck!</l>
+<l>This is the death song horrid and harsh.</l>
+		<l rend="indented2">Wah-luck-lo-bah-la-lee.</l>
+</lg>
+
+<lg>
+<l>How the slime festers under the sun!</l>
+	<l rend="indented1">My friend has laid down to die.</l>
+<l>But I know where the streams of the<lb/>
+		piney woods run,</l>
+	<l rend="indented1">And it is not my day <unclear>to</unclear> die.</l>
+</lg>
+
+<lg>
+<l>The mosses are dripping with poisonous<lb/>
+		dew.</l>
+	<l rend="indented1">My friend has laid down to die.</l>
+<l>The gloom of the cypresses shuts out the<lb/>
+		blue;</l>
+	<l rend="indented1">But it is not my day to die.</l>
+</lg>
+
+<lg>
+<l>The buzzard will see that his bones are<lb/>
+		bleached.</l>
+	<l rend="indented1">My friend has laid down to die.</l>
+<l>And there're miles of m<unclear>ir</unclear>e e'er the <orig reg="uplands">up-<lb/>
+		lands</orig> are reached.</l>
+	<l rend="indented">And it is not my day to die.</l>
+</lg>
+
+<lg>
+<l>Ecah-esah-ah-lee-lee.</l>
+<l>Ecah-bosah-ah-lee.</l>
+<l>The voice of the fates will make itself<lb/>
+		heard.</l>
+<l>And a man may die but to fatten a bird.</l>
+<l>Olick-lo-lah-la-lee.</l>
+</lg>
+
+</lg>
+
+	<p>"No, no," I cried, when the last cruel and exquisite note had given place to silence, "that is not what I feel. You are mistaken. I was wild, lady, with the joy of seeing you. I spoke thoughtlessly. But I am not heartless. God knows I would give my life for my friends if I could."</p>
+
+	<p><sic corr="&quot;">'</sic>My pupil is not so wise as I thought him," said the lady slowly. "I believe he has a right to be happy. God made the world. Man need take no responsibility."</p>
+
+	<p>"That is what De Vega believes," I protested angrily.</p>
+
+	<p>"Why not? It was I who taught him. It was I who gave him courage to go to his death with a light heart."</p>
+
+	<p>"I do not like your philosophy," I cried. "I think it is heartless."</p>
+
+	<p>"It is truth," said she quietly. "That is all I know. Yet in spite of all men and women are very happy. I am happy myself, and yet I have on my soul the burden of a man's death. If it had not been for me, De Vega would not have offended the adelantado. But I want you to learn more of our philosophy. It is kind to the unfortunate. It finds for the sinful who are born with sin in their souls the only explanation."</p>
+
+	<p>"What," I cried, "tell me how it reveals mercy! I believe that neither you nor your creed are merciful. I was foolish to come here." The lady rose gently and gilded toward me.</p>
+
+	<p>"Do not be angry with me," she said. "I am but a woman. I know nothing. Only things come into my heart to write, and I write them. Listen, and you shall know what I mean." And standing before me, her soft hands clasped, she repeated these lines:</p>
+
+<lg type="poem">
+
+<l>The black snake is coiled in the poison<lb/>
+	marsh.</l>
+<l>And the bird perched aloft on the bud of<lb/>
+	a palm.</l>
+<l>A snake is a snake, made for tangles and<lb/>
+	mire.</l>
+<l>Can you lift him with prayer or with<lb/>
+	psalm?</l>
+<l>Is the bird to be praised for the snow on<lb/>
+	his breast?</l>
+<l>Did he fashion his form or his own white<lb/>
+	plumes?</l>
+<l>Who would not choose the balm and the<lb/>
+	breeze of the sky.</l>
+<l>Instead of the black of the cypress<lb/>
+	glooms?</l>
+<l>While the snake spits his spew in the<lb/>
+	venomous fen.</l>
+<l>He may sigh for the palm and the wings<lb/>
+	of snow.</l>
+<l>His poison was brewed for him <orig reg="somewhere">some-<lb/>
+	where</orig> in hell.</l>
+<l>Before earth was rounded, black ages<lb/>
+	ago.</l>
+
+</lg>
+
+	<p>"How is that kind to the unfortunate," I cried, "it only shows him how hopeless is his state."</p>
+
+	<p>"God, let us hope, judges not as we judge. If the snake sighs for a breast of snow, does not he know?"</p>
+
+	<p>"Teacher, your teaching does not go deep enough. If God laid out the whole scheme, did he not provide for the impulse toward good&#8212;or toward bad&#8212;as well as he provided for everything else? If he made the skin of the serpent, did he not make also the impulse which moves the snake to sting or to spare? Answer me that."</p>
+
+	<p>The answer I received was certainly not the one I expected. Opaka dropped near me on one of those quaint lounges. Her hands were clasped in front of her; her eyes were filled with vague wonder.</p>
+
+	<p>"Ah," she sighed, "I know no more than you. Why should I try to teach! It is all folly. I know nothing. Only I tried to get the young men and women into the way of learning all the secrets of life for themselves. Believe me, my pupils think what they choose. I do not force my own beliefs down their throats. I only tell them to think."</p>
+
+	<p>"Then you are the greatest of teachers. For you are the most humble, and humility is the source of all true greatness."</p>
+
+	<p>"No one else has ever spoken to me that way," said she slowly, her words falling with reluctance, "yet I have felt what you tell me. I have thought that much out. I really found out that no man may know any of God's real secrets. There are only a few things that it is best for us to know. Here is often something I often say when I am alone. I say it softly. I almost hope the great spirit will not hear me when I say it:</p>
+
+<lg type="poem">
+
+<l>There in the lush is a shooting blade,</l>
+	<l rend="indented1">As slight as a blade may be,</l>
+<l>Tell me, oh, Thou, how this was made!</l>
+	<l rend="indented1">I ask nothing more of thee.</l>
+<l>I seek not to know how circle the spheres,</l>
+	<l rend="indented1">Nor how the moon marries the tide;</l>
+<l>Nor strive to learn through the changing<lb/>
+		years,</l>
+	<l rend="indented1">How the wind through the sea paths<lb/>
+		ride.</l>
+<l>(Let me but know how this weedling,<lb/>
+	grows,</l>
+<l>And I will know what the great God<lb/>
+	knows.)</l>
+
+</lg>
+
+	<p>I said nothing. The woman was so earnest that suddenly, and for the first time in my life, I seemed to be looking through the blue up to God and asking him to break silence and in mercy give assurance that he watched, and loved, and understood. I sprang to my feet, and going to the narrow door leaned far out and looked up at those passionate but unanswering stars with more of prayer in my heart than ever lips could utter.</p>
+
+	<p>"They tell you nothing," said a low voice at my side. "They only say, worship the beautiful. Look up to that which is above and has a glory found in nothing on earth. They say, 'By our beauty shall you know that which is vile."</p>
+
+	<p>"Lady," I cried, "will you say, too, that we should not know the beautiful if there were not also the vile?"</p>
+
+	<p>"That is why the padre so hates me. Because I teach the uses of sin and of"&#8212;she spoke in a lower voice&#8212;"and of death."</p>
+
+	<p>"Hush, hush!" I whispered, "I have heard that it was treason to say such things. I must lose one friend because he uttered treason. Let me not lose another for the same reason. This mysterious land! I seem always to be watched since I am here. I am chocking to say these things which are forbidden. I want to break away from all these questions you have awakened in my heart. I believe after all it would have been better if&#8212;if I had&#8212;had"&#8212;</p>
+
+	<p>I could go no further. Between my soul and that of the woman with me there flashed a sudden comprehension. I turned and looked into her eyes. They thrilled me with magnetic rapture. Then I knew it was my fate to meet her and my lips asked almost against my will: "Is this also fate?"</p>
+
+	<p>The lady was trembling. She leaned heavily against the door post. Her lips confessed to her confusion, but her eyes never left mine, and it did not need them to give me my answer: "Friend, this is also fate."</p>
+
+	<p>"You will not change," I whispered, moving nearer to her and looking down in those eyes as I had never dared to look at another woman, "you will not weary of me? Day and night I will be chief in your thoughts? It must be this, my Opaka, or nothing."</p>
+
+	<p>"It shall be as you say. You, who are wiser, will show me all I do not know." It seemed wonderfully past belief. It was as if I were the sun, which had shone on a closed flower, and seen it open under the light and warmth I shed upon it. I no longer felt strange and timid. A strength, foreign to me, a sensation of splendid mastery took possession of me.</p>
+
+	<p>"My Opaka," I said, "have you ever spoken thus to any other man? Have you ever looked at any other man with such eyes? It must be the truth that you answer me with."</p>
+
+	<p>"Other men that I have known have been foes to me, or brothers. You are not my brother."</p>
+
+	<p>It was delicious. She bowed her head in exquisite shame. And I lifted it.</p>
+
+<p rend="center">(To be Continued.)</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

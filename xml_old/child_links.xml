@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+
+]>
+
+<TEI id="child_links">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Children's Literature</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>child_links</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+
+<revisionDesc>
+<change>
+<date>2010-03-10</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>2009-04-01</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+<head>Children's and Young Adult Literature</head>
+
+<div2>
+<head>Children's Picture Book</head>
+<list>
+<item><xref n="ep.nov.EatO.html">Edda and the Oak</xref></item>
+</list>
+</div2>
+
+<div2>
+<head>Young Adult Novels</head>
+<list>
+<item><xref n="ep.nov.ala.html">Annie Laurie and Azalea</xref></item>
+<item><xref n="ep.nov.asg.html">Azalea at Sunset Gap</xref></item>
+<item><xref n="ep.nov.azsw.html">Azalea's Silver Web</xref></item>
+<item><xref n="ep.nov.azbrm.html">Azalea: The Story of a Girl in the Blue Ridge Mountains</xref></item>
+<item><xref n="ep.nov.lec.html">Lotta Embury’s Career</xref></item>
+<item><xref n="ep.nov.sbr.html">Sarah Brewster's Relatives</xref></item>
+<item><xref n="ep.nov.nc.html">The Newcomers</xref></item>
+<item><xref n="ep.nov.ia.html">Ickery Ann and Other Girls and Boys</xref></item>
+</list>    
+
+</div2>
+
+<div2>
+<head>Periodical Literature</head>
+
+<list>
+<item>"<xref n="ep.ss.0019.html">Grizel Cochrane's Ride</xref>." <title>Saint Nicholas</title> 14 (Feb. 1887): 271-278.</item>
+<item>"<xref n="ep.ss.aunt.frank.html">At Aunt Frank's Service</xref>" <title>The Youth's Companion</title> 74 (Feb. 1900): 49-50.</item>
+<item>"<xref n="ep.ss.family.found.html">The Family He Found</xref>"  <title>The Youth's Companion</title> 74 (Jan. 1900): 37-38.</item>
+<item>"<xref n="ep.ss.true.hosp.html">True Hospitality</xref>" <title>The Youth's Companion</title> 74 (April 1900): 215-216.</item>
+
+</list>
+
+
+
+</div2>
+
+<div2>
+<head>On Children's Literature</head>
+<list>
+<item>"<xref n="ep.owh.18950414.html">100 Books for Girls</xref>." <title>Omaha World Herald</title> April 14, 1895: 14.</item>
+</list>
+
+</div2>
+
+</div1>
+</body>
+</text>
+</TEI>

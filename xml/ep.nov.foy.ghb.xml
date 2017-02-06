@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.ghb.01 SYSTEM "ep.nov.foy.ghb.01.jpg" NDATA jpeg>
+<!ENTITY ep.nov.foy.ghb.02 SYSTEM "ep.nov.foy.ghb.02.jpg" NDATA jpeg>
+<!ENTITY ep.nov.foy.ghb.03 SYSTEM "ep.nov.foy.ghb.03.jpg" NDATA jpeg>
+<!ENTITY ep.nov.foy.ghb.04 SYSTEM "ep.nov.foy.ghb.04.jpg" NDATA jpeg>
+<!ENTITY ep.nov.foy.ghb.05 SYSTEM "ep.nov.foy.ghb.05.jpg" NDATA jpeg>
+<!ENTITY ep.nov.foy.ghb.06 SYSTEM "ep.nov.foy.ghb.06.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.ghb">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Geographical and Historical Backgrounds</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.foy.ghb</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Part 1<lb/>
+Geographical and Historical Backgrounds</head>
+
+<figure entity="ep.nov.foy.ghb.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>Robert and Elia Peattie presumably travelled by railroad to St. Augustine in 1893 where they enjoyed the typical tourist activities. Her editorial mentions visiting the courtyard of the famous Hotel Ponce de Leon and the drawing room of the Tampa Bay Hotel, two opulent establishments catering to Gilded Age clientele, and the "mystic" St. John's River.</p>
+
+	<p>The Hotel Ponce de Leon was developed by Henry Flagler, cofounder of Standard Oil, who saw the potential for historic St. Augustine as a winter retreat and established transportation and resort facilities along Florida's eastern coast. The elegant hotel, designed in the Spanish Renaissance Revival style, was the first large building to be constructed completely of poured cement and featured Tiffany stained glass windows.<ref target="n01" n="1">1</ref></p>
+
+<figure entity="ep.nov.foy.ghb.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>Peattie also notes the Tampa Bay Hotel with its exotic Moorish Revival architecture. It featured six minarets, four cupolas, and three domes and was even more impressive than the Ponce de Leon, for it was one quarter mile long and covered six acres. Henry B. Plant, railroad, steamship, and hotel magnate, developed the resort in 1891 at a cost of two and a half million dollars with furnishings valued at over one half million dollars. It boasted the first elevator in Florida, electric lights, telephones, private bathrooms with full-size tubs, and even some suites of five to seven rooms. Guests had access to barber and beauty shops, full shoeshine service, a florist, and a telegraph office. They could gather in the formal dining room and the Grand Salon or relax to a full orchestra in the Music Room. The hotel grounds encompassed over 150 acres and offered twenty-one buildings, including a casino with a two thousand seat auditorium, a bowling alley, stables, kennels, a race track, an eighteen-hole golf course, a flower conservatory, hunting and fishing grounds, an exposition hall of Florida products, and an indoor heated pool with spa facilities and card rooms.<ref target="n02" n="2">2</ref></p>
+
+	<p>It is doubtful that the middle-class Peatties stayed at either of these elegant hotels, since the Tampa Bay charged from $5.00 to $15.00 per night compared to an average hotel room costing 1.25 to $2.00. However, considering Peattie's typical "impertinence," the couple surely enjoyed the luxurious atmosphere offered in the courtyards and common areas of both of these establishments. While in St. Augustine, the Peatties probably took advantage of a boat ride on the St. Johns River, the second longest river in the United States. The Indians called it the river of lakes, for the river collects water from marshes and springs to form countless lakes on its journey northward.</p>
+
+<figure entity="ep.nov.foy.ghb.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>Another St. Augustine tourist attraction that played an important role in the setting of "The Fountain of Youth" is Castillo de San Marcos, later renamed Fort Marion. It was built by the Spanish in St. Augustine from 1672-1695, using Indian labor and taking sixty years to complete. Surrounded by a ten foot deep and forty foot wide moat, it is patterned after the European castles of the Middle Ages. Around the square of the fort are entrances into the dungeons where in 1846 skeletons were discovered shackled with iron bands to the walls. Other rooms revealed two iron cages suspended from the walls, also containing human remains, one purportedly of a woman.<ref target="n03" n="3">3</ref> Elia and Robert certainly must have taken a tour of the historic Spanish fort, for she describes the "labyrinth of dark and moldy passages" of the dungeon lit by torches and a guide and party of tourists.</p>
+
+<figure entity="ep.nov.foy.ghb.04">
+<figDesc></figDesc>
+</figure>
+
+	<p>Next, the Peatties travelled south to Winter Park, Florida, founded in 1858 as Lakeview and developed into a winter resort around 1881 by Loring Chase, who first visited it as a cure for his bronchitis. Later Oliver Chapman joined the venture. Conveniently served by the Florida Southern Railroad and surrounded by lakes and orange groves, the town gained a reputation as a heath resort, an art and literary center, and a destination for rich or famous northern visitors, such as presidents Cleveland and Harrison.<ref target="n04" n="4">4</ref></p>
+
+	<p>Perhaps it was while she was in Winter Park that Peattie began composing "The Fountain of Youth," incorporating other Florida settings in the work. As her protagonists leave St. Augustine, they travel to Tampa and then continue by boat to Punta Rassa, a town that played an important role during the 1880s in shipping cattle to Cuba. This port once had many businesses that catered to merchants and cattle dealers, and during the Seminole Indian skirmishes, the government built Fort Dulaney as an outpost there. After the Civil War, the International Ocean Cable Company, later to become Western Union, made it their southernmost telegraph station. In the 1880s the Schultz Company Hotel became a destination for sports fishermen.<ref target="n05" n="5">5</ref> In Punta Rassa, Peattie's fictional travelers exchange their boat for canoes, stock up on provisions, and enter the mysterious Everglades.</p>
+
+<figure entity="ep.nov.foy.ghb.05">
+<figDesc></figDesc>
+</figure>
+
+	<p>These Everglades adjoining the Big Cyprus Swamp, play the most important role in the setting of the novel. Peattie describes the cypress trees as looming "gray as ghosts" and the palm trees as "trooping down to the banks of a slow and dark river. They had skins like satin, and they carried their plumed heads as if they were young queens." As her characters move deeper and deeper into the swamp, they encounter a variety of terrains: "Now by the sparse, dwarfed palmetto, now by luxuriant cypress swamp, now by high hammock." Soon they reach the "Bad Country" where they encounter a jungle of vines, knee-deep water, and Saw Grass taller than their heads. Peattie does not mention the Florida trip in her memoir, so we cannot know if she actually visited the Everglades, but it is hard to imagine how she could have written such excellent sensory description without having experienced it. However, as a veteran reporter, she could have gleaned the information from the local populace.</p>
+
+<figure entity="ep.nov.foy.ghb.06">
+<figDesc></figDesc>
+</figure>
+
+	<p>The last Florida setting important to "The Fountain of Youth" were the Seminole camps at the Big Cypress Seminole Reservation sixty-four miles west of Fort Lauderdale. The main protagonist, Shadwin, spends two weeks among the ten camps, describing the houses, culture, and people. The Seminoles, descendents of the Creeks, were created through a process of the assimilation of diverse tribes who spoke seven languages. First the Seminoles had to battle the Spanish for their land, and then they joined the British in the War of 1812 against the American invaders, which began a series of wars for the next fifty years. During the Second Seminole War (1835-1842), 52,000 American soldiers battled against less than 2,000 warriors in a war that cost the United States more than the American Revolution. By the end of the war, however, only three hundred survived. By 1887 the Florida Seminole population, according to the Indian Agent, numbered 269 men, women, and children.  During the next sixty years, the time when Peattie would have been in Florida, the Seminoles lived on the edge of society, making a living "as hunters, guides, and sometimes, curiosities for the tourists." However, they were able to maintain their culture with little influence from the outside world. Little is known about the Seminoles between 1860 and 1930 except for sparse reports from Captain Richard Pratt, whose educational experiments with western Indian prisoners took place at Fort Marion, and work by anthropologist Reverand Clay MacCauley. Like Shadwick in Peattie's novel, MacCauley, who lacked formal training, was asked by the Smithsonian Institute's Bureau of Ethnology to spend three months with the Seminoles, inquiring about their numbers and recording their culture. The Smithsonian Institute's Bureau of Ethnology published his book <title level="m">The Seminole Indians of Florida</title> in 1889. Peattie, an avid reader and researcher, would most certainly have been familiar with the work.</p>
+
+	<p>Peattie found a wealth of story material wherever she travelled, whether to Alaska, New Mexico, or Florida, and in her inimitable style, published fiction as well as nonfiction gleaned from her experiences. However, with Peattie's husband's health always precarious, drinking from the mythical Fountain of Youth, would have been a tempting proposition!</p>
+</div1>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl>"<title level="a">Florida: St. Augustine</title>." <title level="m">National Register of Historic Places</title>. 16 June 2008. <xref url="http://www.nps.gov/history/nr/travel/geo-flor/26.htm" rend="new">http://www.nps.gov/history/nr/travel/geo-flor/26.htm.</xref></bibl>
+
+<bibl>Tampa Bay Hotel Ad. <xref url="http://fcit.usf.edu/Florida/photos/business/hotels/0467.htm" rend="new">http://fcit.usf.edu/Florida/photos/business/hotels/0467.htm</xref> [Photo Hotel Ponce de Leon. <xref url="http://fcit.usf.edu/Florida/docs/s/i/47.jpg" rend="new">http://fcit.usf.edu/Florida/docs/s/i/47.jpg</xref></bibl>
+
+<bibl>"History." Winter Park Historical Association. 16 June 2008. <xref url="http://www.winterparkhistorical.com/history08.html" rend="new">http://www. winterparkhistorical.com/history08.html</xref>.</bibl>
+
+<bibl>Peattie, Elia. "<title level="a">A Contrast of Extremes</title>." <title level="j">Omaha World-Herald</title> 19 February 1893: 5.</bibl>
+
+<bibl>Steele, Bill. "<title level="a">Who Are the Seminole People?</title>" <title level="m">Ah-Tah-Thi-Ki Museum</title>. 17 June 2008 <xref url="http://www.ahtahthiki.com/#/History_and_Culture/" rend="new">http://www.ahtahthiki.com/#/History_and_Culture/</xref>.</bibl>
+
+<bibl>Whitney, John Prescott. <title level="m">Whitney's Florida Pathfinder</title>. New York: Pathfinder's Office, 1876.</bibl>
+
+<bibl>Woodfin, Mike. "<title level="a">Punta Rassa</title>." <title level="m">Ghosttowns.com</title>. 16 June 2008. <xref url="http://www.ghosttowns.com/states/fl/puntarassa.html" rend="new">http://www.ghosttowns.com/states/fl/puntarassa.html</xref>.</bibl>
+
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"1890 Winter Park. The Canal." <xref url="http://www.wppl.org/wphistory/MaryMoody/TheCanalCirca1890.jpg" rend="new">http://www.wppl.org/wphistory/MaryMoody/TheCanalCirca1890.jpg</xref>. With Permission</bibl>
+
+<bibl>"Old Tampa Bay Hotel." Courtesy of the Special Collections Department, University of South Florida. Digitization provided by the USF Libraries Digitization Center. <xref url="http://en.wikipedia.org/wiki/Image:Old_Tampa_Bay_Hotel.jpg" rend="new">http://en.wikipedia.org/wiki/Image:Old_Tampa_Bay_Hotel.jpg</xref>.</bibl>
+
+<bibl>"Fort Marion." <xref url="http://www.nps.gov/archive/casa/home/home.htm" rend="new">http://www.nps.gov/archive/casa/home/home.htm</xref>. Public Domain.</bibl>
+
+<bibl>"Punta Rassa Dock." <xref url="http://www.ghosttowns.com/states/fl/puntarassa.html" rend="new">http://www.ghosttowns.com/states/fl/puntarassa.html</xref>. Public Domain.</bibl>
+
+<bibl>"Cypress." National Park Service Photo. <xref url="http://www.nps.gov/ever/parknews/evergladeshabitatimages.htm" rend="new">http://www.nps.gov/ever/parknews/evergladeshabitatimages.htm</xref>. Public Domain.</bibl>
+
+<bibl>"St. John's River."  <xref url="http://en.wikipedia.org/wiki/Image:Lowlands_Along_the_St._Johns_River.jpg" rend="new">http://en.wikipedia.org/wiki/Image:Lowlands_Along_the_St._Johns_River.jpg</xref>. Public Domain.</bibl>
+
+<bibl>"Chief Bowlegs." <xref url="http://www.beachbrowser.com/Archives/Local-News/July-99/chief-bowlegs.jpg" rend="new">http://www.beachbrowser.com/Archives/Local-News/July-99/chief-bowlegs.jpg</xref>.</bibl>
+
+
+</div1>
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> "Florida: St. Augustine."</p>
+
+<p><note id="n02" n="2">2</note> "Henry B. Plant Museum."</p>
+
+<p><note id="n03" n="3">3</note> Whitney, 40-43.</p>
+
+<p><note id="n04" n="4">4</note> "History."</p>
+
+<p><note id="n05" n="5">5</note> Woodfin.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

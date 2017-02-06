@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18920522 SYSTEM "ep.owh.18920522.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18920522">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">What Makes Home Home</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">What Makes Home Home</title>
+<title level="a" type="sub">Some People Mistake an Aggregation of Rooms For One</title>
+<title level="a" type="sub">A Four-Room Cottage Which Was a Home and a Luxurious Place Which Was Not</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1892-05-22">22 May 1892</date>
+<biblScope type="pages">13</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-29</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription, Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<figure entity="ep.owh.18920522">
+<figDesc></figDesc>
+</figure>
+
+<pb corresp="ep.owh.18920522.jpg" n="p9"/>
+
+<head type="main">WHAT MAKES HOME HOME</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Some People Mistake an <orig reg="Aggregation">Ag-</orig><lb/>
+gregation of Rooms<lb/>
+For One.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">A Four-Room Cottage Which Was a Home<lb/>
+and a Luxurious Place Which<lb/>
+Was Not.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>Home is a place in which to be happy.</p>
+
+	<p>Riches cannot make a home, nor can art do so, nor intellect. It is the heart that makes a home&#8211;the whole is an emanation of the affection of some man or woman. Generally, though not always, it is a woman who furnishes the force&#8211;the influence. I saw a home the other day. I was looking for a servant, and seeing a row of slight and faded cottages upon the top of a clay bank, it occurred to me that I might find within someone who would be willing to help me. Only one flight of stairs led up the thirty feet bank to the five little houses, and this trembled under my weight so that several times I caught at the jagged, water-worn bluff, with the idea that the stairs might fall. Once at the top of the bank I found the wild grass growing profusely, and hiding the wet clay, with its interlacement of gullies.</p>
+
+	<p>The houses had four rooms each&#8211;small rooms; and the back yards were quite the tiniest things to be seen, and were fenced off from a long decline by an enormously high fence. It gave a very queer aspect to the place, having that wall of wood in the rear and the precipice in front.</p>
+
+	<p>It was about five o'clock in the afternoon, and that accounted for the table being laid in the room into which I looked as I made my way to the door. At first I looked into the window quite by accident and should, if I had been a well-bred person, immediately have withdrawn my eyes. But my interest in men and things is forever triumphing over my breeding, and, therefore, no sooner had I glanced in the window than I continued to look. There was a pine floor scrubbed to perfect cleanliness, a wall with a papering of blue, pine chairs which also showed the effect of the scrubbing brush, and a table in the center of the room spread for the evening meal. It was daintily spread. The cover was red, the dishes blue and white, and in the center a saucer held some wild violets. The dish of fresh lettuce looked alluring, and the more substantial dishes were then being cooked in the further room and sent a perfume out into the damp air.</p>
+
+	<p>In one corner of the room stood a rocking chair of pine with turkey-red cushions in it, and at the right hand of this chair a sewing basket rested on the window ledge, which had been extended by a bit of ingenious domestic economy into quite a wide table. There was a geranium in bloom on this ledge, and a cat, very much striped and with pretty yellow eyes, curled up comfortably and looking out at the drizzle. The look in the cat's face convinced me that the room was warm, and as I moved closer to the window, in the full enjoyment of the revelation I was getting through this little window, I saw a small stove with an open, grate-like front to it. The coals were glowing and a little blue kettle steamed on top, and was evidently placed there for the purpose of supplying moisture to the room. In front of this fire were three chairs. One of them was a very large one and was upholstered, by the side of it was a square pine table on which stood a lump freshly cleaned, but not yet lighted. The other two chairs were very small and were painted red. They stood side by side. There were no framed pictures on the wall, but instead a number of those really beautiful colored prints which almost any one may have nowadays<sic corr=",">.</sic> and there was a clock, and two beautiful china plates, slung up by wires.</p>
+
+	<p>I knocked at the door. A woman came out of the kitchen beyond. She was large, with strong, long arms, and I saw at once that it was no task for her to keep that floor white. Her eyes had an expression of absolute placidity in them. I said to myself:</p>
+
+	<p>"Here is an example of the natural woman&#8211;the home-maker. She is essentially mammal. Her affections dominate her. She is frugal, industrious, amiable, self-sacrificing and ingenious, all because those qualities best demonstrate her love."</p>
+
+	<p>Aloud I asked her if she knew of any one who wanted a position as nurse girl.</p>
+
+	<p>"No," she said, and ventured not another word. I talked rather glibly, simply with a desire to get her to speak. But she did not speak&#8211;possibly because she had nothing to say. She stood looking at me quietly, her fine body perfectly poised, her blue calico revealing her strong handsome frame. Two little girls came out of the kitchen. They had blue eyes, and tidy yellow braids and very stiff, clean aprons of gingham, and they looked at me curiously from behind the stove.</p>
+
+	<p>The smell of frying mutton came from the kitchen, and while I hoped that it wouldn't burn, I somehow could not bring myself to go, and let the woman return to her task. The little blue kettle sang and sang! And the cat purred as if he were the first violin of a cat orchestra! And the fire glowed and the children smiled, till somehow I felt that I would indeed be blest if I might be allowed to go in there and rest in that big chair and let the <hi rend="italic">homeness</hi> of the place permeate me.</p>
+
+	<p>"I am married," said the woman at length, as if that fact needed explanation, "and I have no time to attend to anything but my home. I do not know anyone in Omaha.</p>
+
+	<p>"Dear me!" I said, "that must be very lonesome."</p>
+
+	<p>She smiled for the first time, as if she quite pitied me for taking such a view of the case.</p>
+
+	<p>"It is not lonesome," she said. And then, after a pause, she added, "I do not like to go down." She looked at the street far below her as she spoke; and I saw that by going down, she meant going out. The world was "down" to her. I had no reasonable excuse for staying longer. So I said good-night and turned my face once more to the drizzle. I stood looking with some dismay at the quaking flight of steps when a convulsion struck them and I saw a man dressed in jeans and with a tin pail on his arm come hurrying up the frail structure with a disregard of consequences that struck me as being reckless. The dusk was gathering rapidly and I think he hardly saw me as he hurried by toward the little house I had just left. The light on the little table by the fire was giving out a yellow glow by this time, and at the window where the cat had been watching stood the two little girls. No sooner did the man in jeans appear than the girls and the cat left the window, and a moment later showed themselves at the door.</p>
+
+	<p>I was growing more shameless every moment, and I confess I stood perfectly still there in the drizzle and the dusk, and staged in at that window.</p>
+
+	<p>The man looked very tall there in the little room. When he took off his hat to shake the moisture from it he showed a great mop of wiry hair, and his face had a sort of passion in it, as if he were a man who thought while he worked&#8211;such a man as would not let an injustice pass without a protest.</p>
+
+	<p>The woman came in from the kitchen and took his tin pail from him, and though they did not kiss each other as husbands and wives in another station of life are in the habit of doing, even when they are not very fond of each other, I saw these two exchange a smile. And then the man followed this wife into the kitchen, and the children and the cat trooped after, and I groped my way down the quaking stairs.</p>
+
+	<p>It was that same evening that I made a call on an acquaintance of mine. The drawing room into which I was invited was large, and what little heat there was came out of a black hole in the floor. The chairs were not only upholstered, but had cushions on them as well; and over the carpet was laid rugs of man kinds. The <gap reason="torn away" extent="one or two letters"/> was fairly littered with pictures, and <gap reason="torn away" extent="one word"/> whole room was broken out with vases. <gap reason="torn away" extent="one or two words"/> were screens which screened nothing and books which I think were never read, and tea tables which I imagined were never used. There were four cushions and three drapes on the sofa on which I seated myself while I waited for the family. Each member of it was in a separate room up stairs, and it took some time assemble them. The hostess looked worried, and there were deep rings under her pretty eyes.</p>
+
+	<p>"I'm tired out," she said as she sank into a chair. "I've had company every day this week and I'm up to my eyes in house cleaning, and we expect brother Jim and his bridge here next week. It wouldn't be so bad if I hadn't the most wretched servants that were ever seen. I have had to change my cook every week for four weeks running and I am in despair."</p>
+
+	<p>Some of the other ladies of the family said what they thought about servants, and the husband looked at his boots. They were nice boots, but it didn't seem to me that a happy man would have any call to study them so much. His wife went on talking.</p>
+
+	<p>She didn't think she could possibly stand it to stay in the city all summer. Omaha was simply intolerable in summer time. The difficulty with going away was that children were so much trouble. Besides, if they ate in the nurses, dining room you never could tell who they were with. When she was married one of the first things she expected to get was a cottage at <sic corr="the seaside">theseaside</sic>. But as I was well aware we did not always get what we expected in this world. In her opinion the strength of modern literature lay in the fact that this truth was so clearly set forth. She had no use for the people who complained that there was too much pessimism in modern books. It was only truth that the writers were telling. It was a grief to her always when she had finished a new book that she had no one with whom to talk it over. John&#8211;her husband&#8211;cared nothing for general reading. He never got any further than the reviews.</p>
+
+	<p>John got up at this point and said he wasn't sure that everything was locked up down at the office, and thought he would better run down and see. He kissed his wife and bowed to everyone in the room very politely and went away, looking very worn and very much alone. And his wife rambled on&#8211;not unentertainingly, if the truth must be told, and got off a clever story on one of her friends, and told what Mrs. B&#8211;'s dinner cost, which she had given the week before, and said that&#8211;but I don't know what else she said, because my eyes were fastened on a little figure that was moving around in the dimness of the other parlor. I saw a little girl looked out of the window into the darkness for a time and then try the sofa, and then get up and come into the drawing room where we were.</p>
+
+	<p>"My dear," her mother exclaimed, "you ought to have been in bed a long time ago. What in the world are you doing up at this hour?"</p>
+
+	<p>The eyes of the little girl had been wistful, but now in a moment they because defiant.</p>
+
+	<p>"I didn't feel like going to bed," she said insolently, and she lifted her shoulders with a pert movement. Her mother's face flamed and she said&#8211;but I will not tell all she said. What followed was a shameful exhibition of that insubordination which is so often seen in American children, and that petulance in parents which too frequently takes the place of authority. The poor child went to bed at last, full of anger. But though she had been very disagreeable indeed, I could not but feel that the fault had not been hers. The truth was she had no home. She had rooms through which she might wander, a mother who provided her with clothing, a table at which she was served good meals, but no place in that whole wilderness of bric-a-brac and drawn work where she could really feel that she had a home.</p>
+
+	<p>For, to return to the original proposition<sic corr=",">.</sic> a home is a place in which to be happy.</p>
+
+	<p>Not everyone has the ability to make a home. It requires a sort of genius. And this genius is a paradoxical thing&#8211;at once selfish and unselfish.</p>
+
+	<p>There are homes to be found in the huts of Alaska where the dogs, with their wolfish faces, bay outside of the doors, and within the family crouches on the dirt floor around the fire of cedar knots.</p>
+
+	<p>And there are here in Omaha houses fitted with every luxurious device, in which every elegant ceremony of domesticity is observed, which are never homes&#8211;never by any circumstance, and they seem dear, and familiar and secure, as home should seem.</p>
+
+	<p>The quality that makes a home is not describable, any more than poetry is, or love, or art. But just as sure and distinct as all these things is its existence, and no sooner does a stranger enter the door of a house than he can discover whether or not that house is a home.</p>
+
+<closer><signed rend="right">E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+</div1>
+</body>
+</text>
+</TEI>

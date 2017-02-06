@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18930507 SYSTEM "ep.owh.18930507.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18930507">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Evil of Expensive Funerals</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18930507</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Evil of Expensive Funerals</title>
+<title level="a" type="sub">It Is Vanity as Often as Affection Which Dictates Ornate Burials</title>
+<title level="a" type="sub">The Craze for Attending Funerals&#8212;The Vulgarity of Some Customs&#8212;Bury John Quietly</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1893-05-07">7 May 1893</date>
+<biblScope type="pages">7</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-17</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2007-11-14</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18930507">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p7"/>
+
+<div1>
+
+<head type="main">Evil of Expensive Funerals</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">It Is Vanity as Often as Affection<lb/>
+Which Dictates <orig reg="Ornate">Or-<lb/>
+nate</orig> Burials.</head> -->
+
+<head type="sub">It Is Vanity as Often as Affection Which Dictates Ornate Burials.</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">The Craze for Attending Funerals&#8212;The<lb/>
+Vulgarity of Some Customs&#8212;Bury
+John Quietly.</head> -->
+
+<head type="sub">The Craze for Attending Funerals&#8212;The Vulgarity of Some Customs&#8212;Bury John Quietly.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>"I like him because he respects the dead," says Montfanon, the philosopher in Paul Bouget's great novel. And he voiced in these words a sentiment which all persons of honor and affection possess.</p>
+
+	<p>But there is no denying, that, however unanimous might be the impulse among refined people to show respect to the dead, that there would certainly be a good deal of difference of opinion as to how this could best be done.</p>
+
+	<p>In America, where every sort of prodigality is indulged in, and where very few have learned the delicate difference between meanness and frugality, the expensive funeral is a matter of course.</p>
+
+	<p>It would be impossible to estimate the harm that has been done by this most foolish form of vanity; and it certainly would be very difficult to convince any one who has indulged in such demonstration that it was really vanity and not love for the dead that prompted their unwise expenditures.</p>
+
+	<p>I don't say that it is not the first instinct of love to lay flowers about the dead face that one has often kissed, and to see that the raiment is white and beautiful. But is it love for the dead that makes one hire a dozen carriages at the very least, from the livery stable, in order that the funeral procession may be long and imposing?</p>
+
+	<p>Surely, this is not love. It is vanity, and of a very small and bourgeoise sort. Good breeding knows no such vanity. It is too sure of itself to try to convince the world of its importance by such shallow and vulgar tricks?</p>
+
+	<p>For, candidly, who is it that rides in these carriages? A few really dear friends may be there, but there are very few persons who have enough really dear friends to fill twelve, sixteen or twenty carriages. Many who go will never have been in your home; few know anything of the dead, beyond a casual acquaintance, and are merely accompanying your sad burden to the grave because they think they owe it to neighborliness or sociability. There are other reasons, not so commendable, why those not concerned attend funerals.</p>
+
+	<p>I was out in a little town in Nebraska last summer visiting a friend. One Sunday evening the woman who did my friend's washing, thrust her head suddenly above the hedge, showing an excited countenance.</p>
+
+	<p>"Say, Miss C&#8212;," she began, "would yeh min' if I tuk th' clothes over t' my house now? I'm goin' t' be out after 9 o'clock t'morrow. An' I want t' git th' close hung out before I go."</p>
+
+	<p>My friend gave her permission readily enough, <sic corr="and">nnd</sic> when the woman reappeared with the clothes she paused in the exuberance of her gratitude to make a few supplementary remarks.</p>
+
+	<p>"It may seem kind of strange to you, Miss C&#8212;, fur me t' go gadding that early Monday morning. But I've got to go. I can't stay in year in an' year out, and never go. Here I am slavin' over th' washtub early an' late. And I've got to hev my amusements."</p>
+
+	<p>"Where are you going tomorrow," my friend inquired, interested in an outing that seemed to promise so much pleasure.</p>
+
+	<p>The woman balanced her clothes basket on the gate and looked back with a face that evinced intense interest.</p>
+
+	<p>"I goin' to Jack Whitman's funeral, yeh know. Ain't yeh goin'? Poor Mrs. Whitman! I'm so sorry for 'er! I've got my black dress done&#8212;trimmed th' waist with some of that there gimp Watson had down at his place. I guess I'll git th' washin' out by 9. Good-by. See yeh at th' funeral!"</p>
+
+	<p>She was a nice little woman&#8212;that washerwoman, and was bringing up her family well, and working with all her strength. And her heart was good and true. But she had to "go," and when there wasn't anything else to "go" to, she went to a funeral and almost wept her sympathetic eyes out. Of course it did keep her from dying of ennui, for when you weep you are not bored, but interested. And she is a type that stands for hundreds of thousands.</p>
+
+	<p>They are of all classes of society&#8212;these social vampires who come to prey upon your misery. But do you want to provide carriages for them to ride out to your dear graves when you need the money you pay for the carriage to buy bread for your children?</p>
+
+	<p>Decidedly not.</p>
+
+	<p>Personally, I do not believe in the erection of tombstones. I do not think the memory of any man ever lived longer because of a stone above his grave. A great man needs no stone; and a man of no importance cannot acquire importance through this head stone. In short, if the life of a man has not made him memorable, the paraphernalia which surrounds his rotting body cannot do so. To begin with, a tombstone is not artistic. It does not uplift the mind in any way. It is uniform&#8212;having only slight variations&#8212;and awakes no interest. The inscriptions are either maudlin, ridiculous or common place. And the whole custom is the result of materialism, which must make a palpable sign of a spiritual condition.</p>
+
+	<p>If one really wants to show reverence for the dead, the way to do it is by living such a life as the dead would have desired one to live. If, after earnest and solitary thought, one arrives at the conclusion that the life the dead would have desired one to live would be a life inconsistent with the best in one's nature, then the sooner that the dead are allowed to disappear from the more poignant recollections, the better it will be.</p>
+
+	<p>For it really isn't worth while to waste tears on bad dead people when you can bestow smiles on good, living ones.</p>
+
+	<p>There are a number of things with which display is appropriately connected. For example, if one gives a ball; or drives a coach to the races, invites guests to a banquet. But when one buries one's dead&#8212;has display any part in such a thing?</p>
+
+	<p>It is safe to say that in no other country of the world have burials taken to themselves, among the better class of people, such a commonplace and commercial aspect as in America.</p>
+
+	<p>Even in England, the country which in all respects most resembles America, the funerals are private, are attended only by men, and only by those who have cards of invitation, and the burial is apt to be quietly and even hurriedly done in the morning.</p>
+
+	<p>This idea of privacy has obtained always among the most intellectual people. The Greeks demonstrated it, when, instead of raising monuments, inscribed with sentiments which ought to be sacred to the family, for every gaping idler to read, they put the ashes of the dead in an urn, which was kept sacredly among the family treasures.</p>
+
+	<p>But Americans have socialistic instincts&#8212;although they profess to fear socialism. They have taken down the barriers between their yards, so that no man has any privacy once beyond his doorway; they pool their issues in all sorts of ways, commercial, social, and above all, educational; and as they permit a man no privacy while he lives, so they refuse it to him dead. They know all about his bank account, his politics, his religion, his domestic affairs, his difficulties, and his aspirations while he lives. Each item of information is wrung from him, or he is held up to the gaze of the outraged public as being "unsociable." And to be unsociable in America is a much worse offense than being dishonest. For everyone knows that an embezzlement will be forgiven "a good fellow." And this unity of interest, this frank, buoyant curiosity is the real cause of our large, expensive funerals&#8212;our "sociable" funerals. Everybody in the neighborhood attends. All the men related to the deceased through business, club, lodge, church or political associations, attend. All the kinfolk who can afford it by hook or crook hurry to the house, regardless of the expense which they entail or incur. And all from a vulgar, absurd, utterly incongruous idea of sociability.</p>
+
+	<p>No funeral of a person in the middle station of life can be conducted for a cent less than $150. The average cost is $250. And among persons who have lived with some little show of elegance, the cost is apt to reach $500.</p>
+
+	<p>Suppose you are a gentlewoman, living comfortably on a small regular income, with your husband and two or three babies. One day your husband catches cold, gets pneumonia, and a week later you are looking at a corpse, orphaned children, a vanished income and an uncertain future. Wouldn't anyone think that under such circumstances the only sensible thing to do would be to find John the cheapest coffin in the market, follow John to his quiet and inexpensive burial lot, and keep what savings there might be for John's fatherless babies?</p>
+
+	<p>And John, if he could from somewhere in the Vast, look down upon the world from which he was so unceremoniously hurried, would have a happiness added to his heavenly joys at such an exercise of true womanliness, affection and good sense on the part of his wife.</p>
+
+	<p>Don't you think he would?</p>
+
+	<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

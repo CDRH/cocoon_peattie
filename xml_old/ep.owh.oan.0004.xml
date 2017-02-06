@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.oan.0004.01 SYSTEM "ep.owh.oan.0004.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.oan.0004.03 SYSTEM "ep.owh.oan.0004.03.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.oan.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The University of Nebraska</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.oan.0004</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2007-11-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">The University of Nebraska</head>
+
+<figure entity="ep.owh.oan.0004.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>Shortly after the contested move of the state capitol to Lancaster in 1869, a little town of less than one hundred people where herds of antelope still roamed through what is now downtown Lincoln, city lots went on sale, the proceeds of which were to help finance the construction of state buildings, including the capitol and the university.</p>
+
+	<p>Four square blocks on the north side of town had been designated for the campus. That year the legislature overhauled the Nebraska general schools laws and created the University of Nebraska, to be endowed in large part by the Morrill land grant that was to consist of six colleges: Ancient and Modern Literature, Mathematics and Natural Sciences; Agriculture; Law; Medicine; Practical Science, Civil Engineering and Mechanics; and Fine Arts. That was the easy part.</p>
+
+	<p>The creation of the physical campus was much more difficult. The building of University Hall was plagued by political wranglings, by drought and grasshoppers that not only devastated the state's economy but the hundreds of trees and flowers planted on the grounds, and by construction mismanagement. However, by January 1871 legislators visited the imposing Franco-Italian style building and declared it to be "well constructed and substantial."<ref target="n01" n="1">1</ref> That same year Allen R. Benton, president of Mount Union College of Ohio, agreed to become the university's first president. During the summer, he organized the University, traveled widely to enlist the support of the people of the state, recruited students, and hired faculty for the six colleges.</p>
+
+	<p>When the university opened on September 7, 1871, about seventy students registered out of a Nebraska population of about 133,000. Except for music and art, tuition was free, whether the student was a citizen of Nebraska or not, but each had to pay a one time matriculation fee of $5.00. Two years later, the university added a farm campus of 320 acres across a wide stretch of prairie to the northeast of the main university to teach students the importance of careful experiments through close observation and study, to discover new and improved methods of farming, and to develop a scientific basis of agricultural practice. However, enrollment did not soar as expected due to economic conditions in the state: grasshoppers, drought, and the depression. Even with perfunctory entrance examinations, only 123 students signed up in 1872, and the following year enrollment dipped to 100.<ref target="n02" n="2">2</ref> The spring of 1873 saw the first graduation&#8211;two young men. Grasshoppers and drought struck again in 1874 and 1875, and only about 200 men and women attended the university.</p>
+
+	<p>In 1879 the university erected a boarding hall three blocks from the campus to provide room and board for 70 women and found rooms elsewhere for 80 men for $2.50 a week. The state population expanded to nearly a half a million by 1882, and student attendance reached about 375 students.<ref target="n03" n="3">3</ref> By 1886 University Hall was crumbling, and a new structure had to be built. By then, university officials had learned their lesson, and when President James Canfield built the library in the 1890s, complete with turrets and winding staircases, he oversaw the whole production, holding contractors to their specifications.</p>
+
+	<p>Football came to the university about this same time when the university's civil engineering students laid out a field for their own enjoyment, and then the medical students organized a team. When Harvard's Dr. Langdon Frothingham joined the faculty in 1890 to teach agriculture and bacteriology, he agreed to organize a varsity football team, and they played their first game on Thanksgiving Day before a crowd of 500 people. They beat the Omaha YMCA 10-0.</p>
+<!-- 
+<figure entity="ep.owh.oan.0004.02">
+<figDesc></figDesc>
+</figure>
+-->
+<figure entity="ep.owh.oan.0004.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>During the 1890s, fortunately, the university blossomed from "a small frontier college into a major institution."<ref target="n04" n="4">4</ref> The student population rose from 570 in 1890-1891 to 1,946 in 1898-1899, increasing in number every year, even during the severe economic depression of 1893. More farm children began entering the hallowed halls, which previously had been filled with young people from the cities and towns. At the same time, Lincoln became "a prairie boom town."<ref target="n05" n="5">5</ref></p>
+
+	<p>Much of this enrollment increase came from the efforts of James Canfield, who arrived in Lincoln in July 1891 and traveled over 10,000  miles across Nebraska that year to visit teachers' meetings, farm organizations, and women's clubs. His approachable personality and his belief in the western democratic ideal made him friends to students and parents alike. His support of co-education welcomed even more women to campus. When he arrived, approximately 500 students were enrolled. Four years later, the number had risen to 1,500 through his efforts, and by 1900 enrollment was at 2,000&#8211;with ninety percent of the students from Nebraska.<ref target="n06" n="6">6</ref></p>
+
+	<p>Because of their similar beliefs, Chancellor James Canfield and his wife became close friends of the Peatties. Mrs. Canfield and Peattie also worked together to help form the Nebraska State Federation of Women's Clubs, a group dedicated to promoting culture and philanthropy and working for educational reform. Denied even a high school education herself because she had to drop out of school to work for her father, Elia Peattie, too, was dedicated to learning and intensely promoted schooling at all levels.  With her own unflagging idealism, Peattie believed that the raw materialism of the times needed the cultural and intellectual development that education provided; with her faith in democracy, she believed that anyone could succeed with hard work given the right opportunities. "Where else could it happen but here in America?' she asked. "Perhaps, indeed, it could only happen here in the west." </p>
+</div1>
+
+
+<div1>
+<head type="sub">Read Peattie's Writings</head>
+<list>
+<item>
+<xref n="ep.owh.18921106">The Nebraska University</xref>
+</item>
+</list>
+</div1>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><title level="m">A Brief History of the University of Nebraska</title>. <publisher>University of Nebraska&#8212;Lincoln</publisher>. <date value="2005">2005</date>. 7 October 2007 <xref url="http://www.unl.edu/ucomm/aboutunl/history.shtml" rend="new">http://www.unl.edu/ucomm/aboutunl/history.shtml</xref>.</bibl>
+
+<bibl><author n="Andreas, A.T.">Andreas, A.T.</author> "<title level="a">Lancaster County</title>." <title level="m">Andreas' History of the State of Nebraska</title>. <pubPlace>Chicago, IL</pubPlace>: <publisher>Western Historical Company</publisher>, <date value="1882">1882</date>.</bibl>
+
+<bibl><title level="m">Inventory of the James Hulme Canfield Collection, 1830-1909</title>. Bailey/Howe Library, University of Vermont Libraries Special Collections. 7 October 2007 <xref url="http://cdi.uvm.edu/findingaids/viewEAD.xql?pid=canfieldjh.ead.xml" rend="new">http://cdi.uvm.edu/findingaids/viewEAD.xql?pid=canfieldjh.ead.xml</xref>.</bibl>
+
+<bibl><author n="Knoll, Robert E.">Knoll, Robert E.</author> <title level="m">Prairie University</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1995">1995</date>.</bibl>
+
+<bibl>"<title level="a">University of Nebraska History</title>." Masonry Nebraska. 7 October 2007 <xref url="http://www.minerland.net/nebraska1.htm" rend="new">http://www.minerland.net/nebraska1.htm</xref>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"University of Nebraska Main Building." Fred's Post Card Collection of Nebraska. <xref url="http://www.memoriallibrary.com/NE/Fred/Lincoln/School/" rend="new">http://www.memoriallibrary.com/NE/Fred/Lincoln/School/</xref>.</bibl>
+
+<!--
+<bibl>"James Canfield." Dorothy Canfield Fisher Photo Gallery. <xref url="http://www.dcfaward.org/photo_gallery/index.htm" rend="new">http://www.dcfaward.org/photo_gallery/index.htm</xref>.</bibl>
+-->
+<bibl>"James Canfield." Courtesy University of Nebraska&#8211;Lincoln Archives and Special Collections.</bibl>
+
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> Manley, 19.</p>
+
+<p><note id="n02" n="2">2</note> Manley, 29.</p>
+
+<p><note id="n03" n="3">3</note> Andreas.</p>
+
+<p><note id="n04" n="4">4</note> Manley, 111.</p>
+
+<p><note id="n05" n="5">5</note> Manley, 112.</p>
+
+<p><note id="n06" n="6">6</note> Knoll, 28.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,84 @@
+/* CSS Document */
+/* Peattie font Styling */
+
+
+div.quotebox p {color:#211405; font-family:"Trebuchet MS", Trebuchet, Helvetica, Arial, sans-serif; line-height:1.7em; font-size:22px}
+
+div.content h1 {font-size:2em; font-family:"Trebuchet MS", Trebuchet, Helvetica, Arial, sans-serif; color:#6c5638; font-weight:bold; margin-bottom:10px}
+
+div.content h2 {font-size:1.8em; font-family:"Trebuchet MS", Trebuchet, Helvetica, Arial, sans-serif; color:#4b6d90; margin-bottom:10px}
+
+div.content h3 {font-size:1.2em; font-family:"Trebuchet MS", Trebuchet, Helvetica, Arial, sans-serif; color:#000000; font-weight:bold; font-style:italic; margin-bottom:10px}
+
+div.content h4 {font-size:1.2em; font-family:"Trebuchet MS", Trebuchet, Helvetica, Arial, sans-serif; color:#3a4b51; font-weight:bold; margin-bottom:10px}
+
+div.content span.divider {color:#727272}
+
+div.content blockquote {color:#211405; font-family:"Trebuchet MS", Trebuchet, Helvetica, Arial, sans-serif; line-height:1.7em;}
+
+div.content p {color:#000000; font-family:"Trebuchet MS", Trebuchet, Helvetica, Arial, sans-serif; font-size:1.1em; margin:15px 0px 15px 0px; line-height:1.4em}
+
+div.content a {color:#69aa8d}
+
+div.content a:hover {color:#3c735a}
+
+div.list {font-family:Times, serif}
+
+div.list h1 {font-size:1.5em; color:#5f4c31; margin-left:10px}
+
+div.list li a{font-size:1.3em; color:#4f4e4d; line-height:1.6em; text-decoration:none; margin-left:25px}
+div.list a:hover {text-decoration:underline; color:#000000}
+div.list a.acknow {color:#2d2d2d; font-size:1.3em; text-decoration:none; margin-left:10px}
+div.list a.acknow:hover {color:#000000; text-decoration:underline}
+
+div.links a {color:#fff2c4; font-size:1.3em; line-height:1.6em; text-decoration:none; font-family:Times, serif}
+div.links a:hover {color:#fffdf7; text-decoration:underline}
+
+div.buttons {font-family:Times, serif;}
+
+div.buttons h1 {color:#f2da85; font-size:1.7em}
+
+/* Not related to index page */
+
+div.middlecontainer {color:#ffdc60}
+
+div.middlecontainer a {color:#fff2c4; text-decoration:none; font-family:"Minion Pro", Minion, "Times New Roman", Times, serif; font-size:1.3em; margin-right:10px; margin-left:5px}
+div.middlecontainer a:hover {color:#fffdf7; text-decoration:underline}
+
+div.middlecontainer h2 {color:#ffdc60; font-family:"Minion Pro", Minion, "Times New Roman", Times, serif; font-size:1.5em; display:inline}
+
+span.bold {font-weight:bold}
+
+div.content li {color:#000000; font-family:"Trebuchet MS", Trebuchet, Helvetica, Arial, sans-serif; font-size:1em; margin-left:15px; margin-bottom:10px; line-height:1.2em}
+
+div.content blockquote {margin:0 4em 0 4em;}
+
+div.references li {margin-bottom:0px; margin-left:30px; font-size:0.9em}
+
+.content table { color:#000000; font-family:"Trebuchet MS", Trebuchet, Helvetica, Arial, sans-serif; font-size:1em; line-height:1em; margin-left:30px}
+
+.content table td {padding-right:20px}
+
+.content p.bibl {margin:10px 0px 10px 0px; line-height:1.2em}
+
+
+strong {
+	font-weight: bold;
+}
+
+/* List styling */
+
+.lists {font-family:"Trebuchet MS", Trebuchet, Helvetica, Arial, sans-serif}
+
+.lists h2 {font-size:1.8em; color:#4b6d90;}
+.lists h3 {font-size:1.2em; color:#000000; font-weight:bold; font-style:italic}
+.lists h5 {font-size:1.1em}
+
+.lists a {color:#387b5d;}
+.lists a:hover {color:#7cc2a2}
+.lists a:visited {color:#184f36}
+.lists li a { font-size:0.9em}
+
+em {font-style:italic;}
+
+

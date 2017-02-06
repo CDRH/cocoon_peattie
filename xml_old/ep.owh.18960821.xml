@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18960821 SYSTEM "ep.owh.18960821.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18960821">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18960821</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="a" type="sub">Thirteenth Street Car</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1896-08-21">21 August 1896</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-19</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18960821">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p8"/>
+
+<div1>
+
+<!-- <head type="main">A WORD<lb/>
+WITH THE WOMEN</head> -->
+
+<head type="main">A WORD WITH THE WOMEN</head>
+
+<milestone unit="smallbar"/>
+
+<byline>(By Elia W. Peatie.)</byline>
+
+	<p>The other day I chanced to take a ride on the Thirteenth street car. It was almost a new ride to me, and an exceedingly interesting one. This is a fascinating town, anyway, in many respects, and it has, for a western town, a great many unexpected corners and crannies. Nearly all of the street car rides are quite absorbing in their interest, even after they get familiar. But this one, being unfamiliar, was particularly so&#8212;almost as much as a new summer novel. First, there was the wholesale district, looking business-like in a heavy way, and having imposing signs, and offices that suggested trade, whether they had it or not. Then there was <sic corr="the">the the</sic> railway crossing, where the conductor got out and looked up and down the track, and then signaled to the driver. Although the road is an electric one, it seems to be leisurely, and things do not proceed with the rush and precision that they do on the other roads in the city. It seems old fashioned in spite of the electricity. But in spite of its easy pace, it soon reaches Bohemia town, after leaving the wholesale district. Names astonishing to American eyes appear on the signs. The shops have a peculiar sort of window decoration. The saloons seem sociable and there is one family resort, closely <sic corr="hidden">hidden den</sic> from the street, where the Bohemians probably go with their wives in the evening for a glass of beer after the long day's work. Perhaps there is violin music there, too. It looks as if there might be. The markets are some of them very attractive, and the men who stand in the door ways in their white aprons, look as if they came of a long line of marketmen, and were proud of being what they are. Some of the houses are very clean, and are quite embowered in trees, vines and bushes. Others huddle three or four in a yard, one back of the other, in miserable poverty, and are surrounded by dirt. Heaps of rags lie in the yard. Ill-looking dogs snarl at one another. Garbage lies about, offending the nostrils. Brown children, horribly dirty, strut around and laugh or quarrel. The women walk with their arms on their hips, and look cross and assume that importance peculiar to viragos.</p>
+
+	<p>A Russian bath house stands dismantled, though its signs designate that it was a cure for many ills to which the flesh is heir. There is also a dismantled pickle factory&#8212;the closing of which may have been responsible for the decline of the Russian sanitarium.  In other words, it may have been the pickles that made the sanitarium necessary. After the Bohemian settlement is passed, one comes to that most remarkable series of clay cuts, which rise between Thirteenth and Eleventh street, and which assume almost grand proportions. They have been hewn and carved, but still they are massive, and their yellow heights make a wild background for the life of the street. Far up on the top of a particularly long one is a sort of artificial mesa, on which are perched two small houses, in which someone has the courage to live, though on windy days they must be in a continual simoom of pulverized clay particles. Still beyond, and on the other side of that street, is that beautiful block of land, tree-grown and grassy, owned by the eccentric townsman who dreamed dreams of great wealth in the days when such dreams were rife in Omaha, and who put about his property the finest stone wall in the city, and laid the foundations and built the first story of a building which he intended should be a sanitarium. It seems a mighty piece of masonry, and even as it stands, has a picturesque pathos. The children run along the stone walk on the palisade where he intended his wealthy invalids should walk, and the squirrels frisk about the grounds which were to have been imposing with statues and fountains.</p>
+
+	<p>After that comes a charming stretch of country road. Now and then some pretty cottages perch high on terraces. Here and there a miserable shack is dropped away down in a green dell. Glimpses of the big river are caught between the hills, with the purple bluffs beyond them. Agreeable country homes in the midst of little gardens and orchards show in the distance. And at last Riverview park is reached, with its wide driveways, its beautiful heights, its noble views and its pleasant lawns.</p>
+
+	<p>For a dull summer day, a ride on the Thirteenth street car is not a bad amusement, especially if one of the children is along. Almost anything seems more interesting when one of the children are along, doesn't it?</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

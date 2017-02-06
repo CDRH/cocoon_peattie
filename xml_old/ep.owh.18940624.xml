@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18940624 SYSTEM "ep.owh.18940624.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18940624">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Mrs. Peattie on Lynching</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18940624</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Mrs. Peattie on Lynching</title>
+<title level="a" type="sub">The Blot on the Name Civilization and Why It Is There</title>
+<title level="a" type="sub">Something Concerning the Young Negro Woman Who Is Agitating England Against America</title>
+<title level="a" type="sub">A Graphic Description of One of the Incidents Which Cause the Lynching of Southern Negroes</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-06-24">24 June 1894</date>
+<biblScope type="pages">11</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-06</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2007-11-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18940624">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p11"/>
+
+<div1>
+
+<head type="main">MRS. PEATTIE ON LYNCHING</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">The Blot on the Name of <orig reg="Civilization">Civil-<lb/>
+ization</orig> and Why It Is<lb/>
+There.</head> -->
+
+<head type="sub">The Blot on the Name of Civilization and Why It Is There.</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">Something Concerning the Young<lb/>
+Negro Woman Who Is Agitating<lb/>
+England Against America.</head> -->
+
+<head type="sub">Something Concerning the Young Negro Woman Who Is Agitating England Against America.</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">A Graphic Description of One of the <orig reg="incidents">inci-<lb/>
+dents</orig> Which Cause the Lynching of<lb/>
+Southern Negroes.</head> -->
+
+<head type="sub">A Graphic Description of One of the incidents Which Cause the Lynching of Southern Negroes.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>Mrs. Allie C. Willard, the sister-in-law of Miss Frances Willard, writes from England to the W<hi rend="smallcaps">ORLD</hi>-H<hi rend="smallcaps">ERALD</hi>, in a perturbed state of mind, concerning the agitation of Miss Ida B. Wells. Miss Wells is a colored woman, who, despairing of finding any redress in the country for such of her race as are lynched for their wrong-doing, instead of being properly tried by law, has gone to England to arouse public sentiment there. Carried away by the subject, and by the bitterness which she naturally enough feels, she indulges in some severe reflections upon this country and upon its most cherished heroes, particularly Lincoln. At least, so Mrs. Willard complains. She has also assailed or reproached Miss Willard for her lack of sympathy with the cause of the negro. And she has been guilty of ingratitude for the sacrifices made by abolitionist heroes, and by soldiers of the civil war, who gave all they had to give for the independence of the slave.</p>
+
+	<p>One would be in a much better position to <orig reg="criticize">criticise</orig> Miss Wells if one had heard her addresses. Mrs. Willard's accounts of her exaggerations and misrepresentations may be colored to an extent by her resentment at the reproach leveled at her beloved sister-in-law, and by the natural irritation of an American at having her country abused among foreigners.</p>
+
+	<p>But on the other hand, is it not true that we hang, boil, burn and shoot negroes who break the law, and that when a negro commits an offense we are more inclined to lynch than to try him by law?</p>
+
+	<p>If so, why should we resent having it told?</p>
+
+	<p>There is never any use in trying to conceal the truth. Truth is like water and flows through the tiniest cracks. It will make itself visible somehow.</p>
+
+	<p>If we lynch negroes, and maintain that we have a right to lynch them, why should we object to having Miss Wells say so? Why should not England and <unclear>t</unclear>he whole world know it?</p>
+
+	<p>And could anyone reasonably suppose that Miss Wells could talk upon this subject calmly, or that she would not represent us as monsters? It would not be in human nature to do otherwise.</p>
+
+	<p>To defend herself against the charge of ingratitude she very naturally attacks our motives and the motives of the men who led us in the civil conflict. And she says very truly that Lincoln was not in favor of emancipation. That is true. He fought to preserve the federation of the states of the union, and it is with reluctance that he signed the emancipation papers, feeling that he was disturbing property rights, and that he was precipitating men into a problem hardly less distressing than slavery. Miss Wells says negroes are socially <orig reg="ostracized">ostracised</orig>; that they have none of them been elected to high office since 1876; that even when they fought as soldiers in the civil war they were enlisted for less pay than the other troops, and that they were not treated as well as white soldiers. Miss Wells is mistaken about there having been no negro elected to congress of other high place since 1876. But as for the other facts, they are probably true. There is no denying the social ostracism of the negro. There is not a first-class hotel or a first-class theater in this country where they would be admitted to equal privileges with other guests. There is not a drawing-room in this country where they come commonly as the friends of the family, although in church, or political, or educational work they may occasionally be associated with those of social position.</p>
+
+	<p>Mrs. Willard is very deeply moved because the men of the north have been called cowards, and because Lincoln has been assailed. But it is no arraignment of Lincoln to say that he did not at first believe in the uncompromising and immediate delivery of the slaves. Nor is there any occasion for northerners to fret because they are called cowards, and in race questions they are apt to be narrow, arrogant and un-Christian. Since they are so, why should not England know it? We have really no right to resent Miss Wells' endeavors to get the English to protect the blacks, since it was but a little time ago that many of us were advocating an attack upon Russia by all Christendom, for the purpose of forcing her to respect the lives of her Jews, her peasants and her convicts. If we have been as culpable, must we not face the mortification of being similarly <orig reg="criticized">criticised</orig>? If we have a cancer in the national breast, denying its existence will not keep the poison from our blood.</p>
+
+	<p>It is just possible that Mrs. Willard may feel some undefined irritation at seeing one of the scorned receiving honors from the influential. For that Miss Wells has been made much of is shown by Mrs. Willard's own letter. Speaking of Miss Wells, she says:</p>
+
+	<p>"She comes indorsed by Frederick Douglass, and has been received by many of the high and some of the best in England. She is in with the leading London papers, such as the Daily News, really the government organ; the Sun, T. P. O'Connor's paper, and the like. The Chronicle has given her one column and one of its big leaders; the Echo has written her up, also the Westminister Gazette and many other strong and influential papers. Among the people she has interested is the Rev. Joseph Parker of the City Temple, the tragedian of the pulpit. She has come at a time itself opportune for all the big annual May meetings, has been received by many of them, been heard and got resolutions passed, etc. Dined and feasted, as inclosed clippings will indicate. Her books reviewed and pictures published.</p>
+
+	<p>"Now this would be all right if she were honorable, honest and truthful, if loyal to country or party. But she has no good word for her country, and says some dreadful things, and infers others even worse. She is as sly as an Indian in her speech, and wicked as a tiger. She is rather fine looking, a good speaker, calm and possessed, and has learned her role well. It is still hard to understand, though, by what means she secures so many honors, seemingly without effort."</p>
+
+	<p>Miss Wells' published material, however, does not justify the accusation that she is shy or tigerish. Here is a communication <sic corr="written">writen</sic> by her to the editor of the Daily Chronicle of London:</p>
+
+<div2 type="letter">
+	<p>"Sir: Every moment of my time has been so fully occupied since Governor Northen's letter was published that I have not before been able to reply to his charges that my statements are false. Your leader and Dr. Clifford's splendid letter have pointed out that it is not my statements alone, but the reports in the American newspapers, which reveal the lawlessness of the United States. I have only given the negro side of these stories. I have cuttings of lynchings running back six years, which were taken from the columns of the American dailies. This news has been furnished by the Associated Press. Only one newspaper in the Untied States has kept record of these lynchings as reported, and complied statistics therefrom. The Chicago Tribune has made it a feature the first day of every year to publish a list of the yearly record of murder, suicide, railway accident, lynching, etc. This it has done for the last ten years, and, in keeping with its custom, on the 1st day of January, 1894, was published the complete lynching record for 1893. The list occupied almost two columns, and beginning with January 1, 1898, the date, name, rate, accusation, and place of lynching were given for every day in the year that a lynching took place. The Tribune and the Associated Press are edited and owned by white men.</p>
+
+	<p>"Governor Northen says: 'There is not a community or a government of similar extent into which your paper goes, that is more law abiding and peaceful than the people of the state over which I have the honor to preside.' The authority which I quote above shows that Georgia lynched fifteen negroes last year. Two of these were charged with 'rape,' three with 'alleged rape,' one with 'attempted rape,' one with 'turning state's evidence,' one with 'assault and battery,' and seven with 'murder.' The people of Georgia have never denied any part of this record. The state of Georgia's lynching record for 1892 was seventeen persons, and for this present year, up to May 1, three negroes have been lynched in Georgia. This is all during Governor Northen's administration, and beyond a few letters, and a word or two in denunciation of lynching in general, to deceive the outside public, nothing has been done by the chief executive of Georgia to stop lynching. Several of these lynchings took place in broad daylight, and Governor Northen has done nothing to protect prisoners or punish lynchers. More than 100 negroes have been lynched in this manner in different parts of the state since he became its governor. If his neighbor, Governor Tillman of South Carolina, could invoke the military power of his state to enforce the liquor laws, surely as much might be done to protect human life, but Governor Northen has not a single instance of this kind to his credit. Indeed, there passed through Liverpool in March fifty negroes who came direct Atlanta en route to Liberia. They said they were willing to brave African fever, the jungle, anything, to secure freedom and protection of the law, which they were denied in Georgia. They said there were hundreds in Atlanta who would come if they had only money to pay their passage.</p>
+
+	<p>"Outside agitation has done some good even in the south, when the governor of the great state of Georgia comes forward to defend her. It is the truest kindness to him and his state to point out that if they would have the world's good opinion and support they must put down lawlessness with a firm hand; that general denial in face of all facts will not be accepted. Governor Northen did not tell you that he signed a bill against lynching that winter which passed the state legislature. The bill provides that 'it shall be a misdemeanor for any sheriff to fail to protect the life of a prisoner, and a felony to take part in any attempt to mob a prisoner of the law!' To my way of thinking nothing could more vividly portray all I have claimed than the wording of the above law. It recognizes that sheriffs have aided and abetted mobs, and that the state considers it a 'misdemeanor' for them so to do.</p>
+
+<closer><dateline rend="right">"London, <date>June 8</date>.</dateline> <signed>I<hi rend="smallcaps">DA</hi> B. W<hi rend="smallcaps">ELLS</hi>."</signed></closer>
+</div2>
+
+<div2>
+	<p>The truth is, Mrs. Willard, we do burn, shoot and hang negroes who break the law. It is a terrible thing to have the world know this, but it is not so bad a thing as that we should do it.</p>
+
+	<p>And then&#8212;as to the cause!</p>
+
+	<p>Permit me to tell of one typical case.</p>
+
+	<p>The brother of a dear friend of mine lives in the south, on the Suwanee river. He has cultivated his plantation there for many years&#8212;it is all he has in the world&#8212;and has raised his family of boys and girls there. His wife has been dead for many years, and the older girls have done the housework and cared for the younger children. It is a very free, delightful life they lead, and so much attached to it are they that life in cities has little attraction for them, and when they have visited relatives in cities they have pined for the beautiful, wild home on the Suwanee. The planter has always been a friend of the negro, and has written some and worked much for the mitigation of the negro convict, especially those employed in the phosphate mines.</p>
+
+	<p>Last summer, one of the daughters being ill, two of her sisters were sent on horseback to the nearest town, which is several miles distant, for medicine. The father stayed in the house to care for the sick girl, and his youngest daughter, a bonny thing 11 years of age was sent out to pick some berries for tea. She tied on her little sun bonnet, took her pail and went out.</p>
+
+	<p>She was never seen alive again.</p>
+
+	<p>Tea time came, the girls returned from the town, and Mary was called. She did not come. A search was begun. No one doubted much what the result would be. There had been two tragedies in the same county, which indicated very truly what the terrified sisters had to expect. And they found what they expected&#8212;only 200 feet from the house, over among the scrub palmettos, beside a log. The little brown eyes had been cut out with a knife. The pretty white throat was cut so that the head barely hung to the body. The sweet body was otherwise mutilated. And by the side of the body was the print of a huge naked foot&#8212;the foot of a giant.</p>
+
+	<p>Two negroes were arrested. A crowd gathered the next morning that numbered hundreds, and that grew as the day went on. Men and women came, and tied their horses to the oaks, and participated in the great trial which was conducted there. Four clergymen were present. The father hired an attorney to question and defend the negroes under arrest. By the evidence of white men, and by his own evidence, one negro was acquitted. The other was proved to be near the place of the murder at the hour of its occurrence. His foot was fitted into the print beside the body and found to correspond in every particular, and finally the bloody clothes he had worn were found hidden in his house.</p>
+
+	<p>Even then the men delayed.</p>
+
+	<p>"Let him live an hour," the father said. "Give him a chance to repent. Let him confess, and die telling the truth." He asked the clergymen to pray for him. They refused. He asked the attorney if there was any possible chance that a mistake had been made. The attorney told him not to make a fool of himself.</p>
+
+	<p>The men and women built a pyre of dry branches. But the father would not let them burn alive.</p>
+
+	<p>"Do what you like with the body," he said, "but you cannot burn him alive."</p>
+
+	<p>They put a rope around the man's neck. He begged for another hour, and said he would confess if they would give it to him. They consented. He made the confession. And one hour later, as the minute hand marked the sixtieth second, they drew the rope up over the bough of a tree. When they took him down there were thirty bullet holes in him. They laid his body&#8212;it was almost seven feet tall, and the head was like that of a chimpanzee&#8212;upon the dry boughs, and it burned until it was but bones and ashes.</p>
+
+	<p>There, in language that tells the whole revolting, hideous, brutal truth, are the facts of this typical case. The negro showed himself a brute&#8212;like some monster of the African forest, born to waste, and kill and tear. And he was treated like such a brute. No gorilla, or wild bore, or wolf could have been treated worse.</p>
+
+	<p>It is almost useless to expect that any one could suffer as that family suffered and not be forever injured. Neither the heart nor the brain, and, perhaps, not even the body, could ever again be quite as normal as they had been. Merely to read the tale is enough to destroy one's sleep. And it would be a shame to write it if it were not that a tremendous line of defense must be offered to justify even to the least degree the manner in which revenge is taken upon the negroes.</p>
+
+	<p>But even this will not justify it. Nothing justifies the taking of human life.</p>
+
+	<p>But, all the same, any man, no matter how temperate in his passions, would, under circumstances such as I have portrayed, go out to hunt to death the wild beast who had entered his home and wrought there a friend's ruin.</p>
+
+	<p>So stands the case. And Miss Wells has her point of view&#8212;and no wonder. And those who see the other side have theirs, and no wonder either. It's a condition which must be faced, and which cannot be denied. And the world will know of it.</p>
+
+	<p>There is a war between the races. This war does not extend to every member of each race. Some negroes and some white men and women are good friends. And perhaps the friendship will grow. But meantime the outlook is discouraging. Even the working men, combining, fighting and working to keep their just rights from being taken from them, have refused the admission of negroes to the American Railway union. They believe that the earner has rights that ought to be respected by the employer. But they have not yet discovered that the negro has any social rights that his fellow laborer is bound to respect.</p>
+
+	<p>So we grind each other! So we crash! So the greeds meet like opposing floods. And in the fury of their meeting men go down.</p>
+
+	<p>There is no use of trying to find the right in this war of races. There is no right. There is nothing but wrong. Espouse no side. Neither side is worthy of espousal. It is an episode with horrified eyes.</p>
+
+<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+</div2>
+
+</div1>
+</body>
+</text>
+</TEI>

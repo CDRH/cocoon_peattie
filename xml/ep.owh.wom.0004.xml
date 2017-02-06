@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.wom.0004.01 SYSTEM "ep.owh.wom.0004.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.wom.0004.04 SYSTEM "ep.owh.wom.0004.04.jpg" NDATA jpeg>
+<!ENTITY ep.owh.wom.0004.05 SYSTEM "ep.owh.wom.0004.05.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.wom.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Bicycles, Bloomers, and the New Woman</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.wom.0004</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-04-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<div2>
+<head type="main">Bicycles, Bloomers, and the New Woman</head>
+
+<figure entity="ep.owh.wom.0004.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>The New Woman had a definite opinion regarding the style of clothing she ought to wear. Proper Victorian attire, which had been in vogue since 1840, had required that women wear white blouses with sleeves to the wrists, tightly-laced corsets, and dark, ankle-length skirts supported by petticoats. As women of the 1890s began to glimpse greater, unprecedented social and political liberties, however, their wardrobes changed along with them. There was a new ideal of beauty epitomized by the "Gibson Girl," a creation of artist of the day Charles Dana Gibson. "Never given a name of her own, she was simply referred to as The Gibson Girl. She . . . graced the pages of nationally read magazines such as <title level="j">Harper's</title>, <title level="j">Collier's Weekly</title>, and <title level="j">Life</title>. Often she was accompanied by the Gibson Man. Together, these two archetypes of femininity and masculinity instructed a whole generation on matters of dress and attitude."<ref target="n01" n="1">1</ref> The sleek, sophisticated Gibson Girl was the very model of modern attitudes and dress. She enchanted men with her wit and coy self-possession, yet did not yield to their judgments of her; while attiring herself fashionably and tastefully she still showed her feminine charms to their best advantage.</p>
+
+	<p>During the early 1890s "bloomers," or long pantaloons, were introduced to the American public. This article of clothing, while modest, "allowed for movement into new spaces, literally and figuratively."<ref target="n02" n="2">2</ref> Bloomers also permitted women to comfortably participate in bicycle riding, a new craze that emerged during the decade. Feminist pioneer Susan B. Anthony rightly observed in 1896, "I think [the bicycle] has done more to emancipate women than anything else in the world. It gives a woman a feeling of freedom and self-reliance. The moment she takes her seat she knows she can't get into harm unless she gets off her bicycle, and away she goes, the picture of free, untrammeled womanhood."<ref target="n03" n="3">3</ref> The mark that the bicycle left upon gender relations in the 1890s is difficult to overestimate.<ref target="n04" n="4">4</ref></p>
+ 
+<figure entity="ep.owh.wom.0004.04">
+<figDesc></figDesc>
+</figure>
+ 
+	<p>Women's new clothing styles were significant for reasons more profound than promoting mobility and comfort: they represented a move away from male opinions about how women ought to represent themselves. Hairstyles also became freer and shorter, in emphasis of feminine sexuality. This was a significant departure from the Victorian habit of symbolically constraining women's sensual sides by concealing their tresses. When female waitresses at a coffeehouse in San Francisco were ordered by their employer to "comb their hair out straight" and part it exactly down the middle, in addition to wearing uniforms, they staged a strike, responding, "It is like this: We don't take off our curls&#8211;not on our lives, we don't. I want to see the man that'll tell me how to dress myself."<ref target="n05" n="5">5</ref> Peattie agreed with them and wrote in her column in April 1895: "In England a coachman must wear a smooth face, but no one in America would think of dictating to an employee how he was to wear his beard. Women, who are also citizens, ought to be as free to please themselves."<ref target="n06" n="6">6</ref> Peattie's pointed use of the gender-neutral words "citizens" and "employees" in reference to women, in addition to her implied comparison of working women to coachmen employed in England, is indicative of the evolving, progressive new perception regarding a woman's place and worth.</p>
+
+	<p>Some contested the propriety of the fashion on grounds that it flew in the face of the Victorian "cult of true womanhood," which emphasized purity and modesty. One of Peattie's editorials allows the reader to eavesdrop on a conversation between two women who have just watched one of their genders, clad in bloomers, ride joyously by on a bicycle. The first woman remarks that the fashion is "disgusting" and "unwomanly." Her companion replies, "But, I have often seen you at evening parties with your dress cut so low in the neck that I or anyone else could see all of your bare shoulders. Yet no one thought it unwomanly, although it was the bare flesh you showed . . ."</p>
+
+<figure entity="ep.owh.wom.0004.05">
+<figDesc></figDesc>
+</figure>
+
+	<p>The first woman will not be convinced: "I shall never think it anything but immodest." Peattie, a bit more progressive in her views than this particular character, concludes the scene with this response:</p>
+</div2>
+
+<div2>
+	<p>"You may be sure of this: The American public will see a decided change in costume during the next ten years. The bicycle is destined to work a revolution in woman's dress. It has come to stay-the wheel, and the development of a freer and more convenient dress for women, is to be a part of the new century. It may be regarded with dread, disapproval, and even contempt. But it will be a fact. There is no escaping from it." They didn't agree, but they changed the conversation.<ref target="n07" n="7">7</ref></p>
+</div2>
+
+<div2>
+<p>Peattie mulled over whether she herself should start to wear bloomers in her column in 1895. "The question is, shall I don bloomers? Women do look mighty comfortable in them and it seems the right costume, but there is so much talk about them.'"<ref target="n08" n="8">8</ref></p>
+</div2>
+</div1>
+
+
+<div1 ><head type="sub">Read Peattie's Writings</head>
+<list>
+<item>
+<xref n="ep.owh.18960723">A Word With the Women</xref>
+</item>
+<item>
+<xref n="ep.owh.18950603">A Word With the Women</xref>
+</item>
+<item>
+<xref n="ep.owh.18950623">A Word With the Women</xref>
+</item>
+</list>
+</div1>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><title level="a">"America 1900: PBS. Charles Dana Gibson and the Gibson Girl."</title> Website accessed: 2/22/08. <xref url="http://www.pbs.org/wgbh/amex/1900/peopleevents/pande5.html" rend="new">http://www.pbs.org/wgbh/amex/1900/peopleevents/pande5.html</xref>.</bibl>
+
+<bibl><title level="a">"Cycling Sisters: Exercising Our Two-wheeled Independence."</title> Website accessed: 2/23/08. <xref url="http://cyclingsisters.org/node/3242" rend="new">http://cyclingsisters.org/node/3242</xref>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. <title level="a">"A Word With the Women."</title> <title level="j">Omaha World-Herald</title>. <date value="1895-04-16">4/16/95</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;</author>. <title level="a">"A Word With the Women."</title> <title level="j">Omaha World-Herald</title>. <date value="1895-06-23">6/23/95</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;</author>. <title level="a">"A Word With the Women."</title> <title level="j">Omaha World-Herald</title>. <date value="1895-07-23">7/23/95</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl><title level="a">"The Possibility of Mobility: Women."</title> <xref url="http://xroads.virginia.edu/" rend="new">http://xroads.virginia.edu/</xref>.</bibl>
+</div1>
+
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Gibson Girl." Courtesy Carrie Crockett.</bibl>
+
+<bibl>"The Start: 1897." Library of Congress. Digital ID # cph 3b39967.</bibl>
+
+<bibl>"The New Woman and Her Bicycle." Library of Congress. Digital ID # 3b49127.</bibl>
+
+<!--
+<bibl>Victorian cyclist: <xref url="http://www.viewimages.com/Search.aspx?mid=3334332&amp;epmid=1&amp;partner=Google" rend="new">http://www.viewimages.com/Search.aspx?mid=3334332&amp;epmid=1&amp;partner=Google</xref>. (Permission pending.)</bibl>
+
+<bibl>Susan B. Anthony: Daring to Vote: estabrook.lexingtonma.org/. . /SusanBAnthony.jpg.  need full address .</bibl>
+ permission needed 
+
+<bibl>Victorian rider: <xref url="http://www.talkingsquid.net/blogpix/womanbike.jpg" rend="new">talkingsquid.net/blogpix/womanbike.jpg</xref></bibl>-->
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> "America 1900."</p>
+
+<p><note id="n02" n="2">2</note> "Possibility."</p>
+
+<p><note id="n03" n="3">3</note> "Cycling."</p>
+
+<p><note id="n04" n="4">4</note> "Cycling."</p>
+
+<p><note id="n05" n="5">5</note> Peattie, "Word," 4/16/95: 8.</p>
+
+<p><note id="n06" n="6">6</note> Peattie, "Word," 4/16/95: 8.</p>
+
+<p><note id="n07" n="7">7</note> Peattie, "Word," 6/23/95: 8.</p>
+
+<p><note id="n08" n="8">8</note> Peattie, "Word," 7/23/95: 8.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

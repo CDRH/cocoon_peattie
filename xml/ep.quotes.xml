@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.intro.01 SYSTEM "ep.intro.01.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.quotes">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Peattie Quotables</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<author n="Crockett, Carrie">Crockett, Carrie</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.quotes</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2007-11-19</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Peattie Quotables</head>
+
+<figure entity="ep.intro.01">
+<figDesc></figDesc>
+</figure>
+
+	<p><hi rend="italic">Despite growing up in a home without books and only a seventh grade education&#8212;or perhaps because of this&#8212;Elia Peattie's style and wit distinguish her from other writers of her era. Several factors combine to elevate it above the ordinary. First, her amazing vocabulary, absorbed while she was working for her father in his job printing office where her only reading matter was the dictionary, afforded her the power to select the exact word to express her thoughts. Next, her love of poetry not only added succinctness to her diction, for she was a poet first, last, and throughout her life, but contributed to the sensory descriptions that sparked life into her writings. Robert, wisely, courted her with books, and she became an insatiable reader whose wide ranging interests added depth and breadth to everything she wrote. While she was the literary editor for the</hi> Omaha World-Herald <hi rend="italic">and the</hi> Chicago Tribune, <hi rend="italic">she reviewed over five thousand books.</hi></p>
+
+	<p><hi rend="italic">The rhythm of Peattie's sentences came from her joy of conversation with whomever happened to be nearby, whether on a streetcar, at a political convention, among fellow writers and artists, or with children. Listening to her sentences is like eavesdropping, and when we quietly close the page, we feel like we have had an intimate conversation with her. Most delightful, however, is Peattie's subtle sense of humor, her appreciation of the ironies of life, and her ability not to take herself or the world too seriously.</hi></p>
+
+	<p><hi rend="italic">Shakespeare was one of Peattie's earliest and greatest influences, and perhaps it was from him that she honed her aphoristic talent. In nearly every piece of writing, no matter how minor, it seems a sentence or two stand out that a reader wants share with others. Here, then, are some favorites.</hi></p>
+</div1>
+
+<div1>
+<head type="sub">On Children</head>
+<quote>"Youth has a way of throbbing without much provocation. I was always expecting something wonderful to happen." (Star Wagon, Chapter 3)</quote>
+<quote>"The essence of souls is a curious thing. It is present at birth. Nothing ever really alters it."</quote>
+<quote>"I hated to put my little lad in public school, yet decided it was the best way of beating him up in the omelet of society." (Star Wagon, Chapter 14)</quote>
+<quote>"It is really so amazing that we would permit so many twigs to start crooked, and then punish them when they are grown up, because they are not straight trees."</quote>
+<quote>"Boys, it should be explained, are not persons. They are merely boys." (OWH 8/12/94: 12)</quote>
+<quote>"Nothing in this world could be prettier than a large audience of children." (OWH 5/31/95: 8)</quote>
+</div1>
+
+<div1>
+<head type="sub">On Life</head>
+<quote>"There is never any use in trying to conceal the truth. Truth is like water and flows through the tiniest cracks." (OWH 24 June 1894: 11)</quote>
+<quote>"The problems of life bear very little resemblance to problems in arithmetic, and there is no rule by which they can be solved." (OWH 2/11/94: 11)</quote>
+<quote>"Gossip is envy with a black mask. Whenever one succeeds he or she pays the penalty by incurring the displeasure of the small spirited. It is little dogs who bark the most." (OWH 5/9/95: 8)</quote>
+<quote>"Carry no umbrellas. Umbrellas are an illusion and a distinct snare to the traveler. They torment the spirit more than a scolding husband, get lost oftener than a baby, and are always where they should not be and never where they should." (OWH 12/28/90)</quote>
+<quote>"Death is very dignified. A jester is a mighty as a philosopher, in death. What difference is there, after all, between a philosopher and a jester?" (2/25/96: 8)</quote>
+<quote>"That any day seems dull is a confession of personal limitation." (Star Wagon, Chapter 16)</quote>
+<quote>"No great catastrophe ever comes without giving to someone a chance for a good act. The more horrible the catastrophe the greater the opportunity for heroism." (7/16/96: 6)</quote>
+<quote>"I have always thought that work in America would be done a great deal better if each of us would identify ourselves with some form of work, and be proud of it, instead of feeling a constant uncertainty and discontent, and as if we might be senators or millionaires tomorrow." (OWH 3/25/94: 11)</quote>
+<quote>"History can never be respectable. It must be full of storms." (OWH 3/4/96: 8)</quote>
+<quote>"Nearly all of us like to preach, and the more ignorant we are, the more we like it. The person who has made the saddest muddle of life, who has most misused his faculties, and disgusted his friends and himself, is the one most prodigal of advice to others. The only sermons which really amount to anything are those which are lived. The best way to train a child is to live well before it." (OWH 6/26/96: 8)</quote>
+<quote>"It is always more amusing to contemplate a show than to be a part of it, isn't it." (OWH 12/28/95: 8)</quote>
+<quote>"That's the day's grists. That's the way one day grinds human hearts" (OWH 3/10/95: 8)</quote>
+<quote>"It is almost safe to say the more uncomfortable a person's clothes feel, the more highly civilized he is sure to be." (OWH 4/8/94: 11)</quote>
+<quote>"There's no denying that friendship is one of the most satisfactory things in the world." (OWL 2/27/96: 8)</quote>
+<quote>"The very best foundation for the formation of taste is honesty. Pretense never founded an art yet, and Americans must be honest before they can be artistic." (OWH 1/11/91)</quote>
+<quote>"Never were men kinder, braver, or more prized than now; never were women more interesting or happier. The time has its tragedies, but all the ages must have those." (OWH 2/22/96: 8)</quote>
+<quote>"No matter how lowly one's station in life, or how tedious one's tasks, it is possible to make life exquisite. For living is a fine art, and the sooner one finds it out the sooner life will become significant and worth while." (OWH 1/2/95: 8)</quote>
+<quote>"It is really wonderful how much more interesting life becomes when one tries to perform each task in the best way possible." (OWH 1/2/95: 8)</quote>
+</div1>
+
+<div1>
+<head type="sub">On Love and Marriage</head>
+<quote>"Love is, of course, an illusion&#8212;all the really important things are." ("One's Self": Harper's Bazaar: July 1910)</quote>
+<quote>"I have noticed that when a man wishes to be particularly unfair that he calls it being practical." (OWH 11/20/92: 13)</quote>
+<quote>"Nature permits the man immunity, but punishes the woman. Society follows in the wake of woman and damns her. . . . The best remedy would be to raise the age at which she may contract marriage to 18. That is certainly as soon as a woman ought to marry. And not many women are prepared mentally for marriage even at that age." (OWH 3/12/95: 8)</quote>
+<quote>"When a man is miserable, why is it he always wants the woman he loves best to be even a little more miserable than he is?" (OWH 1/10/96: 8)</quote>
+<quote>"Public opinion sometimes holds down what is best in us, making afraid the spirit and servile the habits. Domestic tyrants abound, and, with coarse and cruel arrogance, choke the sweetness out of timid and delicate spirits." (OWH 3/12/96: 8)</quote>
+<quote>"It seems not to have been considered that at all times married woman is the partner of her husband, and that while her labor may not be rewarded with a wage, her services are none the less valuable to her husband-partner and to herself. In the event of her disability the labor which is her share must be performed by another at a varying cost&#8212;sometimes a great cost. She is therefore valuable, in a money way to her husband and to herself, even though she be not a wage earner." (OWH 4/15/96: 8)</quote>
+<quote>"Did you ever chance to observe the record of births as printed in the daily pages? They run something like this: Lyman C. Brown, 2453 Center street, girl; Richard Armstrong, 6789 Deaver street, girl; William F.D. Stone, 23 Hamptom court, boy; S.H. Thomas, 572 Amblers alley, a boy; etc. One wishes humbly to inquire if the mothers of the children had been informed of these happenings? One can always tell when an egg has been laid by the way a rooster crows." (OWH 6/2/95: 8)</quote>
+<quote>"If one can find nothing better to love one, then take a mongrel yellow dog. The person who does not love some living thing, who is not responsible for any other being has sunk below the lower animals, and has become a vegetable." (OWH 12/10/95: 8)</quote>
+<quote>"If you are forced to choose between a revolver and your mother-in-law," says Max O'Rell, "do not hesitate one instant&#8212;shoot her!" (OWH 2/15/95: 8)</quote>
+</div1>
+
+<div1>
+<head type="sub">On Politics</head>
+<quote>"To know the hour and to be the man&#8212;that is magnificent." (on William Jennings Bryan. OWH 7/12/96: 8)</quote>
+<quote>"It would be a boon to the public if the newspapers of this city would enter into an agreement to keep silence forever more on the subject, and let it sink quickly into oblivion." (OWH 6/15/95: 8)</quote>
+<quote>"And admit that the primary reason, frequently the sole reason that men are nominated for all manner of offices from president to sheriff is because they are men. Else why not women be nominated?" (OWH 10/12/95: 8)</quote>
+<quote>"The Woman Suffrage association has done a reasonable and laudable thing in demanding national legislation that shall give mothers equal custody and control with fathers over minor children." (OWH 1/31/96: 8)</quote>
+<quote>"The final triumph of liberty would mean that no creature in all the world would be tyrannized over in any degree and such a condition can never be reached." (OWH 1/9/96: 8)</quote>
+<quote>"By an amusing paradox, democracy has made aristocrats of us all." (OWH 1/17/92)</quote>
+<quote>"Really it is quite a distinction to be in the minority. Because the minority is the advance of progress. It forms the majority in the next generation." (OWH 12/20/91: 18)</quote>
+<quote>"America was not made for us who happened to get here first. We were in great luck, but we have no right to exclude others from an opportunity to get a breath of the air of freedom." (OWH 4/17/92: 10)</quote>
+<quote>"That American is no American who attempts to down any honest man, no matter what the place of his birth. For good has been known to come even out of Nazereth." (OWH 4/17/92: 10)</quote>
+<quote>"As old as the Roman empire is the fashion of ignoring topography and making road construction as difficult as possible." (OWH 5/6/94: 12)</quote>
+</div1>
+
+<div1>
+<head type="sub">On Society and Community</head>
+<quote>"All really interesting occasions of a social nature are more or less associated with good coffee." (OWH 8/22/97: 8)</quote>
+<quote>"Robert and I passed, socially, from aspiring Bohemia to aspiring suburbia." (Star Wagon, Chapter 5)</quote>
+<quote>"Perhaps, on the whole, the community is kinder to those who were born and have grown up here than to those who have come in." (OWH 5/4/96: 8)</quote>
+
+<quote>"The American Aristocracy is, in the very nature of things, ephemeral."</quote>
+<quote>"We are all country folk together, though some of us may not know it." (2/20/96: 8)</quote>
+<quote>"If the ancient town, which has seen innumerable generations, which has helped make history, which has seen wars, been reddened by tragedies, been the site of national events and the birth place of great men, has its charm&#8212;in almost no lesser degree has the new town in Nebraska in which the men are still living who can say: "I have made it."(2/12/93)</quote>
+<quote> "When a great divine, a distinguished scholar or a painter comes here, he or she is regarded with some distrust. 'I wonder why he came out here,' the old inhabitants will say. 'Did he fail in the east?' And instead of being treated with consideration, he is regarded with covert suspicion. He has to slowly win his way to local appreciation. . . .Perhaps, on the whole, the community is kinder to those who were born and have grown up here than to those who have come in." (OWH 5/4/96: 8)</quote>
+<quote>"There is only one poetic thing about Chicago and that is the lake." (OWH 1/7/96: 8)</quote>
+<quote>"There is a good deal of sham courtesy in the world." (OWH 9/3/93 :6)</quote>
+<quote>"Did you ever notice that very frequently the larger the library the smaller the ability of the lawyer?" (OWH  9/17/93: 13)</quote>
+<quote>"Public opinion sometimes holds down what is best in us, making afraid the spirit and servile the habits." (OWH 3/12/96: 8)</quote>
+</div1>
+
+<div1>
+<head type="sub">On Women</head>
+<quote>"A modern woman who respects herself and the fact that God made her and expects her to be accountable for herself, does not yield one particle of her individuality when she marries." (OWH 7/31/92: 12)</quote>
+<quote>"For a woman to be good or capable she must first be intelligent." (OWH 1/17/92)</quote>
+<quote>"It does not come to every one to have a heroic moment. Most women have to live quiet and monotonous lives." ( 8/11/94: 3)</quote>
+<quote>"Let us not be afraid to be spoken of as working women. Let us only dread to be thought of as idle women. And let us put the best of our brains, and personalities, and hopes into our work, whatever it may be. And when we have succeeded we will be respected, not doubt about that." (OWH 3/25/94: 11)</quote>
+<quote>"There is in this town a good deal of that old-fashioned opposition to the work of women and of invidious distinction against women's work." (OWH 9/14/94: 5)</quote>
+<quote>"The appreciation which the men show for the women is not more remarkable than the awakening of the women to their own capabilities and responsibilities. Especially is this being shown in a political way. . . . Even in Omaha, which is distinguished for being conservative, the women are taking a keen interest in politics." (OWH 10/26/94: 3)</quote>
+<quote>"There are, all over the world, a great many women&#8212;even here in this community, I grieve to say&#8212;who are not aware of the fact that they are individuals. They do not decide for themselves, not even in vital moral matters. They ask with the pathetic dependence of children, if they may go to a certain place to buy a certain article, or be friends with a certain woman. Their days are spent in looking after their husband's meals. They read the books their husbands want them to read. Their religion, their political views, their ideas of right and wrong, of business equity and of friendship, their estimate of character, is all based upon what their husbands think of such matters. It is a queer thing, but an absolutely true one, that the husbands of these petted slaves are not, in more than one case out of ten, true to their marital vows." (OWH 7/31/92: 12)</quote>
+<quote>"I do not believe, myself, that the best reforms can ever come to this country until woman is given yet fuller and more universal opportunity than she now enjoys. Of course, there is no finality in human accomplishment, and even if we got the best of everything we desire it would only open up the way for new reforms and new struggles. No road, in human affairs, leads to the Utopian delight. Always there are vistas before the eye. Always there is the forking of the road, and some must go one way and some another." (OWH 7/31/92: 12)</quote>
+<quote>"A gallant woman is my admiration as much as a courageous man, and it always seems to me that chivalry should be cultivated by women as much as by men."(5/9/96: 8)</quote>
+<quote>"There is an idea among some women nowadays, who believe that women should 'stand together' as if they were a separate party, or sect, or tribe, that advanced women should employ only women physicians. This is absurd and illogical. As women demand impartiality, they must exercise it. . . . . There should be no question of sex in the professions, or, the arts. Individual merit should win its regard. Sex should not be taken into consideration." (OWH 4/11/96: 8)</quote>
+<quote>"There is a mistake in supposing that women wish to acquire the independence of the other sex. It is merely independence they wish to acquire&#8212;and independence is not a matter of sex." (OWH 4/30/96: 8)</quote>
+<quote>"It sometimes seems strange to me that while women are seldom thought to be too weak to perform menial labor&#8212;and all theorizers agree that for scrubbing floors, washing, ironing and cleaning house they have just the right sort of physique&#8212;that they should be thought incapable, through lack of physical strength, of adding to the joy or beauty of the world." (OWH 5/20/96: 8)</quote>
+<quote>"After the correct thing has been done for several decades and every one is educated in what not to do there comes a revolt. Men and women discover that individuality is more attractive than uniformity. These things move in cycles. We have not yet attained the place where we dare be anything but proper." (OWH 10/16/93: 18)</quote>
+<quote>"What a contrast to the women who are forever complaining that they have nothing to do! Does it never occur to them that the way to do something is simply to do it?" (OWH 1/21/96: 8)</quote>
+<quote>"There are women who take housekeeping fretfully. There are women who are willing to board. But they are the exception. The average healthy, happy, mediocre woman likes to have a home of her own, and to give it her personal superintendence." (OWH 8/25/94: 8)</quote>
+<quote>"Women are too much domesticated. . . . it is actually vulgar to clean house on such weather as this, and there seems to be no excuse, save stupidity, for the women who will shut herself between four walls, to perform unnecessary duties." (OWH 5/7/96: 8)</quote>
+<quote>"In one way a woman is like a cat. She likes to have a corner." (OWH, 12/5/94: 2)</quote>
+<quote>"It is something very irritating to hear the home celebrated as the one place where women are in a state of blissful serenity, when anyone can look around her over neighborhoods where domestic unhappiness spreads like a deadly mildew, and the women slave like men in the trenches" (OWH 7/3/95: 8)</quote>
+<quote>"I want to see the man who'll tell me how to dress myself." (quoted) (OWH 4/16/95: 8)</quote>
+<quote>"The Nonpareil of Council Bluffs has a new editor who says uncomplimentary and fairly humorous things about the 'new woman'&#8212;which show him to be an 'old man.'" (OWH 4/6/95: 8)</quote>
+<quote>"I have never had a murder on my soul, but it really seems to me that such a condition of things could not make me more uncomfortable than a wrinkle in my stockings." (OWH 12/28/90: 16)</quote>
+<quote>"The woman who took herself inertly, who rested as she was made, neither watering her mind with knowledge nor cultivating her body by exercise, is no more to be compared to the cultivated woman than the wild plums to the perfect product of the carefully tended orchard." (OWH 9/28/95: 8)</quote>
+<quote>"Woman owes something to herself. Her whole duty is not one of service. She has other obligations besides althuistic ones. Leave her alone. The selfish acquirement of a little knowledge, the selfish hearing of some good music, the selfish indulgence in some games, free from the society of men, will do her good." (OWH 1/29/96: 8)</quote>
+<quote>"The time of men is not so important as they think it is." (OWH 7/10/97: 8)</quote>
+</div1>
+
+<div1>
+<head type="sub">On Writing</head>
+<quote>"The art of writing, I have been taught, is to understand the use of periods." (OWH 6/25/93: 7)</quote>
+<quote>"Oppression makes poets. In the land of perfect liberty songs are not pressed out of the heart." (8/14/96: 8)</quote>
+<quote>"What solemn bores most lecturers are, anyway. The only good lecturers do&#8212;or very nearly the only good&#8212;is to give a certain education to the persons who write the lectures." (OWH 1/20/96: 8)</quote>
+<quote>"There is only one way to succeed in newspaper work&#8212;and that is to succeed. If any one of us makes a name we must do it by hard personal work, by work done when others rest, by days spent in labor and half nights spent in study, by creating a reputation for reliability, by using conscience as well as ability in the work. But over and beyond all this, we must have the necessary brains at the beginning. We must also have the right temperament. These last two things cannot be acquired. They are the gift of the gods." (OWH 2/3/96: 8)</quote>
+<quote>"If there is one offense greater than another in literature, it is a book which explains a book." (OWH 8/14/95: 8)</quote>
+<quote>"The greatest poet is he who tells the most truth in the highest way." (OWH 10/25/91: 7)</quote>
+<quote>"Soliloquy is a cheap subterfuge at best. It is a way of showing to an audience those things which a writer has not the ability or industry to embody in the action of a play." (OWH 3/13/92: 9)</quote>
+<quote>"Few of us have sufficient genius&#8212;leaving courage out of the question&#8212;to tell the truth. We have not the ability to perceive it, nor the art to depict it." (Chicago Tribune 6/21/02: 19)</quote>
+<quote>"Work should speak for itself. A good piece of work needs not to have the sex of its creator tacked on it." (OWH 11/26/90: 5)</quote>
+
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+<bibl>"Elia Peattie 1898." <title level="m">The Bookman.</title> December 1898.</bibl>
+
+</div1>
+</body>
+</text>
+</TEI>

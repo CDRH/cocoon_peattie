@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.tap.cpa.05 SYSTEM "ep.nov.tap.cpa.05.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.tap.bfa">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Beginnings of the Farmers' Alliance</title>
+<title type="sub"></title>
+<author n="Crockett, Carrie">Crockett, Carrie</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.tap.bfa</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-11-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<div2>
+<head type="main">Beginnings of the Farmers' Alliance</head>
+
+	<p>In September 1877, a small group of farmers called a meeting at the home of J.R. Allen to form a society called the "Knights of Reliance."  The members' objective was to educate themselves against the time when "all the balance of labor's products . . . concentrated into the hands of a few, there to constitute a power that would enslave posterity."<ref target="n01" n="1">1</ref> This group would later rename itself "The Farmer's Alliance," the precursor to the People's Party.</p>
+ 
+<figure entity="ep.nov.tap.cpa.05"></figure>
+   
+    <p>Post-Civil War America was haunted by an increased complexity in daily economic survival.    This was nowhere more apparent than in the South, where abject poverty was the norm. Indeed, the South had been ruined financially by the Civil War, and within that larger, broken scaffolding lay the crumbled dreams of almost all those who had belonged to the Confederacy.  Out of this ruin the Farmers' Alliance was born.</p>
+    
+    <p>The emancipation of the South's former labor force, the slaves, caused Southern farming to fail almost overnight.  Confederate currency became useless.  This monetary devaluation, in disastrous turn, caused Southern banking to likewise fold.  The numbers, however, tell the story best: "Massachusetts alone had five times as much national bank circulation as the entire South. . . . The per capita figure for Rhode Island was $77.16; it was 13 cents for Arkansas. One hundred and twenty-three counties in the state of Georgia had no banking facilities of any kind. The South had become, in the words of one historian, 'a giant pawn shop.'"<ref target="n02" n="2">2</ref></p>
+    
+    <p>Southern farmers were faced with two disquieting options: starve to death in their hometowns or head westward, which for most Southerners meant relocating to Texas, and face possible financial failure there. Thousands of citizens decided to take their chances on the unknown and move west; many just chalked the letters "G.T.T" ("gone to Texas") on their front doors and left during the night. The exodus out of the South swelled every year until during the 1870s, nearly 100,000 departed for new lands and opportunities in the country's largest state.<ref target="n03" n="3">3</ref> Calls such as that of land speculator W.P. Soash served to nullify any warnings from prior settlers to Texas that might filter back to those still waiting to reach it: "Riches in the soil, prosperity in the air, progress everywhere. An Empire in the making! Get a farm in Texas while land is cheap&#8212;where every man is a landlord!"<ref target="n04" n="4">4</ref> Just a few decades earlier surveyor Robert Marcy had assessed this region as "a desolate waste of uninhabitable solitude . . . wholly uninhabitable by people depending upon agriculture for their subsistence."<ref target="n05" n="5">5</ref> Desperate settlers from the South, however, were not privy to this judgment and found too late that life in Texas presented its own set of crippling economic challenges.</p>
+    
+    <p>In Texas, farmers were simply without the funds to buy outright what they needed to turn a crop: farming supplies, machinery, livestock, and essentials necessary for the support of the farmer's family. Possessing no capital, the farmer was forced to "purchase" any supplies necessary for raising a year's crops from "furnishing merchants," who would take out a lien against the farmer's harvest. Rarely at harvest time was the homesteader's production sufficient to "pay off" his debt to the merchant. What was owed would be carried over to the next year, and the agriculturalist would begin the next growing season, not only without surplus or savings but also already in debt. The debt&#8211;and its attending, yearly interest&#8211;would only deepen with each growing season that passed.</p>
+
+	<p>While the "New Texans" were attempting to farm the "desolate waste" of the Southern plains, other Americans were literally striking it rich and with seeming little effort.  Names like John Jacob Aster, Jay Gould, and Andrew Carnegie led a throng of entrepreneurs armed with views of linking their capital with the rolling forth of the Industrial Revolution. A new leisure class emerged, whose lives differed markedly from the lives of those who were trying to cultivate the Great American Desert.</p>
+
+	<p>Against the backdrop of Eastern affluence, referred to sometimes as "the great American barbecue," failing Western farmers desperately contacted their Populist spokespeople. One man wrote Ignatius Donnelly in despair:
+
+	<q>"I am  . . . one of those which have settled upon the so-called Indemnity Land . . . I settled on this land in good Faith Built House and Barn Broken up Part of the Land.  Spend years of hard Labor in grubbing fencing and Improving are they going to drive us out like trespassers wide and children and give us away to the Corporations . . . When we are robed [sic] of our means.  They will surely not stand this we must Decay and Die from Woe and Sorrow.  We are Loyal Citizens and do Not Intend to Intrude on any R.R. Corporation . . . We Love our wife and children just as Dearly as any of you But how can we protect them give them education as they should wen [sic] we are driven from sea to sea."<ref target="n06" n="6">6</ref></q>
+</p>
+
+	<p>A Kansas woman, similarly, wrote to Populist Governor Lewelling, "I take my pen in hand to let you know we are starving . . . my husband went away to find work and came home last night and told me that we would have to starve.  He has been in ten counties and did not get no work . . . I haven't had nothing to eat today and it is three o'clock."<ref target="n07" n="7">7</ref></p>
+
+	<p>After nine years trying to improve crop production techniques without success, the United States Farmers' Alliance shifted its emphasis from farming techniques to political activation. The movement was blessed with confident, charismatic leaders who were sure of their cause and lectured vigorously throughout the Midwest, arousing support for the Populist agenda. The ranks of Alliance members swelled, and within a few years, 40,000 lecturers were traveling through impoverished, indebted farming states "like a cyclone."<ref target="n08" n="8">8</ref> By early 1887, 200,000 had joined the cause, and by 1892, Alliance lecturers had reached two million farming families in forty-three different states.  This grass-roots political activism encouraged debt-laden farmers to discuss how legislative change might be realized and "claim respect not given them by the nation's powerful industrial and political leaders."<ref target="n09" n="9">9</ref></p>
+
+	<p>One of the first actions of the Populist movement was to draw up a document called the "Cleburn Demands."  The document asked for "such legislation as shall secure to our people freedom from the onerous and shameful abuses that the industrial classes are now suffering at the hands of arrogant capitalists and powerful corporations."<ref target="n10" n="10">10</ref> The Populists advocated the nationalization of railroads and communication systems, reform of the monetary system, change in electoral practices, and an end of subsidies to private corporations.  Historian Larsen explains, "What they wanted to do was to improve their position in the system by socializing [their] enemies." Against this backdrop, rainfall slid to record lows during the 1880s, a further impediment to agricultural production, and by 1893 "a great depression spread across the United States."<ref target="n11" n="11">11</ref> As farmers' burdens of debt skyrocketed, many were faced with the probable prospect of losing ownership of their lands and becoming mere tenant laborers.</p>
+
+	<p>Even Peattie's and Tibble's vibrant metropolis of Omaha reflected agrarian discontent. The city that had just a few years before been called "The Wonder City of the West" and boasted an economy with aggregate sales of $50.2 million,  lost its population fast as farming in the surrounding regions also failed. Nearly thirty thousand settlers to the Omaha area departed in the early 1890s, half the amount that had immigrated thereto the decade before.</p>
+
+</div2>
+</div1>
+
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl>Goodwyn, Lawrence. <title level="m"><hi rend="underline">Democratic Promise: The Populist Moment in America</hi></title>. Oxford University Press: New York, 1976.</bibl>
+
+<bibl>Harris, Halvor. Letter to Ignatius Donnelley, Jan 29, 1891, (qtd. in Norman Pollack, <title level="m">The Populist Mind</title>. New York:Bobbs-Merril, 1967.)</bibl>
+
+<bibl>Larsen, Lawrence, and Cottrell, Barbara. <title level="m"><hi rend="underline">The Gate City: A History of Omaha</hi></title>. Lincoln: University of Nebraska Press, 1982.</bibl>
+
+<bibl>Orcutt, Susan. Letter to Governor L.D. Lewelling, June 29, 1894. (qtd. in Gilbert C. Fite, <title level="m">The Farmer's Frontier, 1865-1900</title>. New York: Holt, Rinehart and Winston, 1966, p. 129.)</bibl>
+
+<bibl>Zinn, Howard. <title level="m"><hi rend="underline">A People's History of the United States</hi></title>. New York: Harper Perennial, 2005.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+<bibl>"The Independent People's Party (Populist) Convention at Columbus, Nebraska, where Omer Kem was nominated for Congress." Solomon D. Butcher. Courtesy Nebraska State Historical Society, [Digital ID, e.g., nbhips 12036]</bibl>
+</div1>
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Goodwyn 26.</p>
+    
+<p><note id="n02" n="2">2</note> Goodwyn, <title level="m">Moment</title> 22.</p>
+    
+<p><note id="n03" n="3">3</note> Goodwyn, <title level="m">Democratic</title> 25.</p>
+    
+<p><note id="n04" n="4">4</note> Egan, 24.</p>
+    
+<p><note id="n05" n="5">5</note> Egan, 21.</p>
+
+<p><note id="n06" n="6">6</note> Harris.</p>
+
+<p><note id="n07" n="7">7</note> Orcutt 129.</p>
+
+<p><note id="n08" n="8">8</note> Goodwyn xxi.</p>
+
+<p><note id="n09" n="9">9</note> Zinn 286.</p>
+
+<p><note id="n10" n="10">10</note> Zinn 286.</p>
+
+<p><note id="n11" n="11">11</note> Larsen 82.</p>
+
+<p><note id="n12" n="12">12</note> Larsen 80.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

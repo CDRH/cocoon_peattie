@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.wom.0003.01 SYSTEM "ep.owh.wom.0003.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.wom.0003.02 SYSTEM "ep.owh.wom.0003.02.jpg" NDATA jpeg>
+<!ENTITY ep.owh.wom.0003.03 SYSTEM "ep.owh.wom.0003.03.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.wom.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Educating Children on the Plains</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.wom.0003</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-04-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<div2>
+<head type="main">Educating Children on the Plains</head>
+
+	<p>Peattie's work evidences a consistent concern for the education of children. Whether she was commenting on the use of art in the curriculum, suggesting that teachers receive higher salaries, or complementing the recent winner of a spelling bee, the writer kept the wellbeing and schooling of children on the prairie in the public eye via her column. Peattie appreciated children in all their complexity and innocence, admired their uninhibited powers of imagination, and encouraged their adventuresome outlook on the world. She herself raised three sons and a daughter, to whom she sometimes made reference her column.</p>
+
+<figure entity="ep.owh.wom.0003.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>In 1889 Peattie wrote and published a large volume for children titled <title level="m">The Story of America</title>. The book is a history devoted to national and international events that in some way contributed to the evolution of America, beginning with comments on dinosaur fossils found thereon and concluding twenty-five years after the end of the Civil War. Her introductory remarks to the work depict the intellectual curiosity of children as well as the need to teach them. Chapter Two begins:</p>
+</div2>
+
+	<div2>
+	<p>Little children, standing on the shores of Europe and looking toward the west, could make no guess as to what lay beyond the water. They were told it was the "dark water," from which all the spirits and goblins came, things unknown and unnamable. The winds seemed always to blow toward the west. Even the mariners believed that it did. . . . It is hard to tell which of the nations first found men courageous enough to cross these unknown waters.<ref target="n01" n="1">1</ref></p>
+	</div2>
+
+<div2>
+	<p>The popularity of the Homestead Act of 1862 created the need for a method of schooling children on the plains. Settlers from the East were joined by thousands of immigrants from more distant shores, all pressing westward in search of economic opportunity and space. The Act proclaimed that any man or woman over the age of twenty-one could stake a claim on one hundred sixty acres of land, provided that they "improve" it over a period of five years. If, during that time, settlers constructed a dwelling on their land, paid a fee of eighteen dollars, and made efforts toward farming, the acreage was theirs.</p>
+
+	<p>lthough it simultaneously isolated families by obligating them to work large land parcels, the Homestead Act created settlements across vast territories in the West. Flora Butcher, writing nearly fifty years after she and her family reached Nebraska, described the feeling of remoteness on the area her father had claimed under the Homestead Act:</p>
+</div2>
+
+	<div2>
+	<p>My father was one of the early homesteaders in Red Willow County, Nebraska. His homestead was located a few miles north of the Kansas line on high, flat divide land. . . . If he looked toward Kansas, what did he see? He saw nothing but sod. If he looked to the north, what did he see? He saw the sod. In all directions what did he see? He saw the sod. Consequently he used the sod to build his home.<ref target="n02" n="2">2</ref></p>
+	</div2>
+
+<div2>
+
+<figure entity="ep.owh.wom.0003.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>Parents who moved their children with them to sparsely populated areas assumed the responsibility of educating them. George and Mary White, who relocated their family to a Nebraskan homestead in 1887, were separated from both of the two small schools in the area by the Republican River. Although their children sometimes either waded across the river or walked across it when it froze in the winter in order to go to school, regular attendance proved unfeasible. Mary, taking matters into her own hands, instructed her children to the best of her ability while balancing the responsibilities of home and farm. Sometimes she "held a school book in one hand and wielded a white-wash brush with the other . . . and propped a book in front of the wash-tub while I rubbed soiled clothes with both hands. . . . I considered it my duty to teach the children."<ref target="n03" n="3">3</ref></p>
+
+	<p>Will Cox, another early settler to Nebraska, remembered the day when fifty-one students appeared to attend the new Saline County school when it was established near his home. Cox recalled that about half of the children had never before been in an actual school but had been "instructed in their own homes."<ref target="n04" n="4">4</ref> Emily Biggs, whose children did not have access to any public school, resolved the issue by simulating a classroom within her own dwelling, which she invited neighbor children to attend along with her own. A flour barrel became her instructor's desk while various boxes and benches served as the pupil's tables, and "many of the neighbor children got their first and almost their only schooling from Mrs. Biggs."<ref target="n05" n="5">5</ref></p>
+
+	<p>Regardless of the physical presence of schools, children gleaned the importance of learning by observing the actions of their mothers and fathers. One child, a son of German immigrants, was inspired by his parents' example of teaching themselves to read and write English. Other children participated in family readings of the Bible, Shakespeare, and other books that might have been brought West. Charles Driscoll enjoyed sitting on his mother's lap as a toddler as she read to him from a "big book" of United States history. Although he was "frightened out of my wits of tales of yellow fever, the appearance of a comet in the heavens, the Battle of Bull Run, and the assassination of Lincoln," the act of being read to made him eager to read on his own."<ref target="n06" n="6">6</ref></p>
+
+<figure entity="ep.owh.wom.0003.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>When enough children lived in a given area to merit the establishment of a school, a teacher was selected based on the availability and talents of those in the community. Most of the time women accepted the invitations to teach, as opposed to men, although sometimes men were recruited to run "winter schools" for teenaged boys who were usually busy with farm work in the spring. Historian Julie Jeffrey points out:</p>
+</div2>
+
+<div2>
+
+	<p>In Iowa Territory only 23 of 124 teachers were women in 1848. In less than two decades, however, women had taken over the profession. An 1854 report suggested the reason for change: women would work for half what men demanded. Teaching, then, became women's work as the community matured and men found better-paying opportunities.<ref target="n07" n="7">7</ref></p>
+
+</div2>
+
+<div2>
+<p>It is estimated that between one-fifth to one-quarter of women in the West taught school at some point during their lives there.<ref target="n08" n="8">8</ref></p>
+
+	<p>Even when children, teacher, and building were all established, the continued wellbeing of country schools was never guaranteed. Cowboy poet D. J. O'Malley related once in a newspaper interview how school buildings themselves were sometimes not available for extended lengths of time. "For that reason the pupils usually carried home all their books and other classroom materials every night. He recalled going one morning to the building where he had attended school the day before and finding a saloon going full blast. The bartender told him he would find the school in so-and-so's livery stable, and there he found it."<ref target="n09" n="9">9</ref></p>
+
+	<p>"The raising of children is the most important concern in the world, for obvious reasons . . . the way to help the growth of a city most is to educate its future citizens," Peattie wrote in 1892.<ref target="n10" n="10">10</ref> Three years later, she suggested, "Children must be governed by law in the home and in the school. It is the preparation they receive for good citizenship."<ref target="n11" n="11">11</ref> Peattie demonstrated her own devotion to the education of children by addressing the issue in numerous columns and editorials in the <title level="j">Omaha World-Herald</title> and authoring a great number children's books, stories, and poems in addition to her <title level="m">Story of America</title>. Her history concludes, "The Story of America is but just begun. . . the new history will be a chronology of intellectual achievements . . . it is a time of great intellectual activity, and future years will bring a rich harvest of wisdom and justice."<ref target="n12" n="12">12</ref></p>
+
+	<p>Peattie did more than write about children's educational reform. In 1894 she accepted the nomination to run for a seat on the city's school board. Peattie was supported by the Populists, the Democrats, and the Omaha Women's Club in addition to the <title level="j">Omaha World-Herald</title>. Women in Nebraska in 1894 had not yet won universal suffrage; nonetheless, any woman who had school-age children or property in her own name was permitted to vote for the school board. Peattie did not win, coming in sixth out of ten candidates, which may have resulted from the fact that most women voted a straight Republican ticket. Peattie was a Democrat. Although discouraged by the outcome of the election, she wrote, "In no one branch of civic work is woman so much needed as in that which supervises the schools. It is fitting and appropriate that she be there."<ref target="n13" n="13">13</ref></p>
+</div2>
+</div1>
+
+
+<div1 ><head type="sub">Read Peattie's Writings</head>
+<list>
+<item>
+<xref n="ep.owh.18960317">A Word With the Women</xref>
+</item>
+<item>
+<xref n="ep.owh.18960528">A Word With the Women</xref>
+</item>
+</list>
+</div1>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><editor n="Alberts, Frances Jacobs">Alberts, Frances Jacobs</editor>, ed. <title level="m">Sod House Memories</title>. <date value="1972">1972</date>.</bibl>
+
+<bibl><title level="a">"American Heritage.com: The Zenith of Prairie Architecture, the Soddy."</title>
+<xref url="http://www.americanheritage.com/articles/magazine/ah/1973/5/1973_5_33.sht" rend="new">http://www.americanheritage.com/articles/magazine/ah/1973/5/1973_5_33.sht</xref></bibl>
+
+<bibl><author n="Holt, Marilyn Irvin">Holt, Marilyn Irvin</author>. <title level="m">Children of the Plains: The Nineteenth Century Experience</title>. <pubPlace>Chicago</pubPlace>: <publisher>Ivan R. Dee</publisher>, <date value="2003">2003</date>.</bibl>
+
+<bibl><author n="Jeffrey, Julie Roy">Jeffrey, Julie Roy</author>. <title level="m">Frontier Women</title>. <pubPlace>New York</pubPlace>: <publisher>Hill and Wang</publisher>, <date value="1998">1998</date>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. "A Word With the Women." <title level="j">Omaha World-Herald</title>. <date value="1895-05-01">5/1/95</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;&#8212;&#8212;</author>, <title level="m">The Story of America-Containing the Romantic Incidents of history, from the Discovery of America to the Present Time</title>. <pubPlace>Chicago</pubPlace>: <publisher>R.S. King Publishing Company</publisher>, <date value="1889">1889</date>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;&#8212;&#8212;</author>, <title level="a">"Was Not A Partisan Fight."</title> <title level="j">Omaha World-Herald</title>. <date value="1894-11-11">11/11/94</date>: <biblScope type="pages">10</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;&#8212;&#8212;</author>, <title level="a">"Where Are the Children? A Lay Sermon Suggested by Chief Seavey to Colonel Hogeland."</title> <date value="1892-03-20">3/20/92</date>: <biblScope type="pages">10</biblScope>.</bibl>
+
+<bibl><author n="White, John">White, John</author>. <title level="m">Git Along, Little Dogies: Songs and Songmakers of the American West</title>. <pubPlace>Chicago</pubPlace>: <publisher>Board of Trustees of the University of Illinois</publisher>, <date value="1975">1975</date>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Country Students." Courtesy Carrie Crockett.</bibl>
+
+<bibl>"Story of America." From The Story of America: Containing the Romantic Incidents of History, from the Discovery of America to the Present Time. Chicago: Mid-Continent Publishing, 1892.</bibl>
+
+<bibl>"Whole Dam Family." Courtesy Carrie Crockett.</bibl>
+
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Peattie <title level="m">Story</title>, 33.</p>
+
+<p><note id="n02" n="2">2</note> "American Heritage."</p>
+
+<p><note id="n03" n="3">3</note> Alberts, 69.</p>
+
+<p><note id="n04" n="4">4</note> Alberts, 82.</p>
+
+<p><note id="n05" n="5">5</note> Alberts, 82.</p>
+
+<p><note id="n06" n="6">6</note> Holt, 83.</p>
+
+<p><note id="n07" n="7">7</note> Jeffrey, 112.</p>
+
+<p><note id="n08" n="8">8</note> Jeffrey 110.</p>
+
+<p><note id="n09" n="9">9</note> White,78.</p>
+
+<p><note id="n10" n="10">10</note>   Peattie, "Where," 10. This editorial as well as another about education, "Brains in the Schools Room," are reprinted in <title level="m">Impertinences: Selected Writings of Elia Peattie, A Journalist in the Gilded Age</title> (Lincoln: University of Nebraska Press, 2005).</p>
+
+<p><note id="n11" n="11">11</note> Peattie, "A Word," 8.</p>
+
+<p><note id="n12" n="12">12</note> Peattie, Story, 748-749.</p>
+
+<p><note id="n13" n="13">13</note> Peattie, "Was Not A Partisan Fight."</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

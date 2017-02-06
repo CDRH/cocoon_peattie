@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep. SYSTEM "ep.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.child.intro">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Youth and America: Elia Peattie's Stories for Children and Young
+                    Adults</title>
+                <title type="sub"/>
+                <author n="Crockett, Carrie">Crockett, Carrie</author>
+                <principal>George-Bloomfield, Susanne, 1947-</principal>
+                <editor/>
+                <respStmt>
+                    <resp>Project Team</resp>
+                    <name>Zach Bajaber</name>
+                    <name>Nicholas Swiercek</name>
+                    <name>Laura Weakly</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2009</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>University of Nebraska Center for Digital Research in the
+                    Humanities</publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace>
+                <address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+                <idno>ep.child.intro</idno>
+                <availability>
+                    <p/>
+                </availability>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>Original.</p>
+            </sourceDesc>
+        </fileDesc>
+
+
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+
+
+        <revisionDesc>
+            <change>
+                <date>2009-08-27</date>
+                <respStmt>
+                    <name>Laura Weakly</name>
+                </respStmt>
+                <item>Initial encoding</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+
+            <div1>
+
+                <p>
+                    <xptr n="child_links.html"/>
+                </p>
+
+                <div2>
+                    <head type="main">Youth and America: Elia Peattie's Stories for Children and
+                        Young Adults</head>
+
+
+                    <p>
+                        <figure entity="ep.child.intro.01">
+                            <figDesc/>
+                        </figure> One of the marks of Elia Peattie's versatility was her ability to
+                        move effortlessly not only between genres but also reading
+                        audiences. In addition to the hundreds of stories, reviews, and novels she
+                        wrote for adults, Peattie created dozens of books and stories for her
+                        younger readers, America's children, the kinds of stories her own three
+                        children would enjoy. Her first known published work for children was an
+                        1887 short story, "Grizel Cochrane's Ride," an historical account of the
+                        Monmouth rebellion, for <hi rend="italic">St. Nicholas</hi> followed by an
+                        illustrated history of the United States, <hi rend="italic">Our Land of
+                            Liberty, or The Wonderful Story of America</hi>, published in 1895.
+                        Among her young adult novels are a series of books about Azalea, a girl from
+                        the Blue Ridge Mountains, and two that were first serialized in the <hi
+                            rend="italic">Youth's Companion</hi>.</p>
+
+                    <p>Peattie's work reflects the multi-faceted experience of childhood in the late
+                        nineteenth century, especially those living in rapidly changing,
+                        industrializing cities. Sometimes her youthful characters admired the great,
+                        mechanical marvels of the age, the trains, and occasionally they traveled in
+                        them westward across unfamiliar terrain, faces pressed against their
+                        windows, hope in the future high. "Prairie, prairie, prairie, as far as the
+                        eye could see . . . the sky was blurred with dust, the silence
+                            absolute."<ref target="n01" n="1">1</ref> She wrote of families lost and
+                        of families found, of friendships and courtships and sorrow. Her characters
+                        studied in schools, planted and dreamed in gardens, and worked countless
+                        types of jobs. Notwithstanding the circumstances surrounding each of her
+                        young characters, however, Peattie was quick to point out the power each
+                        possessed to be the innovator of his or her own future. "It is never quite
+                        possible to tell what the human brain is going to do. Even the possessor
+                        knows little about its vagaries," she wrote in "The Family He Found,"
+                        published in <hi rend="italic">The Youth's Companion</hi> in 1900. Helen
+                        Walden, a character in another short story, "The Fourth Chaperon," whose
+                        childhood had required her to work instead of receive an education, had
+                        nonetheless imagined a better path and staunchly followed it. "Here, when
+                        school had been denied her, and heavy burdens of housekeeping and child
+                        tending and sewing had been put upon her, she used to come in the evenings,
+                        and cowering under the army blankets, study and read. There was no one to
+                        guide her. She took what came to hand. She made the most of everything."<ref
+                            target="n02" n="2">2</ref></p>
+
+                    <p>Peattie believed that children's fiction should accurately mirror their real
+                        lives instead of present adult constructions of the childhood realm. She
+                        decried those authors who "did not follow the processes of a child's mind
+                        with any more accuracy than [they] followed the evolution of a star."<ref
+                            target="n03" n="3">3</ref> Fortunately, several magazines came into
+                        existence during the latter part of the nineteenth century that also
+                        subscribed to Peattie's viewpoint. <hi rend="italic">St. Nicholas
+                            Magazine</hi>, the <hi rend="italic">Youth's Companion</hi>, and <hi
+                            rend="italic">Wide Awake</hi> published literature expressly for youth
+                        that was written by some of the most esteemed literary figures of the day.
+                        Of these periodicals, which refused to marginalize American childhood,
+                        Peattie was moved to write in the <hi rend="italic">Omaha World Herald</hi>,
+                        "The child knew presently what it was to see childhood pictured, by artists
+                        and by writers. It saw that its joys, its tears, its temptations had at last
+                        come to be appreciated. It saw at last that there were those who knew how
+                        deeply children could love and hate; how brave they could be; how
+                        sacrificial; how happy. The world that they had peopled with things not seen
+                        with the eye was reproduced . . . they no longer had that dragging sense of
+                        insignificance to which they had been accustomed."<ref target="n04" n="4"
+                            >4</ref></p>
+
+                    <p><figure entity="ep.child.intro.02">
+                            <figDesc/>
+                        </figure>Peattie's belief in the importance of telling children's stories is
+                        interwoven throughout her work. One example can be found in her novel-length
+                        fairy tale, <hi rend="italic">Edda and the Oak</hi>, which narrates the
+                        journey of a young girl as she travels from her home, a large city, to her
+                        grandmother's farm in the West. The child subsequently is delighted to
+                        discover that her grandmother's garden is indeed more than it seems, for
+                        within it is an enchanted fairy realm that can be crossed into by night.</p>
+
+                    <p>Edda, an archetype of the developing American child, bears little resemblance
+                        to many of the youths from European literature who stumble upon magical
+                        realms. Instead of desiring the use the fairies' magic for her own gain, she
+                        makes a quick study of their culture and aids her new acquaintances in
+                        finding solutions to perplexing concerns of their kingdom. At one point in
+                        the tale, when Edda is introduced to the fairy queen, Peattie emphasizes the
+                        importance of the child understanding not only her own worth but also the
+                        worth of her own story.</p>
+
+                    <p>The queen raised a pair of gold lorgnettes and looked at Edda long and
+                        hard.</p>
+
+                    <p>"Come," she said, "you seem an interesting child. Are you?"</p>
+
+                    <p>"I don't know," said Edda in a rather silly way. There were hundreds of
+                        little creatures listening, and she could hear the elves giggling at the
+                        question.</p>
+
+                    <p>"Don't you interest yourself?" asked the queen.</p>
+
+                    <p>Edda nodded, and felt herself blushing redder and redder.</p>
+
+                    <p>"Then you will probably interest me. Come child, walk with me, and tell me
+                        all the story of your life."</p>
+
+                    <p>"Oh, are we going on a <hi rend="italic">very</hi> long walk?"</p>
+
+                    <p>So she talked as hard and as fast as she could, and it's really a fact that,
+                        by talking so fast that her tongue ached, she was able, by the time the
+                        maids had clothed her in a moonlight-blue satin, hung over with threads of
+                        silver delicate as cobwebs, to tell Goldheart almost everything there was to
+                        tell about herself."<ref target="n05" n="5">5</ref></p>
+
+                    <p>It seems quite deliberate that Peattie emphasizes not only the importance of
+                        knowing and preserving a child's story, but also the value of the child
+                        telling her story in her own voice. This great respect for children's minds,
+                        their experiences, and their inestimable worth as contributors to society
+                        formed the basis of Peattie's approach to creating their literature. She
+                        wrote in 1895, " . . . if vistas are to be opened up to the mind, the
+                        library . . . must not be limited . . . as soon as possible I would lead the
+                        mind of either boy or girl to the classics and I would encourage them to
+                        read books that relate to achievement. I would give them lofty ideals. The
+                        daily stress of living will lower their ideals fast enough at best . . . it
+                        is not for any one to set bounds and metes for her. She may have a capacity
+                        for comprehension which the purchaser of the library never possessed. The
+                        human soul comes soon to its own responsibility. The human mind runs to its
+                            liberty."<ref target="n06" n="6">6</ref></p>
+                </div2>
+            </div1>
+
+            <div1>
+                <head>Bibliography of Writing for Children<lb/> by<lb/> Elia Wilkinson
+                    Peattie</head>
+
+                <div2>
+                    <head type="sub">~Books~</head>
+                    <bibl><title level="m">America in War and Peace</title>. Chicago: W.B. Conkey,
+                        1898.</bibl>
+                    <bibl><title level="m">Azalea: The Story of a Girl in the Blue Ridge
+                            Mountains</title>. Chicago: Reilly, 1912.</bibl>
+                    <bibl><title level="m">Annie Laurie and Azalea</title>. Chicago: Reilly and
+                        Britton, 1913.</bibl>
+                    <bibl><title level="m">Azalea at Sunset Gap</title>. Chicago: Reilly and
+                        Britton, 1912, 1914.</bibl>
+                    <bibl><title level="m">Azalea's Silver Web</title>. Chicago: Reilly and Britton,
+                        1915.</bibl>
+                    <bibl><xref n="ep.nov.EatO.xml">
+                            <title level="m">Edda and the Oak</title>
+                        </xref>. Chicago: Rand, McNally, 1911. Also published in A Christmas Party
+                        for Santa Claus by Ida Huntington (Rand McNally 1912).</bibl>
+                    <bibl><title level="m">Lotta Embury's Career</title>. Boston: Houghton Mifflin,
+                        1915.</bibl>
+                    <bibl><title level="m">The Newcomers</title>. Boston: Houghton Mifflin,
+                        1917.</bibl>
+                    <bibl><title level="m">Our Chosen Land: A Romantic Story of America from the
+                            Time of its Discovery and Conquest to the Present Day. An Interesting
+                            Account of the Progress and Development of Our Country, Written
+                            Especially for Young Folks.</title> Chicago: Wabash, 1896. [An
+                        abridgment of the author's Story of America].</bibl>
+                    <bibl><title level="m">Our Land of Liberty, or The Wonderful Story of America,
+                            Containing the Romantic Incidents of History, from the Discovery of
+                            America to the Present Time</title>. Chicago: International Publishing
+                        Company, 1895.</bibl>
+                    <bibl><title level="m">The Pictorial Story of America Containing the Romantic
+                            Incidents of History from the Discovery of America to the Present
+                            Time</title>. Chicago: Amer. Pub. and Engraving, 1895; Union Pub., 1896;
+                        National Pub., 1896, Tombaugh Publications, 1982.</bibl>
+                    <bibl><title level="m">Pictorial Story of America: Part 3 Fulton County,
+                            Indiana</title>. Chicago: National Pub, 1896.</bibl>
+                    <bibl><title level="m">Sarah Brewster's Relatives</title>. Boston: Houghton
+                        Mifflin, 1916.</bibl>
+                    <bibl><title level="m">The Story of America : Containing the Romantic Incidents
+                            of History, from the Discovery of America to the Present Time</title>.
+                        San Francisco: R.S. King, 1889; Chicago: Mid-continent Pub., 1891, 1892;
+                        Cleveland: Neff, 1893; Chicago: W.B. Conkey, 1898.</bibl>
+                    <bibl><title level="m">With Scrip and Staf: A Tale of the Children's
+                            Crusade</title>. New York: A.D.F. Randolph, 1891.</bibl>
+                </div2>
+
+                <div2>
+                    <head type="sub">~Collections~</head>
+                    <bibl><title level="m">Ickery Ann and Other Girls and Boys</title>. Chicago:
+                        H.S. Stone, 1899. Includes short stories: "Ickery Ann," "The Genius,"
+                        "Grizel Cochrane's Ride." "Bertha's Debut," "The Shut-ins," "The Message of
+                        the Lilies," "The McCulloughs of the Bluff," "Tarts," "Jock, the Chipmunk,"
+                        "How Christmas Came to the Santa Maria Flats," "Christmas at Goldberg," "The
+                        Dead Letter," "The Wooing of Fan Tod," "The Breeziest Reunion," and "Tommy,
+                        the Beach Cat."</bibl>
+                </div2>
+
+                <div2>
+                    <head type="sub">~Stories and Poems~</head>
+                    <bibl><title level="a">"At Aunt Frank's Service."</title>
+                        <title level="j">Youth's Companion</title> (1 Feb. 1900):49.</bibl>
+                    <bibl><title level="a">"At Dr. Merriwether's Service."</title>
+                        <title level="j">Youth's Companion</title> (11 Aug. 1904):374.</bibl>
+                    <bibl><title level="a">"Barbara's Valentine."</title>
+                        <title level="j">St. Nicholas</title> (13 Feb. 1902):76.</bibl>
+                    <bibl><title level="a">"Bertha's Debut."</title>
+                        <title level="j">St. Nicholas</title> 17 (Jan. 1890):217-221. </bibl>
+                    <bibl><title level="a">"The Color Bearers."</title>
+                        <title level="j">Youth's Companion</title> (17 Sept. 1914):477.</bibl>
+                    <bibl><title level="a">"A Declaration of Independence."</title>
+                        <title level="j">Youth's Companion</title> (10 Dec. 1903):619.</bibl>
+                    <bibl><title level="a">"The Disgrace of Grandfather."</title>
+                        <title level="j">Youth's Companion</title> (7 Sept. 1916):492.</bibl>
+                    <bibl><title level="a">"Dressmaking."</title>
+                        <title level="j">Youth's Companion</title> (5 July 1917):377.</bibl>
+                    <bibl><title level="a">"The Family He Found."</title>
+                        <title level="j">Youth's Companion</title> (25 Jan. 1900):37.</bibl>
+                    <bibl><title level="a">"The Fourth Chaperone."</title>
+                        <title level="j">Youth's Companion</title> (28 Sept. 1905):448.</bibl>
+                    <bibl><title level="a">"Grandmother's Fete."</title>
+                        <title level="j">Youth's Companion</title> (2 Oct. 1902):470.</bibl>
+                    <bibl><title level="a">"Grizel Cochrane's Ride: Founded on an Incident of the
+                            Monmouth Rebellion."</title>
+                        <title level="j">St. Nicholas</title> 14 (Feb. 1887):271-278.</bibl>
+                    <bibl><title level="a">"The Home Road."</title>
+                        <title level="j">Youth's Companion</title> (26 Aug. 1915):429-430. </bibl>
+                    <bibl><title level="a">"How Bet Came to Her Own."</title>
+                        <title level="j">Brown Book of Boston</title> June 1904 (vol 9.2).</bibl>
+                    <bibl><title level="a">"Kenyon's Bride."</title>
+                        <title level="j">Youth's Companion</title> (7 Jan. 1904):1.</bibl>
+                    <bibl><title level="a">"The Last Sedan-Chair."</title>
+                        <title level="j">Youth's Companion</title> (22 Feb. 1906):85.</bibl>
+                    <bibl><title level="a">"The Lion Light."</title>
+                        <title level="j">Youth's Companion</title> (1 Nov. 1917):621-622.</bibl>
+                    <bibl><title level="a">"The Little Brides of Tryon."</title> [poem] <title
+                            level="j">Youth's Companion</title> (28 July 1921): 412.</bibl>
+                    <bibl><title level="a">"Lotta Embury's Career."</title> (Serial) <title
+                            level="j">Youth's Companion</title> (10 Dec. 1914 through 11 Jan.
+                        1915).</bibl>
+                    <bibl><title level="a">"The McCulloughs of the Bluff."</title>
+                        <title level="j">Youth's Companion</title> (16 June 1898):285-286.</bibl>
+                    <bibl><title level="a">"The Mean Little Town."</title> (Serial) <title level="j"
+                            >Youth's Companion</title> (5 Oct. 1916 through 7 Dec. 1916).</bibl>
+                    <bibl><title level="a">"In Memoriam."</title>
+                        <title level="j">Youth's Companion</title> (30 May 1912):281.</bibl>
+                    <bibl><title level="a">"Message of the Lillies."</title>
+                        <title level="j">Youth's Companion</title> (7 Apr. 1898):161-162.</bibl>
+                    <bibl><title level="a">"Old Kaskaskia."</title>
+                        <title level="j">Youth's Companion</title> (21 Apr. 1904):196.</bibl>
+                    <bibl><title level="a">"The Pageant."</title>
+                        <title level="j">Youth's Companion</title> (2 Aug. 1917):430.</bibl>
+                    <bibl><title level="a">"Sarah Brewster's Relatives."</title> (Serial) <title
+                            level="j">Youth's Companion</title> (24 July 1913 through 25 Sept.
+                        1913.)</bibl>
+                    <bibl><title level="a">"A Singing Bird."</title>
+                        <title level="j">Youth's Companion</title> (20 June 1912):331.</bibl>
+                    <bibl><title level="a">"Some Odd Figurines."</title>
+                        <title level="j">Youth's Companion</title> (10 Oct. 1901):491.</bibl>
+                    <bibl><title level="a">"Tapestry."</title>
+                        <title level="j">Youth's Companion</title> (18 June 1903):293.</bibl>
+                    <bibl><title level="a">"Tarts."</title>
+                        <title level="j">Youth's Companion</title> (21 Apr. 1898):191.</bibl>
+                    <bibl><title level="a">"True Hospitality."</title>
+                        <title level="j">Youth's Companion</title> (19 Apr. 1900):215.</bibl>
+                    <bibl><title level="a">"The Utilization of Uncle Reginald."</title>
+                        <title level="j">Youth's Companion</title> (25 May 1899):262.</bibl>
+                    <bibl><title level="a">"Wan Tsze-King".</title>
+                        <title level="j">Youth's Companion</title> (2 June 1901):229-230.</bibl>
+                </div2>
+
+                <div2>
+                    <head type="sub">~Collected in Anthologies~</head>
+                    <bibl><title level="a">"Grizel Cochrane's Ride: Founded on an Incident of the
+                            Monmouth Rebellion."</title> H<title level="m">eroines of History and
+                            Legend: Stories and Poems.</title> Ed. Elva S. Smith. Boston: Lothrop,
+                        Lee, and Shepard, 1921.</bibl>
+                    <bibl>"<title level="a">How Christmas Came to the Santa Maria Flats."</title>
+                            C<title level="m">hildren's Book of Christmas Stories.</title> Ed. Asa
+                        Don Dickinson. Garden City, NY: Children's Crimson Series, 1913.</bibl>
+                    <bibl><title level="a">"Grizel Cochrane's Ride."</title>
+                        <title level="m">Heroines of History and Legend</title>. Ed. Elva S. Smith.
+                        Lothrop, Lee, &amp; Shepard, 1921.</bibl>
+</div2>
+<div2>
+
+                    <head type="sub">~Selected Book Reviews ~</head>
+                    <bibl><title level="a">"100 Books for Girls."</title>
+                        <title level="m">Omaha World-Herald</title> (14 Apr. 1895):18.</bibl>
+                    <bibl><title level="a">"Mrs. Wiggin's Delightful 'Rebecca': A Study of Girl Life
+                            in New England."</title>
+                        <title level="j">Chicago Tribune</title> 3 Oct. 1903:13.</bibl>
+                    <bibl><title level="a">"Kate Douglas Wiggin."</title>
+                        <title level="j">Chicago Tribune</title> 17 Sept 1904:7.</bibl>
+                </div2>
+            </div1>
+
+
+
+            <div1>
+                <head type="sub">References</head>
+
+                <bibl>
+                    <author>Peattie, Elia</author>. <title level="a">"About Children's
+                        Books."</title>
+                    <title level="j">Omaha World Herald</title>. 7/16/1893. p.16</bibl>
+
+                <bibl> &#8212;&#8212;&#8212;. <title level="a">"Easter Lilies and
+                        Girls."</title>
+                    <title level="j">Omaha World Herald</title>. 4/14/95, p. 18.</bibl>
+
+                <bibl> &#8212;&#8212;&#8212;. <title level="m">Edda and the Oak.</title>
+                    Chicago: Rand, McNally &amp; Co. 1911.</bibl>
+
+                <bibl> &#8212;&#8212;&#8212;. <title level="a">"The Family He
+                        Found."</title>
+                    <title level="j">The Youth's Companion</title>. 1/25/1900. p.1</bibl>
+
+                <bibl> &#8212;&#8212;&#8212;. <title level="a">"The Fourth Chaperon
+                        [sic]."</title>
+                    <title level="j">Youth's Companion</title>. 9/28/05. P. 448</bibl>
+
+                <bibl> &#8212;&#8212;&#8212;. <title level="a">"The Home Road."</title>
+                    <title level="j">The Youth's Companion</title>. 8/26/1915.</bibl>
+            </div1>
+
+            <div1>
+                <head type="sub">Illustrations</head>
+
+                <bibl> "The Crow Telling the Secret to Edda." from <title level="m">Edda and the
+                        Oak</title> by Elia W. Peattie, Pictures by Katherine Merrill.Chicago: Rand,
+                    McNally &amp; Co, 1911:132</bibl>
+
+                <bibl> "And then came Azalea." from <title level="m">Azalea: The Story of a Girl in
+                        the Blue Ridge Mountains</title>. Chicago: Reilly &amp; Britton, 1912:
+                    Frontispiece.</bibl>
+            </div1>
+
+
+            <div1>
+                <head type="sub">Notes</head>
+
+                <p><note id="n01" n="1">1</note>Peattie "Home Road" 1.</p>
+                <p><note id="n02" n="2">2</note>Peattie "Fourth" 448.</p>
+                <p><note id="n03" n="3">3</note>Peattie "Family" 1.</p>
+                <p><note id="n04" n="4">4</note>Peattie "About" 16.</p>
+                <p><note id="n05" n="5">5</note>Peattie <hi rend="italic">Edda</hi> 48, 49-50.</p>
+                <p><note id="n06" n="6">6</note>Peattie "Easter" 18.</p>
+            </div1>
+
+        </body>
+    </text>
+</TEI>

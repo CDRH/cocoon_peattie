@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+
+]>
+<TEI id="ep.gs.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Shape of Fear</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.gs.0001</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="m">The Shape of Fear and Other Ghostly Tales</title>
+<title level="a">The Shape of Fear</title>
+<pubPlace>New York</pubPlace>
+<publisher>Macmillan</publisher>
+<date value="1898">1898</date>
+<series>Short Story Index Reprint Series</series>
+<pubPlace>Freeport, NY</pubPlace>
+<publisher>Books for Libraries Press</publisher>
+<date value="1969">1969</date>
+<biblScope type="pages">1-13</biblScope>
+</bibl>
+
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Short Story</term>
+</keywords>
+</textClass></profileDesc>
+
+
+
+<revisionDesc>
+<change>
+<date>2009-02-25</date>
+<respStmt>
+<name>Vicki Martin</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2008-11-17</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item></item>
+</change>
+<change>
+<date>2007-10-31</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Converted from html</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<pb id="ep.gs.0001.01.jpg" n="1"/>
+
+<head>THE SHAPE OF FEAR</head>
+
+<p>TIM O'CONNOR&#8212;who was descended from the O'Conors
+
+with one N&#8212;started life as a poet and an enthusiast.  His mother
+
+had designed him for the priesthood, and at the age of fifteen, most
+
+of his verses had an ecclesiastical tinge, but, somehow or other, he
+
+got into the newspaper business instead, and became a pessimistic
+
+gentleman, with a literary style of great beauty and an income of
+
+modest proportions.  He fell in with men who talked of art for art's
+
+sake,&#8212;though what right they had to speak of art at all nobody
+
+knew,&#8212;and little by little his view of life and love became more or
+
+less profane. He met a woman who sucked his heart's blood, and he
+
+knew it and made no 
+
+<pb id="ep.gs.0001.02.jpg" n="2"/>
+
+protest; nay, to the great amusement of the fellows who talked of art
+
+for art's sake, he went the length of marrying her. He could not in
+
+decency explain that he had the traditions of fine gentlemen behind
+
+him and so had to do as he did, because his friends might not have
+
+understood. He laughed at the days when he had thought of the
+
+priesthood, blushed when he ran across any of those tender and
+
+exquisite old verses he had written in his youth, and became
+
+addicted to absinthe and other less peculiar drinks, and to gaming a
+
+little to escape a madness of <hi rend="italic">ennui</hi>.</p>
+
+<p>As the years went by he avoided, with more and more scorn,
+
+that part of the world which he denominated Philistine, and
+
+consorted only with the fellows who flocked about Jim O'Malley's
+
+saloon. He was pleased with solitude, or with these convivial wits,
+
+and with not very much else beside.  Jim O'Malley was a sort of
+
+Irish poem, set to inspiring measure.   He was, in fact, a Hibernian 
+
+<pb id="ep.gs.0001.03.jpg" n="3"/>
+
+M&#230;cenas, who knew better than to put bad whiskey before a
+
+man of talent, or tell a trite tale in the presence of a wit. The
+
+recountal of his disquisitions on politics and other current matters
+
+had enabled no less than three men to acquire national reputations;
+
+and a number of wretches, having gone the way of men who talk of
+
+art for art's sake, and dying in foreign lands, or hospitals, or
+
+asylums, having no one else to be homesick for, had been homesick
+
+for Jim O'Malley, and wept for the sound of his voice and the grasp
+
+of his hearty hand.</p>
+
+<p>When Tim O'Connor turned his back upon most of the things he
+
+was born to and took up with the life which he consistently lived till
+
+the unspeakable end, he was unable to get rid of certain
+
+peculiarities. For example, in spite of all his debauchery, he
+
+continued to look like the Beloved Apostle. Notwithstanding abject
+
+friendships he wrote limpid and noble English. Purity seemed to
+
+dog his heels, no matter how violently he attempted 
+
+<pb id="ep.gs.0001.04.jpg" n="4"/>
+
+to escape from her. He was never so drunk that he was not an
+
+exquisite, and even his creditors, who had become inured to his
+
+deceptions, confessed it was a privilege to meet so perfect a
+
+gentleman. The creature who held him in bondage, body and soul,
+
+actually came to love him for his gentleness, and for some quality
+
+which baffled her, and made her ache with a strange longing which
+
+she could not define. Not that she ever defined anything, poor little
+
+beast!  She had skin the color of pale gold, and yellow eyes with
+
+brown lights in them, and great plaits of straw-colored hair. About
+
+her lips was a fatal and sensuous smile, which, when it got hold of a
+
+man's imagination, would not let it go, but held to it, and mocked it
+
+till the day of his death.   She was the incarnation of the Eternal
+
+Feminine, with all the wifeliness and the maternity left out&#8212;she
+
+was ancient, yet ever young, and familiar as joy or tears or sin.</p>
+
+<p>She took good care of Tim in some ways: 
+
+<pb id="ep.gs.0001.05.jpg" n="5"/>
+
+fed him well, nursed him back to reason after a period of hard
+
+drinking, saw that he put on overshoes when the walks were wet,
+
+and looked after his money.   She even prized his brain, for she
+
+discovered that it was a delicate little machine which produced
+
+gold. By association with him and his friends, she learned that a
+
+number of apparently useless things had value in the eyes of certain
+
+convenient fools, and so she treasured the autographs of
+
+distinguished persons who wrote to him&#8212;autographs which he
+
+disdainfully tossed in the waste basket.   She was careful with
+
+presentation copies from authors, and she went the length of urging
+
+Tim to write a book himself. But at that he balked.</p>
+
+<p>"Write a book!" he cried to her, his gentle face suddenly white
+
+with passion. "Who am I to commit such a profanation?"</p>
+
+<p>She didn't know what he meant, but she had a theory that it was
+
+dangerous to excite him, and so she sat up till midnight to cook a
+
+chop for him when he came home that night.</p>
+
+<pb id="ep.gs.0001.06.jpg" n="6"/>
+
+<p>He preferred to have her sitting up for him, and he wanted every
+
+electric light in their apartments turned to the full.   If, by any
+
+chance, they returned together to a dark house, he would not enter
+
+till she touched the button in the hall, and illuminated the room. Or 
+
+if it so happened that the lights were turned off in the night time,
+
+and he awoke to find himself in darkness, he shrieked till the
+
+woman came running to his relief, and, with derisive laughter,
+
+turned them on again. But when she found that after these frights he
+
+lay trembling and white in his bed, she began to be alarmed for the
+
+clever, gold-making little machine, and to renew her assiduities, and
+
+to horde more tenaciously than ever, those valuable curios on which
+
+she some day expected to realize when he was out of the way, and
+
+no longer in a position to object to their barter.</p>
+
+<p>O'Connor's idiosyncrasy of fear was a source of much
+
+amusement among the boys at the office where he worked. They
+
+made open sport of it, and yet, recognizing him 
+
+<pb id="ep.gs.0001.07.jpg" n="7"/>
+
+for a sensitive plant, and granting that genius was entitled to
+
+whimsicalities, it was their custom when they called for him after
+
+work hours, to permit him to reach the lighted corridor before they
+
+turned out the gas over his desk. This, they reasoned, was but a
+
+slight service to perform for the most enchanting beggar in the
+
+world.</p>
+
+<p>"Dear fellow," said Rick Dodson, who loved him, "is it the
+
+Devil you expect to see? And if so, why are you averse? Surely the
+
+Devil is not such a bad old chap."</p>
+
+<p>"You haven't found him so?"</p>
+
+<p>"Tim, by heaven, you know, you ought to explain to me.  A
+
+citizen of the world and a student of its purlieus, like myself, ought
+
+to know what there is to know! Now you're a man of sense, in spite
+
+of a few bad habits&#8212;such as myself, for example. Is this fad of
+
+yours madness?&#8212;which would be quite to your credit,&#8212;for
+
+gadzooks, I like a lunatic! Or is it the complaint of a man who has
+
+gathered too much data on the subject of Old 
+
+<pb id="ep.gs.0001.08.jpg" n="8"/>
+
+Rye? Or is it, as I suspect, something more occult, and therefore
+
+more interesting?"</p>
+
+<p>"Rick, boy," said Tim, "you're too&#8212;inquiring!" And he turned
+
+to his desk with a look of delicate hauteur.</p>
+
+<p>It was the very next night that these two tippling pessimists
+
+spent together talking about certain disgruntled but immortal
+
+gentlemen, who, having said their say and made the world quite
+
+uncomfortable, had now journeyed on to inquire into the
+
+nothingness which they postulated.  The dawn was breaking in the
+
+muggy east; the bottles were empty, the cigars burnt out. Tim turned
+
+toward his friend with a sharp breaking of sociable silence.</p>
+
+<p>"Rick," he said, "do you know that Fear has a Shape?"</p>
+
+<p>"And so has my nose!"</p>
+
+<p>"You asked me the other night what I feared. Holy father, I
+
+make my confession to you. What I fear is Fear."</p>
+
+<p>"That's because you've drunk too much&#8212;or not enough.</p>
+
+<pb id="ep.gs.0001.09.jpg" n="9"/>
+
+<lg>
+
+       <l>"'Come, fill the cup, and in the fire of Spring</l>
+
+         <l>Your winter garment of repentance fling&#8212;'"</l>
+
+</lg>
+
+<p>"My costume then would be too nebulous for this weather, dear
+
+boy. But it's true what I was saying. I am afraid of ghosts."</p>
+
+<p>"For an agnostic that seems a bit&#8212;"</p>
+
+<p>"Agnostic! Yes, so completely an agnostic that I do not even
+
+know that I do not know! God, man, do you mean you have no
+
+ghosts&#8212;no&#8212;no things which shape themselves? Why, there are
+
+things I have done&#8212;"</p>
+
+<p>"Don't think of them, my boy!  See, 'night's candles are burnt
+
+out, and jocund day stands tiptoe on the misty mountain top.'"</p>
+
+<p>Tim looked about him with a sickly smile. He looked behind
+
+him and there was nothing there; stared at the blank window, where
+
+the smoky dawn showed its offensive face, and there was nothing
+
+there.  He pushed away the moist hair from his haggard face&#8212;that
+
+face which would look like the blessed St. John, and leaned heavily
+
+back in his chair.</p>
+
+<pb id="ep.gs.0001.10.jpg" n="10"/>
+
+<p>"'Yon light is not daylight, I know it, I,'" he murmured drowsily,
+
+"'it is some meteor which the sun exhales, to be to thee this night
+
+&#8212;'"</p>
+
+<p>The words floated off in languid nothingness, and he slept.
+
+Dodson arose preparatory to stretching himself on his couch. But
+
+first he bent over his friend with a sense of tragic appreciation.</p>
+
+<p>"Damned by the skin of his teeth!" he muttered.  "A little more,
+
+and he would have gone right, and the Devil would have lost a good
+
+fellow. As it is"&#8212;he smiled with his usual conceited delight in his
+
+own sayings, even when they were uttered in soliloquy&#8212;"he is
+
+merely one of those splendid gentlemen one will meet with in hell." 
+
+Then Dodson had a momentary nostalgia for goodness himself, but
+
+he soon overcame it, and stretching himself on his sofa, he, too,
+
+slept.</p>
+
+<p>That night he and O'Connor went together to hear "Faust" sung,
+
+and returning to the office, Dodson prepared to write his criti- 
+
+<pb id="ep.gs.0001.11.jpg" n="11"/>
+
+cism. Except for the distant clatter of telegraph instruments, or the
+
+peremptory cries of "copy" from an upper room, the office was still.
+
+Dodson wrote and smoked his interminable cigarettes; O' Connor
+
+rested his head in his hands on the desk, and sat in perfect silence.
+
+He did not know when Dodson finished, or when, arising, and
+
+absent-mindedly extinguishing the lights, he moved to the door with
+
+his copy in his hands.  Dodson gathered up the hats and coats as he
+
+passed them where they lay on a chair, and called:</p>
+
+<p>"It is done, Tim. Come, let's get out of this."</p>
+
+<p>There was no answer, and he thought Tim was following, but
+
+after he had handed his criticism to the city editor, he saw he was
+
+still alone, and returned to the room for his friend. He advanced no
+
+further than the doorway, for, as he stood in the dusky corridor and
+
+looked within the darkened room, he saw before his friend a Shape,
+
+white, of perfect loveliness, divinely delicate and pure 
+
+<pb id="ep.gs.0001.12.jpg" n="12"/>
+
+and ethereal, which seemed as the embodiment of all goodness.
+
+From it came a soft radiance and a perfume softer than the wind
+
+when "it breathes upon a bank of violets stealing and giving odor."
+
+Staring at it, with eyes immovable, sat his friend.</p>
+
+<p>It was strange that at sight of a thing so unspeakably fair, a
+
+coldness like that which comes from the jewel-blue lips of a Muir
+
+crevasse should have fallen upon Dodson, or that it was only by
+
+summoning all the manhood that was left in him, that he was able to
+
+restore light to the room, and to rush to his friend.  When he reached
+
+poor Tim he was stone-still with paralysis.   They took him home to
+
+the woman, who nursed him out of that attack&#8212;and later on
+
+worried him into another.</p>
+
+<p>When he was able to sit up and jeer at things a little again, and
+
+help himself to the quail the woman broiled for him, Dodson, sitting
+
+beside him, said:</p>
+
+<p>"Did you call that little exhibition of yours 
+
+<pb id="ep.gs.0001.13.jpg" n="13"/>
+
+legerdemain, Tim, you sweep? Or are you really the Devil's
+
+bairn?"</p>
+
+<p>"It was the Shape of Fear," said Tim, quite seriously.</p>
+
+<p>"But it seemed mild as mother's milk."</p>
+
+<p>"It was compounded of the good I might have done. It is that
+
+which I fear."</p>
+
+<p>He would explain no more. Later&#8212;many months later&#8212;he
+
+died patiently and sweetly in the madhouse, praying for rest. The
+
+little beast with the yellow eyes had high mass celebrated for him,
+
+which, all things considered, was almost as pathetic as it was
+
+amusing.</p>
+
+<p>Dodson was in Vienna when he heard of it.</p>
+
+<p>"Sa, sa!" cried he. "I wish it wasn't so dark in the tomb! What
+
+do you suppose Tim is looking at?"</p>
+
+<p>As for Jim O'Malley, he was with difficulty kept from
+
+illuminating the grave with electricity.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

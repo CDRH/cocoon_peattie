@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.18941118 SYSTEM "ep.nov.foy.18941118.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.18941118">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Fountain of Youth</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">The Fountain of Youth</title>
+<title level="a" type="sub">A Romance of the Supernatural</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1894-11-18">18 November 1894</date>
+<biblScope type="pages">18</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-03-04</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.nov.foy.18941118">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p18"/>
+
+<div1>
+
+<head type="main">THE FOUNTAIN OF YOUTH</head>
+
+<milestone unit="smallbar"/>
+
+<head type="main">A ROMANCE OF THE SUPERNATURAL</head>
+
+<byline>By. Mrs. Elia W. Peattie.</byline>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">CHAPTER VI.</head>
+
+	<p>I thought as we went on that de Vega's depression deepened. In our awkward way we tried to keep him occupied, that he might not have too much time in which to indulge his melancholy. We made him talk to us in English, and the poor fellow looked worn and weary many a day as he wrestled with the intricacies of that most perplexing of languages. But he was remarkably intelligent, and he seemed to select the picturesque words of the language by instinct.</p>
+
+	<p>One morning 'Sin and I wandered away on a long narrow stretch of hammock by ourselves, and were silently walking along, I dreaming of that mysterious future which still lured me on, and 'Sin kicking up the dried moss with his little brown toes, when we heard some strange sounds coming from the thicket a few hundred yards distant. We dropped to our knees and crept through the desert <sic corr="rosemary">rosmary</sic> and slanting spruce of the scrub for a short distance, when suddenly the fierce scream of a panther and the terrific growl of the black bear broke upon our ears. I had my musket with me&#8211;in fact, we never walked through the hammocks without arms, for we were constantly on the lookout for game. The bear stood on her haunches, with the panther crouching near him, and in another instant the panther made a leap at her enemy, and sent a stream of blood trickling down his side. There was a moment's frightful rest, the bear panting and watching, the panther crouching, and then came another leap. But this time it was a false one, and the bear clasped the panther in his embrace. With one sweep of his paw he disemboweled his foe, who lay gasping in the last throes of death.</p>
+
+	<p>I determined to make the bear's triumph short-lived, and aimed my gun for his heart, when there was a sudden rush from the thicket, and De Vega was at the brute with a knife.</p>
+
+	<p>The bear looked at the man for a moment with a sort of superior astonishment reflected in his eyes. Then he raised his paw. I turned sick. It was impossible to fire. I would be as likely to hit de Vega as the bear. Just as I thought my friend was about to be wrapped in that hideous clasp, or brained with the gigantic paw, de Vega sprang at him again and drove his knife straight through the jugular vein. There were a few nauseous gasps, a torrent of blood and fetid fumes, pawing wildly at the ground. De Vega plunged his knife behind his ear, and the struggle ceased. I rushed forward.</p>
+
+	<p>"De Vega," I said angrily, "you have no right to imperil your life like that. If you have no regard for yourself, at least you might have some regard for us. If you were to die we should perish here in the wilderness."</p>
+
+	<p>"Pardon me," he replied in Spanish. "I did forget for a moment that you were to be guided by me. I will not offend again." He looked down at the graceful body of the panther. "I thought I should meet with a fate like his," he said, "but it is evidently not to be."</p>
+
+	<p>I turned my back angrily on him and walked away, leaving him and 'Sin to skin and sever the quarters of the bear. 'Sin's savage blood had been set on fire, and all during the task he shouted and yelled in glee: "Lokasee! Lokasee!"</p>
+
+	<p>After this de Vega refrained from saying anything about the cause of his discontent, but he did not conceal altogether the fact that as we approached our destination he was more and more troubled. It was necessary in order that our guides, the stars, should do their work, for us to travel much by night. But we did not do so altogether, for de Vega had so lately made the journey that it was sometimes possible for him to lead from island to island without error, if they did not lie too far apart.</p>
+
+	<p>The life we were leading was not so wearisome as might be supposed, for while we suffered fatigue to the utmost of our ability to endure, we had many compensations. The odor of spice that was wafted from the hammocks, the rest on myrtle boughs, the wonderful flowers of the islands, the strange silent birds that trailed their plumage over the luxuriant trees, the vines that rioted in the thickets, the piquant curious foods we discovered and tasted, the freedom from all restraint and the companionship which every day grew more agreeable, made up a whole that any man of adventurous blood might well esteem of exceptional delight. And ever as we neared our destination de Vega grew more considerate, more gentle, more&#8211;I do not know what else to call it but pitiful.</p>
+
+	<p>One night we had reached a scrub-hammock along toward dawn, and after we had eaten our breakfast of koonti cakes, wild bananas and turtle, de Vega begged us to listen to something he had to tell us. He spoke in his strange conglomerate Spanish, which the fellows now understood to some degree, and which I interpreted for them when they were at a loss to catch his meaning.</p>
+
+	<p>"Friends," said de Vega, pulling a siren-flower nervously in pieces, "the time has come when it is fitting that I should tell you something of the country to which you are going. You know me well enough now to trust me. I would trust to your as I do to the stars of heaven, which have guided us through this wilderness, and I know that you will do no less by me."</p>
+
+	<p>"That's all right," said Bridges, cutting him short. "Whatever you say goes with us. We know you're honest to the core. Go on with your story."</p>
+
+	<p>"Juan Ponce de Leon," said he, "who came to this wonderful land in search of the Fountain of Youth, and died in age and misery, knowing all the time how his eyes were dimming and his heart was deadening, had some followers who deserted him, and wandered away in impatience at the dreams of him whom they called a mad man. No one ever heard from these wanderers. It was written in the chronicles of Spain that they were dead. They were swallowed up by the wiilderness&#8211;hundreds have been so. But these five men who wandered away and strove to find the coast that they might make their way to the familiar Bermudas knew not how to follow the paths of the stars, and they lost their way. For months they lived on the fruit of the forests or hungered in the poisonous prairies of wire grass. At last they came to a waste, in which not even a serpent crawled across their path for them to feed on, and each of them prepared to die and bade his friends farewell, when a wind began blowing from the south, and on it came the most exquisite of perfumes, the like of which they had never scented. It was balmier than flowers; it was sweeter than ripe fruit. Strength came to their limbs. They walked on, blinded though they were by the sun, and gaunt with a terrible hunger. A full day they journeyed, followed this perfume from some island of the blessed, till at length they saw rising up against the dim sky a vague outline of waving green. Toward this they hastened, and when the stars had come out they passed out of the morass and put their feet in among a bed of vines that bore scarlet blossoms, and heard the frightened birds calling to each other with screams, like children who wake in the dark. Before them grew all that could quench their hunger. There was the wild pineapple, and the banana plant, and the blueberry, and the guava, the orange and the wild potato, and fields of maize. They ate, and then searched for a river at which to stake their thirst. They looked long, and morning was dawning when at last, from the side of a stately mountain, they found a stream of water flowing. This dashed out of the very bosom of the mountain, as if it were the milk fed by nature to her children, and dashing down fell in a great basin, around whose sides of stone that shimmered a sort of <sic corr="iridescent">irridiscent</sic> radiance, wonderfully green in color, like no green that grows in forest or field, but more like that that glistens on the backs of serpents and of fishes. They laid them down on the moss and drank, and it seemed to them that their thirst grew with the quenching, so that they drank as they had never drank before. And when they arose there was a sudden wonderful strength in their bodies. They looked at each other and there, where the marks of age and sin and fatigue had been was freshness and beauty. 'Mother of God,' they cried, 'we have at last found the Fountain of Youth. Henceforth we shall not know age or disease or death.' So these five men&#8211;noble Spaniards, all of them, lived there together, and ate of the <sic corr="luscious">lucious</sic> things on the island, and every morning they bathed in the beautiful basin and drank of these cold waters. They had peace, for there were none to contend with. They had plenty, and there no need to take heed for the morrow. The serpent lurking in the swamp land had no terrors for them for no serpent crawling had poison fierce enough to bring them suffering. Yet after a time a terrible loneliness grew upon them. It was not enough to wander by day in search of the deer and the bear, and sleep by night on myrtle boughs under the bloom of the paradise tree. They longed for the laugh of women and for the songs of little children, till at last they grew to think that death itself was better than a life lived without any to love or praise."</p>
+
+	<p>"Ah," groaned Bridges," always the girl. I know just how they felt."</p>
+
+	<p>"Then," went on de Vega, "when this longing had become an agony, it happened one day that three boats of Seminole passed, drawing driftwood toward the Keys. And the Spaniards hailed them, but this filled the Indians with fear, and they made off. So the Spaniards gave chase and the Indians not being acquainted with the streams, after a time the Spaniards forced them to battle, and being very strong because of the waters of the fountain, they killed many if them and captured the woman. In those days the Seminole was not what he is now. He was a man who compelled the admiration even of the Spaniards who came with Cabot and the great Huguenot. He was proud, yet gentle. He had not learned treachery. It was the Spaniard taught him that. He was a mighty man of strength and could endure beyond all others. He had a haughty heart and matched the Spaniard pride for pride. A few of these warriors, and several women and Spaniards too captive. Then they told them the story of the Fountain of Youth. And the Indians remained and now there is a great people on the island."</p>
+
+	<p>"How many should you think there were?" asked Bryan, who liked to be accurate.</p>
+
+	<p>"There are thousands," de Vega replied. "I dare not say how many; but they people the island well."</p>
+
+	<p>"I should think that in time you might come to have more than enough," Bryan went on. I acted as translator, it will be remembered.</p>
+
+	<p>"We have had wars," said de Vega, sadly, "and both men and women have been slain."</p>
+
+	<p>"Wars? What did you fight for?"</p>
+
+	<p>"For power. There were two men, both members of that company that pierced the primeval country and found the fountain, who desired to rule, and the people were divided, so they fought."</p>
+
+	<p>"Do you think," said Bridges, "that the fellow is mad? Great heavens! I believe he is but a bedizened Cuban, whom we have followed into this desert Island! This tale makes it vanish into thin air. There is no island. There is no country. There is not path. There is only a madman and three fools." Bryan was inclined to agree with that gloomy view of affairs. Only I, in a fantastic sort of insistence, held out for de Vega and the continuation of the journey. We were too worn to have returned, had we known the path. We were short of meal and koonti flour, and had we returned it would have been necessary for us to have lived on game and wild fruits. And then I trusted de Vega. I knew his words bore the imprint of truth.</p>
+
+	<p>After this Bridges and Bryan were much together and talked in secret. "They do not trust me," said de Vega, sadly. I felt that they did not, and that they included me in their distrust. Certainly what the man told us was fantastical, but the world is curious, and there are many, many things in it which it is not given to man to understand.</p>
+
+	<p>"Why should they think me mad," de Vega would ask of me plaintively. "They also believe in immortality, but they believe that it is necessary tot die first. I think that the idea of continuous life is easier to believe than the idea of interrupted life." I agree with him. Life, death, summer, winter, man and beast, grass and maize were to me the profoundest and most inexplicable miracles. It was no strain on my amazement to add another wonder to those with which I was already familiar.</p>
+
+	<p>There came a time of horror after this. For five days and nights, without sight of solid ground, we plodded through hideous muck. At night we rested but a brief time, and then we huddled together in the boat. Not a bough was there to afford us a fire; not a root or berry to add to our now scant store. The stars seemed to burn brighter and brighter. The sun rose and set mercilessly. The moon looked on us coldly.</p>
+
+	<p>"She would as soon look on a corpse as a pair of lovers, any day," said Bryan one night, and though he never spoke a discourteous word to either me or de Vega. I could see that his courage grew lower and lower every day and that in proportion, as his courage forsook him, he blamed us for his sufferings. 'Sin alone was cheerful and bright. He would go along chanting wild bits of Indian song, which began in a <sic corr="discord">dischord</sic> and ended in a grunt, and he lived on next to nothing. De Vega was gloom itself.</p>
+
+	<p>"How can I tell how I shall be received?" he would say. "I have committed one crime in leaving my country. I commit another in taking you to it. But still, those are little matters. What troubles me is that I am returning to be tormented by&#8211;by love, which is the curse of man."</p>
+
+	<p>It wrung my heart to see the fine limbs of Bryan daily growing thinner and weaker, and to see the old <sic corr="quizzical">quisical</sic> look in Bridges' eyes give way to one of fixed despair.</p>
+
+	<p>At length one day, near the end of the fifth of this fightful journey through the unbroken swamp, things reached a crisis. I noticed that Bryan and Bridges were talking together more than was their habit, and that both of them looked at me with an expression which I had never seen in their eyes before. Suddenly, just at dusk, when there was only a faint amber glow in the sky, and Venus riding sweetly above is in an unflecked sky, the two came to me, and thrust themselves before me in the path that de Vega and 'Sin had made as they walked.</p>
+
+	<p>"Shadwin," said Bryan sternly, "we have come to tell you that we will go no further. We believe that we have been led out here by a lunatic. We will go no further. We believe that we have been led out here by a lunatic. We will go on further. You can take your choice. You can go with us, or you can leave us. But Bridges and I go no further."</p>
+
+	<p>"Yes," said Bridges, with an oath, "we are in hell's own hole, and we know who to thank for getting us here. Now we are going to get out if God gives us strength."</p>
+
+	<p>Merciful God, how gaunt they looked! Their eyes were sunken in their heads. Their hands stretched out, pitiful, long and lank. Their mouths drooped with that terrible down-falling of the muscles that one sees in the dying and the hopeless. Ha I really brought them to this&#8211;my fine young friends&#8211;my handsome comrades!</p>
+
+	<p>"De Vega," I cried in anguish, "in God's name, how much further? My friends threaten to go back. They can never find their way! They will die. I will have been their murderer. Speak, man! How much further?"</p>
+
+	<p>"I swear to you by the secret signs of my tribe and my hope for heaven," said the Spaniard, crossing himself, "that a day's journey will bring us to the end." I repeated his words to my comrades. They looked at me bitterly and scornfully and shook their heads.</p>
+
+	<p>"It is no use, Shadwin, we go back now." In one burning moment I took in the whole situation. To let them go back was to let them go to their death. To make them go on was possibly&#8211;just possibly&#8211;to save their lives. I, too, began to think that I had been following a dreamer of dreams. I feared that we were going to our death. But I determined to make one last effort. Before either of them could guess my intention, I drew from my pocket my revolver. I covered them both with its aim.</p>
+
+	<p>"Go on," I cried, desperately, "or by the living God, you are dead men. Follow de Vega as fast as you can, and take step neither to left or right, or I will make an end of him who does it. Go on, de Vega. Follow him, boys!" The two looked at each other. Bridges was ghastly.</p>
+
+	<p>"He is mad," I heard him say. "Think of it Bryan. He is stark, staring mad. And our lives are in his hands." At these words I saw Bryan estimate my strength, and calculate with himself as to the likelihood of being able to dispossess me of my weapon.</p>
+
+	<p>"Be careful," I said, "or one of us will be left for the buzzards."</p>
+
+	<p>He cowed before my imperious and frantic manner. The two went on, lame and broken, their jaws hanging down, often stumbling in the black ooze, sometimes praying aloud, sometimes weeping weakly, Bridges steadily cursing. And the hours passed, and night came and went, and then came the dawn, wrapped in mist, and in it we moved <sic corr="greyly">grayly</sic>, like painful ghosts who could find no grave.</p>
+
+	<p>Then suddenly, like a great curtain, uprolled the mist, until the folds of it, going skyward, became gold, and beneath this draping of beauty lay a land where the flowering vines clothed the trees, and from which the breeze that had scattered the mist blew us odors of spice, and champak and lotus bloom.</p>
+
+<p rend="center">(Continued Next Sunday.)</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

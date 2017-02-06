@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.oan.0001.01 SYSTEM "ep.owh.oan.0001.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.oan.0001.02 SYSTEM "ep.owh.oan.0001.02.jpg" NDATA jpeg>
+<!ENTITY ep.owh.oan.0001.03 SYSTEM "ep.owh.oan.0001.03.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.oan.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Omaha and Its Neighbors</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-12</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Omaha and Its Neighbors</head>
+
+<figure entity="ep.owh.oan.0001.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>"Boosters" or "Boomers" did much to attract settlers to the West. Railroads led the way in luring homesteaders, plating cities along the route, offering low fares to interested buyers, and organizing campaigns with pamphlets, circulars, and posters, many in foreign languages to attract immigrants. The railroads were in it for the money, for they had the building of railway lines across the United States to finance. The government had issued land grants to them, alternating sections that could not be homesteaded but could be purchased for two dollars and fifty cents an acre with the proceeds going to the assigned railroads.</p>
+
+	<p>Town speculators, who realized that settlers would need supplies, often moved into an area ahead of the railroads and homesteaders, establishing towns under the Federal Townsites Act of 1844. Under this act, promoters were not subject to the 160 acre limitation of the 1841 preemption law but could purchase 320 acres, usually for about $400. Then they would divide it into lots, usually 125 by 125 feet, and sell shares, ten lots per share. Many of the shareholders would buy adjacent quarters of land, gambling that the city would grow, and their land would become valuable. The act also gave speculators legal  title to the land once the town was incorporated. When the first session of the Nebraska Territorial legislature opened, seventeen such towns became incorporated. Many never materialized and only existed on paper.<ref target="n01" n="1">1</ref> Some withered and died when they were bypassed by the railroads. Most towns, however, could not construct buildings fast enough to keep pace with the influx of new businesses. Often town promoters gave free city lots to newspaper editors in order to motivate them to attract more people to the town, not only increasing the value of the editors' lots but adding subscribers and advertisers to their paper.</p>
+
+<figure entity="ep.owh.oan.0001.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>When the Peattie arrived in Omaha in the late 1880s, the city was bursting at the seams with newcomers who expanded its boundaries in every direction. Immigrants from Germany, Italy, Scandinavia, Austria, Ireland, Switzerland, and Czechoslovakia would form communities within Omaha with their own churches, ethnic markets, and festivals. The very wealthy began inching westward, establishing exclusive neighbors at Kountze Place, Park Wild, and Bemis Park while elaborate mansions held court in the Blackstone, Cathedral-Duchesne, Happy Hollow, and Fairacres areas. A "Gold Coast" even developed near the woods west of 38th Street. Small towns, like barnacles, attached themselves to the edges of Omaha, like Dundee and Benson, and they founded their own schools, post offices, business districts, and churches.<ref target="n02" n="2">2</ref></p>
+
+	<p>In 1890 the United States Census declared that Omaha, the "Gate City," had increased its population by 367 percent since 1880, and it had grown to the twentieth largest city in America. Statisticians caution that this figure was "grossly inflated," that the statistics show it was closer to only 233 percent. However, this enhancement of the city's expansion accurately mirrors the pride and optimism the Omaha citizens had in their city. One publication even boasted, "No city in the Union offers such splendid inducement for the investment of capital. It is in fact the 'young Giant of the West,' a rapidly growing, prosperous, handsome city&#8211;the future great commercial rival of Chicago."<ref target="n03" n="3">3</ref> This same booster spirit galloped throughout the West, fueled by Jeffersonian ideals of the utopian agrarian society and speculators who stood to gain hundreds of thousands of dollars.</p>
+
+	<p>Omaha did have much to take pride in that census year: 90 miles of street car rails, 54 schools, 99 churches, 155 miles of water pipe, Creighton College, an Art Gallery, and a proposed Public Library. However, they did not rest on their laurels, and on 17 March 1893, twenty-five businessmen gathered to form the Commercial Club, electing as president German immigrant Herman Kouontz, one of the founders of the First National Bank of Omaha. Their stated goal was "to work for the common good in all matters touching the general welfare of the city of Omaha; to secure the location of manufactories and other business enterprises in the city; to promote commercial progress and increase trades and industries, to acquire and disseminate valuable commercial and economical information."<ref target="n04" n="4">4</ref> Interestingly, many of the members of this civic-minded club also lived in the biggest Victorian mansions.</p>
+
+<figure entity="ep.owh.oan.0001.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>Success for a community needed such active business leaders, but it also relied on promotion, and "to handle that task it had to have a newspaper with a civic minded editor, one who usually dispensed with objectivity when writing about his town."<ref target="n05" n="5">5</ref> Such news reports and articles rendered every feature, natural or manmade, in the most positive, almost utopian light. Although the present was almost ideal, they insisted, the future glowed even brighter. Elia Peattie, an idealist at heart, did her part in boosting not only Omaha but many of the neighboring towns. She was the best kind of community supporter, however, because she truly believed that towns, or the institutions in them, like the characters in Horatio Alger's novels, could pull themselves up by the bootstraps and make a success of themselves with a little luck, a lot of pluck, and a good story.</p>
+</div1>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Chudacoff, Howard P.">Chudacoff, Howard P.</author> <title level="m">Mobile Americans: Residential and Social Mobility in Omaha 1880-1920</title>. <pubPlace>New York</pubPlace>: <publisher>Oxford University Press</publisher>, <date value="1972">1972</date>.</bibl>
+
+<bibl><author n="Dary, David">Dary, David</author>. <title level="m">Entrepreneurs of the Old West</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1986">1986</date>.</bibl>
+
+<bibl><author n="Donahue, Louise Gilmore">Donahue, Louise Gilmore</author>. <title level="m">Pathways to Prosperity: A History of the Greater Omaha Chamber of Commerce</title>. <pubPlace>Omaha</pubPlace>: <publisher>Greater Omaha Chamber of Commerce</publisher>, <date value="1993">1993</date>.</bibl>
+
+<bibl><author n="Larsen, Lawrence H.">Larsen, Lawrence H.</author> and <author n="Barbara J. Cottrell">Barbara J. Cottrell</author>. <title level="m">The Gate City: A History of Omaha</title>. Enlarged Edition. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1997">1997</date>.</bibl>
+
+<bibl><title level="a">"Omaha, Douglas County."</title> Virtual Nebraska: Our Towns. <publisher>University of Nebraska-Lincoln</publisher>. 10 October 2007 <xref url="http://casde.unl.edu/history/counties/douglas/omaha/" rend="new">http://casde.unl.edu/history/counties/douglas/omaha/</xref>.</bibl>
+
+<bibl><author n="White, Richard">White, Richard</author>. <title level="m">"It's Your Misfortune and None of My Own": A New History of the American West</title>. <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="1991">1991</date>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Millions of Acres." Library of Congress, Rare Book and Special Collections Division. [rbpe 13401300] <xref url="http://hdl.loc.gov/loc.rbc/rbpe.13401300" rend="new">http://hdl.loc.gov/loc.rbc/rbpe.13401300</xref>.</bibl>
+
+<bibl>"A Group of Residences." Courtesy Omaha Public Library. <xref url="http://www.omahapubliclibrary.org/galleries/photos/pho_038.jpg" rend="new">http://www.omahapubliclibrary.org/galleries/photos/pho_038.jpg</xref>.</bibl>
+
+<bibl>"Herman Kountze (Forest Hill) 10th &amp; Pierce." Courtesy Omaha Public Library. <xref url="http://www.omahapubliclibrary.org/earlyomaha/photogallery7.html" rend="new">http://www.omahapubliclibrary.org/earlyomaha/photogallery7.html</xref>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> Dary, 250, 252, 256</p>
+
+<p><note id="n02" n="2">2</note> "Omaha."</p>
+
+<p><note id="n03" n="3">3</note> Chudacoff, 14.</p>
+
+<p><note id="n04" n="4">4</note> Donahue, 3.</p>
+
+<p><note id="n05" n="5">5</note> Dary, 255-56.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

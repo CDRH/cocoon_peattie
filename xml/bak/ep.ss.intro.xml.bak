@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.ss.intro">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Western Short Stories</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-19</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Western Short Stories</head>
+
+<figure entity="ep.ss.intro.01.jpg">
+<figDesc></figDesc>
+</figure>
+
+	<p>Elia Wilkinson Peattie was a consummate professional in a writing career that spanned over forty years. Of special note are her short stories published in the prestigious magazines of the day, in large newspapers, and in collected works. She published writings that ranged from realistic local color tales and romanticized and pastoral children's stories to naturalistic depictions of lower-class society's struggles. However, many agree that the stories that she wrote about the West are among her best.<ref target="n01" n="1">1</ref></p>
+
+	<p>As literary critic for the <hi rend="underline">Omaha World-Herald</hi> from 1888-1896 and the <hi rend="underline">Chicago Tribune</hi> from 1901-1917, Peattie read and reviewed over five thousand books, keeping current with literary developments in the United States and around the world. In addition, as a member of several exclusive Chicago clubs&#8211;the Fortnightly, the Little Room, Colonial Dames of America, the Chicago Woman's Club, and the Cordon Club for professional women&#8211;she became close friends with patrons of the arts and eminent writers of the day, such as Hamlin Garland, Willa Cather, Harriet Monroe, Henry Blake Fuller, Eugene Field, Lorado Taft, Edgar Lee Masters, Zona Gale, and Ellen Glasgow (Shultz 679). The Peatties' Sunday-morning brunches became celebrated occasions for the Chicago literary establishment.</p>
+
+	<p>Influenced by the writers of her region and her era, particularly those whose works were being accepted by the editors of the prestigious periodicals and publishing houses of the 1880s and 1890s, Peattie was well aware of the controversy within the American literary community over the question of whether Romanticism, Idealism,<ref target="n02" n="2">2</ref> Realism, or Naturalism more accurately captured Truth.<ref target="n03" n="3">3</ref></p>
+
+	<p>Peattie, herself, participated in the literary debate in her book reviews and editorials. In a 1905 review of Jack London's War of the Classes, she wrote, "There are a good many different kinds of realism, just as there are many varieties of romanticism." She firmly believed that literature must not only accurately depict people and events but also have a moral or cultural significance, even when only meant for entertainment. In 1891 she stated, "Poetry and art reach their climax when they express the highest ideals of a people."<ref target="n04" n="4">4</ref> Peattie believed that the surface of life must be accurately portrayed. "A demand is being made for truth. We want what Hamlin Garland calls 'verity.' When we see a new play we ask ourselves if the events portrayed ever really happened, or if it would have been possible for them to happen." Peattie's highest allegiance went to Howells, whom she claimed in 1894 as "the greatest of American novelists."<ref target="n05" n="5">5</ref> In an 1892 review of Garland's novels, she describes her commitment to the "smiling aspects" of Realism: "Though we faithfully picture the truth, we have not become so abject as to imagine that the only truth worth picturing is the unbeautiful truth." In other words, while she describes prairie life with "the accuracy of the camera,"<ref target="n06" n="6">6</ref> she searches for the morality beneath it. Thus, her definition of Realism is easy to reconcile with her Idealistic philosophy.</p>
+
+	<p>Idealism was a product of the Genteel Tradition in American literature, roughly spanning the years from the 1830s to the beginning of the First World War.<ref target="n07" n="7">7</ref> Victorianism, imported from Europe, mingled with New England Puritanism to produce this spirit in America that combined pioneer optimism with Calvinistic determinism. The Protestant ethic encouraged the scramble for success yet mandated that the inner spirit be kept undefiled. Seeking to establish a moral order, the Genteel Tradition attempted to transcend the dualities that troubled real life. Connected with the new American bourgeoisie and guided by a moral vision that glorified the democratic principles of rugged individualism, justice, and freedom, its literary standards were idealistic, optimistic, conventional, and socially correct, and its cultural values were conservative.</p>
+
+	<p>According to Donald Pizer, most publishers and reviewers believed that literature should inspire the reader "through the depiction of man's capacity to achieve the ethical life to seek such a life for himself." Literature had a moral function to teach as well as delight. "The pleasure of a realistic portrait is the aesthetic bait that hooks the reader," states James W. Tuttleton, "even as the novelist is simultaneously 'teaching' him about the character and condition of the world, of human nature, and our manifold experience."</p>
+
+	<p>Moral idealism increased by the late nineteenth century, especially during the Gilded Age, a period roughly extending from after the Civil War into the early twentieth century. Three causes contributed to this intensification, believes Floyd Stoval: Darwin's theory of natural selection, which aligned leaders of both religion and science in a determined effort to reassert their "cherished belief in a designed and progressive evolution"; the turmoil and corruption after the Civil War; and "the emergence of the frontier spirit as a dominant force in business and politics" (98).</p>
+
+	<p>Genteel writers such as Peattie were guided by literary authorities like William Dean Howells, editor of <hi rend="underline">Atlantic Monthly</hi>, Richard Watson Gilder, editor of <hi rend="underline">Century Magazine</hi>, George William Curtis of <hi rend="underline">Harper's Weekly</hi>, and Josiah Gilbert Holland of <hi rend="underline">Scribner's</hi>. Through their publication decisions, idealistic stories filled popular periodicals across the United States, dictating the tastes of the reading public and dominating the literary scene. The best of the writers in the Genteel Tradition shared a humanitarian concern for public welfare and attempted to do their part in social and cultural reform. A crucial aspect of their idealism was a belief in the innate morality of humankind and a firm trust in the individual. They also appreciated the beauty of nature although they believed that its role was not transcendental but merely physical and emotional. Genteel writers, like Peattie, especially enjoyed participating in formal literary clubs and entertaining groups in their homes in informal salons, where they could share their similar interests and indulge in intellectual conversations.</p>
+
+	<p>In her fiction, Peattie insisted that men and women be stronger than the circumstances of their lives, for the "untoward exterior catastrophe cannot be as interesting as the soul of a man or a woman" ("Faults" 9). Moreover, the western story, Peattie believed, held a special place in literature because it was free from imitation and affectation. She explained that such writers "mirror many phases of our western life as perfectly as a camera could have done. They have, however, what the camera can never have, a perception of the soul of things" ("Where" 16). As a result, while Peattie's works are often realistic or naturalistic in plot, character, and setting, the conflict is most often resolved idealistically.</p>
+
+	<p>Peattie did much of her best writing while she was living in Nebraska (1888-1896), publishing short stories in periodicals such as the <hi rend="underline">Atlantic Monthly</hi>, <hi rend="underline">Harper's Weekly</hi>, <hi rend="underline">Lippincott's</hi>, and <hi rend="underline">Cosmopolitan</hi>. In 1896, she collected eight western stories in <hi rend="underline">A Mountain Woman</hi>, published by Way and Williams. These short stories, six of them republished here, dramatize the lives of ordinary people of the West. Peattie realistically depicts life on the Nebraska plains during the homesteading period for Eastern audiences eager to read local color accounts of "exotic" locales. They reveal her ability to reconcile her Idealism with the literary trends of Realism and its related Naturalism; she shapes her style to fit the readers' or editors' tastes while remaining faithful to her own literary principles and to Truth.</p>
+
+	<p>In <hi rend="bold">"The Three Johns,"</hi> three men, all with the first name of John, meet at the land office and decide to pool their talents to "prove up" on their adjacent 180 acres: "each owned one-third of the L-shaped cabin which stood at the point where the three ranches touched." A gnarled rancher from Montana, a ruffian cowboy from the West, and a greenhorn from the East couple their individual backgrounds with their common desire to be independent and self-reliant to form a strong partnership. Their closest neighbor, a single woman homesteader with three children who is determined to make it on her own, completes the little circle. Together, they truthfully represent a microcosm of the settlement era, a time when men and women of assorted backgrounds and for diverse motives took up claims on isolated sections of the prairie and survived by contributing special talents, sharing resources, and laughing and crying together.</p>
+
+	<p>Peattie personifies nature as the antagonist against which Catherine and the three Johns struggle mightily to survive. She establishes Catherine as the Ideal pioneer woman, one who is not only strong, independent, and courageous but also loving and nurturing. "The Three Johns" was first published in 1891 in <hi rend="underline">Harper's Weekly</hi> and collected it in 1898 in <hi rend="underline">A Mountain Woman</hi> published by Way and Williams.</p>
+
+	<p>While all of Peattie's western stories incorporate naturalistic conflicts, especially the hostility of nature in the West or woman's biological burdens, many of her stories emphasize social determinism, such as <hi rend="bold">"Jim Lancy's Waterloo."</hi> Peattie was very active in the Populist Party, especially the People's Party Convention in Omaha in 1892, campaigning diligently for William Jennings Bryan and helping Thomas Henry Tibbles write a pamphlet on Free Silver titled <hi rend="underline">The American Peasant: A Timely Allegory</hi>, a utopian morality tale dealing with the problems of farmers as well as the debate over the gold and silver standard. Influenced by Tibbles's and Garland's descriptions of the desolation of Nebraska's prairie farm families, Peattie wrote "Jim Lancy's Waterloo." This grim tale narrates the failed attempt of a farmer to make a living on the Nebraska prairie. Mortgage rates, railroad transportation costs, and the weather all conspire against the young man's success. The Populists printed a million copies of "Jim Lancy's Waterloo" and distributed it as propaganda. It was also published with an illustration in <hi rend="underline">Cosmopolitan</hi> magazine in 1894 and later included in <hi rend="underline">A Mountain Woman</hi>.</p>
+
+	<p>Not only does <hi rend="bold">"The House That was Not"</hi> further the myth of women's propensity to insanity on the Plains, but it also illustrates Peattie's interest in supernatural phenomena being investigated by contemporary scientists, philosophers, and theologians alike. Well-regarded men, such as Wiliam James, author and professor of psychiatry at Harvard University, and Mark Twain, who published a personal endorsement of the science of the supernatural in <hi rend="underline">Harper's</hi> in 1891, believed that the investigation of the spirit world should be respected. Even Thomas Edison hoped to invent a machine to assist communication with the spirit world.</p>
+
+	<p>In Peattie's story, however, it is not the deceased neighbors who haunt the scene, but their house. Is the house a ghost, or are both the young husband and wife themselves succumbing to "prairie madness?" Peattie wrote many stories of the supernatural; the best she collected in <hi rend="underline">The Shape of Fear and Other Ghostly Tales</hi> published by Macmillan in 1898.</p>
+
+	<p>A beautiful, foreign woman moves to an Iowa village, perhaps Council Bluffs, proceeds to build a rustic home, and begins to raise bees, living an almost Thoreau-like existence in <hi rend="bold">"A Lady of Yesterday."</hi> Although she becomes a part of the community, her past she keeps mysteriously to herself. She meets and marries a much younger man, and they live happily and in love close to nature. This transcendental story, however, has a realistic ending, representational of women's lives of the era. Her husband later discovers that she was an aristocrat who had given up the artificiality of her European title for a simple life in the American West. This tale was collected in <hi rend="underline">A Mountain Woman</hi>.</p>
+
+	<p>Although <hi rend="bold">"In Husking Time"</hi> contains excellent local color descriptions of Nebraska farming, especially harvest, the main conflict centers on cattle rustling. Dick Merlin is hired to find a gang of cattle rustlers in the sand hills, but during the investigation, he falls in love with the ring-leader's daughter, a German immigrant. He flees, not wanting to turn in the girl's father, but he is also afraid that she is in on the thefts, too. So he buries himself in his work, becoming the best field hand, especially as a cornhusker, in Nebraska. The theme of the American Adam predominates, for one can conceal, or shed, one's identity and reinvent another, for better or worse, no questions asked, in the freedom the West allowed.</p>
+
+	<p><hi rend="underline">Harper's Weekly</hi> 8 August 1891 first published this short story.</p>
+
+	<p>Peattie subverts the idea of place by having a Western man go East to be plagued by loneliness in "Wild Fruit." Tiffany Breed returns to the Wyoming wilderness, bringing with him his exotic Eastern "trophy wife." Accustomed to being adored, Marion orchestrates a passionate encounter with Reno Cutting, the son of a neighbor and a friend of her husband. An interesting psychological study of a seductress and her prey, Peattie remains true to her Idealism in this short piece when Marion jettisons her false ideals in the sea of grass. This story was written especially for a new, yet short-lived, Sheridan, Wyoming, periodical titled <hi rend="underline">The Teepee Book</hi>, and was published in July 1915.</p>
+
+	<p>In another starkly naturalistic tale reminiscent of Cather's "The Sculptor's Funeral" and the stories from Garland's <hi rend="underline">Main Travelled Roads</hi>, <hi rend="bold">"After the Storm"</hi> describes a hard-worked farm wife, unappreciated by her family and abused by her drunken husband. She is befriended in her death by one of the hired men, who ultimately rescues the daughter from the same fate. Fully aware of the hardships endured by Nebraska pioneers, Peattie chooses to emphasize naturalistic elements to create conflict in the story, acknowledging the shift in literary tastes towards a more deterministic outlook on life.</p>
+
+	<p>Ann Bliss struggles to adapt to the prairie in <hi rend="bold">"The Home Road,"</hi> and plays a game with her children that they are traveling back to her old home in the east, where the house is shaded by elm trees and the air scented with roses. When her husband returns from town, he surprises her with elm saplings and the news that they can now afford a windmill. She begins to share her husband's vision of the role of the pioneer to "create comfort and beauty" in the wilderness. This story, although stereotypical, is an excellent example of the Myth of the Garden and the Myth of the Gentle Tamer.</p>
+
+	<p>While on assignment for the Northern Pacific Railroad in 1889 for her travelogue <hi rend="underline">A Journey Through Wonderland; Or, The Pacific Northwest and Alaska, With a Description of the Country Traversed by the Northern Pacific Railroad</hi>, Peattie traveled through the West to Alaska and returned home via the Southwest, where she met many literary notables, among them Charles Lummis and Mary Austin. In a review of Austin's in 1905 <hi rend="underline">A Basket Woman</hi>, Peattie describes author as a woman who, "instead of fretting at her isolation, as many women of her attainments might do, has identified herself with the place. She has taken it into her very soul, and counted her service to her lowly fellow creatures a privilege."<ref target="n08" n="8">8</ref> Perhaps Austin, who lived in Death Valley, California, is the prototype for <hi rend="bold">"A Madonna of the Desert."</hi> In this story, Claudia Judic leaves her six month old son with relatives to accompany her sick husband from Iowa to a mining camp in the Mojave Desert where it is hoped the dry, hot air with help him regain his health. Soon, she is looking after everyone in the camp, even the Chinese cook. Two years pass, and her husband's health improves, but she realizes not only that he will die if he leaves the desert but that her needs must be met, too. She accepts the desert as her home, but plans her personal emancipation, beginning with a room of her own. Claudia is a patient and self-sacrificing wife, but she knows when to take action to claim a life of her own.</p>
+
+	<p>In <hi rend="bold">"A Mountain Woman,"</hi> a wealthy New York architect travels to Colorado where he meets and marries the daughter of a rancher and brings her back to the East. Judith's simplicity and honesty win over those in the elite social circles, and she plays her role well, but she misses the mountains and her father. Her health and her psychological state deteriorate, and she becomes "feverish and broken." Peattie challenges the idea of Eastern women going insane in the West by having her Western protagonist go mad in the East. The story presents an interesting conflict between the artificiality and shallowness of Eastern society and the simplicity and sublimity of the West.</p>
+
+	<p>One of the earliest pioneers in the Omaha area was Father Pierre Jean De Smet, the first Jesuit missionary to the Indians of the Platte and upper Missouri region. In <hi rend="bold">"Two Pioneers"</hi> de Smet befriends Madamoiselle Ninon, a "lady of the night" who also makes good soups. This historical tale, set presumably in around 1877, not only recounts this unusual relationship, but depicts the French voyagers, a smallpox epidemic among the Pawnee, and the role of the missionaries in the West: "When a day's journey you come across two lodges of Indians, sixty souls in each lying dead and distorted from the plague in their desolate tepees, you do not pray, if you are a man like Father de Smet. You go on to the next lodge where the living yet are, and teach them how to avoid death." First published in the <hi rend="underline">Omaha World-Herald</hi> on 29 March 1891, Peattie later collected in <hi rend="underline">A Mountain Woman</hi> in 1896.</p>
+
+	<p><hi rend="bold">"McCulloughs of the Bluff"</hi> is based on two historic events: small quantities of coal discovered in the river bluffs near Ponca, Nebraska, in 1878, and a Missouri River flood the following spring which swept away entire towns, killing three people and thousands of livestock, and chiseling new channels. The father spends all of his time and money digging for coal on their bluff while the mother and daughter try to hold their family together. The children work diligently to provide for their family and prepare for their own futures, so that when the opportunity arrives, they can help support their family and fulfill responsible roles in society. Published in the <hi rend="underline">Youth's Companion</hi> on June 16, 1898, the story is a witty satire on early settlers' obsessions.</p>
+
+	<p>After the publication of <hi rend="underline">A Mountain Woman</hi> in 1896, the <hi rend="underline">Bookman</hi> reviewed the short story collection, describing it as having "a very fine sincerity untouched by cynicism. Faithfulness to reality, and yet a belief in the real human nature that it finds. This is the best democracy." Peattie's stories about western women fulfill the high praise of this review. Peattie presents with photographic faithfulness many truths about the homesteading experience and human nature, especially the necessity of community and emotional attachments. Moreover, making the environment an indifferent and often overwhelming adversary was more than just a concession to late nineteenth-century editors and the rising popularity of naturalism. This, too, is a truth about the homesteading experience and the cause of the failure of a vast majority of homesteaders to "prove up" on their quarter sections.</p>
+
+	<p>In Peattie's stories about Western women, not only does she accurately mirror frontier life at the end of the nineteenth century, but she probes into the souls of her women protagonists as they strive to "Prove Up" their claim to ideal womanhood on the uncompromising frontier. They recognize that they must not let biological, social, or environmental circumstances overwhelm them; Peattie's western women choose to survive.</p>
+</div1>
+
+<div1>
+<head type="sub">References</head>
+
+<p><hi rend="italic">For a complete biography and bibliography of Elia W. Peattie, see <hi rend="underline">Impertinences: Selected Writings of Elia Peattie, a Journalist in the Gilded Age</hi> edited by Susanne George Bloomfield (Lincoln: University of Nebraska Press, 2005).</hi></p>
+
+<bibl><author n="Bremer, Sidney H.">Bremer, Sidney H.</author> and <author n="Falcone, Joan Stevenson">Joan Stevenson Falcone</author>. <title level="m"><hi rend="underline">Women Building Chicago 1790-1990: A Biographical Dictionary</hi></title>. Eds. <editor n="Schultz, Rima Lunin">Rima Lunin Schultz</editor> and <editor n="Hast, Adele">Adele Hast</editor>. <publisher>Bloomington University Press</publisher>, <date value="2001">2001</date>. <biblScope type="pages">678-680</biblScope>.</bibl>
+
+<bibl><author n="Edmonds, William Siward">Edmonds, William Siward</author>. <title level="a">"Realism and the Real&#8211;A Suggestion, Not a Reply."</title> <title level="j"><hi rend="underline">The Dial</hi></title> <biblScope type="volume">14</biblScope> (<date value="1893-03-16">16 March 1893</date>): <biblScope type="pages">173-174</biblScope>.</bibl>
+
+<bibl><author n="Falk, Robert">Falk, Robert</author>. <title level="a">"The Writers' Search for Reality."</title> <title level="m"><hi rend="underline">The Gilded Age: Revised and Enlarged Edition</hi></title>. Ed. <editor n="Morgan, H. Wayne">H. Wayne Morgan</editor>. <pubPlace>Syracuse, NY</pubPlace>: <publisher>Syracuse University Press</publisher>, <date value="1970">1970</date>. <biblScope type="pages">223-237</biblScope>.</bibl>
+
+<bibl><author n="Kirkland, Joseph">Kirkland, Joseph</author>. <title level="a">"Realism Versus the Other Isms."</title> <title level="j"><hi rend="underline">The Dial</hi></title> <biblScope type="volume">14</biblScope> (<date value="1893-02-16">16 February 1893</date>): <biblScope type="pages">99-101</biblScope>.</bibl>
+
+<bibl><author n="Link, Eric Carl">Link, Eric Carl</author>. <title level="a">"The War of 1893; or, Realism and Idealism in the Late Nineteenth Century."</title> <title level="j"><hi rend="underline">ATQ</hi></title> <biblScope type="volume">11.4</biblScope> (<date value="1997-12">Dec. 1997</date>): <biblScope type="pages">309-322</biblScope>.</bibl>
+
+<bibl><title level="a">"A Mountain Woman."</title> Rev. <hi rend="underline">The Bookman</hi> 3 (<date value="1896-07">July 1896</date>): <biblScope type="pages">460</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia W.">Peattie, Elia W.</author> <title level="m"><hi rend="underline">A Mountain Woman</hi></title>. <pubPlace>Chicago</pubPlace>: <publisher>Way and Williams</publisher>, <date value="1896">1896</date>.</bibl>
+
+<bibl>&#8212;. <title level="a">"An American Realist."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title> <date value="1892-04-24">24 April 1892</date>: <biblScope type="pages">9</biblScope>.</bibl>
+
+<bibl>&#8212;. <title level="a">"The Faults of the Drama."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title> <date value="1892-03-13">13 March 1892</date>: <biblScope type="pages">9</biblScope>.</bibl>
+
+<bibl>&#8212;. <title level="a">"Lanier's Place in Letters."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title> <date value="1891-10-25">25 Oct. 1891</date>: <biblScope type="pages">7</biblScope>.</bibl>
+
+<bibl>&#8212;. <title level="a">"[Love Scenes in Well-Known Books]"</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title> <date value="1894-01-01">1 Jan. 1894</date>: <biblScope type="pages">7</biblScope>.</bibl>
+
+<bibl>&#8212;. <title level="a">"The Midsummer Magazines."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title> <date value="1892-08-14">14 Aug. 1892</date>: <biblScope type="pages">9</biblScope>.</bibl>
+
+<bibl>---. <title level="a">"Recent Fiction of the West."</title> <title level="j"><hi rend="underline">Chicago Tribune</hi></title> <date value="1904-11-12">12 November 1904</date>: <biblScope type="pages">7</biblScope>.</bibl>
+
+<bibl>---. <title level="a">"The  Star Wagon."</title> Ed. <editor n="Falcone, Joan">Joan Falcone</editor>. Unpublished manuscript. ca. <date value="1930-1931">1930-1931</date>.</bibl>
+
+<bibl>---. <title level="a">"Jack London on 'Socialism'."</title> <title level="j"><hi rend="underline">Chicago Tribune</hi></title> <date value="1905-05-06">6 May 1905</date>: <biblScope type="pages">9</biblScope>.</bibl>
+
+<bibl>---. <title level="a">"Where the Sun Goes Down."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title> <date value="1894-09-25">25 Sept. 1894</date>: <biblScope type="pages">16</biblScope>.</bibl>
+
+<bibl>---. <title level="a">"A Word with the Women [Offense]."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title> <date value="1895-01-31">31 Jan. 1895</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl>---. <title level="a">"A Word with the Women."</title> <title level="j"><hi rend="underline">Omaha World-Herald</hi></title> <date value="1896-06-26">26 June 1896</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl><author n="Pizer, Donald">Pizer, Donald</author>. <title level="a">"Dreiser's Critical Reputation."</title> <date value="2000">2000</date>. 8 June 2003 <<xref url="http://www.library.upenn.edu/collections/rbm/dreiser/tdcr.html" rend="new">http://www.library.upenn.edu/collections/rbm/dreiser/tdcr.html</xref>>.</bibl>
+
+<bibl><title level="a">"The Precipice."</title> Rev. <hi rend="underline">The Bookman</hi> <biblScope type="volume">39</biblScope> (<date value="1914-04">April 1914</date>): <biblScope type="pages">205</biblScope></bibl>
+
+<bibl><author n="Santayana, George">Santayana, George</author>. <date value="1967">1967</date>. <title level="m"><hi rend="underline">The Genteel Tradition: Nine Essays by George Santayana</hi></title>. Ed. <editor n="Wilson, Douglas L.">Douglas L. Wilson</editor>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1998">1998</date>.</bibl>
+
+<bibl><author n="Stovall, Floyd">Stovall, Floyd</author>. <title level="m"><hi rend="underline">American Idealism</hi></title>. <pubPlace>Port Washington, NY</pubPlace>: <publisher>Kennikat Press</publisher>, <date value="1965">1965</date> [<date value="1943">1943</date>].</bibl>
+
+<bibl><author n="Trachtenberg, Alan">Trachtenberg, Alan</author>. <title level="m"><hi rend="underline">Critics of Culture: Literature and Society in the Early Twentieth Century</hi></title>. <pubPlace>New York</pubPlace>: <publisher>John Wiley</publisher>, <date value="1976">1976</date>.</bibl>
+
+<bibl><author n="Tuttleton, James W.">Tuttleton, James W.</author> <title level="a">"William Dean Howells and the Practice of Criticism."</title> <title level="j"><hi rend="underline">The New Criterion</hi></title> 10.10. <date value="1992-06">June 1992</date>. 20 June 2003. <<xref url="http://www.newcriterion.com/archive/10/jun92/howells.htm" rend="new">http://www.newcriterion.com/archive/10/jun92/howells.htm</xref>>.</bibl>
+
+<bibl><author n="Van Doren, Carl">Van Doren, Carl</author>. <title level="m"><hi rend="underline">The American Novel</hi></title>. <pubPlace>New York</pubPlace>: <publisher>Macmillan</publisher>, <date value="1921">1921</date>.</bibl>
+
+<bibl><editor n="Wilson, Douglas L.">Wilson, Douglas L.</editor>, ed. <title level="a">"Introducton."</title> <title level="m"><hi rend="underline">The Genteel Tradition: Nine Essays by George Santayana</hi></title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1998">1998</date>. <biblScope type="pages">1-25</biblScope>.</bibl>
+
+<bibl><author n="Woolley, Lisa">Woolley, Lisa</author>. <title level="m"><hi rend="underline">American Voices of the Chicago Renaissance</hi></title>. <pubPlace>Dekalb</pubPlace>: <publisher>Northern Illinois University Press</publisher>, <date value="2000">2000</date>.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Bibliography (14)</head>
+
+<bibl><editor n="Cowley, Malcolm">Cowley, Malcolm</editor>, ed. <title level="a">"Foreword: The Revolt Against Gentility."</title> <title level="m"><hi rend="underline">After the Genteel Tradition: American Writers since 1910</hi></title>. <pubPlace>Gloucester, Mass</pubPlace>: <publisher>Peter Smith</publisher>, <date value="1959">1959</date>. <biblScope type="pages">9-25</biblScope>.</bibl>
+
+<bibl><author n="Dawidoff, Robert">Dawidoff, Robert</author>. <title level="m"><hi rend="underline">The Genteel Tradition and the Sacred Rage: High Culture vs. Democracy in Adams, James, and Santayana</hi></title>. <pubPlace>Chapel Hill</pubPlace>: <publisher>University of North Carolina Press</publisher>, <date value="1992">1992</date>.</bibl>
+
+<bibl><author n="Falk, Robert">Falk, Robert</author>. <title level="a">"The Writers' Search for Reality."</title> <title level="m"><hi rend="underline">The Gilded Age: Revised and Enlarged Edition</hi></title>. Ed. <editor n="Morgan, H. Wayne">H. Wayne Morgan</editor>. <pubPlace>Syracuse, NY</pubPlace>: <publisher>Syracuse University Press</publisher>, <date value="1970">1970</date>. <biblScope type="pages">223-237</biblScope>.</bibl>
+
+<bibl><author n="Jay, Paul">Jay, Paul</author>. <title level="m"><hi rend="underline">Contingency Blues: The Search for Foundations in American Criticism</hi></title>. <pubPlace>Madison</pubPlace>: <publisher>University of Wisconsin Press</publisher>, <date value="1997">1997</date>.</bibl>
+
+<bibl><author n="Milne, Gordon">Milne, Gordon</author>. <title level="m"><hi rend="underline">George William Curtis and the Genteel Tradition</hi></title>. <pubPlace>Bloomington</pubPlace>: <publisher>Indiana University Press</publisher>, <date value="1956">1956</date>.</bibl>
+
+<bibl><author n="Pizer, Donald">Pizer, Donald</author>. <title level="a">"Dreiser's Critical Reputation."</title> <date value="2000">2000</date>. 8 June 2003 <<xref url="http://www.library.upenn.edu/collections /rbm/dreiser/tdcr.html" rend="new">http://www.library.upenn.edu/collections /rbm/dreiser/tdcr.html</xref>>.</bibl>
+
+<bibl><author n="Saatkamp, Herman">Saatkamp, Herman</author>. <title level="a">"George Santayana."</title> <title level="m"><hi rend="underline">The Stanford Encyclopedia of Philosophy</hi></title>. Spring 2002 Edition. <editor n="Zalta, Edward N.">Edward N. Zalta</editor>, ed. 19 June 2003 <<xref url="http://plato.Stanford.edu/archives/spr2003/entries/santayana" rend="new">http://plato.Stanford.edu/archives/spr2003/entries/santayana</xref>>.</bibl>
+
+<bibl><author n="Stovall, Floyd">Stovall, Floyd</author>. <title level="m"><hi rend="underline">American Idealism</hi></title>. <pubPlace>Port Washington, NY</pubPlace>: <publisher>Kennikat Press</publisher>, <date value="1965">1965</date> [<date value="1943">1943</date>].</bibl>
+
+<bibl><author n="Trachtenberg, Alan">Trachtenberg, Alan</author>. <title level="m"><hi rend="underline">Critics of Culture: Literatured and Society in the Early Twentieth Century</hi></title>. <pubPlace>New York</pubPlace>: <publisher>John Wiley</publisher>, <date value="1976">1976</date>.</bibl>
+
+<bibl><author n="Tuttleton, James W.">Tuttleton, James W.</author> <title level="a">"William Dean Howells and the Practice of Criticism."</title> <title level="j"><hi rend="underline">The New Criterion</hi></title> 10.10. <date value="1992-06">June 1992</date>. 20 June 2003. <<xref url="http://www.newcriterion.com/archive/10/jun92/howells.htm" rend="new">http://www.newcriterion.com/archive/10/jun92/howells.htm</xref>>.</bibl>
+
+<bibl><author n="Van Doren, Carl">Van Doren, Carl</author>. <title level="m"><hi rend="underline">The American Novel</hi></title>. <pubPlace>New York</pubPlace>: <publisher>Macmillan</publisher>, <date value="1921">1921</date>.</bibl>
+
+<bibl><editor n="Wilson, Douglas L.">Wilson, Douglas L.</editor>, ed. <title level="a">"Introduction."</title> <title level="m"><hi rend="underline">The Genteel Tradition: Nine Essays by George Santayana</hi></title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1998">1998</date>. <biblScope type="pages">1-25</biblScope>.</bibl>
+
+<bibl><author n="Wasserstrom, William">Wasserstrom, William</author>. <title level="m"><hi rend="underline">Heiress of All the Ages: Sex and Sentiment in the Genteel Tradition</hi></title>. <pubPlace>Minneapolis</pubPlace>: <publisher>University of Minnesota Press</publisher>, <date value="1959">1959</date>.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> For a complete biography of Elia W. Peattie as well as her definitive bibliography, see <hi rend="underline">Impertinences: Selected Writings of Elia Peattie, a Journalist in the Gilded Age</hi> edited by Susanne George Bloomfield (Lincoln: University of Nebraska Press, 2005).</p>
+
+<p><note id="n02" n="2">2</note> Many used the terms of Idealism and Romanticism synonymously, states Link. However, others argued that Idealism was a philosophical position whereas Romanticism was Idealism applied to a literary work. Many defined it as an optimistic viewpoint of the world in contrast to the sordid, pessimistic realism of writers such a Zola.</p>
+
+<p><note id="n03" n="3">3</note> Articles in the <hi rend="underline">Forum</hi>, the <hi rend="underline">Arena</hi>, the <hi rend="underline">North American Review</hi>, the <hi rend="underline">Atlantic Monthly</hi>, and, especially, the <hi rend="underline">Dial</hi> debated the relationship between Idealism and Realism, explains Eric Carl Link in "The War of 1893; Or, Realism and Idealism in the Late Nineteenth Century." Some nineteenth century critics believed that Romanticism belonged to the "infancy" of the American literary tradition whereas Realism was a more evolved form, and through observation and experience revealed Truth more fully (Kirkland). Others argued that truth encompassed more than the objective representation of details and facts to which the Realists believed they adhered (Edmonds). Still others maintained that art must incorporate both binaries, the exterior and the interior, in order to represent Truth (Payne). Hamlin Garland solved this issue for himself in <hi rend="underline">Crumbling Idols</hi> (1894) by labeling his writing "Veritism," a theory based in part on Emerson's <hi rend="underline">American Scholar</hi>, William Dean Howells's <hi rend="underline">Criticism and Fiction</hi>, and Impressionist painting. Other writers, however, merely combined the terms, calling their writing "Idealistic Realism."</p>
+
+<p><note id="n04" n="4">4</note> Peattie "Lanier" 7.</p>
+
+<p><note id="n05" n="5">5</note> "Love Scenes" 7.</p>
+
+<p><note id="n06" n="6">6</note> "An American Realist" 9.</p>
+
+<p><note id="n07" n="7">7</note> George Santayana, a poet, philosopher, and literary and cultural critic, was the most respected of these cultural rebels. In a 1911 lecture entitled "The Genteel Tradition in American Philosophy," where he introduced the term "Genteel Tradition," he complained that the Genteel Tradition disregarded all that was unpleasant in life and discouraged originality, truth, and vigor in art. Genteel writers were guided by literary authorities such as William Dean Howells, editor of <hi rend="underline">Atlantic Monthly</hi>, Richard Watson Gilder, editor of <hi rend="underline">Century Magazine</hi>, George William Curtis of <hi rend="underline">Harper's Weekly</hi>, and Josiah Gilbert Holland of <hi rend="underline">Scribner's</hi>. However, the best of the writers in the Genteel Tradition shared a humanitarian concern for public welfare and attempted to do their part in social and cultural reform. A crucial aspect of their idealism was a belief in the innate morality of humankind and a firm trust in the individual. They also appreciated the beauty of nature although they believed that its role was not transcendental but merely physical and emotional.</p>
+
+<p><note id="n08" n="8">8</note> "Recent Fiction of the West." <hi rend="underline">Chicago Tribune</hi> 12 Nov. 1904: 7.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

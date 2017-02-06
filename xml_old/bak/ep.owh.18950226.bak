@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18950226 SYSTEM "ep.owh.18950226.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18950226">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Word with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">A Word with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1895-02-26">26 February 1895</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription, Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18950226">
+<figDesc></figDesc>
+</figure>
+
+<div1>
+
+<pb n="p8"/>
+
+<head type="main">A WORD<lb/>
+WITH THE WOMEN</head>
+
+<milestone unit="smallbar"/>
+
+<byline rend="center">(By Elia W. Peattie.)</byline>
+
+	<p>The valentine edition of the Atlanta Journal, edited and managed by the women of the Cotton States and International exposition, was one of the finest ever issued from the press of that paper. The ladies made a brilliant success, financially, as well as otherwise, and their treasury is about $3,000 richer for the day's work.</p>
+
+<milestone unit="smallbar"/>
+
+<div2>
+<lg type="poem">
+
+<l>If I might only love my God and die!</l>
+	<l rend="indented1"><seg>But now he bids me love him and</seg>
+		<seg>live on,</seg></l>
+	<l rend="indented1"><seg>Now when the bloom of all my life is</seg>
+		<seg>gone,</seg></l>
+<l>The pleasant half of life has quite gone by.</l>
+<l><seg>My tree of hope is lopped that spread</seg>
+		<seg>so high,</seg></l>
+	<l rend="indented1"><seg>And I forget how summer glowed and</seg>
+		<seg>shone,</seg></l>
+	<l rend="indented1"><seg>While autumn grips me with its fingers</seg>
+		<seg>wan,</seg></l>
+<l>And frets me with its fitful windy sigh.</l>
+<l><seg>When autumn passes then must winter</seg>
+		<seg>numb,</seg></l>
+	<l rend="indented1">And winter may not pass a weary while,</l>
+	<l rend="indented1"><seg>But when it passes spring shall flower</seg>
+		<seg>again:</seg></l>
+	<l rend="indented1"><seg>And in that spring who weepeth now</seg>
+		<seg>shall smile</seg></l>
+	<l rend="indented1"><seg>Yea, they shall wax who now are on</seg>
+		<seg>the wane</seg></l>
+<l><seg>Yea, they shall sing for love when Christ</seg>
+	<seg>shall come.</seg></l>
+
+</lg>
+</div2>
+
+<div2>
+	<p>These are the words of Christina Rossetti, who died in London the 29th of last December, and who was, as everyone knows, the sister of Dante Gabriel Rossetti. Through all of her life she has been in deep and unaffected sympathy with the esthetic movement. That this movement degenerated into something trivial, and even ridiculous, in the hands of the Philistines who employed it as a fad, is no shame to what was sincere and uplifting in the movement itself. The English and the Americans will frankly admit that the most manifest lack in the <sic corr="Anglo">Aglo</sic>-Saxon and the English-American nature is an inherent love for the beautiful. Considering the intelligence of these races, they are singularly inartistic, and there is every reason why all of either of these races who have stood for beauty should be reverenced. Dante Gabriel Rosetti, Christina Rosetti, Holman Hunt, John Millais and others were associated together in 1847-8 in the "Pre-Raphaelite Brotherhood," which has for its aspiration a return to the truth and simplicity of the painters who preceded Raphael. This desire for artistic sincerity influenced&#8211;dominated&#8211;the life of this woman poet, who, after Mrs. Browning, was probably the foremost woman poet of England. It lent to her writings a fervor which was religious in its nature. All the devotion of the early Italian art was transmitted by her to her modern English writings. And not only did she acquire the solemn dignity of the art of the pre-Raphael period, but she took to herself the quaint imagery, and peculiar coloring, so to speak, which was also a part of that period. Living in the beautiful and hospitable Rossetti mansion, born, so to speak, to the acquaintance of great men of letters, art and music, one of a family which seemed unable to escape genius, she led a rich and full life. And it is worthy of comment that though surrounded with all that was most exquisite and refined in the material world, she never used material save as a means to an end. It was her slave and not her master. She was intensely and poetically spiritual. Color, form, perfume, music, poetry, she was surrounded by, and knew the employment of as only an artist could. But these were wonderful to her only as she used them, or found them used, to express that which was of the spirit. The world was wonderful enough to make a house for the soul. But it did not tempt her to submit the soul to its marvels. She could live amidst beauty, but not become the slave of it.</p>
+
+	<p>It is undeniable that in the most luxurious work of the Rossettis, whether in the way of painting, music, poetry, or decoration, the whole was pervaded by an ethereal refinement, which, even while it employed material with the lavishness of a prodigal, never subordinated the mind or the spirit to this riot of palpable things, no matter how gorgeous, or how alluring.</p>
+
+</div1>
+</body>
+</text>
+</TEI>

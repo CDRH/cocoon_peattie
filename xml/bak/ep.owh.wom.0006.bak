@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.wom.0006.01 SYSTEM "ep.owh.wom.0006.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.wom.0006.02 SYSTEM "ep.owh.wom.0006.02.jpg" NDATA jpeg>
+<!ENTITY ep.owh.wom.0006.03 SYSTEM "ep.owh.wom.0006.03.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.wom.0006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Workplace of Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-08</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<div2>
+<head type="main">Workplace of Women</head>
+
+<figure entity="ep.owh.wom.0006.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>Although she lived in the frontier metropolis of Omaha and worked a white-collar job, Peattie was deeply interested in the lives of farming women. She visited and held in high esteem the women who lived in rural areas and labored long days to keep farms running while simultaneously looking after children and homes. In a column titled, "What Women are Doing," Peattie sagely chided her fellow city-dwellers:</p>
+</div2>
+
+<div2>
+	<p>It is quite the fashion to talk about the exhausting effects of society, but moralists may rest assured that the most exciting round of balls and parties cannot use one up as will the very virtuous occupations of looking after the milk of five or six cows, cooking for four or five farmhands, doing one's washing, sewing, baking, scrubbing, pork salting and chicken feeding.<ref target="n01" n="1">1</ref></p>
+</div2>
+
+<div2>
+	<p>Nebraska's economy in the 1890s was anchored by agricultural production. Ideally, the chores on family farms were divided down gender lines, but in practice women often labored long days in the fields with the men. Occasionally, men would move beyond their traditional duties of planting, plowing, and tending to livestock to participate in more "feminine" responsibilities, such as gardening, running the dairy, cleaning the house, and tending children and the sick. More often, however, women participated in men's work; they did, in fact, often plow, plant, and harvest in addition to fulfilling their other duties.<ref target="n02" n="2">2</ref></p>
+
+	<p>In response to the "general impression" that Peattie had observed among city dwellers, that "life on the farm is one continuous flow of placidity," she wrote in 1890, "There is a terrible pressure in farm life. The duties are imperative. They cannot be put off. Their success often depends on rapidity of action, and sustenance depends upon success. Therefore the nerve pressure is high, and men and women do not live longer. Indeed, many of them appear to be much older than they really are."<ref target="n03" n="3">3</ref></p>
+
+<figure entity="ep.owh.wom.0006.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>During the year that Peattie penned those words, 1890, great pressure had indeed been brought to bear on the American farmer. That same year the country's population passed 62 million, up from 50 million just ten years earlier, reflecting a growth rate of more than twenty-five percent a decade. This trend would continue well into the twentieth century.<ref target="n04" n="4">4</ref> Fortunately, in 1862 when the <hi rend="bold">Homestead Act</hi> had been passed, a commissioner of agriculture had also been appointed, indicating that the federal government would thereafter be taking a "direct interest" in the country's breadbasket. Farming would no longer simply be left to "happen," but would, it was envisioned, be helped along by the establishment of policy. Over the next few decades, over 500 million acres of land&#8211;an expanse larger than the whole of western Europe&#8211;would be brought under cultivation.<ref target="n05" n="5">5</ref></p>
+
+	<p>But this agricultural acreage, so crucial to the burgeoning nation's wellbeing, was mostly being developed in the West. Over 15 million new acres of farmland was worked each year, the lion's share of it west of the Mississippi.<ref target="n06" n="6">6</ref> Pressure on new landowners to make productive their acres was intense. A few innovations, such as the Marsh Harvester, essentially a reaper, in 1858, and John Appleby's "wire binder" of 1878 did allow harvests to be completed eight times faster than they had been in the past. But rainfall decreased steadily during the 1880s, and in 1890 less than seventeen inches of rain fell upon Nebraska, the lowest rainfall since 1864.<ref target="n07" n="7">7</ref> In the words of one historian, "grim events lay ahead."<ref target="n08" n="8">8</ref> Three years later, in 1893, farming in Nebraska would all but collapse.</p>
+
+<figure entity="ep.owh.wom.0006.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>Peattie exhorted farmwomen to carve moments out of their busy schedules for their own mental and physical recuperation. She also advocated that they acquire time-saving inventions that would cut hours off their long days of labor. "Gently insist that you have as much right to labor-saving machinery as has your husband. He will argue that labor saving machinery is with him a necessity, which with you it is a luxury. He is mistaken. Farmers once went without machinery, and therefore it is not a necessity."<ref target="n09" n="9">9</ref></p>
+
+	<p>In May 1896, when Nebraska's plains were softly warm and full of the loveliness of unfurling blossoms and newly-sprung grasses, Peattie wrote an editorial for the <title level="j">Omaha World-Herald</title> encouraging women to put their work aside for a few hours and enjoy the splendor of nature on the plains. "Please do not clean the top pantry shelf this week," she wrote. "Women are too much domesticated . . . but now the winds of heaven meet to mingle balms, the trees bear translucent beauty in the foliage, and as fresh as the newly washed face of a healthful child is the face of nature."<ref target="n10" n="10">10</ref></p>
+</div2>
+</div1>
+
+
+<div1 type="file references"><head type="sub">Read Peattie's Writings</head>
+<list>
+<item>
+<xref n="ep.owh.18901022">What Women Are Doing</xref>
+</item>
+</list>
+</div1>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Armitage, Susan">Armitage, Susan</author>, and <author n="Jameson, Elizabeth">Jameson, Elizabeth</author>. <title level="m">The Women's West</title>. <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="1987">1987</date>: <biblScope type="pages">150</biblScope>.</bibl>
+
+<bibl><author n="Johnson, Paul">Johnson, Paul</author>. <title level="m">A History of the American People</title>. <pubPlace>New York</pubPlace>: <publisher>Harper Collins</publisher>, <date value="1998">1998</date>.</bibl>
+
+<bibl><author n="Larsen, Lawrence H.">Larsen, Lawrence H.</author>, and <author n="Cottrell, Barbara J.">Cottrell, Barbara J.</author> <title level="m">The Gate City: A History of Omaha</title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1997">1997</date>.</bibl>
+
+<bibl>Peattie, Elia. <title level="a">"A Word With the Women."</title> <title level="j">Omaha World-Herald</title>. <date value="1896-05-07">5/7/96</date>: <biblScope type="pages">8</biblScope>.</bibl>
+
+<bibl><author n="Peattie, Elia">&#8212;&#8212;&#8212;</author>, <title level="a">"What Women are Doing."</title> <title level="j">Omaha World-Herald</title>. <date value="1890-10-22">10/22/1890</date>: <biblScope type="pages">13</biblScope>.</bibl>
+</div1>
+
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Family of Ten." Courtesy Carrie Crockett.</bibl>
+
+<bibl>"Farm Woman and Her Horses." Courtesy Carrie Crockett.</bibl>
+
+<bibl>"Farm Wife and Child." Courtesy Carrie Crockett.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Peattie, "What Women Are Doing," 13.</p>
+
+<p><note id="n02" n="2">2</note> Armitage, 150.</p>
+
+<p><note id="n03" n="3">3</note> Peattie, "What Women Are Doing," 13.</p>
+
+<p><note id="n04" n="4">4</note> Johnson, 513.</p>
+
+<p><note id="n05" n="5">5</note> Johnson, 514-515.</p>
+
+<p><note id="n06" n="6">6</note> Johnson, 515.</p>
+
+<p><note id="n07" n="7">7</note> Larsen, 80.</p>
+
+<p><note id="n08" n="8">8</note> Larsen, 82.</p>
+
+<p><note id="n09" n="9">9</note> Peattie, "What Women Are Doing," 13.</p>
+
+<p><note id="n10" n="10">10</note> Peattie, "A Word," 8.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,62 @@
+/* CSS Document */
+/* Elia Peattie an Uncommon Woman */
+/* Styling for the Index Page */
+/* For font styling see font.css */
+
+body {text-align:center}
+
+/* Top. Includeds quotebox and Works links */
+
+div.top {margin:auto; width:740px}
+div.top h1 {display:none}
+div.top p {background:url(../images/jpgs/title.jpg) no-repeat; height:279px}
+
+div.middlecontainer {margin-left:auto; margin-right:auto; text-align:left; width:810px}
+div.middle {background:url(../images/jpgs/brown.jpg)}
+div.quotebox {color:#211405; background:#fff2c5; width:260px; float:left; margin: 30px 0px 45px 0px }
+div.quotebox p {padding:20px 30px 20px 40px; font-size: 1em;}
+div.quotebox img {margin: 0 10px 0 10px}
+div.buttons-left {padding:10px 0px 15px 0px; width:241px; float: right; margin-left:30px}
+div.buttons-right {padding:10px 0px 15px 0px; width:241px; float: right; margin-left:30px}
+div.buttons a {display: block; padding: 7px 0px 2px 10px; margin:0 5px 10px 0 }
+/*div.buttons {padding:10px 0px 15px 0px; width:241px; float: right; margin-left:30px}*/
+div.buttons a {color:#4f4e4d; text-decoration:none}
+div.buttons a:hover {color:#000000}
+
+div.shadow {background:url(../images/jpgs/dropshadow.jpg) repeat-x; height:15px; width:auto; clear:both}
+
+/* The rest of the document */
+
+div.main {margin-left:auto; margin-right:auto; width:762px; text-align:left}
+
+/* Left Sidebar and links */
+
+div.left {float:left; width:202px; margin-top:-1px; padding-right:30px}
+
+div.list {background:url(../images/jpgs2/list2.jpg) no-repeat; padding:20px 0px 100px 30px; margin: -14px -10px 0 0; height:364px; }
+
+.buttons li {text-align:right; line-height: 1em; padding:5px 0px 5px 0px}
+.buttons li.omaha {background:url(../images/jpgs/omaha.jpg) no-repeat}
+.buttons li.short {background:url(../images/jpgs/short.jpg) no-repeat}
+.buttons li.ghost {background:url(../images/jpgs/ghost.jpg) no-repeat}
+.buttons li.novel {background:url(../images/jpgs/novel.jpg) no-repeat}
+.buttons li.child {background:url(../images/jpgs/childrens.jpg) no-repeat}
+.buttons li.pp {background:url(../images/jpgs/misc.jpg) no-repeat}
+
+
+/* The main content and introduction to the site */
+
+div.content {margin:0 0 50px 250px}
+div.content img {float:right; margin-left:15px}
+
+/* The footer. Includes links to About us and Contact us */
+
+div.footer {text-align:left}
+div.links {background:url(../images/jpgs/brown.jpg); padding:15px 0 0 20px; width:180px; height:89px}
+div.links ul {margin-top:25px}
+
+div.footerbox {width:732px; margin-left:auto; margin-right:auto}
+div.footerimg {background:url(../images/jpgs/footer.jpg) repeat-x}
+div.footerimg img {float:right; margin:-60px 20px 0 0}
+
+

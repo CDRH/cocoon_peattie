@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include/TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.pol.0001.01 SYSTEM "ep.owh.pol.0001.01.jpg" NDATA jpeg>
+<!ENTITY ep.owh.pol.0001.02 SYSTEM "ep.owh.pol.0001.02.jpg" NDATA jpeg>
+<!ENTITY ep.owh.pol.0001.03 SYSTEM "ep.owh.pol.0001.03.jpg" NDATA jpeg>
+<!ENTITY ep.owh.pol.0001.04 SYSTEM "ep.owh.pol.0001.04.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.pol.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The 1890s: Winds of Change</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2008</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-01</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">The 1890s: Winds of Change</head>
+
+<figure entity="ep.owh.pol.0001.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>The Progressive Era, which began in 1890 and lasted until about 1913, spawned fundamental social and political changes that transformed the character of post-Civil War America. Agriculture, industry, and transportation all rushed to meet the evolving needs of the nation although these three entities often found themselves at odds with one another. Many Horatio Alger-esque, "common" men&#8211;farmers and industrial laborers in particular&#8211;feared that no matter how hard they worked, big business would prevent them from significantly bettering their lots. Historian Howard Zinn summarizes the conflict thus: "Labor struggles could make things better, but the country's resources remained in the hands of powerful corporations whose motive was profit, whose power commanded the government of the United States."<ref target="n01" n="1">1</ref></p>
+
+	<p>In direct response to this imbalance, the Populist school of thought, also known as the People's Party, came into existence during the latter 1800s. This political phenomenon, remarkably, remains still today the largest democratic uprising in American history. The speed at which the movement built and the considerable political distance it traversed testifies to the intense desire of many Progressive Americans for the change they saw as essential to their very survival. Many factors contributed to the evolution of the Populist movement, including the rise of industrialization, the suspicion of alliances between corporations and government, Westward migration, and even adverse weather patterns. The match that sparked this combination of factors into social and political action, however, was the desperate poverty of the South after the Civil War.</p>
+
+	<p>Walt Whitman once wrote that the Civil War would change the "essence of history, philosophy, art, poetry, and even personal character 'for all future America'."<ref target="n02" n="2">2</ref> As if in agreement, decades after Whitman's death a historian concurred, "People understood that the war&#8211;the Civil War&#8211;had changed everything."<ref target="n03" n="3">3</ref> One of the most immediate changes in people's lives after the war was that the economics of daily survival had become considerably more complicated. This was especially true in the South, where ruin and poverty had assumed massive proportions. Southern economic suffering would drive many former Confederates to chalking the letters "G.T.T." on their front doors and leave overnight: "gone to Texas." The exodus out of the war-torn Southern states swelled every year until during the 1870s, nearly 100,000 departed for new lands and opportunities in the southwestern state.<ref target="n04" n="4">4</ref></p>
+
+	<p>In September 1877, after years of decreasing rainfall and economic humiliation under the unavoidable "crop lien system," a small group of farmers formed a society called the "Knights of Reliance." The members' objective was to educate themselves against the time when "all the balance of labor's products . . . concentrated into the hands of a few, there to constitute a power that would enslave posterity."<ref target="n05" n="5">5</ref> This group would later rename itself "The Farmer's Alliance," the precursor to the People's Party.</p>
+
+<figure entity="ep.owh.pol.0001.02">
+<figDesc></figDesc>
+</figure>	
+
+	<p>The Alliance spent nine years trying to improve crop production techniques and then, having had no success, shifted its focus to political activation. Ultimately, Populists wanted to enact legislative change and "claim respect not given them by the nation's powerful industrial and political leaders."<ref target="n06" n="6">6</ref> They advocated the nationalization of railroads and communication systems, reform of the monetary system, change in electoral practices, and an end of subsidies to private corporations. They also chose a presidential nominee, William Jennings Bryan, who famously delivered his acclaimed "Cross of Gold" speech in favor of Populist goals at the 1896 Democratic National Convention in Chicago. That year John Graves echoed Bryan's beliefs in the <title level="j">Atlanta Constitution</title>: "I say it fearlessly, and it can not be denied, the reform for which the masses have been clamoring for years . . . has never been written, and might never have been written . . . until the Populist Party, 1,800,000 strong, thundered in the ears of Democratic leaders the announcement that a mighty multitude demanded these reforms."<ref target="n07" n="7">7</ref> Peattie once wrote of Bryan, having been introduced to him at a dinner party, "He looks like a Roman emperor. He has the right kind of head for carving on a coin."<ref target="n08" n="8">8</ref></p>
+
+<figure entity="ep.owh.pol.0001.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>Bryan lost the election to William McKinley, but the goals of the People's Party were not erased from America's political consciousness. Some Populist beliefs would survive to become legislation during later administrations. In 1912 at the goading of Progressive Democrat Franklin Roosevelt, the direct election of U.S. senators became law by constitutional amendment. Theodore Roosevelt also fulfilled Populist's goals when he expanded the federal regulation of private sector businesses, established the WPA's employment programs, and increased aid to troubled farmers.<ref target="n09" n="9">9</ref></p>
+
+	<p>Peattie actively supported the Populist movement and wrote often in its defense. She helped a friend, a social activist by the name of T.H. Tibbles, write a short novel about a Populist utopia, titled <title level="j">The American Peasant: A Timely Allegory</title>. She also campaigned for William Jennings Bryan. "The West was hard-pressed at that time," Peattie once wrote. "Railroads and Eastern investors were milking the hard-working and inexperienced West and causing hardships."<ref target="n10" n="10">10</ref></p>
+
+	<p>Peattie saw firsthand the dire situation facing the agriculturalists. Her city, which had just a few years before been called "The Wonder City of the West" and boasted an economy with aggregate sales of $50.2 million,<ref target="n11" n="11">11</ref> was losing its population fast. Nearly thirty thousand left the Omaha area in the early 1890s, half the amount that had immigrated thereto during the decade before.</p>
+
+<figure entity="ep.owh.pol.0001.04">
+<figDesc></figDesc>
+</figure>
+
+	<p>At the same time, women were struggling to level both the economic and social playing fields by pursuing political equality. "Woman suffrage" was a major concern of the era, as were the educational, occupational, and personal freedoms available to women. One lady, settled in the West, wrote in her journal that if women can care for their families, "train them morally and bear a share of their school education, then why cannot she grasp the governmental questions as well and bring to hear her experience and intuition?"<ref target="n12" n="12">12</ref></p>
+
+	<p>Suffrage, which received increased attention after black men were granted the vote in 1867, proved to be a difficult, lengthy battle. Universal suffrage was inherently inaccessible because women themselves had to persuade the male electorate to grant them the right to vote. In keeping with Victorian tradition, many men believed that women were not suited "by circumstance or temperament for the vote."<ref target="n13" n="13">13</ref> Writes an historian, "Western political philosophers insisted that a voter had to be independent, unswayed by appeals from employers, landlords, or an educated elite. Women by nature were believed to be dependent on men and subordinate to them. Many thought women could not be trusted to exercise the independence of thought necessary for choosing political leaders responsibly."<ref target="n14" n="14">14</ref> Women were also thought of as workers within the home; to grant them liberties might mean the "disruption of the family."<ref target="n15" n="15">15</ref></p>
+
+	<p>Universal suffrage was achieved in 1920, as ratified in the Nineteenth Amendment. However, historian Julie Roy Jeffrey points out, "political emancipation does not necessarily mean sexual or social emancipation."<ref target="n16" n="16">16</ref> Women still faced a long road in the struggle for equal opportunities and equal treatment.</p>
+
+	<p>As the decade unfolded, Peattie's column grew in popularity. She received fan mail from across the country in response to her keen editorial observations and wit. "My writings began to bring responses from many sources-men in penitentiaries, on lonely ranches, women in convents, distinguished people in the East, cultivated people over the state. I had a sense of eating life and no matter how much I had, I was still unsatisfied. To write about it all was the most intense satisfaction."<ref target="n17" n="17">17</ref></p>
+</div1>
+
+<div1>
+<head type="sub">The 1890s: Winds of Change</head>
+<list>
+<item><xref n="ep.owh.pol.0002">Laboring for the Cause of Women's Rights</xref></item>
+<item><xref n="ep.owh.pol.0003">William Jennings Bryan and The Cross of Gold</xref></item>
+<item><xref n="ep.owh.pol.0004">The Removal of Queen Liliuokalani</xref></item>
+</div1>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Armitage, Susan">Armitage, Susan</author>, and <author n="">Jameson, Elizabeth</author>. <title level="m">The Women's West</title>. <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="1987">1987</date>.</bibl>
+
+<bibl><title level="a">"Digital History: The Progressive Era."</title> <xref url="http://www.digitalhistory.uh.edu/modules/progressivism/index.cfm" rend="new">http://www.digitalhistory.uh.edu/modules/progressivism/index.cfm</xref>.</bibl>
+
+<bibl><title level="a">"History of Women's Sufferage."</title> <title level="m">Groilers Encylopaedia Americana</title>. <xref url="http://teacher.scholastic.com/activities/suffrage/history.htm" rend="new">http://teacher.scholastic.com/activities/suffrage/history.htm</xref>.</bibl>
+
+<bibl><author n="Goodwyn, Lawrence">Goodwyn, Lawrence</author>. <title level="m">The Populist Moment</title>. <pubPlace>Oxford</pubPlace>: <publisher>Oxford University Press</publisher>, <date value="1976">1976</date>.</bibl>
+
+<bibl><title level="a">"History of Women's Sufferage."</title> <publisher>Groilers Encylopaedia Americana</publisher>. <xref url="http://teacher.scholastic.com/activities/suffrage/history.htm" rend="new">http://teacher.scholastic.com/activities/suffrage/history.htm</xref></bibl>
+
+<bibl><author n="Larsen, Lawrence">Larsen, Lawrence</author>, and <author n="Cottrell, Barbara">Cottrell, Barbara</author>.  <title level="m">The Gate City: A History of Omaha</title>. <publisher>Lincoln</publisher>: <pubPlace>University of Nebraska Press</pubPlace>, <date value="1982">1982</date>.</bibl>
+
+<bibl><author n="Myres, Sandra L.">Myres, Sandra L.</author> <title level="m">Westering Women and the Frontier Experience: 1800-1915</title>. <pubPlace>Albuquerque</pubPlace>: <publisher>University of New Mexico Press</publisher>, <date value="1982">1982</date>.</bibl>
+
+<bibl><author n="Peattie, Elia">Peattie, Elia</author>. The Star Wagon. Edited and Anotated by <editor n="Falcone, Joan Stevenson">Joan Stevenson Falcone</editor>.</bibl>
+
+<bibl><author n="Zinn, Howard">Zinn, Howard</author>. <title level="m">A People's History of the United States</title>. <pubPlace>New York</pubPlace>: <publisher>Harperperennial</publisher>, <date value="2003">2003</date>.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl><title level="a">"The Quarrel of Labor and Capital."</title> Southern Labor Archives: <xref url="http://www.library.gsu.edu/spcoll/spcollimages/labor/19clabor/Labor%20Prints/79-40_11.jpg" rend="new">http://www.library.gsu.edu/spcoll/spcollimages/labor/19clabor/Labor%20Prints/79-40_11.jpg</xref>. Courtesy Special Collections and Archives, Georgia State University.</bibl>
+
+<bibl><title level="a">"Populist ticket."</title> <publisher>Nebraska Studies.org</publisher>: <title level="a">"Roots of Progressivism:"</title> <xref url="http://www.nebraskastudies.org/" rend="new">http://www.nebraskastudies.org/</xref> 
+(Permission pending.)</bibl>
+
+<bibl><title level="a">"Votes for women."</title> <xref url="http://www.nwhm.org/images/votesforwomen.jpg" rend="new">http://www.nwhm.org/images/votesforwomen.jpg</xref>. Public Domain.</bibl>
+
+<bibl><title level="a">"William Jennings Bryan in front of <hi rend="italic">The Commoner</hi> in Lincoln."</title>
+<xref url="http://www.nebraskastudies.org/" rend="new">http://www.nebraskastudies.org/</xref>. Source &#8212;Nebraska State Historical Society, RG17621. (Permission pending.)</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Zinn, 339.</p>
+
+<p><note id="n02" n="2">2</note> Goodwyn, 3.</p>
+
+<p><note id="n03" n="3">3</note> Goodwyn, 3.</p>
+
+<p><note id="n04" n="4">4</note> Goodwyn, 25.</p>
+
+<p><note id="n05" n="5">5</note> Goodwyn, 26.</p>
+
+<p><note id="n06" n="6">6</note> Zinn, 286.</p>
+
+<p><note id="n07" n="7">7</note> "1896: The Populist Party."</p>
+
+<p><note id="n08" n="8">8</note> Peattie, <title level="m">Star Wagon</title>, 125.</p>
+
+<p><note id="n09" n="9">9</note> Falcone.</p>
+
+<p><note id="n10" n="10">10</note> Bloomfield, 11.</p>
+
+<p><note id="n11" n="11">11</note> Larsen, 80.</p>
+
+<p><note id="n12" n="12">12</note> Myres, 235.</p>
+
+<p><note id="n13" n="13">13</note> "History of Woman's Suffrage."</p>
+
+<p><note id="n14" n="14">14</note> "History of Woman's Suffrage."</p>
+
+<p><note id="n15" n="15">15</note> "History of Woman's Suffrage."</p>
+
+<p><note id="n16" n="16">16</note> Armitage, 147.</p>
+
+<p><note id="n17" n="17">17</note> Peattie, <title level="m">Star Wagon</title>, 102.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

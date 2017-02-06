@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.nov.foy.fba.01 SYSTEM "ep.nov.foy.fba.01.jpg" NDATA jpeg>
+<!ENTITY ep.nov.foy.fba.02 SYSTEM "ep.nov.foy.fba.02.jpg" NDATA jpeg>
+<!ENTITY ep.nov.foy.fba.03 SYSTEM "ep.nov.foy.fba.03.jpg" NDATA jpeg>
+<!ENTITY ep.nov.foy.fba.04 SYSTEM "ep.nov.foy.fba.04.jpg" NDATA jpeg>
+<!ENTITY ep.nov.foy.fba.05 SYSTEM "ep.nov.foy.fba.05.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.nov.foy.fba">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Biblical Allusions in Elia Peattie's "The Fountain of Youth"</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.nov.foy.fba</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-10-22</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Biblical Allusions in Elia Peattie's "The Fountain of Youth"</head>
+
+<figure entity="ep.nov.foy.fba.01">
+<figDesc></figDesc>
+</figure>
+
+	<p> Between 1888 and 1900, the most popular literary genre in the United States was utopian fiction. Beginning with Edward Bellamy's <title level="m">Looking Backward</title> published in 1888, over 154 American authors penned more than 200 utopian works.<ref target="n01" n="1">1</ref> A reaction to the rapidly changing world of the late nineteenth century, utopian fiction reflected the issues facing society as the Progressive Era displaced the Victorian Age. Richard Gerber explains, "a utopia needs must be a novel of ideas. Some of its individual characters need not be representatives of certain ideas, they may represent average human beings; but even if that is the case, they are always shown in conflict with an environment, which is nothing else than an embodiment of the author's political and social hypotheses."<ref target="n02" n="2">2</ref> By their very nature, these works were didactic and idealistic: their goal was to change the world, or at least the way people thought about it. Moreover, "The content of utopias reflects very specific preoccupations."<ref target="n03" n="3">3</ref></p>
+
+	<p>One of America's preoccupations during this period was the New Woman, and it defined Peattie's life as well. Although she detested the term, she campaigned throughout her life for women to stand equally with men in education and in the workplace, and she regularly featured outstanding women and their successes in her daily column, "A Word with the Women," in the <title level="j">Omaha World-Herald</title>. Interestingly, although she had no qualms about openly supporting controversial causes, she rarely voiced her opinion on the suffragist movement or the "New Woman." However, in her novel, "The Fountain of Youth: A Romance of the Supernatural," published serially in the <title level="j">World-Herald</title> between October 1894 and January 1895, she makes what I believe to be her strongest feminist statements in print. Using allusions to Biblical history, Peattie exposes to the American public the wrongs being done to women through the character of Lady Opaka. This novel is the embodiment of her fundamental principles of women's role in society.</p>
+
+	<p>The basic plot of "The Fountain of Youth" tells the story of Hilbert H. Shadwin, a bookish, young ethnographer whom the government sends to record the culture of the Seminoles of Florida before they "vanish." While in the Everglades, he and his companions meet Hisakitma de la Vega, an escapee from Bimini, home of the Fountain of Youth. They persuade the man to return with them to the fabled land where they, too, drink of the eternal-life-giving water and become part of the island society. However, they soon learn that no world is perfect as they watch their friends being put to death for what the government delineates as treasonous acts. Only Shadwin lives to return to the Real World, cursed with immortality.</p>
+
+<figure entity="ep.nov.foy.fba.02">
+<figDesc></figDesc>
+</figure>
+
+	<p>The Garden of Eden, Christianity's earliest version of a lost utopia, figures predominantly on Peattie's paradise island of Bimini. Typical of most utopian works, garden images flourish in contrast to the dangerous wilderness outside its borders. De Vega and his new friends endure a strenuous journey through the "slimy hell" of the Everglades, with its sea of wire grass, tangles of wild cucumber vines, decaying vegetation, marshes shrouded in mists, poisonous snakes, black bears, and wild panthers. They arrive at their destination, looking like "painful ghosts who could find no grave," a foreshadowing of Shadwin's destiny. Then the mists lift and, "suddenly, like a great curtain, uprolled the mist, until the folds of it, going skyward, became gold, and beneath the draping of beauty lay a land where the flowering vines clothed the trees, and from which the breeze that had scattered the mist blew us odors of spice, and champak, and lotus bloom."</p>
+
+	<p>In the village, palm, pepper, and banana trees line the avenues where pink birds, "large as peacocks," fly slowly over the abundant gardens. A huge red mountain, the product of a volcanic upheaval, rises above the fertile plains, and on its sides grow luscious grapes as large as plums. Deep within it awaits "gold in astonishing quantities," and it is the source of the spring that feeds the Fountain of Youth. Within this Edenic land lies another garden belonging to Lady Opaka where her students come to listen to her speak. Beyond the doors of her modest lodge sheltered by citron trees, nestles a courtyard with a square pool and a gallery with "long, low seats, draped with skins and other fabrics." The stucco walls are "dripping with flowering vines." A formal garden is "intensely 'inward,' creating a space in which the 'outside' [is] banished, particularly through walls and high hedges."<ref target="n04" n="4">4</ref> Like the Romantic garden, it offers civility, repose, and space for reflection.</p>
+
+	<p>Both Bimini and Opaka's courtyard, like the Garden of Eden, provide not only for all of the earthly needs of its inhabitants but also set clear boundaries from the outside wilderness, the antithesis of the garden.  These lines of demarcation serve as spiritual, political, physical, and moral protection for the inhabitants. Even in the Garden of Eden, its boundaries were protected by a Guardian Angel to prevent sin from entering. Unfortunately, in seeking control over the wilderness to insure protection, "harmonious living often means that 'individuals' (if such are deemed to exist) are prevented from behaving in ways that they might think appropriate, in the interests of maintaining peace." The community must "follow pre-determined patterns of behavior" and do not have "the right to change this highly prescriptive 'master' plan." Thus, every utopian garden also harbors a dystopia within in it, and "despite the boundedness of the garden, the wild is often placed in its very centre."<ref target="n05" n="5">5</ref></p>
+
+<figure entity="ep.nov.foy.fba.03">
+<figDesc></figDesc>
+</figure>
+
+	<p>As in the original Garden of Eden, conflict arises when individuals do not follow the prescribed master plan, as when Eve eats of the fruit of the forbidden Tree of Knowledge of Good and Evil. Her punishment is to lose eternal life. Peattie's Eve is Lady Opaka, a prophetess and teacher, who gives lectures to the youth of the city and whose greatest gift is being able to read "the hearts of the people." She also openly contradicts God's representative in the utopia, Padre Anton, who believes that "There is no need for bodily suffering here, for him who chooses to live as the Adelantado dictates. There is no use for sin . . . Nor for death. Nor yet for False teachings."  The Padre contends that since man has rediscovered immortality, he "has returned to the condition he was before the fall of Adam" and that the Biminites can live a sinless life. However, to do so, they must follow many arbitrary laws, such as the one prohibiting love.</p>
+
+	<p>Opaka, on the other hand, believes in love and having children born out of such a union, so they will "come into the world with affectionate hearts." She also argues that what the Padre considers sin, she "counts but nature." Continually preaching against such decrees, she says, "Make no laws . . . and then they cannot be broken. Educate the heart of man, and he will not do evil."  Her philosophy "is kind to the unfortunate. It finds for the sinful who are born with sin in their souls the only explanation." The Padre hates her because she teaches "the uses of sin and of . . . death."</p>
+
+	<p>Eve is often pictured as an evil temptress, luring men to eternal damnation and torment. Listening to Eve's siren call, Adam eats of the forbidden fruit, wishing to learn the knowledge of good and evil, and is expulsed from Paradise, consigned to endure physical and emotional suffering for the rest of his life. Peattie, too, describes Opaka as seductive, and every man who meets her and listens to her siren songs, falls in love with her. De Vega is the first of Peattie's Adams to suffer because of his love of Opaka, fleeing from the island with a broken heart; however, he does not hesitate to return and willingly dies for her. In addition, Padre Anton "looks at her with something like envy," and the Adelantado paces restlessly "as if some secret pain tore at his heart." It is later learned that they have each loved Opaka, only to be spurned. This rejection has formed the core of their hatred toward the prophetess.</p>
+
+	<p>Both the narrator and his friend Bryan also fall in love with Bimini's Eve, but only Shadwin's love is reciprocated, making his fall complete: "Between my soul and that of the woman with me there flashed a sudden comprehension. I turned and looked into her eyes. They thrilled me with magnetic rapture. . . . It was delicious." Opaka, who has already tasted the fruit of the tree of knowledge and has fallen, bows her head in "exquisite shame." Bryan confesses that he, too, loves Opaka, saying, "I suppose it is the fate of all men to love her," but he agonizes that now he must now suffer for eternity without hope of her love.</p>
+
+	<p>Shadwin's love for Opaka and his desire to learn from her is most like Adam, for he, too, is expulsed from the garden. When the governor sentences Opaka to death, Shadwin begins a civil war in an attempt to save her life, but he fails, and he, too, faces execution. He and Bryan decide to escape, lamenting, "It might have been a deathless paradise, if death had not been introduced by the barbarity of man." Shadwin makes it back to civilization, "full of splendid vigor" but with a heart as dead as "a stone in the bottom of the sea." He wanders the earth searching for "Death which shows her white, cold mercy to others," but not to him. He has fallen and been forced out of paradise, but unlike Adam, Shadwin has lost his Eve and is cursed with immortality&#8211;not mortality.</p>
+
+<figure entity="ep.nov.foy.fba.04">
+<figDesc></figDesc>
+</figure>
+
+	<p>Other religious references abound in the text. The most haunting is the image of a black crucifix. The priest carries a carved ebony cross with him to threaten Opaka's followers with the image of death.  An ebony crucifix also decorates De Vega's apartment, foreshadowing his persecution and execution. A student of Opaka, he explains to Shadwin that even though the people of Bimini are immortal and death is banished, sorrow and sin remained. As a result of refusing to denounce Opaka and her beliefs, De Vega is put to death. Later, after Shadwin and Opaka mourn his death and declare their forbidden love for one another, Shadwin returns home. The sky has clouded over, but "a specter shape hung on the southern cross . . .[a] phantom crucifixion in the sky." The blackness of the crucifix portends emotional and spiritual death for Shadwin, rather than salvation.</p>
+
+	<p>Sin also is allegorized in the text. One of the major Biblical themes of Peattie's novel is the necessity for sin and suffering in the world. De Vega accepts this, arguing that "There is torment . . . wherever men and women live and think. For the mind struggles ever upward.  It continually grows. And the struggle is a pain, and knowledge is grief." However, like Opaka, he embraces this concept. "We have sin because we have life. To take sin from life . . .  would be like taking the color from the flowers, or the bitter from food." Opaka philosophizes, "The uses of sin . . . are apparent only to the wise. It is sin which makes innocence. It is sin which makes heaven possible."  As De Vega leads his new friends to the Fountain of Youth, a young Seminole boy whom Shadwin has befriended, stows away on their boat. Since the men could not pronounce his Indian name, they refer to him by its last syllable, "Sin." When they finally discover him, Shadwin gasps, "Sin!" Bridges echoes, "Original Sin." He had laid in the boat, hidden from sight the whole voyage and would now accompany them into paradise. Ironically, it is Sin, the ever-present "dusky little villain," who also leads Shadwin back out of paradise.</p>
+<!-- 
+<figure entity="ep.nov.foy.fba.05">
+<figDesc></figDesc>
+</figure>
+-->
+	<p>Perhaps the central Biblical allusions to the Garden of Eden are the Fountain of Youth, which parallels the Tree of Life, and the mammoth palm-like plant that had a huge bud at its apex, which represents the Tree of Knowledge of Good and Evil. Peattie's Fountain of Youth gleamed exquisitely "with iridescent lights of green," and at its bottom opened another deeper pool, like "a great purple morning glory, with red flushing about its edges." Once the islanders are baptized in its waters, they become citizens whose every need is fulfilled, and who will live forever in perfect health. However, in another part of the island in a plain full of rotting stumps rises a gigantic, tree-like plant whose "long, tongue-like leaves reached out on the ground." Its serrated edges hold numerous, cup-like formations, and "its long leaves spread out on the ground like the arms of a devil fish." Those who desire knowledge of good and evil are forced to drink from this hideous plant and, like Adam and Eve, forfeit their immortality.</p>
+
+	<p>In the "Fountain of Youth," Peattie challenges society's contention that Eve is responsible for all of the world's problems. "The basic archetypal myth of the Western World is that of a woman who brings suffering, death, and pain into the world."  Peattie, I believe, presents Opaka as a savior-like figure who dies on the tree/plant to save the islanders from immortality, a fate worse than suffering or death. One of her songs echoes her beliefs on life and death:</p>
+
+<q>
+<lg>
+<l>A song needs an ending, however sweet&#8211;<lb/>
+	The silence that follows is half the song.</l>
+<l>In the still of the night the pent streams beat,</l>
+<l>And throb for the ocean they may not meet.<lb/>
+	The silence that follows is half the song.</l>
+</lg>
+</q>
+
+<p>Opaka sacrifices her life to end oppression and offers people knowledge of themselves: "I wish to speak today of the hope that is born in the heart of man that a reward will be given him in some vague future state for the sacrifices made in the flesh." Thus, Peattie portrays Opaka as a savior, not a siren. She symbolizes the importance of education, especially a woman's desire to acquire it as well as men. Women, too, can be prophets and poets, teachers and leaders. Peattie portrays Lady Opaka as representative of the male hierarchy's attempt to quash a woman's struggle to break free of the cage within which society has placed her and their efforts to silence her songs. When Opaka declines the governor's offer to become the traditional angel of his house; when she prefers education and independence to servitude; when she refuses to be silent, he cannot let her set a precedent lest all the women of the island follow her path and destroy the sacredness of the male-centered home. Worse yet, she finds a man who not only respects her intelligence and wishes to be her soul mate, but with whom she experiences a strong sexual arousal. Thus, Opaka's conflict typifies the era's battle between the perception of the submissive Victorian helpmeet and that of the awakened New Woman.</p>
+
+	<p>Literature is littered with the bodies of women who opposed male dominated society, and Opaka is no exception. Although one cannot know Peattie's intentions, the imagery of the death scene has strong sexual connotations for twenty-first century readers, especially the execution process. She describes De Vega's death in lurid detail. First, he crawls into the plant's "tongue-like leaves," and once in its center, ascends "from whorl to whorl of the stiff leaves," and then stoops over to drink "something from the great bud which grew in its center."  At that point, a literary and literal climax occurs:</p>
+
+<q>
+<text>
+<body>
+<p>all the lithe leaves of the plant seemed alive, and were straining and lifting . . .the leaves nearest the bud curl[ed] up and writhe[d] like serpents about the man who stood there in the center, with his lips still at the chalice of the green cup. Whorl after whorl lifted, writhing and curling. They licked the air hungrily; they lifted partly and fell and lifted again; and a frightful odor, sweet but nauseating, filled the air. The little cups on the hideous leaves opened and shut convulsively, and faster and faster as time went on. Then I saw them all closing up around the center.</p>
+</body>
+</text>
+</q>
+
+<p>Opaka's execution follows the same ritual. She is physically forced to the plain where she "struggled up the whorls of that foul flower with her sweet hands; and put her lips, her dear lips, to that deadly syrup, and then the leaves writhed up, and her body was within. She did not cry out." Each plant, after killing its prey, also dies and joins the other rotting stumps on the plain, a sort of capital punishment body count of death by ejaculation.<ref target="n07" n="7">7</ref></p>
+
+	<p>This type of execution appears to be an exaggerated symbol of male potency against all who try to resist the masculine hierarchy. It would be especially denigrating to men like DeVega, who were seen as supportive of independent women, thus, perhaps, emasculated. Peattie's husband was such a male. Did he receive criticism and scorn from other men for having a wife who could form and voice her own opinions, an independent woman who had her own career? Peattie, too, as she became more outspoken, suffered from strained relationships with her male co-workers, whom she considered jealous of her celebrity. Did both Peatties feel victimized by journalism's "good old boy" establishment? Was this story their lyric revenge?</p>
+
+	<p>Since Peattie typically republished almost every poem, short story, or serialized novel into another volume or collection, it is curious why she didn't reprint this one, one of her most complex narratives. Even the subtitle, "A Romance of the Supernatural," downplays the narrative's significance. Perhaps negative feedback from her conservative Nebraska readers gave her pause. Maybe they just didn't get it. Perhaps she never tried for a larger audience than the readers of the <title level="j">Omaha World-Herald</title> because of the feminist theme, the sexual subtext, and the unhappily-every-after ending. She considered herself part of the Genteel Tradition, a movement in American literature, roughly spanning the years from the 1830s to the beginning of the First World War. These writers produced polite, decorous, often sentimental writings that rarely overstepped proper relationships between the sexes. Connected with the new American bourgeoisie and guided by a moral vision that glorified the democratic principles of rugged individualism, justice, and freedom, its literary standards were idealistic, optimistic, conventional, and socially correct, and its cultural values were conservative. According to Donald Pizer, most publishers and reviewers believed that literature should inspire the reader "through the depiction of man's capacity to achieve the ethical life to seek such a life for himself." Peattie might have felt that reprising "The Fountain of Youth" could stain her national reputation. Or, Peattie might even have tried to reprint it, but no reputable publishing house would take it. Literary authorities such as William Dean Howells, editor of <title level="j">Atlantic Monthly</title>, Richard Watson Gilder, editor of <title level="j">Century Magazine</title>, George William Curtis of <title level="j">Harper's Weekly</title>, and Josiah Gilbert Holland of <title level="j">Scribner's</title> dictated the tastes of the reading public and dominated the literary scene. Although the best of the writers in the Genteel Tradition shared a humanitarian concern for public welfare and attempted to do their part in social and cultural reform, perhaps "The Fountain of Youth" was too radical.</p>
+
+	<p>Whatever the case, reading "The Fountain of Youth" in the twenty-first century tells us a lot about the importance of an educated public, women's struggles to be heard, and the need to lead an examined life. Ironically, Peattie's most outspoken message on women's roles in society, buried deep in the pages of a regional newspaper over 115 years ago, is still relevant today.</p>
+</div1>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl>Burrell, Gale and Karen Dale. "Utopiary: Utopias, Gardens and Organization." <title level="m">Utopia and Organization</title>. Ed. Martin Parker. Oxford, UK: Blackwell Publishers, 2002. 106-127.</bibl>
+
+<bibl>Dawidoff, Robert. <title level="m">The Genteel Tradition and the Sacred Rage: High Culture vs. Democracy in Adams, James, and Santayana</title>. Chapel Hill: University of North Carolina Press, 1992.</bibl>
+
+<bibl>Gerber, Richard. <title level="m">Utopian Fantasy: A Study of English Utopian Fiction since the end of the Nineteenth Century</title>. New York: McGraw-Hill, 1973.</bibl>
+
+<bibl>Merritt, James D. "'She Pluck'd, She eat." <title level="m">Female Futures: A Critical Anthology</title>. Ed. Marlene Barr. Bowling Green, OH: Bowling Green State University Popular Press,  1918. 37-41.</bibl>
+
+<bibl>Pearson, Carol. "Coming Home: Four Feminist Utopias and Patriarchal Experience." <title level="m">Female Futures: A Critical Anthology</title>. Ed. Marlene Barr. Bowling Green, OH: Bowling Green State University Popular Press,  1918. 63-70.</bibl>
+
+<bibl>Peattie, Elia W. "The Fountain of Youth: A Romance of the Supernatural." <title level="j">Omaha World-Herald</title> (serialized weekly from 28 Oct. 1894 through 13 Jan. 1895): 18.</bibl>
+
+<bibl>Pizer, Donals. "Dreiser's Critical Reputation." 2000. 8 June 2003 <xref url="http://www.library.upenn.edu/collections /rbm/dreiser/tdcr.html" rend="new">http://www.library.upenn.edu/collections /rbm/dreiser/tdcr.html</xref>.</bibl>
+
+<bibl>Rabkin, Eric S. "Atavism and Utopia." <title level="m">No Place Else: Explorations in Utopian and Dystopian Fiction</title>. Eds. Rabkin, Eric S,. Martin H. Greenburg, and Joseph D. Olander. Carbondale: Southern Illinois University Press, 1983. 1-10.</bibl>
+
+<bibl>Roemer, Kenneth M. <title level="m">The Obsolete Necessity: America in Utopian Writings, 1888-1900</title>. Kent, OH: Kent State University Press, 1976.</bibl>
+
+<bibl>Tuttleton, James W. "William Dean Howells and the Practice of Criticism." <title level="j">The New Criterion</title> 10.10. June 1992. 20 June 2003. <xref url="http://www.newcriterion.com/archive/10/jun92/howells.htm" rend="new">http://www.newcriterion.com/archive/10/jun92/howells.htm</xref>.</bibl>
+</div1>
+
+
+<div1>
+<head type="main">Illustrations</head>
+
+<bibl>Bellamy Cover. <xref url="http://en.wikipedia.org/wiki/Looking_Backward" rend="new">http://en.wikipedia.org/wiki/Looking_Backward</xref>. Public Domain.</bibl>
+
+<bibl>Everglades. National Park Service. Public Domain.</bibl>
+
+<bibl>Eve by Hans Baldung Grien. By permission of Uzi Dornai, Social Worker and an art lover. <xref url="http://www.dornai.com/Adam_and_Eve.htm" rend="new">http://www.dornai.com/Adam_and_Eve.htm</xref>.</bibl>
+
+<bibl>Ebony Cross. DiCocco Family's St. Jude Shop. <xref url="http://www.stjudeshop.com/product/ebony-crucifix" rend="new">http://www.stjudeshop.com/product/ebony-crucifix</xref>.</bibl>
+<!-- 
+<bibl>Fountain of Youth by  Eduard Veith. National Geographic. www.nationalgeographic.com. (Permission pending)</bibl> -->
+</div1>
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> Roemer, 9.</p>
+
+<p><note id="n02" n="2">2</note> Gerber in Utopian Fantasy, 122.</p>
+
+<p><note id="n03" n="3">3</note> Grey and Garsten, 10.</p>
+
+<p><note id="n04" n="4">4</note> Burrell and Dale, 131.</p>
+
+<p><note id="n05" n="5">5</note> Burrell and Dale, 108-9, 121.</p>
+
+<p><note id="n06" n="6">6</note> Merritt, 40.</p>
+
+<p><note id="n07" n="7">7</note> Interestingly, the execution plant seems almost to have androgynous characteristcs.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18951002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Aword with the Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Aword with the Women</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1895-10-02">2 October 1895</date>
+<biblScope type="pages">8</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-02-12</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcribed and encoded</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb corresp="ep.owh.18951002.jpg" n="p8"/>
+
+<div1>
+
+<head type="main">AWORD<lb/>
+WITH THE WOMEN</head>
+
+<byline>(By <sic corr="Elia">Alia</sic> W. Peattie.)</byline>
+
+	<p>We were going to church&#8211;a whole street car full of us. We had on our Sunday clothes, and we all sat with our hands properly in our laps and looked stupid and conventional. An atmosphere of Sunday cleanliness and propriety hung over us all. We had our prayer books in our hands and our mouths screwed up into a "prunes and prisms" expression. There appeared to be pokers up our backs, and there were very, very clean handkerchiefs in our belts or vest pockets. In a silence that would have been oppressive but for the sociable buzz of the trolley, we rolled along toward our respective churches, looking at one another covertly, and each wondering how in the name of all that was understandable any one could go to listen to any clergyman save our own. We were all hopelessly respectable and banal, and would have yawned if we had the energy.</p>
+
+	<p>Suddenly in the midst of all this the rear door of the car opened explosively, and there burst upon our vision a little girl&#8211;a meteoric and exciting little girl! Her hair was carrot red, and, being much wind-blown, straggled about her face in riotous fashion. Her complexion was milk and roses, and some cunning little reddish freckles dotted her face. She had two rows of pearly teeth which she gleamed upon us. Though it was Sunday, she wore a large gingham apron, with long strings tied behind. Her shoes were stuffed at the toes, and out at the heels. A broad brimmed hat sat on her head, and through the rubber which held it in place she tried in vain to confine her straggling locks.</p>
+
+	<p>In her hand was a doll&#8211;an utterly preposterous doll. Its blond wig was a mat of tangles. Its face was battered. Its stiff little legs had stockings, but no hoes. The little girl sat down among us and smiled at the little girls the rest of us were taking to church. Our little girls looked rather dispirited, and were passing their time secretly comparing their kid gloves. The red headed girlie looked at us all as if she loved us. She stared out of the window now and then in open curiosity at the streets, and every few moments to assure her doll that she had not forgotten it, she gave it an affectionate hug. She had an escort in the person of a young man of about 30, who may have been her uncle, and who had quite certainly been down at the station to meet her. He was carrying her bag, on the top of which was strapped a jolly little jacked, as shabby as possible, and with the pockets bulging to their utmost, probably with nuts. It was a jacked that appealed to you immediately&#8211;a jacket which looked as if it had had no end of fun, and knew the way, all of itself, to go to the hazel nut groves, and get in the right paths for red haws.</p>
+
+	<p>We church going frumps all sat fascinated, staring at this rampant and adorable creature. Our faces relaxed and we smiled, too. We wanted to hug her&#8211;every one of us wanted to. We forgot all about the kid gloves of our little girls, and about our theological differences, and became once more warm blooded and gregarious animals, with some sentiment of the right sort in us. The little girl admired us without any envy. She liked our new hats, apparently, and was openly curious about our feather boas.</p>
+
+	<p>After a time her escort rose and called her.</p>
+
+	<p>"Oh," she said in the sweetest an <gap reason="torn away"/> liest voice, as if she was sure som<gap reason="torn away"/> g pleasant was going to happen the next minute, "is this where we get off?"</p>
+
+	<p>As she followed her uncle&#8211;if he was <gap reason="torn away"/>er uncle&#8211;from the car, she <gap reason="torn away"/> s all <gap reason="torn away"/> and lef <gap reason="torn away"/> g <gap reason="torn away"/>with w <gap reason="torn away"/></p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

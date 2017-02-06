@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.cha.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Role of Women in Charitable Societies</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-01-15</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<head type="main">Homes for "Fallen" Women and Girls</head>
+
+	<p>Frontier women involved in furthering "feminine works of benevolence" often reached out to their sisters who had turned to prostitution for their support.  Rarely was pursuing this line of employment a working woman's original goal, but often "limited employment opportunities and underemployment drove thousands of poor women in cities to turn to prostitution to survive."<ref target="n01" n="1">1</ref> Those most at risk, according to historians, were women low on the socioeconomic ladder, such as domestic servants who could be fired by their employers at a moment's notice, along with seasonal workers and underpaid factory laborers.<ref target="n02" n="2">2</ref> Also at high risk were young girls whose parents had died.  William Sanger, who conducted a study of prostitutes in 1858, found that over half of the two thousand "soiled doves" he followed were, in fact, orphans.<ref target="n03" n="3">3</ref> Sometimes women decided to try prostitution in order to escape relationships of abuse, emotional depravation, or alcoholism. Others, especially girls who lived away from their relatives, decided to try it, speculating that their standard of living would be higher because of the additional income prostitution might bring&#8211;or that their lives might be more exciting than the drudgery of farm labor. Rarely, however, did these expectations come to pass.<ref target="n04" n="4">4</ref></p>
+
+	<p>Prostitution flourished in growing cities of trade, such as Omaha, and in Western mining towns where the gender imbalance was significant. During the years of depression in the 1890s, prostitution in Omaha increased as "saloons, brothels catering to all classes of men, and cribs proliferated in Omaha's vice district."<ref target="n05" n="5">5</ref> Josie Washburn, a prostitute in Omaha during this era who later became a brothel owner, described in her journal the effects of the "soiled dove" lifestyle upon a woman: "After a year of this life the prostitute turns into one of three channels, either becomes a tough, hardened creature who is always ready to take part in every kind of depravity, or is stupefied with dope, lovers and more dope.  Or else she is awakened to the horrors of her plight and makes every effort to extricate herself therefrom."<ref target="n06" n="6">6</ref></p>
+
+	<p>As prostitution increased, the campaigns to contain it also became stronger. Historian Glenda Riley explains that "as towns grew in size and importance, there was usually an accompanying movement to reduce or repress prostitution within their boundaries." Ordinances and fines were put in place in an effort to curtail the practice, although at times these fees seemed simply a business expense.<ref target="n07" n="7">7</ref> Typically, police collected "five dollars for each madam and one dollar for each prostitute daily" during monthly raids.<ref target="n08" n="8">8</ref></p>
+
+	<p>Homes for "fallen women" were also established to assist prostitutes who wished to escape the industry and establish new lifestyles. Peattie publicized the efforts and also the needs of several such homes in her columns. Of the House of the Good Shepherd, Peattie wrote, "no sinner is so abject that she may not there find friendship, shelter, welcome, and have pointed out to her the way of salvation."<ref target="n09" n="9">9</ref> The institution took in seventy women whom they housed, ministered to, and trained to be "needlewomen" although the ladies gladly did laundry or any kind of domestic labor they could find.</p>
+
+	<p> In 1893, the Mission of Our Merciful Savior was opened in Omaha to mixed reception. Peattie was saddened and outraged by the community's ambivalent support of the Mission, and spoke to the hypocrisy of public sentiment in her column: "The opening of the mission was received  . . . by others with lukewarmness and skepticism as to results, and by others still with absolute indifference if not actual hostility, on the ground that it was sheer waste of time and good money to do anything to reform fallen women . . . the hardest person to understand is the unsympathetic, Christian woman who, who absolutely refuses to lift her finger, to speak a kind word of hopeful encouragement, or to give one single cent to any honest effort to recall, or to save a fallen woman . . . though it were, perhaps, her son or her own husband, at some time in his life, that had betrayed and ruined her . . . .<ref target="n10" n="10">10</ref></p>
+
+	<p>The establishment was run by two Catholic nuns, one named Mother Caroline, who willingly opened their records and financial books to the journalist.  Mrs. Peattie, having chastened the community for not supporting the Mission of Our Merciful Savior whole-heartedly, included a full copy of their financials in her column, as if to further demonstrate the integrity of the institution.</p>
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl><author n="Armitage, Susan">Armitage, Susan</author> and <author n="Jameson, Elizabeth">Elizabeth Jameson</author>. <title level="m"><hi rend="underline">The Women's West</hi></title>. <pubPlace>Norman</pubPlace>: <publisher>University of Oklahoma Press</publisher>, <date value="1897">1987</date>.</bibl>
+
+<bibl><author n="Bloomfield, Susanne George">Bloomfield, Susanne George</author>. <title level="m"><hi rend="underline">Impertinences: Selected Writings of Elia Peattie, a Journalist of the Gilded Age</hi></title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="2005">2005</date>.</bibl>
+
+<bibl><editor n="Hellerstein, Erna Olafson">Hellerstein, Erna Olafson</editor>, <editor n="Hume, Leslie Parker">Hume, Leslie Parker</editor>, and <editor n="Offen, Karen">Offen, Karen</editor>, eds. <title level="m"><hi rend="underline">Victorian Women: A Documentary Account of Women's Lives in Nineteenth-Century England, France, and the United States</hi></title>. <pubPlace>Stanford</pubPlace>: <publisher>Stanford University Press</publisher>, <date value="1981">1981</date>.</bibl>
+
+<bibl><author n="Riley, Glenda">Riley, Glenda</author>. <title level="m"><hi rend="underline">The Female Frontier: A Comparative View of Women on the Prairie and Plains</hi></title>. <pubPlace>Lawrence</pubPlace>: <publisher>University Press of Kansas</publisher>, <date value="1988">1988</date>.</bibl>
+
+<bibl><author n="Rosen, Ruth">Rosen, Ruth</author>. <title level="m"><hi rend="underline">The Lost Sisterhood: Prostitution in America, 1900-1918</hi></title>. <pubPlace>Baltimore</pubPlace>: <publisher>Johns Hopkins University Press</publisher>, <date value="1982">1982</date>.</bibl>
+
+<bibl><author n="Washburn, Josie">Washburn, Josie</author>. <title level="m"><hi rend="underline">The Underworld Sewer: A Prostitute Reflects on Life in the Trade, 1871-1909</hi></title>. <pubPlace>Lincoln</pubPlace>: <publisher>University of Nebraska Press</publisher>, <date value="1997">1997</date>.</bibl>
+</div1>
+
+
+<div1>
+<head type="sub">Illustrations</head>
+
+<bibl>"Prostitutes looking out from the windows of a brothel." <author n="Myres, Sandra">Myres, Sandra</author>. <title level="m"><hi rend="underline">Westering Women and the Female Frontier Experience, 1800-1915</hi></title>. <pubPlace>Albuquerque</pubPlace>: <publisher>University of New Mexico Press</publisher>, (no year), <biblScope type="pages">198</biblScope>.</bibl>
+
+<!-- Mattie Silks, "one of the most famous and successful madams in the West:"
+Also, "cartoon between the Moral Purity movement and the purveyors of vice:" -->
+
+<bibl><author n="Rutter, Michael">Rutter, Michael</author>.  <title level="m"><hi rend="underline">Upstairs Girls: Prostitution in the American West</hi></title>. (no city): <publisher>Farcountry Press</publisher>, <date value="2005">2005</date>, <biblScope type="pages">137</biblScope>, <biblScope type="pages">100</biblScope>.</bibl>
+
+
+<div1>
+<head type="sub">Notes</head>
+
+<p><note id="n01" n="1">1</note> Hellerstein, 288.</p>
+
+<p><note id="n02" n="2">2</note> Ibid.</p>
+
+<p><note id="n03" n="3">3</note> Rosen, 143.</p>
+
+<p><note id="n04" n="4">4</note> Armitage, 199.</p>
+
+<p><note id="n05" n="5">5</note> Bloomfield, 75.</p>
+
+<p><note id="n06" n="6">6</note> Washburn, 327-8.</p>
+
+<p><note id="n07" n="7">7</note> Riley, 116.</p>
+
+<p><note id="n08" n="8">8</note> Bloomfield, 21.</p>
+
+<p><note id="n09" n="9">9</note> Peattie, <hi rend="underline">Omaha World-Herald</hi>, 30 September 1895, 8.</p>
+
+<p><note id="n10" n="10">10</note> Peattie, <hi rend="underline">Omaha World-Herald</hi>, 4 August 1894, 5.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18940730 SYSTEM "ep.owh.18940730.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18940730">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Built Around an Idea</title>
+<title type="sub"></title>
+<author n="Peattie, Elia Wilkinson, 1862-1935">Peattie, Elia Wilkinson, 1862-1935</author>
+<principal>George-Bloomfield, Susanne, 1947-</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.owh.18940730</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Built Around an Idea</title>
+<title level="a" type="sub">That Is How Tabor, Ia., Was Founded Many Years Ago</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date value="1894-07-30">30 July 1894</date>
+<biblScope type="pages">5</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Newspaper Article</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2009-02-19</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Proofreading</item>
+</change>
+<change>
+<date>2007-11-13</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<figure entity="ep.owh.18940730">
+<figDesc></figDesc>
+</figure>
+
+<pb n="p5"/>
+
+<div1>
+
+<head type="main">BUILT AROUND AN IDEA</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">That Is How Tabor, Ia., Was<lb/>
+Founded Many Years<lb/>
+Ago.</head> -->
+
+<head type="sub">That Is How Tabor, Ia., Was Founded Many Years Ago.</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">A Transcript From a Remarkable<lb/>
+Municipal History&#8212;Tabor and<lb/>
+John Brown.</head> -->
+
+<head type="sub">A Transcript From a Remarkable Municipal History&#8212;Tabor and John Brown.</head>
+
+<milestone unit="smallbar"/>
+
+<!-- <head type="sub">The College and the Curriculum&#8212;Its Small<lb/>
+Beginning and Its Large <orig reg="Achievement">Achieve-<lb/>
+ment</orig>.</head> -->
+
+<head type="sub">The College and the Curriculum&#8212;Its Small Beginning and Its Large Achievement.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>The maples at Tabor touch their tips over the road, and the red squirrels, which are the town pets, shake their tails merrily at you, and chatter their salutations without fear of molestation.</p>
+
+	<p>Perhaps there are not a thousand persons in Tabor, though the town was a fact before Omaha was thought of, and when Council Bluffs was only Cainesville, and a trading post.</p>
+
+	<p>Tabor was never a trading post. Nor was it an accident. It has never at any time in its history, been made up of adventurers, or mere money makers. It was formed with a purpose, and has developed consistently. The clangor of modern materialism has hardly reached it.</p>
+
+	<p>The town is, in fact, the result of an idea. It is built around the idea of Christian education, just as some towns are built around a lake or a harbor, or a railway station. In short, the town of Tabor and Tabor college are inseparable. They depend upon each other for existence. It is impossible to give the history of one without also giving the history of the other.</p>
+
+	<p>The way it all came about can be briefly recorded. It is this:  Deacon George B. Gaston and his wife, two young and enthusiastic Christians of Ohio, left their home and went on a mission to the Pawnee Indians. That was in 1840, when the west was a wilderness. They went out on their pilgrimage, impelled by the conviction that they were to preach the gospel to every living creature, and bore, without thought of defeat, all the dangers of pioneer journeying. The Missouri was a hungrier stream in those days than now, and wallowed in its great muddy bed with a more sullen and formidable aspect. Yet the missionaries had no choice but to make their way along its bottom lands amid sloughs and shallow cut-offs, malaria and a plague of mosquitoes. There was sickness, hunger and almost every form of physical discomfort to be endured. Yet for five years these young enthusiasts clung to their task, seeing even the horrors of war between the tribes of the Sioux and the Pawnees, with results more tragic than death in the effects upon a little daughter born soon after this savage battle. These hostilities between the tribes became so aggressive that Deacon Gaston left the mission and settled near Oberlin, O., with his family. Oberlin, as all the world knows, is the home of one of the most successful Christian colleges in this country. Its work, radiating in all directions, and bringing illumination to thousands of lives that otherwise would have been dull and unbeautiful, affected the imagination of this young man, who had in him a genius for disinterestedness. He was, be it remembered, one of those who believe that God calls his chosen to some particular work. And as he plowed in his field he heard the voice of God calling him to a work in the far west&#8212;a work consistent with the best ideals of a Christian and an American. This work to which he felt summoned was to be found on the edge of the plains a school like that at Oberlin, which should give to the young men and women of the west an education with a spiritual motive. He told his wife, and they prayed over it. And, just because he was a natural leader, with a persuasive magnetism, not only his wife, but a number of neighbors, became infected with his idea, and they were presently ready to lead a colony into the Missouri valley. It was a company of well trained and very determined young men and women, inspired with a conviction that they had a life work worthy of their best efforts, encouraged yet further by the presence of a young Congregational clergyman, John Todd, who had joined them merely upon the <sic corr="assurance">assuraace</sic> that he was needed, and that while they lived he should live, too. It was, to an extent, an illustration of Christian socialism.</p>
+
+	<p>They settled far from the centers of trade, a little above Nebraska City, on the Iowa side of the river, and called their town Eureka and their post office Gastson.  What they endured here nothing but a daily diary could tell. The sawmill they brought would not work. They had almost no money. The country was yet unreclaimed from the wild, and all about them was the rough border element, besotted with slave owning, with the disregard for human rights, for temperance and for religion, which made possible the atrocities that compose the historical record of Kansas, Nebraska and Missouri in the days of the border troubles.</p>
+
+	<p>Never had race feeling been more intense or the arrogance of a conquering people more tyrannous than among these half civilized Americans. One little story will illustrate the disposition of the people and the character of the time:</p>
+
+	<p>A colored family moved into the neighborhood and was immediately made the subject of persecution by the pro-slavery people around about. Indeed, so objectionable was their presence to this element that an old law was resurrected which provided that no colored family should be allowed to remain in a community of white persons without the giving of bonds for them by some white man. These bonds were a guarantee that the colored persons for whom they were given would never commit any offense against the laws and would not become a public charge. Mrs. Gaston and Dr. Blanchard gave bonds for this family in the sum of $500. In later years when a son and daughter of this family were kidnapped, Deacon Gaston rode alone after the kidnapers and succeeded in securing their return to their parents, but only after the trial of the case by law&#8212;an episode which cost Mr. Gaston $200, and which he settled by giving a deed of eighty acres of land.</p>
+
+	<p>A man with such disinterestedness as this was one who could sustain an idea through years of discouragement, and keep his eye fixed upon the goal of his ambitions.</p>
+
+	<p>In the spring of 1852, after two seasons of high water on the Missouri, the colony from Oberlin decided to move up on the higher land, and after a good deal of prospecting, the present site of Tabor was selected&#8212;a beautiful tableland among the hills. It is the highest point of the divide between the Missouri and the Nishnabotna River. This hegira was not accomplished without some division of the colony.  Deacon Hill, who not only believed in the mandates of the Lord, but who refused to do anything unless the Lord directed him to do so, said that he did not perceive that the Lord called him to move to the upland, and so lived and died on the great bottom lands of the capricious Missouri.</p>
+
+	<p>When, two years later, a number of families from Oberlin came to join those already at Tabor the time seemed ripe for the laying of the foundations of the institution of learning for which they were all eager. A public meeting was at last called, and the plan began to take definite shape. It may be remarked here that the public meeting has played a conspicuous part in the history of this little town. Associated, as it has been, with the hottest abolition work, and presiding as it did at the very birth of Iowa prohibition, and aggressively Christian, it can easily be imagined that the subjects which have come up for discussion have been many and of a serious nature. And as each controversy arose the little meeting house has been opened, the citizens summoned together and the fight fought out on polemical grounds.</p>
+
+	<p>In public <sic corr="meeting">meesing</sic> on December 7, 1853, a board of trustees was appointed for the Tabor Literary institute, and the passionately hoped for school of Christian learning had a name and an expressed object, which was to "harmoniously develop the moral, mental and physical powers of those who enjoy its privileges." True to their ideas of perfect human liberty, they provided that "the privileges of this institution shall be alike to both sexes and all classes."</p>
+
+	<p>The arrival in 1854 of thirty-eight persons from Oberlin, all in sympathy with the ideas and the ideals of the town, gave an impetus to the work with which these pioneers were identified. Moreover, they brought with them the first church bell that came into Western Iowa&#8212;a bell whose mellow tone still summons worshipers twice every Sunday and twice through the week to praise, prayer and exhortation. And a church bell is not a little thing when it is brought into the silence of a wilderness. It marks the fact that Man has come, and that the wild is being subjugated by him, and that mind has met in the lists with matter.</p>
+
+	<p>Three years later the Tabor literary institute became a fact. W. M. Brooks, fresh from Oberlin, was placed at its head. A school was opened across the street from the institute for the smaller pupils, and the work of Christian education was begun.</p>
+
+	<p>That was thirty-four years ago, and the president of the college at present is Prof. Brooks, who was the principal of the little academy on its opening day. The college has never had any other president and, indeed, to the exertions of this man, and to ability to make friends and to keep them, has the continued existence and development of the college been due. President Brooks likes to remember that the day the grammar school was opened for the little ones, among the boys and girls who entered it were some of the most respected men and women of Iowa, among them Rev. E. S. Hill of Atlantic, Ia., and Miss Harriet Townsend, who lost her life in India after twelve years' service there as a missionary.</p>
+
+	<p>These were interesting days&#8212;days when material things were subordinated to intellectual ones, and when poverty was no shame and social distinction unknown. Around the church and the school the whole community revolved, even as it does today.  Prof. Brooks from the first taught algebra, physiology, geometry, Latin and Greek. In the evening there was singing. The wilderness was still around these pioneers, but the classics, science, music and happiness were with them.</p>
+
+	<p>In these present times, when it has become necessary to jealously guard the public schools from the interference of different religious sects, and when every community is more or less disturbed about that question, it may be interesting to know that the Tabor Congregational school had a peculiar relation to the public school. It was in this way: The higher grade of pupils of the public schools came into the academy, which received as a part payment of their tuition such a proportion of the public school funds belonging to the district as the number attending the academy were a part of the whole number attending school in the district.</p>
+
+	<p>The history of the development of the academy is perhaps not interesting to the general public. It is nothing to those not associated with the school that it should have been sustained by means of sacrifices of the men and women who were interested in it. The neat buildings which now compose the college property give no hint of the tuitions being paid in cottonwood lumber or wheat. As for the students, they were crowded together in their living rooms and in their recitation rooms. They obtained their education at the cost of all personal indulgence, and it meant, perhaps, just as much more to them. In those days hospitality was a thing to be taken for granted in that community. Every family that came to town was taken in and cared for. They tell strange <sic corr="stories">storie</sic> of the way they managed. For example, the house in which President Brooks now lives was formerly occupied by his father-in-law, Mr. Jonas Jones, who had a family of six. With him, in the same house, lived Mr. Solomon Jones, with his family of eight.  Mr. M. L. Carpenter coming to town with his family of three, and having no house, was taken in, as well as five other boarders, and these twenty-two persons lived together for one winter. It was a house presided over by a gentleman of the old school-a man of birth and breeding, who counted hospitality a thing to be maintained at all costs. This house still stands and has become a historical monument, for in the little front room John Brown of Ossawatomie stood, with his rifle in his hands, and received his military training from Colonel Forbes, an exiled Italian officer, the author of several books on military tactics. In the cellar of this house was hidden ammunition enough to have blown up the whole town at the time that the Kansas Aid society at Boston was sending money and arms to the west in the anti-slavery fight in which John Brown was the leader.</p>
+
+	<p>Among the anti-slavery men who visited this house in the fateful years preceding the rebellion were Richard Ralph, a well known writer and one of the men who rescued Five Points from its depravity; James Redpath, the well known manager of the lecture bureau; General James E. Lane, one of the heroes of the civil war; Edward Daniels, state geologist for Wisconsin, and well known in Omaha, and many others who have led notable lives.</p>
+
+	<p>Tabor in these days did more to help on the cause for which John Brown was imperiling his life than any other one town in the west. It was one of the stations of the underground railroad, and the stories of the running off of fugitive slaves, of the protection of them at danger of life, of the strategy, conspiracy and adventure make many rich pages of abolition annals. But all that is another story. It is enough to say that the portrait of John Brown's grizzled head hangs on many a wall at Tabor, and that the cheeks of the old men are wet with tears and their forms tremble as they tell of all that this man dared, and how, at last, with a broken heart, he left them, because of their failure to support him in his more decisive conduct, and that he went out from among them to his death at Harper's Ferry.</p>
+
+	<p>All this made its indelible impression upon the students of the college. They were used to attending meetings at which the freeing of the slaves was a thing so passionately desired and prayed for that those present became willing to make every human sacrifice possible to secure their liberty. When the rebellion actually began a number of the classes at the college were broken up because of the enlistment of the students. At three different times every student in the institution subject to military duty answered the country's call. The only reason that Principal Brooks did not go and close the school till after the war was over, was because the trustees of the school refused him the permission and insisted that the school should be kept open in any event. When it is remembered that the tuition for the spring term o f 1861 was but $88, it will be seen that education had become a secondary matter.</p>
+
+	<p>But with the close of the war came the influx of population, the building of railroads and other indications of returning prosperity. And Tabor institute became a college in accordance with Deacon Gaston's early dream.</p>
+
+	<p>This was the result of a convention called at Council Bluffs, called to consider the educational interests of the surrounding district. This convention was composed of Congregational clergymen from Nebraska and Iowa, lay delegates from the churches. Their sentiment was that Tabor should replace the curriculum of her academy with that of a college. Tabor was willing. But it was a community of poor men desperately hard working and economical in their habits. There were 300 persons only in Tabor and the immediate vicinity. Yet these people by means of personal sacrifices not to be measured in these times, promised and paid over $30,000 into the treasury of Tabor college. Men whose incomes were but $800 a year promised $1,000 and paid it. One carpenter, Deacon Adams, who has been for many years one of the pillars of the community, gave $600 from his scanty purse. The heaviest donors subscribed, on an average, 60 percent of their property . These men did not give to "build up the town," or with any hope of personal gain. There was none to be derived. They gave from disinterested motives, impelled in the way that men sometimes are impelled to help on the development of the country with which they had identified themselves.</p>
+
+	<p>These were friendly days. On Thanksgiving the whole town feasted together, eating at one table, as a great family might. And on the anniversary of the country's independence every one went to a picnic and rejoiced and ate together. For many years all united in one church, no matter what his individual ideas of creed and for several years after the community was formed there was only one adult citizen who was not a church member.</p>
+
+	<p>The community resembled in very many respects that of the Pilgrims. The same seriousness of life, the same concentration of purpose, the same religious frugality and unremitting industry showed itself. And the result of such an ancestry has produced a generation of men who are temperate in all things, and who abstain from drinking and from smoking. Not a saloon has ever been erected on the peaceful streets of Tabor. No Morton of Merry Mount has ever brought revelry or unseemliness into this well ordered community. All diversions center in the church. All aspiration expresses itself through the college or the church. The town has a record of which it is jealously proud. It has helped to protect the slave, to feed the union soldier, to defend prohibition, to promote education and to speed <sic corr="christianity">chritianity</sic>. It has sent missionaries to foreign lands and patriots to their honored death. It has laid in a thousand men and women the foundations for honest and true citizenship and given them a good education.</p>
+
+	<p>No factories are to be found in the town. No large enterprises have started there. The successes of the town have been of another sort and cannot be measured by any monetary valuation. But the young men and women who have gone out from it have many of them been conspicuous for the qualities which make influential citizens, conscious of their moral responsibilities and not afraid to lead public thought or to stand for anything they deemed right.</p>
+
+	<p>Yet, let it not be thought that Tabor never has shed an enterprise. There is, for example, the Tabor &amp; Northern road. It runs nine miles north and south, between Malvern and Tabor. The Tabor &amp; Northern was a necessity, and therefore it became a fact. A 5 per cent tax was voted for, not one voter opposing the proposition. The president of the college was made president of the road by virtue of his office. The students went out of their class rooms to help throw up the embankments. People gave such sums as they could to help on the work. The dean of the college, Prof. McClelland, converted himself into a railroad magnate, a construction engineer and a financier. Every one gave what he could.</p>
+
+	<p>Mrs. Tucker, who could not give money for the building of the road, brought down eggs. History does not say how much stock was issued to her in return.  But the road was built.  If you like you can ride over it. It's a good road. It runs up a gentle incline from Malvern to Tabor among the bounteous Iowa hills. It has vistas of corn fields and oak groves. Its rolling stock consists of one passenger coach, one freight car, some flat cars and an engine. This engine, by the way, was the first one brought across the Mississippi by the Burlington road. The conductor belongs to one of the oldest and most respected families. He can collect fare in Latin, Greek, German, French or English. When he is not engaged in taking up tickets, or turning the engine of the little turntable, he reads the latest copy of the Century or the Science Monthly.</p>
+
+	<p>His uniform consists of a tourist's helmet, a pair of blue jeans and a gingham shirt. This young man's father is an important and useful personage in Tabor, for not only does he supply it with milk of the finest quality, but he acts in the capacity of general passenger agent for the road. The local grocer, Mr. A. T. West, is the master mechanic of the Tabor &amp; Northern. This road has the distinction of never having gone into the hands of a receiver. It pays for itself, and it is likely at almost any time to declare dividends.</p>
+
+	<p>The president refused to be interviewed on his opinions as to the government control of railroads, or the effect of the Pullman strike upon railroad legislation.</p>
+
+	<p>To return to the college, it now has a yearly enrollment of about 225 pupils. Its <sic corr="curriculum">curriculem</sic> has been elevated little by little until it compares favorably with that of any college, and the graduate from Tabor should be able to enter any of the universities.  President Brooks still remains at its head, and is in the prime of life. In addition to his office he fills the chair of political economy. Vice president Richard C. Hughes is professor of mental and moral science, and exerts a most energetic influence upon the college, being a man of very modern methods. Miss Helen E. Martin is professor of history, Miss Edith Marian Brooks the professor of English literature and rhetoric. Mr. James T. Fairchild, who comes of a race of scholars, is the principal of the preparatory department and teacher of Latin. William A. Bartlett is professor of mathematics; the Rev. Cornelius H. Polhemus, also a man of distinguished literary traditions, is professor of Greek, German and French; T. Proctor Hall is instructor in natural science; William A. Deering, lecturer on the art and science of teaching, and the financial agent of the college; Margaret Lawrence is the assistant in mathematics and German; Mabel Bradberry, main director of the conservatory of music and the teacher of piano, harmony, theory and musical history; Grace Louise Cronkhite, teacher of the pedal organ, piano and guitar; Elsie Bell Webster, teacher of vocal music and director of choral work; Margaret Black, instructor in art.</p>
+
+	<p>The committees which manage the college are the best men in the community. The work of the college is earnest and aspiring, and some of its professors are very brilliant men. All of them conscientious. The atmosphere of the place is such as to breed conscientiousness. And the future of the college promises to be much greater than its past.</p>
+
+	<p>As in many of the western colleges almost all of the professors are young men. They have the enthusiasm and the alertness which belongs to their age.</p>
+
+	<p>Tabor itself is as quiet as peace, plenty and isolation can make it. Its beautiful square, standing in the center of the town, and shady with maples and elms, is the common for all uses. Here the American game is played to crowds of hallooing enthusiast. The tennis grounds are here too. Sunday night in the summer weather the three churches of the town meet for union service, the pastors taking turns in addressing the gathering. The picnics, meetings and parties of the people are held there. The children play there under the trees.</p>
+
+	<p>All about lies the plentiful Iowa farming country. Nothing could be more wholesome, more lacking in artificiality, more honest and earnest than the life at Tabor, it is no trick in such a spot to concentrate the attention in the laboratory, the library or the chapel. The thought is forced to turn inward.</p>
+
+	<p>Like some of the old Massachusetts towns, this place has been fed on polemics. The people are connoisseurs in sacred oratory. What music is to Oberaumagau preaching is to Tabor. The superficial sermon is taken at its poor worth there. A man may say what he pleases, but if he offers bad logic, if he deals in tricks of speech, if he is histrionic instead of consistent, Tabor is the place where his weakness will be discovered.</p>
+
+	<p>It must not be imagined that because the college is a Congregational movement, that the teaching in it is sectarian. It is decidedly unsectarian. Indeed, the professors are of several evangelical denominations, and other churches beside the Congregational have given the college support.</p>
+
+	<p>It is a place in which a sound foundation for education and for character can be laid. No one can visit the town without being impressed with that fact. Nor can one walk beneath those beautiful trees up the quiet streets without feeling that here is a place to rest. To be sure, the town is growing, and at present there is not a house in town that can be rented and only one that can be purchased, so that a sojourn there might not be easy if it were not that the old-time hospitality still exists and strangers are taken in. Board can be had for prices that to a dweller in the cities seems ridiculously small.</p>
+
+	<p>The history of the town is stirring, fine and quaint, and resembles more nearly than anything else that of the old Massachusetts colonies. Had it been at the beginning of things in this country it would have been famous. It has required some self-restraint not to mention the name of the men and <sic corr="women">womon</sic> most identified with the development of such a sterling and peculiar community. But these names would, after all, have meant little to the general reader, and those who know and cherish the memory of these pioneers have no need to have their names repeated.</p>
+
+	<p>A flavor of rich historical romance clings to the little town and gives it a charm all its own. But only the echoes of old struggles ring in the ears now. For there is nothing but peace there, and the sounds one hears are the meadow larks piping morning and the whistle of the oriole; and what one sees, now that the students are at home, and their gay tennis and ball suits no longer make the square gay, is only the saucy squirrels coquetting recklessly among the maples.</p>
+
+	<p>It ought to be mentioned that the college has some substantial buildings. Its development will make additional buildings a present necessity. As for the town itself it is unpretentiously built, but honestly; and it seems to have kept the laws of supply and demand in uncommonly good balance.</p>
+
+<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

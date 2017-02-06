@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI PUBLIC "-//UNL Libraries::Etext Center//DTD peattie.dtd (Nebraska Press)//EN" "include/peattie.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.pp.01 SYSTEM "ep.pp.01.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.misc">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Prodigious Peattie</title>
+<title type="sub"></title>
+<author n="George-Bloomfield, Susanne, 1947-">George-Bloomfield, Susanne, 1947-</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nicholas Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2009</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>ep.misc</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<textClass>
+<keywords n="genre">
+<term>Commentary</term>
+</keywords>
+</textClass></profileDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<!-- <encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc> -->
+
+<revisionDesc>
+<change>
+<date>2008-11-07</date>
+<respStmt>
+<name>Nicholas Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+    <xptr n="misc_links.html"/>
+<head type="main">The Prodigious Peattie</head>
+
+	<p>In her professional career as a writer, <xref n="ep.biography.html">Elia Peattie</xref> published an astonishing number of works in a broad range of genres. Of her <hi rend="italic">known</hi> publications, her <xref n="ep.bibliography.html">Bibliography</xref> lists the following: 25 books, 9 collected works, 6 plays, 57 short stories in periodicals, 32 short stories and novelettes in children's periodicals, 19 essays, 13 poems in periodicals, over 800 editorials, columns, and feature stories in the <xref n="ep.owh.intro.html">Omaha World-Herald</xref> between 1888 and 1896, and over 5,000 book review in the <title level="j">Chicago Tribune</title> between 1901 and 1917. This does not count her work for the <title level="j">Chicago Daily News</title> and the <title level="j">Chicago Tribune</title> between 1884 and 1888, the 100 fictional sketches she wrote for the <title level="j">Chicago Tribune</title> in 1899 to remodel the family home, her daily column of "Poems You Ought to Know" in the <title level="j">Chicago Tribune</title>, nor her freelance work for the <title level="j">Chicago Daily News</title>. Moreover, these are approximate and nebulous numbers, as Peattie was a crafty marketer of her writings, and new findings surface regularly.</p>
+
+<figure entity="ep.pp.01">
+<figDesc></figDesc>
+</figure>
+
+	<p>Unfortunately, for most of Peattie's life, she had to churn out words to pay the mortgage, the butcher, and the baker while helping support her three children as well as her sister, her mother-in-law, and later her own mother. She did not have the time or even a room of her own with a lock on the door to work and rework a piece nor the luxury to scorn the mass audience as did Henry James, who said, "The multitude, I am more and more convinced, has absolutely no taste&#8211;none at least that a thinking man is bound to defer to. To write for the few who have is doubtless to lose money&#8211;but I am not afraid of starving."<ref target="n01" n="1">1</ref> James did not have to feed a family.</p>
+
+	<p>Fortunately, the mushrooming literary market at the end of the nineteenth century provided a viable financial resource for Peattie. Newspapers, with the competitive rivalry of Hearst and Pulitzer, had expanded rapidly, and general circulation magazines underwent a revolution. In 1893 <title level="j">Munsey's</title>, <title level="j">McClure's</title>, and <title level="j">Cosmopolitan</title> lowered their prices to tens cents and began to boast of circulations of hundreds of thousands.<ref target="n02" n="2">2</ref> A new breed of editors took over, men like Frank Munsey, Peter Fenton Collier, and S.S. McClure, many of whom began as journalists and were not afraid to take risks.<ref target="n03" n="3">3</ref> In addition, editors like McClure narrowed the gap between newspaper and magazine audiences. His literary syndicate began acting as an agent for writers, sending galley sheets of short stories and serialized novels to various newspapers, who then either bought or refused his stories for their popular Sunday supplements. Peattie profited from this hungry marketplace. Often one short story published in a periodical would later be collected into a book or published in an anthology, and like many other writers of her time, several of her works were first serialized in a periodical or a newspaper and then came out in book form. Peattie also published in a dizzying assortment of venues. In addition to appearing in large circulation daily newspapers and in prestigious periodicals like <title level="j">Cosmopolitan</title>, <title level="j">Atlantic</title>, and <title level="j">Harpers</title>, her works turned up in more obscure publications, such as South Dakota's short-lived <title level="j">The Teepee Book</title>.</p>
+
+	<p>From reading Peattie's hundreds of book reviews, perusing her personal letters, and analyzing her own successful writing, it is obvious that Peattie knew literary art. Laboring as a daily columnist and reporter for the <title level="j">Omaha World-Herald</title>, she wrote enviously in an 1893 article about her friend, writer Kate M. Cleary entitled "A Bohemian in Nebraska." She described her as one who "does not care whether she 'succeeds' or not. She wants to live as happily as possible, and she writes because she enjoys it, not because she has an ambition to write. . . And after she has done it she thinks no more about it, but sells it if she happens to want the money for something, and if she doesn't, she lets it lie in her drawer. It is, however, to persons just so careless of success that it is apt to come." How frustrating it must have been for Peattie to have to commodify some of her stories in order to support her family.</p>
+
+	<p>Although economics played a role in diminishing the literary value of some of Peattie's writings, it did not mar them all. Her ability to tell a good story, her acute perception of human nature, and her unique style and wit produced significant writings that can be appreciated today. Many believe that Peattie's two books, <title level="m">The Precipice</title>, a suffrage novel published in 1914 about a social worker in a Chicago settlement house, and her 1896 collection of <xref n="ep.ss.intro.html">short stories about the West</xref>, <title level="m">A Mountain Woman</title>, are her best works, for they are excellent examples of social realism, in the manner of William Dean Howells whom she admired, and her recurring theme of women achieving social, intellectual, or personal growth. In addition, Peattie's mastery of contemporary popular techniques and her documentation of the social and political life of the times make even her more formulaic works significant cultural accounts.</p>
+
+	<p>Peattie eventually became financially secure, but, frustrated with the lack of idealism in the young writers, she eluded the demands of Modernism by writing more and more for adolescents. Undaunted by life's inequities, she refused to accept the disillusionment of the modernists and clung to her belief in the possibilities of humankind, preferring to record the uncommon in common life.</p>
+</div1>
+
+
+
+<div1>
+<head type="sub">References</head>
+
+<bibl>Garvey, Ellen Gruber. <title level="m">The Adman in the Parlour: Magazines and the Gendering of the Consumer Culture, 1880s to 1910s</title>. New York: Oxford University Press, 1996.</bibl>
+
+<bibl>Matthiessen, F.O. <title level="m">The James Family</title>>. New York: Random House, 1947.</bibl>
+
+<bibl>Wilson, Christopher P. <title level="m">The Labor of Words: Literary Professionalism in the Progressive Era</title>. Athens: University of Georgia Press, 1985.</bibl>
+</div1>
+
+<div1>
+<head type="sub">Illustrations</head>
+<bibl>"Elia Peattie, ca. 1930s." Courtesy of Peattie Family.</bibl>
+
+</div1>
+
+
+
+<div1>
+<head type="sub">Notes</head>
+<p><note id="n01" n="1">1</note> Mathiessen, 320.</p>
+
+<p><note id="n02" n="2">2</note> Garvey, 9.</p>
+
+<p><note id="n03" n="3">3</note> Wilson, 40.</p>
+
+
+</div1>
+</body>
+</text>
+</TEI>

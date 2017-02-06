@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18941014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Great Harm is Inflicted</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Great Harm is Inflicted</title>
+<title level="a" type="sub">Christian Science as Practiced Results in Very serious Things</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1894-10-14">14 October 1894</date>
+<biblScope type="pages">11</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-14</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb corresp="ep.owh.18941014.jpg" n="p11"/>
+
+<div1>
+
+<head type="main">GREAT HARM IS INFLICTED</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Christian Science as Practiced<lb/>
+Results in Very Serious<lb/>
+Things.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Mrs. Peattie Writes of a Belief and<lb/>
+Practice Which is Obtruding <orig reg="Itself">It-</orig><lb/>
+self Upon Notice.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">She Says Despite Its Evil Results There Is<lb/>
+a Germ of Immortal Truth in the<lb/>
+"Science."</head>
+
+<milestone unit="smallbar"/>
+
+	<p>There has come into the religious life of Christendom, during the last few years, the peculiar demonstration known as Christian Science. It is a philosophy which claims a unity for mind and matter, and for mind and spirit, and for spirit and God. Sickness of the body is the indication of the sin of the spirit. By cleansing one the other is cured. Heat, cold&#8211;all external affections&#8211;matter not to him whose spirit is fixed in its stern unrecognizance [sic] of matter&#8211;who looks always to God.</p>
+
+	<p>Metaphysics are quite difficult enough to make comprehensible even when they deal with the simple and understood phenomena of the mind; but when they deal with that, which, for convenience, may be termed supernatural, it is difficult, indeed, to understand them. The involutions and complexities of the Christian science metaphysics may well dismay even the most studious mind. But briefly, as the simple understand the laws of this teaching, spirit and matter are one&#8211;spirit is God&#8211;all is God. The Christian scientists refuse to recognize matter.</p>
+
+	<p>As the philosophy reads, it is pleasant, serene and pure. Whatever its points of differentiation may be from the orthodox Christian teachings, it seems to be in general harmony, and to be rather an attempt to make practical the most abstruse teachings of Christ. It also attempts to modernize the miracles. It believes in the casting out of devils, figuratively speaking and the making whole of the diseased body.</p>
+
+	<p>That is the theory. As to the practice&#8211;but what religion would like to be judged by the practice of those who profess it? Making, then, all allowance for human weakness, and for the inability of common mortals to attain their own ideals, the fact remains, that by the insistence of believers in this Christ healing, upon those who do not believe, great harm is inflicted.</p>
+
+	<p>A few weeks ago a little girl in this city was stricken with diphtheria. Her mother was a Christian scientist and would call no physician. The poor little one grew worse. She begged to be allowed to remain in bed. She wanted care. She wept and said she was not able to play. The mother, infatuated with those amazing metaphysics, would listen to no reason. She told the child not to mention her illness, and assured her that pain was a delusion. She drove the little one out of the house to play in the yard. It was not that she was hard-hearted or that she did not love her little girl. It was merely that she compelled herself to have the faith which would move mountains. But no mountain, so far as known, has ever been moved by faith. And the little girl, who might have been saved if the mother had called medical assistance, died, because that mother insisted on persevering to the end in her belief. The poor child is dead. No faith of the mother's can restore her to life. And on wonders if she "refused to recognize" that pathetic bit of matter, the little cold body that had held the spirit of her child. No one knows where that spirit has gone. No one can be sure that there ever was a spirit. We may believe it&#8211;most of us affirm it. But it is not certain. The only things about the child that was certain was the body, with its delicate functions&#8211;its movement, thought and beauty.</p>
+
+	<p>As one thinks of that helpless little thing, bound body and soul to obedience to its parent, in the pathetic way that children are, depending on that parent's judgment for its very life, being denied what common humanity would have accorded it, one is almost impelled to pronounce the whole belief as fraudulent, frantic and insane.</p>
+
+	<p>Yet, within all the folly and frenzy of this belief dwells a germ of immortal truth.</p>
+
+	<p>It is the simple truth that body reacts upon mind and mind upon body. It is the fact that ailments are frequently imaginary, and that a return of health to the mind means the recovery of the body. Whole nations have been afflicted with hysteria before now. Committees are occasionally the prey of a mental disturbance. Individuals frequently suffer from imaginary maladies. The regular practicing physicians are not a little to blame for this. Certain physicians, especially specialists, are given to the encouragement of diseases. Take, for example, the gynecologists. They, undoubtedly, encourage many a woman in the belief that she is ailing, and so impregnate her mind with the idea, that she subjects to the most distressing local treatment year in and year out. Whereas, all that she really needs is to keep free from the irritation of local treatment, stop thinking about herself and go to work. There are whole neighborhoods of women who give themselves up to discussions of their complaints, and whose weaknesses acquire a similarity from being much talked of. The state, unfortunately, cannot afford an asylum for all such feeble-minded persons.</p>
+
+	<p>But these imaginary diseases have nothing to do whatever with the bona fide disease. Is it not folly to suppose that the perfectly healthy, happy person, going about his work, with no thought of self, who is suddenly stricken down with a virulent germ disease, is to blame for the suffering, or that he imagines it?</p>
+
+	<p>I never but once had any personal experience with Christian science. I had been suddenly afflicted with a <sic corr="contagious">contageous</sic> disease in the midst of perfect health. Indeed, so good was my general health that I laid my illness to fatigue, rather than to the real cause, and not until I could no longer sit up would I believe that I was really to be ill, and even then I refused to credit the seriousness of it till I saw the transformation taking place in my flesh. It was rather late at night when I made this discovery, and not wishing to disturb any physician I decided to wait until morning. It happened that there was a social gathering of some sort in the house next door, and among the guests was a practicing Christian scientist of wide reputation. She heard of my illness, and in a spirit of kindness, begged to be allowed to cure me. She said she would sit up the night and concentrate herself on me. I appreciated the kindness, and while I deprecated the inconvenience she would put herself to, I was assured that I need feel no concern, for she did not need sleep. I honorably promised to subject my mind as far as possible to hers. I did so. I offered not the slightest opposition to her wishes. I said to myself that I would awake in the morning, cured. I determined to believe this, and think I did, unreservedly. My kind neighbor sat up till morning, and I feel sure she used all the power she had to cure me. But morning found me unrecognizable as to face, almost delirious, and in the very excess of disease. I sent for an <sic corr="allopathic">alopathic</sic> physician and recovered quickly. I am obliged to confess that if I had continued my experiment with my kindly Christian scientist I believe I should have been where the wicked cease from troubling. I don't know just what flaw the enthusiastic Christian scientists will point out in this experience. They will probably say I did not believe. But I think I can assure them that I did&#8211;at least, I did not disbelieve. Why should I, when I did not know? There is nothing like trying things before you make up your mind about them. I have tried a good many supernatural things. I have always been credulous. I have not known but I might touch the skirts of the infinite at any moment. But I have found, thus far, only disappointment, fraud, delusion and insanity. These are, in very truth, the repellant forms that I have found lurking behind the fair masks of supernaturalism.</p>
+
+	<p>For supernaturalism, in itself, is a comforting conception. If only God would speak straight to us now, in visible acts, showing direct correspondence with us, life's miseries would be greatly mitigated.</p>
+
+	<p>It is no argument, of course, for any of these things, to say that many people are happy in believing them. I have seen a man perfectly triumphant in that idea that he was Christ of Nazareth, and that he was riding into Jerusalem, amid the waving palms of the multitude. But he wasn't. He was only a thin little old man with a wisp of straw in his hair, sitting cross-legged on a stool in an insane asylum.</p>
+
+	<p>Because a person sincerely believes a thing is no evidence that such a thing is true. A person may be perfectly sane, and yet be absolutely mistaken. A belief may make a man or woman better, purer, happier and braver, and yet not be based on truth. The beautiful is not always the true, nor the true always the beautiful. Even an <sic corr="empirical">empiracle</sic> belief may easily be erroneous, because the cause of an effect may be mistaken. Indeed, the theosophists, the Christian scientists, the spiritualists and the materialists differ as to the cause of a certain phenomena, which all agree as to the existence of.</p>
+
+	<p>The Countess Wachmeister, the talented and graceful theosophist who was in Omaha two months ago, had an entirely different hypothesis by which to account for rapid cures by mental agency, from that which the Christian scientists employ.</p>
+
+	<p>There are a great many things in this world which we are not able to account for. And we have no right to disapprove of some one, who, inspired by "divine curiosity," endeavors to find a reason for their existence. We should rather respect him. The power of mind over mind is a vast and wonderful subject, but those who have looked deepest into it, are apt to discredit the very things that most arouse the respect of the sincere novice. For example, Charcot, the great French physician, who has interested the whole world in hypnotism, protests now that he considers it almost useless as an aid to science, and more than dangerous in the hands of most men. Eliot Coues, who stood at the head of theosophy in America, confessed in the end that it was only a mental diversion with him, and that its wisdom seemed to him to be greatly overshadowed by its nonsense. Some of the most ardent spiritualists I have ever known have suffered broken hearts because of the disappointments, the chicanery and the inadequacy of their faith.</p>
+
+	<p>We are not impelled to rush into new beliefs because we see things which we cannot understand. It will do us no hurt to remain in ignorance as to their real cause.</p>
+
+	<p>For example, when I was a little girl I used to make mud pies with a small freckled boy who had warts on his hands. They were hideous warts, at which I would never look if I could help it. One day a Baptist preacher came to visit this boy's father. He was from the back woods of Michigan, and in appearance was something like the tough white oaks that grew there. He talked as if he were addressing the farm hands at the far end of the forty acre lot. Well, he came out where we two young ones were making mud pies with our usual enthusiasm. He looked at the warty hands. And then he spat in the clay, rubbed the dampened earth on the warts, repeated a little verse of mysterious syllables three times and said: "Tomorrow your warts will be gone!"</p>
+
+	<p>We looked at him with awe. We believed. Next day, the warts were gone!</p>
+
+	<p>In the back districts of Maryland is a class of people who profess, among their other superstitions, to be able to cure burns by blowing on them. Let any one suffer a severe burn, and these fire-blowers are summoned. They blow on the burn in a rapt sort of way, and the sting ceases. It is even said that in some cases the flesh heals immediately. But it is noticed that when they blow on the burns of an intelligent and educated person the burns do not improve. The reason is obvious.</p>
+
+	<p>One could go on filling columns with stories of this sort. But, what need of that, with Emile Zola's "Loudres" fresh on the book shelves? There one may read of the process of the modern miracle to his heart's content. But shall these things impel us to an extravagance of action, in which we involve those dependant upon us?</p>
+
+	<p>Let the truth be what it may, and the false what it may, this much is sure: anything is wrong when it inflicts suffering on another.</p>
+
+	<p>Anything which endangers the life of another, or indirectly deprives another of life, is next to deliberate murder or wrongfulness.</p>
+
+	<p>There have been in this city, on several occasions, deaths resulting from inattention, and the inattention was the result of a belief in the faith known as Christian science.</p>
+
+	<p>Ought not these people, who profess to be so conscientious, and, who, no doubt, are so, to consider well before they involve the helpless in their beliefs? Let them "refuse to recognize matter" all they like. They may even forego food and drink, if they please, neglect to put coal in their bins or ice in their refrigerators&#8211;go without sleep, and incur any danger. But let them, in fairness and humanity, confine these experiments to themselves. Let them not imperil the lives of others. For each living creature has a right to his own life, and none should take it from him. He has a right to provide himself, or to be provided with, every means possible for preserving that life. To withhold it from him is a crime&#8211;not one punishable by law&#8211;but certainly a moral crime.</p>
+
+	<p>I am not among those who think poorly of people who do not agree with me. Indeed, it has been an accident in my life to be most profoundly attached to those who disagree with me most. The people whose ideas have coincided with mine, have often not been among my acquaintances. I have longed to meet them but have not done so. I do not deprecate Christian science. I do not understand it. I have never been able to thoroughly understand any religion. I have never met any one who has&#8211;at least, I have never met anyone who could thoroughly explain a religion. But I maintain that the Christian scientists do wrong&#8211;a terrible wrong&#8211;to involve others in the penalties that may attach to their belief.</p>
+
+	<p>Their aim is high&#8211;no doubt about that. But their works must be in keeping. And the dead, whose sufferings were not even alleviated, who were forbidden to even ask for sympathy, make a sorry showing&#8211;a shameful and sorry showing for this faith.</p>
+
+<closer rend="right"><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

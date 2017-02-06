@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "include\TEI.dtd" [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY ep.owh.18950310 SYSTEM "ep.owh.18950310.jpg" NDATA jpeg>
+]>
+
+<TEI id="ep.owh.18950310">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Arraigns the Missionaries</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Arraigns the Missionaries</title>
+<title level="a" type="sub">Thomas G. Shearman Blames Them for the Trouble in Hawaii</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1895-03-10">10 March 1895</date>
+<biblScope type="pages">13</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2008-04-30</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Transcription, Initial encoding</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1>
+
+<figure entity="ep.owh.18950310">
+<figDesc></figDesc>
+</figure>
+
+<pb corresp="ep.owh.18950310.jpg" n="p13"/>
+
+<head type="main">ARRAIGNS THE MISSIONARIES.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Thomas G. Shearman Blames Them<lb/>
+for the Trouble in Hawaii.</head>
+
+	<p>Five years in prison! Five thousand dollars fine! That is the price one woman is sentenced to pay&#8211;for what? For being suspected of trying to regain what is by right her own.</p>
+
+	<p>Queen Liliuokalani of Hawaii has been sentenced to this imprisonment and to the payment of this fine by the "provisional government."</p>
+
+	<p>The world government inspires respect. It is associated in the minds of men with legitimate authority. But it is not, therefore, necessarily proper and right that men should pay respect to government. We, the lineal descendants of magnificent rebels, have a right to consider without prejudice or fear the claims which this provisional government of Hawaii makes.</p>
+
+	<p>Personally, I must confess I would not feel much interest in the matter if it were not that a woman, who seems to have been a dignified, modest and law-abiding person, has been sentenced to imprisonment, the payment of no small part of her personal property, and degradation from the estate to which she was born. When a thing of that sort is done to an innocent woman, other women are inclined to ask why.</p>
+
+	<p>If Robert Louis Stevenson were not dead there would be some one else to ask why. Only there would be this difference: Stevenson knew how to ask his questions so that men would endeavor to find answers to them. He was a "Questioner," as Walt Whitman would say, to whom one had no choice but to listen.</p>
+
+	<p>Mr. Thomas G. Shearman, standing in Mr. Beecher's church, said the other day: "I wish to express in this edifice the opinions that I believe he would have emphatically voiced from this pulpit had he been alive. Seventy years ago the American board of foreign missions sent a few Congressional missionaries to the Sandwich islands, who were received by the people with enthusiasm. They did not really have to convert the people, for they were all ready for conversion.</p>
+
+	<p>"The chiefs and the people threw away their idols and embraced Christianity with all their hearts. So complete was their trust in the missionaries that, practically, all government was placed under missionary control, and the missionaries and their sons or their nephews have ever since had the practical government of the islands. What has been the result?</p>
+
+	<p>"They found 130,000 people there, and now they report that there are only 34,000. But of these 34,000 they recently reported that 18,000 were members of the Congregational churches&#8211;a larger proportion of church members than can be found in any other Protestant country in the world. The missionaries boasted that those natives were better educated, better behaved, and more peaceable, orderly and religious, in proportion to their numbers, than the people of many parts of the United States.</p>
+
+	<p>"The triumph of religion, and especially of Congregationalism, in Hawaii, was made the subject of endless boasts by missionaries and managers of missions, and was made the ground of appeals to American Christians for fresh subscriptions and aid for missionary work."</p>
+
+	<p>"Suddenly their whole tone changed. The missionaries' sons and some returned missionaries vehemently asserted that the native Hawaiians were filthy and ignorant, and a debased, licentious, and idolatrous race, utterly unfit to be trusted with liberty, but must be kept under the control of a firm and unscrupulous, but pious, Congregational despotism.</p>
+
+	<p>"Assuming this to be true, then the result of between fifty and sixty years' unbroken missionary government in these islands has been that the population has been reduced in number by three-quarters, and that these three-quarters are as debased, licentious, and brutal as they were when the missionaries began their labors, and that the whole missionary enterprise has been a disgraceful failure.</p>
+
+	<p>"Meanwhile there are some other facts, which the missionaries do not mention, but which cannot be disputed. During the fifty years the government of these islands was under missionary influence, most of the natives were deprived of their rights in the land, excepting about 27,000 acres, and all the rest was divided among the king, the chiefs, and the families, and friends of the missionaries.</p>
+
+	<p>"The missionaries' sons and their associates boast that they own four-fifths of all the property of the islands. Nearly all the rest is owned by the descendants of the former chiefs. The great mass of the people own nothing. The missionary government, finding that the natives would not work for less than 25 cents a day, complained of the want of labor, and insisted on the importation of scores of thousands of the scum of the human race, including Chinese and what are called Portuguese, a mongrel race, who never saw Portugal, but who speak something resembling the language of that country.</p>
+
+	<p>"In this manner the missionaries' sons cut down the wages of the native Hawaiians, and compelled them to work on their sugar plantations at such rates as seemed good to their masters.</p>
+
+	<p>"And now the very same men who by hundreds and thousands have protested with pious indignation against the southern states for their practical disfranchisement of the southern negroes, who are by the confession of their own best men vastly below the moral standard which the Hawaiian missionaries have until lately boasted as the peculiar attribute of their converts, are full of enthusiasm over what, with bitter irony, is called the Hawaiian republic.</p>
+
+	<p>"A republic, forsooth, in which no man can vote unless he has property which would be equivalent to the possession of $5,000 in Brooklyn, and in which no one can vote for senator who is not worth $3,000, which is equivalent to $20,000 in Brooklyn.</p>
+
+	<p>"But even with this restriction of the suffrage our republican missionaries are afraid to trust their republican voters. Accordingly they did not dare to allow the people under any limitations whatever to elect the president, but, having got possession of the constitutional convention, they appointed Mr. Dole president to hold office for six years, and just so much longer as the senate and assembly should fail to agree on a successor; restricting the choice, even then, to such persons as should be agreeable to a majority of the senate, which will be elected by about 200 of the richest men on the island.</p>
+
+	<p>"Nor do they stop here. They passed laws severely punishing any one who dares to speak disrespectfully of any of their high <sic corr="mightiness">mightinesses</sic>. Any one, whether a native or an American, who dares to say that this republican government is not republican, or that any of the missionaries' sons who deign to govern the barbarous Christians of Hawaii is not well fitted for the post is liable to a long term of imprisonment and a heavy fine."</p>
+
+	<p>This has been a long quotation, but there has been no <sic corr="point">qoint</sic> at which one was willing to interrupt the flow of Mr. Shearman's indignant eloquence.</p>
+
+	<p>The words came from a life-long Congregationalist, and are aimed, in their reproaches, not at Congregationalism, but at the betrayal of its spirit, and the renegation of its principles.</p>
+
+	<p>The Commercial Advertiser of Honolulu of January 17 contains an account of the "insurrection," for the participation in which Liliuokalani has been sentenced. Her home was searched for ammunition and arms, and a small amount of both was found in her cellar. There were also some bombs made of cocoanuts and other things, and which "wore a very wicked look," so the local paper states. The Advertiser says, concerning the raid made on the queen's residence:</p>
+
+	<p>"The mission was a dangerous one on account of the large number of natives that usually pass their time at the ex-queen's place. Ample precautions were taken by the authorities to protect the policemen who were sent to make the search. Riflemen were stationed about the grounds surrounding the place, and a company of regulars were held in readiness to leave the executive building at a moment's notice. Nothing happened, however, owing no doubt, to Parker's diplomatic treatment of the forty odd natives who were on the grounds when the wagon with the police aboard arrived.</p>
+
+	<p>"He gave them to understand that he would restore Liliuokalani to them today. This little fable seemed to please them. At any rate they did not interfere with the search.</p>
+
+	<p>"Parker and his men then went underneath the house and with the aid of a lantern unearthed the arsenal. Gun after gun was handed out and placed in the wagon. Then the pistols, sword and cartridges were taken from their hiding place. The last and biggest surprise was the discovery of the bombs. They were placed in a bag and taken in charge by Parker.</p>
+
+	<p>"After the cellar was cleared out the men jumped in the wagon and rode triumphantly to the police station."</p>
+
+	<p>This paper is owned and edited by the men of whom Mr. Shearman speaks. The sort of conduct which they recommend and admire is certainly not the sort that would have been advocated by their missionary father before the greed for power and gold got the better of them.</p>
+
+	<p>And what are these natives who are so dangerous, and against whom Congregational Hawaii is railing? One prefers to see them through the eyes of Robert Louis Stevenson, rather than by the way of observation of prejudiced reformers, or money-making missionaries. They are a gentle, lithe, languid people, fond of song, fond of stories, very affectionate, not particularly clean, of trained imaginations, with almost inordinate love for their palm-clad island, a passion for the sea, and a religious love for the mountains. They are the children of nature, with a limpid tongue, a primitive simplicity, and also primitive revenges. Their government, before the interpolation of Christian greed, was the simple monarchy&#8211;the good, old, primitive monarchy.</p>
+
+	<p>Clever, assertive, determined, selfish and acquisitive, the Americans have forced down the queen from her throne taken the land from the people, instituted the accursed law of supply and demand, harnessed the people of relentless labor in the coffee and sugar plantations, and conspired for annexation, in order that the republican millionaires may find a pathway to the easy making of further millions. Concerning annexation, Mr. Shearman says:</p>
+
+	<p>"And now it is proposed to annex this island, with its barbarous, idolatrous, dirty, debased, Congregational heathens, Christian <sic corr="idolaters">idolators</sic> and the 100,000 Mongolians and half-breed Portuguese to boot, and to bring it into a republic as one of the states of our union to help govern us. Already one branch of congress has voted to expend $500,000 in beginning to lay a cable for this purpose, which, of course, will involve us in about $3,000,000 more, in addition to that already incurred, to enable Hawaiians to plant sugar at a cost to this country of $50,000,000 taken but of the public treasury and put into the pockets of the planters to enable them to employ Mongolians and half-breed Portuguese.</p>
+
+	<p>"But we are to spend many millions more in annexing them. We shall have to build warships to defend our possession when we get it.</p>
+
+	<p>"I consider this the most dangerous and disastrous proposition that has ever been made in this country. If successful it will launch us upon an era of colonization and of petty, disgraceful foreign wars. It will bring into our union sham republics, which will still further corrupt our already corrupt government, and speedily destroy all reality in republican institutions.</p>
+
+	<p>"We are on the brink of a precipice, and a very little effort is needed to push us over. If I were standing alone on this continent I would oppose and denounce this whole scheme of foreign wars, annexation and colonial projects to the very last."</p>
+
+	<p>The queen maintained with dignity and with sadness that she was not responsible for, nor a party to, this rising among her people, which the Commercial Advertiser, with rancorous language compares to the work of the Chicago anarchists. It says at the conclusion of a rambling and angry editorial: "The only difference between the Chicago riots and the insurrection of Hawaii is that the anarchists of America accomplished their deadly purpose while the Hawaiian anarchists were balked at the outset. They murdered only one man, but it was not their fault that they did not commit more heinous crimes. There is no evidence that one manly, honorable action was proposed by those connected with the insurrection. The prisoners themselves have not offered a word of testimony that savors of anything but cruel, inhuman slaughter. These are hard, uncomfortable facts which the lenient minded supporters of the government should take home and ponder well."</p>
+
+	<p>Other editorials reproach Mr. Cleveland for his indifference to the "republic of Hawaii," and demand the banishment of the persons sympathizing with the restoration of the queen, and speak of them as the foes of honest government, and the people who are sucking the life-blood of the nation. This hypocritical and arrogant attitude of men who are in reality intruders is only equaled by the manner in which we have treated the American Indians, defrauding them, lying to them, refusing them citizenship, confining them within bounds as if they were cattle, forbidding them to sell their own possessions except to us, making it impossible for them to buy at any market save that which we provide, disregarding their tribal government, and educating them for a mode of life impossible for them to follow.</p>
+
+	<p>Having come into possession of the land and the government of Hawaii, it is now the sole desire of the Americans to make money out of these gentle creatures, who can so easily be enslaved. To employ them at the minimum wage on their plantations, to work them in gangs, under section bosses, and to coin thousands&#8211;millions of money, out of human creatures is their desire. It is easily done. In one way or another we are doing the same thing here every day. It is a trick we Anglo-Saxons have. We have done it more successfully than any other nation in the world. We have built up fortunes such as kings might envy&#8211;fortunes such as princes and counts sink their pride to obtain. And we have made these fortunes out of other men. It is only by the sweat of other men's brows that a millionaire is a possibility.</p>
+
+	<p>And the queen? Well, five years for her. Why? Because, poor woman, she was a queen. And because, when she was bereft of her rights, her friends tried to restore them to her. It is the fate of queens. It is the fate of "savagery." It is the fate of gentleness.</p>
+
+	<p>And the lands, the place, the power, the responsibility, the shrewdness and the intelligence is in the hands of the Americans. And presently out patriotic orators will be talking platitudes in the school houses of Hawaii, and glorifying the flag, while the eagle&#8211;which cannot blush, poor bird&#8211;will sit outside and hold the beautiful island in his talons.</p>
+
+<closer><signed rend="right">ELIA W. PEATTIE.</signed></closer>
+
+</div1>
+</body>
+</text>
+</TEI>

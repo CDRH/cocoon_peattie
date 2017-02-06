@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::Etext Center//DTD TEI.dtd (Nebraska Press)//EN" "TEI.dtd" [
+
+]>
+<TEI id="ep.owh.18950519">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Stanton Bible for Women</title>
+<title type="sub"></title>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<principal>Susanne George-Bloomfield</principal>
+<editor></editor>
+<respStmt>
+<resp>Project Team</resp>
+<name>Zach Bajaber</name>
+<name>Nic Swiercek</name>
+<name>Laura Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2007</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+
+<sourceDesc>
+<bibl>
+<author n="Peattie, Elia W.">Elia W. Peattie</author>
+<title level="a" type="main">Stanton Bible for Women</title>
+<title level="a" type="sub">It is to Be the Work of the Sex for Whom It Is Prepared</title>
+<title level="a" type="sub">Will Explain Away All Inconsistancies and Have "No Masculine Finger in the Pie"</title>
+<title level="a" type="sub">One Woman Who Takes Issue With the Venerable Editor of the Publication&#8211;Why She Objects</title>
+<title level="j">Omaha World-Herald</title>
+<editor></editor>
+<pubPlace>Omaha</pubPlace>
+<publisher></publisher>
+<date when="1895-05-19">19 May 1895</date>
+<biblScope type="pages">18</biblScope>
+</bibl>
+</sourceDesc>
+
+<!-- <notesStmt>
+<note></note>
+</notesStmt> -->
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>2007-11-15</date>
+<respStmt>
+<name>Nic Swiercek</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+<change>
+<date>200y-mm-dd</date>
+<respStmt>
+<name>Transcribed by Judy Boss</name>
+</respStmt>
+<item>Original Transcription</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb corresp="ep.owh.18950519.jpg" n="p18"/>
+
+<div1>
+
+<head type="main">STANTON BIBLE FOR WOMEN</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">It is to Be the Work of the Sex<lb/>
+for Whom It Is<lb/>
+Prepared.</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">Will Explain Away All Inconsistencies<lb/>
+and Have "No Masculine Finger<lb/>
+in the Pie."</head>
+
+<milestone unit="smallbar"/>
+
+<head type="sub">One Woman Who Takes Issue With the <orig reg="Venerable">Vener-</orig><lb/>
+able Editor of the Publication&#8211;Why<lb/>
+She Objects.</head>
+
+<milestone unit="smallbar"/>
+
+	<p>A bible for women&#8211;that is what Elizabeth Cady Stanton, in her 80th year, is about to prepare as a monument to her life work!</p>
+
+	<p>The only explanation that thus far has been offered for this extraordinary undertaking is that Mrs. Stanton is 80 years of age. But unfortunately, there are many women associated with her in this work, who cannot be defended with the plea that their resolution is the whim of dotage. The ladies who have consented to act on a committee to prepare an exegesis of those passages in the bible that relate to woman's position in the church and state are said to be Lady Henry Somerset, Miss Frances Willard, Mrs. Stanton Blatch, Mrs. Alice Cliff Scratcherd, Rev. Phoebe Hannaford, Rev. Olympia Brown, Mrs. Robert Ingersoll, Ellen B. Dietrick, Frances E. Burr, Matilda Joslyn Gage, Sarah <sic corr="A.">.A</sic> Underwood, Mary A. Livermore, Lillie D. Blake, Mrs. L.B. Chandler, Josephine K. Henry, C. A. F. Stebbins, Helen M. Gardener, Clara Bewick Colby and Mrs.E. B. Grannis.</p>
+
+	<p>Now here are names respectable for the energy, intelligence and bravery with which are associated. And in the lead of Mrs. Stanton the persons who bear them propose to prepare a bible containing only those parts of the book as refer to women, revised and altered to meet the demands of Mrs. Stanton and her colaborers. Mrs. Stanton says that the revision of the bible which was completed a few years ago leaves woman's position in the scriptures far inferior to that of man. She feels that the worst foe the woman has to be advancement is the misconception of the bible as regards woman. This venerable woman will, herself, revise Genesis, delegating the task of other of the books to her co-laborers. The following letter written by Mrs. Stanton to Mrs. Chandler will explain, better than anything else can, the manner in which she proposes to work. Mrs. Chandler is, it will be noticed, to be given the epistles of St. Paul to St. Timothy, in which are contained a number of the passages which have most been quoted by the churchly for the discountenancing of women. Mrs. Stanton says:</p>
+
+<div2 type="letter">
+	<p><opener><salute>Dear Mrs. Chandler</salute></opener>: You will please take Timothy, but do not abuse him.</p>
+
+	<p>It is my hope to have the book finished before I die, and as I shall be 80 in November the time for me may be short.</p>
+
+	<p>"The Woman's Bible," as the work is by women, commenting on women, no masculine finger in the pie, it seems to me that is the best title. One of the essentials in a title is to have it as short as possible; commentaries or interpretations would make a title too long. In the preface or introduction we can explain whatever seems inconsistent. My idea is to have all schools of religion and thought represented&#8211;Protestant, Catholic, Jew and gentile, evangelical and liberal. Each one over her own signature shall be responsible for her message.</p>
+
+	<p>Question its inspiration, its allegories, its preambles, in fact, say what you think in as choice and beautiful and refined language as you can command. I wonder that so many revisiting committees of men should have repeated from time to time the indecent language and indecent scenes they have left in the book.</p>
+
+	<p>Buy a cheap bible, the revised edition of 1888; cut out the texts on which you wish to comment, then head your chapters thus:</p>
+
+<figure entity="">
+<figDesc>THE WOMAN'S BIBLE<lb/>
+The Apostle Paul to Timothy,<lb/>
+by<lb/>
+LUCINDA B. CHANDLER.</figDesc>
+</figure>
+
+	<p>The chapter and verses will be in fine print, and changes in coarse print. CREEDS AND DOGMAS LET ALONE.</p>
+
+	<p>As we comment on nothing but women, no creeds or dogmas, neither authority nor inspiration, except as it touches women, it seems to me we could not get a better title than "The Woman's Bible." What is said of us occupies just one-eleventh part of the old and new testaments. As we shall comment on only one-eleventh "commentaries" would not do. All that is said of us we can put into a nutshell. I think we shall make a small book of about 400 pages. Out comments should be short; clear pointed. We must not write essays, but sprightly commentaries. No matter about Hebrew or Greek roots unless you know all about them, or blunders in transition. We can state in plain English that the bible does not dignify our sex. Even a female lamb or kid was not fir for sacrifice. In Deborah, Huldah, Vashtl and Miriam it gives us a few grand characters. We can accept its general principles, "Love they neighbor as thyself," etc., etc., but that God talked to the Jews face to face and told them to kill and slay all the Hittites and do a thousand other outrageous things we do not believe.</p>
+
+	<p>If we can get any learned woman to point out errors in translations touching women we should like to have that done, but if we cannot we will do the work with plain decent English.</p> <closer rend="right"><signed>Yours sincerely,<lb/> ELIZABETH CADY STANTON.</signed></closer>
+</div2>
+
+	<p>I have always had a good deal of respect for Mrs. Stanton. She has done something toward paving the way toward that large degree of liberty which American women enjoy. But the latter transcribed above is that of an ignorant and egotistical old woman, who has placed herself in an absurdly inconsistent position.</p>
+
+	<p>If Mrs. Stanton really supposes that the words of the bible are inspired, sacred and unalterable, then she should submit herself to the teachings and insist that others do the same. If, one the other hand, she supposes that the world has outgrown the ideas of the men of past ages, that we cannot take the actions of the half-naked, semi-barbarians of the time of Abraham as our guides nowadays, then she should say: "If the bible does not sustain the self-respect of woman, then so much the worse for the bible."</p>
+
+	<p>Either she should submit to it, or disregard it <gap reason="illegible" extent="1"/> suggest that women should make such alterations as seems to them consistent with nineteenth century ideas, and yet to maintain the absolute inspirational character of the book is an inconsistency and absurdity that must draw ridicule upon Mrs. Stanton's very beautiful white hairs, and place all women who are working for a ful<unclear>ler</unclear> development for their sex, in danger of being thought equally ridiculous. If she does not believe in its abso<unclear>lute,</unclear> inspirational character then its out-grown theories may be passed by.</p>
+
+	<p>Mrs. Stanton being asked of what utility the new revision would be, said:</p>
+
+<div2>
+<head type="sub">WILL RESTORE RESPECT.</head>
+
+	<p>It will restore the self-respect of women. I have seen that women believed themselves cursed of God; that they are the origin of sin and that maternity is a condition of slavery. If they could only be brought to see that instead of that, they were represented in the Godhead at creation, that woman was consulted and woman was created in the image of the motherhead then they might regain their self-respect. This, it seemed to me, could only be accomplished by a revision of the bible, and while the work proceeded only <unclear>slowly</unclear> the ultimate necessity for it never <hi rend="bold">left me</hi>.</p>
+
+	<p><gap reason="illegible" extent="2"/>ef, to take a materialistic view of the matter, in the progress of the race from savagery to civilization, woman has been kept in an inferior position. She still occupies it now that an advance state of civilization has been attained. One thing that keeps her there is the misinterpretation of the bible as regards woman. The correction of this will restore her and deprive her enemy, man, of a reason for his oppression and a weapon of attack.</p>
+</div2>
+
+	<p>Restore our self-respect? Does Mrs. Stanton suppose we ever lose it except through our own sin? Does she suppose we find it any curse to bear children, or ever think of that tradition of the garden of Eden, any more than any other old tradition of the beginning of man? Does she imagine that what has been to us the greatest blessing and joy of life can ever seem a curse? Mrs. Stanton claims that woman has always held an inferior position. Ah, the centuries that have passed have been full of <sic corr="vicissitudes ">vissicitudes</sic> for men and women. There has been fighting, labor, toil, hate, sin, joy, truth, home happiness and change. Both men and women have suffered much enslavement in different ways. Women have been gove<unclear>r</unclear>ned, they say. They have submitted to be ruled. Well, perhaps. But have they ever <sic corr="grievously">grieviously</sic> objected? If at any time they had greatly objected, could they not have had their way? Women make up half the world. If they then represent half the force of the world, they need not ask, they can take what they want.</p>
+
+	<p>The women who are today helping on the evolution of women are not those who theorize, fret, fume, and lecture. They are the women who are doing their work well, in homes, schools, farms, factories, shops, stores, laboratories, offices, professions and arts. While these foolish and clamorous women are talking about their rights, the other women are taking them. Women are not worrying about what Paul thought of them, or directed them to do. The wrongs of Fashti make pretty reading&#8211;a sad and quaint old tale&#8211;but there's no need to fret about them now.</p>
+
+	<p>Eve&#8211;if, indeed, the dear woman ever lived&#8211;may have been cursed for her mysterious sin and banished from Eden, but she took an Eden with her when she went, in the man she loved, and the little boys whose naked limbs she kissed and pinched and tickled as they lay in the long grass of the green, fresh world, at twilight, when the day's toil was done.</p>
+
+<head type="sub">ONE GETS COMFORT.</head>
+
+	<p>There's one tremendous comfort about all this enslavement. It hasn't felt half as bad as it sounds. The chains have often been of flowers. And even when they have been of iron they have been no heavier than those men had to bear.</p>
+
+	<p>Besides we are not so much enslaved, either to living men or dead traditions, as Mrs. Stanton seems to think. We will inspect garbage for the good of our cities without looking to see what St. Paul though about the matter. We will enjoy, endow, instruct in and create universities without a thought of what Abraham would have thought of such proceedings. We will speak, write, do what we have the ability and desire to do without any hesitation, because of an apprehension that the Corinthian ladies might not have been permitted to do such things.</p>
+
+	<p>Mrs. Stanton has been frightened by such words as these:</p>
+
+	<p>The wife hath not power of her own body, but the husband. *** The head of the woman is the man *** for the man is not of the woman, but the woman of the man. Neither was the man created for the woman, but the woman for the man.</p>
+
+	<p>All one can say is that it is too bad Mrs. Stanton should have worried about that. Other American women have not&#8211;and be it said to the glory of the chivalrous race, no American man ever quotes them. As for other nations&#8211;but Mr. McKinley will not permit us to consider other nations. Mrs. Stanton, however, is about to do some thing which will awaken the contempt of scholars and the ridicule of even her own sex. It is too bad. It would have been so much better if she had written dull translations of Horace, like Mr. Gladstone. But probably Mrs. Stanton would complain that she did not approve of Horace, and that he took unjustifiable liberties with ladies, calling them by their first names, and inviting them to wreathe his bowl for him&#8211;when he ought to have been attending primaries with them, and securing them seats in the legislative halls of their country.</p>
+
+<head type="sub">WHAT A PROSPECT.</head>
+
+	<p>A woman's bible! A woman's heaven, too, Mrs. Stanton? What a prospect! You can't imagine, can you. Mrs. Stanton, that any woman would ever go to it? No more would any sensible woman divorce her religious belief from that of man, or get apart the portion of the sacred book that deals with her. Has not man outgrown the vengeance of the old testament? Has he not outgrown slavery and polygamy? Has he not almost outgrown war? Has not the delightful companionship of men and women in the nineteenth century triumphed over all the old laws, traditions and superstitions? The day of fuller liberty dawns for all. But it dawns, esteemed lady, in the human comprehension&#8211;in the expanding desire. Leave the chronicles of the dead past in the past, taking with you that which the inner consciousness holds still to be true and fair. But do not slay men of straw, or fight windmills. Do not become ridiculous in your venerable years. Do not offend literature with a vandal and unscholarly act.</p>
+
+<closer><signed>E<hi rend="smallcaps">LIA</hi> W. P<hi rend="smallcaps">EATTIE</hi>.</signed></closer>
+
+
+</div1>
+</body>
+</text>
+</TEI>
