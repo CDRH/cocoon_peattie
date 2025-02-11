@@ -339,9 +339,19 @@
                         <xsl:attribute name="class">
                             <xsl:text>figure</xsl:text>
                         </xsl:attribute>
-                        <xsl:attribute name="alt">
-                            <xsl:value-of select="child::p"/>
-                        </xsl:attribute>
+                        <xsl:choose>
+                            <xsl:when test="child::p">
+                                <xsl:attribute name="alt">
+                                    <xsl:value-of select="child::p"/>
+                                </xsl:attribute>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:attribute name="alt">
+                                    <xsl:text>Figure </xsl:text>
+                                    <xsl:number count="//figure" level="any"/>
+                                </xsl:attribute>
+                            </xsl:otherwise>
+                        </xsl:choose>
                     </img>
 
                 </a>
@@ -393,6 +403,9 @@
                 <xsl:attribute name="class">
                     <xsl:text>navigation</xsl:text>
                 </xsl:attribute>
+                <xsl:attribute name="alt">
+                    <xsl:text>Read Ghost Stories</xsl:text>
+                </xsl:attribute>
             </img>
 
         </a>
@@ -411,6 +424,9 @@
                 </xsl:attribute>
                 <xsl:attribute name="class">
                     <xsl:text>navigation</xsl:text>
+                </xsl:attribute>
+                <xsl:attribute name="alt">
+                    <xsl:text>Read Omaha World-Herald</xsl:text>
                 </xsl:attribute>
             </img>
 
@@ -431,6 +447,9 @@
                 <xsl:attribute name="class">
                     <xsl:text>navigation</xsl:text>
                 </xsl:attribute>
+                <xsl:attribute name="alt">
+                    <xsl:text>Read Short Stories of the West</xsl:text>
+                </xsl:attribute>
             </img>
 
         </a>
@@ -450,6 +469,9 @@
                 <xsl:attribute name="class">
                     <xsl:text>navigation</xsl:text>
                 </xsl:attribute>
+                <xsl:attribute name="alt">
+                    <xsl:text>Read Miscellanous</xsl:text>
+                </xsl:attribute>
             </img>
 
         </a>
@@ -468,6 +490,9 @@
                 </xsl:attribute>
                 <xsl:attribute name="class">
                     <xsl:text>navigation</xsl:text>
+                </xsl:attribute>
+                <xsl:attribute name="alt">
+                    <xsl:text>Read Children's Stories</xsl:text>
                 </xsl:attribute>
             </img>
 
