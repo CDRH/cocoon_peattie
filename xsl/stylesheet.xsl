@@ -7,7 +7,7 @@
 
     <xsl:template match="/">
 
-        <html xmlns="http://www.w3.org/1999/xhtml">
+        <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
             <head>
                 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
                 <title>Elia Peattie</title>
@@ -22,114 +22,124 @@
 
             </head>
             <body>
-                <div class="top">
-                    <a href="index.html">
-                        <h1>Elia Peattie, an Uncommon Woman</h1>
-                        <p>&#160;</p>
-                        <img src="images/jpgs/pic.png"/>
-                    </a>
-                </div>
-                <div class="middle">
-                    <div class="middlecontainer">
-                        <div><a href="owh.html">Omaha World-Herald</a> | <a href="ss.html">Short
-                                Stories of the West</a> | <a href="gs.html">Ghost Stories</a> | <a
-                                href="nov.html">Short Novels</a> | <a href="childrens.html"
-                                >Children's Stories</a> | <a href="misc.html">Miscellaneous</a></div>
+                <header>
+                    <a class="sr-only sr-only-focusable" href="#main_content">Skip to main content</a>
+                    <div class="top">
+                        <a href="index.html">
+                            <h1 class="sr-only">Elia Peattie, an Uncommon Woman</h1>
+                            <p>&#160;</p>
+                            <img src="images/jpgs/pic.png" alt="" role="presentation"/>
+                        </a>
                     </div>
-                </div>
-
-                <div class="shadow">
-
-                    <div class="bottom">
-
-                        <div class="left">
-
-                            <div class="list">
-                                <a href="index.html">
-                                    <h1>Home</h1>
-                                </a>
+                    <div class="middle">
+                        <div class="middlecontainer">
+                            <nav aria-label="Works Pages" class="main-menu">
                                 <ul>
-                                    <li><a href="ep.starwagon.html">Autobiography</a></li>
-                                    <li><a href="ep.biography.html">Biography</a></li>
-                                    <li><a href="ep.bibliography.html">Bibliography</a></li>
-                                    <li><a href="ep.quotes.html">Quotables</a></li>
-                                    <li><a href="ep.timeline.html">Timeline</a></li>
+                                    <li><a href="owh.html">Omaha World-Herald</a></li>
+                                    <li><a href="ss.html">Short Stories of the West</a></li>
+                                    <li><a href="gs.html">Ghost Stories</a></li>
+                                    <li><a href="nov.html">Short Novels</a></li>
+                                    <li><a href="childrens.html" >Children's Stories</a></li>
+                                    <li><a href="misc.html">Miscellaneous</a></li>
                                 </ul>
-                            </div>
+                            </nav>
                         </div>
-
-                        <div class="content">
-
-                            <!-- main content goes here -->
-
-                            <xsl:apply-templates/>
-
-
-
-                            <xsl:if
-                                test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']">
-                                <xsl:apply-templates
-                                    select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']"
-                                />
-                            </xsl:if>
-
-                            <xsl:if
-                                test="TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='j'] and /TEI/teiHeader/fileDesc/sourceDesc/bibl/date"
-                                >, </xsl:if>
-
-                            <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date">
-                                <xsl:apply-templates
-                                    select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date[1]"/>
-                            </xsl:if>
-
-
-                            <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/biblScope">
-                                <xsl:text>, </xsl:text>
-                                <xsl:apply-templates
-                                    select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/biblScope[1]"
-                                />
-                            </xsl:if>
-                            
-                           
-                         
-                                <xsl:if test="$pagetype = 'content'">
-                            <!-- Adding a link to the XML -->    
-                                <p style="border: solid #aaa 1px; padding:10px;">
-                                    <xsl:text>XML: </xsl:text>
-                                    <a>
-                                        <xsl:attribute name="href">
+                    </div>
+                </header>
+                <main id="main_content">
+                    <div class="shadow">
+    
+                        <div class="bottom">
+    
+                            <div class="left">
+    
+                                <div class="list">
+                                    <a href="index.html">
+                                        <h1>Home</h1>
+                                    </a>
+                                    <ul>
+                                        <li><a href="ep.starwagon.html">Autobiography</a></li>
+                                        <li><a href="ep.biography.html">Biography</a></li>
+                                        <li><a href="ep.bibliography.html">Bibliography</a></li>
+                                        <li><a href="ep.quotes.html">Quotables</a></li>
+                                        <li><a href="ep.timeline.html">Timeline</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+    
+                            <div class="content">
+    
+                                <!-- main content goes here -->
+    
+                                <xsl:apply-templates/>
+    
+    
+    
+                                <xsl:if
+                                    test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']">
+                                    <xsl:apply-templates
+                                        select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']"
+                                    />
+                                </xsl:if>
+    
+                                <xsl:if
+                                    test="TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='j'] and /TEI/teiHeader/fileDesc/sourceDesc/bibl/date"
+                                    >, </xsl:if>
+    
+                                <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date">
+                                    <xsl:apply-templates
+                                        select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date[1]"/>
+                                </xsl:if>
+    
+    
+                                <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/biblScope">
+                                    <xsl:text>, </xsl:text>
+                                    <xsl:apply-templates
+                                        select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/biblScope[1]"
+                                    />
+                                </xsl:if>
+                                
+                               
+                             
+                                    <xsl:if test="$pagetype = 'content'">
+                                <!-- Adding a link to the XML -->    
+                                    <p style="border: solid #aaa 1px; padding:10px;">
+                                        <xsl:text>XML: </xsl:text>
+                                        <a>
+                                            <xsl:attribute name="href">
+                                                <xsl:value-of select="/TEI/@id"/>
+                                                <xsl:text>.xml</xsl:text>
+                                            </xsl:attribute>
                                             <xsl:value-of select="/TEI/@id"/>
                                             <xsl:text>.xml</xsl:text>
-                                        </xsl:attribute>
-                                        <xsl:value-of select="/TEI/@id"/>
-                                        <xsl:text>.xml</xsl:text>
-                                    </a>
-                                </p>
-                                
-                            </xsl:if>
-
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="footer">
-                    <div class="footerimg">
-                        <div class="footerbox">
-                            <div class="links">
-                                <ul>
-                                    <li>
-                                        <a href="about.html">About the Project</a>
-                                    </li>
-                                    <li>
-                                        <a href="contact.html">Contact Us</a>
-                                    </li>
-                                </ul>
+                                        </a>
+                                    </p>
+                                    
+                                </xsl:if>
+    
                             </div>
                         </div>
-                        <img src="images/jpgs/N.gif"/>
                     </div>
-                </div>
+                </main>
+                <footer>
+                    <div class="footer">
+                        <div class="footerimg">
+                            <div class="footerbox">
+                                <div class="links">
+                                    <ul>
+                                        <li>
+                                            <a href="about.html">About the Project</a>
+                                        </li>
+                                        <li>
+                                            <a href="contact.html">Contact Us</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <img src="images/jpgs/N.gif" alt="University of Nebraska–Lincoln logo"/>
+                        </div>
+                    </div>
+                </footer>
             </body>
         </html>
     </xsl:template>
@@ -304,6 +314,9 @@
                     <xsl:attribute name="class">
                         <xsl:text>figure</xsl:text>
                     </xsl:attribute>
+                    <xsl:attribute name="alt">
+                        <xsl:value-of select="child::p"/>
+                    </xsl:attribute>
                 </img>
                     <xsl:apply-templates/>
                 </div>
@@ -325,6 +338,9 @@
                         </xsl:attribute>
                         <xsl:attribute name="class">
                             <xsl:text>figure</xsl:text>
+                        </xsl:attribute>
+                        <xsl:attribute name="alt">
+                            <xsl:value-of select="child::p"/>
                         </xsl:attribute>
                     </img>
 

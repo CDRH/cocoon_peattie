@@ -12,8 +12,8 @@ body {
 
 body {
 	font: 13px/1.231 arial,helvetica,clean,sans-serif;
-	*font-size: small;
-	*font: x-small;
+	/* font-size: small;
+	font: x-small; */
 }
 
 table {
@@ -29,7 +29,7 @@ td {
 
 pre,code,kbd,samp,tt {
 	font-family: monospace;
-	*font-size: 108%;
+	/* *font-size: 108%; */
 	line-height: 100%;
 }
 
@@ -60,10 +60,6 @@ pre,code,kbd,samp,tt {
 }
 
 .top img.ie {
-	display: none
-}
-
-.top h1 {
 	display: none
 }
 
@@ -239,4 +235,42 @@ strong {
 
 li li {
 	margin: 3px;
+}
+
+/* /////////////////
+Accessibility Fixes
+///////////////// */
+
+/* Skip to main content link */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+}
+
+a.sr-only-focusable:hover, a.sr-only-focusable:focus {
+  color: #345c87;
+  text-decoration: underline;
+}
+
+.main-menu li {
+  display: inline-block;
+}
+
+.main-menu li:not(:last-of-type)::after {
+  content: "|";
 }
