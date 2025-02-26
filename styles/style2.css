@@ -63,6 +63,7 @@ pre,code,kbd,samp,tt {
 	display: none
 }
 
+
 /* Works links and shadow */
 
 .middle {
@@ -273,4 +274,40 @@ a.sr-only-focusable:hover, a.sr-only-focusable:focus {
 
 .main-menu li:not(:last-of-type)::after {
   content: "|";
+}
+
+
+/* Static Site Banner */
+
+.static-banner-wrapper {
+  background-color: #cce5f2; /* #bbdfbb; */
+  border-bottom: 1px solid #226e95; /* #466f46; */
+}
+
+.static-banner {
+  margin: auto;
+  max-width: 940px;
+  padding: 15px 20px 15px 55px;
+  text-align: left;
+}
+
+.static-banner p {
+  font-size: 14px;
+  margin: 0;
+}
+
+.static-banner p a,
+.static-banner p a:visited {
+  color: #0000EE;
+  background: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: underline;
+}
+
+.static-banner p a:hover {
+  background: none;
+  color: #010194;
+  margin: 0;
+  padding: 0;
 }
