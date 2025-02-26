@@ -135,9 +135,6 @@
                                         <li>
                                             <a href="about.html">About the Project</a>
                                         </li>
-                                        <li>
-                                            <a href="contact.html">Contact Us</a>
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
